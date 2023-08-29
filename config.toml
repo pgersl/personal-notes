@@ -1,0 +1,18 @@
+baseURL = 'https://notes.pgersl.xyz/'
+languageCode = 'en-us'
+title = 'Petr Geršl - Notes'
+uglyURLs = 'false'
+enableEmoji = 'true'
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = 'true'
+[params]
+    description = "The official website of Petr Geršl dedicated to his notes and research"
+[outputs]
+    home = ['HTML', 'JSON', 'RSS']
+    page = ['HTML']
+[frontmatter]
+    date = ['date', 'publishDate', 'lastmod']
+    expiryDate = ['expiryDate']
+    lastmod = [':git', 'lastmod', 'date', 'publishDate']
+    publishDate = ['publishDate', 'date']

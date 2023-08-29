@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{partial "head.html" .}}
+</head>
+<body>
+    <div class="content-container">
+        <header class="layout-element">
+            {{partial "site-header.html" .}}
+        </header>
+        <div class="grid-container">
+            <aside class="site-map layout-element"></aside>
+        <main>
+            <div class="page layout-element">
+                <div class="page-header">{{.Title}}</div>
+                <div class="page-content">{{.Content}}</div>
+                <footer></footer>
+            </div>
+            <aside class="toc layout-element"></aside>
+        </main>
+        </div>
+    </div>
+</body>
+</html>

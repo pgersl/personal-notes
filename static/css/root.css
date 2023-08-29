@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+:root {
+    --font: 'Rubik', sans-serif;
+    --border: 2px solid var(--bg-clr3);
+    --shadow: 0 0 10px var(--bg-clr4); 
+
+    --font-size: 15px;
+    --h1-size: 30px;
+    --h2-size: 27px;
+    --h3-size: 24px;
+    --h4-size: 21px;
+    --h5-size: 18px;
+    --header-size: 35px;
+    --tiny-size: 12px;
+
+    --accent-clr-a1: #FFC107;
+    --accent-clr-a2: #FFD96A;
+    --accent-clr-a3: #FFECB4;
+    --accent-clr-b1: #FF7300;
+    --accent-clr-b2: #FFAB66;
+    --accent-clr-b3: #FFD5B2;
+    --accent-gradient1: linear-gradient(to bottom right, var(--accent-clr-a1), var(--accent-clr-b1));
+    --accent-gradient2: linear-gradient(to bottom right, var(--accent-clr-a2), var(--accent-clr-b2));
+    --accent-gradient3: linear-gradient(to bottom right, var(--accent-clr-a3), var(--accent-clr-b3));
+}
+
+:root[data-theme="light"] {
+    --bg-clr1: #F2F2F2;
+    --bg-clr2: #FFFFFF;
+    --bg-clr3: #C1C1C1;
+    --bg-clr4: #00000042;
+    --txt-clr: #262626;
+}
+
+:root[data-theme="dark"] {
+    --bg-clr1: #202020;
+    --bg-clr2: #262626;
+    --bg-clr3: #606060;
+    --bg-clr4: #00000042;
+    --txt-clr: #FFFFFF;
+}

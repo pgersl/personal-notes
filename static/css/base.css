@@ -1,0 +1,72 @@
+/* General */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body, html {
+    background-color: var(--bg-clr1);
+    width: 99vw;
+    font-family: var(--font);
+    font-size: var(--font-size);
+    color: var(--txt-clr);
+}
+:focus {
+    outline: none;
+}
+
+/* Basic layout */
+
+.content-container {
+    width: 95vw;
+    max-width: 1500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.grid-container {
+    width: 95vw;
+    max-width: 1500px;
+    display: grid;
+    grid-template-columns: 2fr 6fr;
+    margin-top: 2em;
+    gap: 2em;
+}
+.layout-element {
+    background-color: var(--bg-clr2);
+    border-radius: 20px;
+    box-shadow: var(--shadow);
+    padding: 1em 2em;
+}
+main {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 2em;
+}
+
+/* Basic elements */
+
+.icon-button {
+    height: 30px;
+    width: 30px;
+    font-size: var(--font-size);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    border-radius: 400em;
+    background: var(--accent-gradient1);
+    color: var(--txt-clr);
+    text-decoration: none;
+}
+.icon-button:hover {
+    cursor: pointer;
+    background: var(--accent-gradient2);
+}
+.icon-button:active {
+    background: var(--accent-gradient3);
+}
