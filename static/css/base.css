@@ -27,28 +27,69 @@ body, html {
     align-items: center;
     justify-content: center;
 }
-.grid-container {
-    width: 95vw;
-    max-width: 1500px;
-    display: grid;
-    grid-template-columns: 2fr 6fr;
-    margin-top: 2em;
-    gap: 2em;
-}
 .layout-element {
     background-color: var(--bg-clr2);
     border-radius: 20px;
     box-shadow: var(--shadow);
     padding: 1em 2em;
 }
-main {
-    display: grid;
-    grid-template-columns: 4fr 1fr;
+.flex-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
     gap: 2em;
+    margin-top: 2em;
 }
 
 /* Basic elements */
-
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-ex);
+    font-weight: normal;
+    margin: 1rem 0;
+}
+h1 {
+    font-size: var(--h1-size);
+}
+h2 {
+    font-size: var(--h2-size);
+}
+h3 {
+    font-size: var(--h3-size);
+}
+h4 {
+    font-size: var(--h4-size);
+}
+h5 {
+    font-size: var(--h5-size);
+}
+h6 {
+    font-size: var(--font-size);
+}
+p {
+    padding-bottom: 1em;
+}
+ol, ul {
+    list-style-position: inside;
+    padding-left: .5rem;
+}
+a {
+    text-decoration: underline;
+    color: var(--txt-clr);
+}
+a:hover {
+    background: linear-gradient(to right, var(--accent-clr-a1), var(--accent-clr-b1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
+a:active {
+    background: linear-gradient(to right, var(--accent-clr-a2), var(--accent-clr-b2));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
 .icon-button {
     height: 30px;
     width: 30px;
@@ -60,8 +101,11 @@ main {
     border: none;
     border-radius: 400em;
     background: var(--accent-gradient1);
-    color: var(--txt-clr);
+    color: var(--bg-clr2);
     text-decoration: none;
+}
+.icon-button a {
+    color: var(--bg-clr2);
 }
 .icon-button:hover {
     cursor: pointer;
@@ -69,4 +113,12 @@ main {
 }
 .icon-button:active {
     background: var(--accent-gradient3);
+}
+.layout-element-title {
+    font-family: var(--font-ex);
+    font-size: var(--h4-size);
+    background: linear-gradient(to right, var(--accent-clr-a1), var(--accent-clr-b1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
 }

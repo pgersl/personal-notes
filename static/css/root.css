@@ -1,25 +1,20 @@
-@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Mulish&display=swap');
 
 :root {
-    --font: 'Rubik', sans-serif;
+    --font: 'Mulish', sans-serif;
+    --font-ex: 'Archivo Black', sans-serif;
     --border: 2px solid var(--bg-clr3);
     --shadow: 0 0 10px var(--bg-clr4); 
 
-    --font-size: 15px;
-    --h1-size: 30px;
-    --h2-size: 27px;
-    --h3-size: 24px;
-    --h4-size: 21px;
-    --h5-size: 18px;
-    --header-size: 35px;
-    --tiny-size: 12px;
+    --font-size: 18px;
+    --h1-size: 36px;
+    --h2-size: 33px;
+    --h3-size: 29px;
+    --h4-size: 24px;
+    --h5-size: 21px;
+    --header-size: 50px;
+    --tiny-size: 15px;
 
-    --accent-clr-a1: #FFC107;
-    --accent-clr-a2: #FFD96A;
-    --accent-clr-a3: #FFECB4;
-    --accent-clr-b1: #FF7300;
-    --accent-clr-b2: #FFAB66;
-    --accent-clr-b3: #FFD5B2;
     --accent-gradient1: linear-gradient(to bottom right, var(--accent-clr-a1), var(--accent-clr-b1));
     --accent-gradient2: linear-gradient(to bottom right, var(--accent-clr-a2), var(--accent-clr-b2));
     --accent-gradient3: linear-gradient(to bottom right, var(--accent-clr-a3), var(--accent-clr-b3));
@@ -31,6 +26,12 @@
     --bg-clr3: #C1C1C1;
     --bg-clr4: #00000042;
     --txt-clr: #262626;
+    --accent-clr-a1: #0745ff;
+    --accent-clr-a2: #6a90ff;
+    --accent-clr-a3: #b4c7ff;
+    --accent-clr-b1: #008cff;
+    --accent-clr-b2: #66baff;
+    --accent-clr-b3: #b2dcff;
 }
 
 :root[data-theme="dark"] {
@@ -39,4 +40,10 @@
     --bg-clr3: #606060;
     --bg-clr4: #00000042;
     --txt-clr: #FFFFFF;
+    --accent-clr-a1: #FFC107;
+    --accent-clr-a2: #FFD96A;
+    --accent-clr-a3: #FFECB4;
+    --accent-clr-b1: #FF7300;
+    --accent-clr-b2: #FFAB66;
+    --accent-clr-b3: #FFD5B2;
 }

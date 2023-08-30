@@ -1,0 +1,38 @@
+.toc {
+    display: block;
+    overflow: unset;
+    position: sticky;
+    top: 8em;
+    width: 20%;
+    height: fit-content;
+}
+.toc ul {
+    counter-reset: item;
+    list-style-type: none;
+    padding-bottom: 0;
+}
+.toc li {
+    padding-bottom: 0;
+}
+.toc li::before {
+    content: counters(item, ".") " ";
+    counter-increment: item;
+    color: var(--txt-clr);
+}
+.toc a {
+    color: var(--txt-clr);
+    text-decoration: none;
+}
+.toc a:hover {
+    background: linear-gradient(to right, var(--accent-clr-a1), var(--accent-clr-b1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-weight: bold;
+}
+.toc a:active {
+    background: linear-gradient(to right, var(--accent-clr-a2), var(--accent-clr-b2));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}

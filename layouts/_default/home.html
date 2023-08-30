@@ -8,16 +8,29 @@
         <header class="layout-element">
             {{partial "site-header.html" .}}
         </header>
-        <div class="grid-container">
-            <aside class="site-map layout-element"></aside>
-        <main>
-            <div class="page layout-element">
-                <div class="page-header">{{.Title}}</div>
+        <div class="flex-container">
+            <aside class="site-map layout-element">
+                <div class="layout-element-title">Peter's notes</div>
+            </aside>
+            <main class="page layout-element">
+                <div class="page-header">
+                    <div class="page-header-title">{{.Title}}</div>
+                    <div class="page-header-utils">
+                        <button id="copy-link-btn" class="icon-button">
+                            <i id="copy-link-icon" class="fa-solid fa-link"></i>
+                        </button>
+                        <button id="print-button" class="icon-button">
+                            <i id="print-icon" class="fa-solid fa-print"></i>
+                        </button>
+                    </div>
+                </div>
                 <div class="page-content">{{.Content}}</div>
                 <footer></footer>
-            </div>
-            <aside class="toc layout-element"></aside>
-        </main>
+            </main>
+            <aside class="toc layout-element">
+                <div class="layout-element-title">On this page:</div>
+                {{.TableOfContents}}
+            </aside>
         </div>
     </div>
 </body>
