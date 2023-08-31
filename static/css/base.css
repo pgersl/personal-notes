@@ -15,12 +15,16 @@ body, html {
 :focus {
     outline: none;
 }
+::selection {
+    background-color: var(--selection-clr);
+    color: var(--txt-clr);
+}
 
 /* Basic layout */
 
 .content-container {
     width: 95vw;
-    max-width: 1500px;
+    max-width: 2400px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -39,14 +43,30 @@ body, html {
     flex-direction: row;
     flex-wrap: nowrap;
     gap: 2em;
-    margin-top: 2em;
+}
+.toc-page-container {
+    flex-direction: row-reverse;
+}
+
+@media (max-width:1100px) {
+    .toc-page-container {
+        flex-direction: column;
+        width: 65%;
+    }
+}
+@media (max-width:680px) {
+    .toc-page-container {
+        width: 100%;
+    }
 }
 
 /* Basic elements */
+
 h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-ex);
     font-weight: normal;
     margin: 1rem 0;
+    scroll-margin-top: 4em;
 }
 h1 {
     font-size: var(--h1-size);
@@ -121,4 +141,18 @@ a:active {
     background-clip: text;
     -webkit-background-clip: text;
     color: transparent;
+    width: fit-content;
+}
+
+@media (max-width:500px) {
+    .icon-button {
+        width: 24px;
+        height: 24px;
+    }
+}
+@media (max-width:280px) {
+    .icon-button {
+        width: 18px;
+        height: 18px;
+    }
 }

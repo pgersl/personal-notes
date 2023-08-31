@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'LatinModern';
+    src: url('lm-regular.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+@media print {
+    header, .site-map, .toc, .page-header-utils {
+        display: none;
+    }
+    .page * {
+        color: black;
+        font-family: 'LatinModern';
+    }
+    .page {
+        width: 100vw;
+        box-shadow: none;
+        margin: 0;
+        padding: 0;
+    }
+    .content-container {
+        margin: 0;
+        padding: 0;
+    }
+    .flex-container {
+        margin: 0;
+        padding: 0;
+    }
+}

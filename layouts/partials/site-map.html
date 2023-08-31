@@ -1,0 +1,12 @@
+<div class="flex-container">
+    <div class="layout-element-title">Peter's notes</div>
+    <button id="site-map-untoggle-btn" class="icon-button">
+        <i id="site-map-untoggle-icon" class="fa-solid fa-xmark"></i>
+    </button>
+</div>
+<div class="site-map-content">
+    {{$pages := where .Site.Pages ".Params.section" ""}}
+    {{range sort $pages "Params.weight"}}
+        {{partial "site-map-section.html" .}}
+    {{end}}
+</div>

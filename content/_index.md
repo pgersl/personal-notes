@@ -1,18 +1,31 @@
 ---
-title: "Petr's notes"
+title: "Welcome"
 layout: home
+type: home
 ---
+
 # Lorem
+
 Laboris [cupidatat]() id aute velit veniam sunt. Velit labore dolor nostrud officia laborum anim Lorem in. Dolore deserunt exercitation dolore ipsum voluptate excepteur reprehenderit minim Lorem proident ipsum magna irure occaecat.
+
 ## Ipsum
+
 Consequat duis dolor qui reprehenderit minim elit dolore excepteur aute pariatur exercitation minim. Tempor sunt elit pariatur fugiat nulla. Minim nulla duis eiusmod anim esse. Magna nulla irure ipsum commodo voluptate nostrud officia ullamco dolore cupidatat nisi. Proident anim laborum eiusmod occaecat consequat. Sunt aliqua labore minim laboris est id fugiat ut fugiat. Commodo veniam sit sint adipisicing do irure velit aliqua cupidatat enim nostrud.
+
 # Lorem ipsum
+
 Aute mollit eiusmod laboris cillum consectetur labore elit dolor ad ea nisi amet. Qui eu veniam amet deserunt aliquip labore. Nulla in tempor consectetur duis nisi commodo labore duis elit anim dolore eu. Anim qui exercitation do excepteur enim ullamco non consequat aute aute reprehenderit esse proident. Veniam veniam magna eu ad duis amet ea eu adipisicing enim voluptate minim aliquip nostrud.
+
 ## Dolor
+
 Culpa ad ad elit adipisicing nostrud veniam voluptate ex. Et deserunt cupidatat incididunt magna veniam et nulla pariatur mollit exercitation sunt nulla non in. Magna enim laborum eiusmod et eiusmod amet culpa fugiat. Ad voluptate eu sunt ipsum magna irure ipsum elit sunt exercitation reprehenderit. Aute magna esse occaecat ex ad.
+
 ### Sit
+
 Id dolor commodo esse ea irure irure sunt consequat adipisicing reprehenderit cillum adipisicing sit sit. Velit aute proident ipsum occaecat ullamco in anim voluptate adipisicing dolor ipsum nisi magna enim. Laboris fugiat exercitation est eiusmod ea. Laboris amet sint consequat non.
+
 #### Amet
+
 Lorem duis anim non fugiat ex nisi eiusmod officia. Aute irure proident nostrud aliquip officia nisi enim dolore culpa. Culpa cillum cillum aliquip ex quis. Dolor enim velit ullamco aliquip enim deserunt sit excepteur dolor nisi nisi commodo. Et quis ipsum culpa velit commodo est.
 
 Occaecat enim cupidatat culpa esse qui consequat proident. Sint excepteur Lorem eu magna duis velit quis adipisicing pariatur id. Laborum elit laboris fugiat ad enim nostrud velit elit consectetur labore fugiat ullamco nisi.
@@ -36,7 +49,7 @@ Est exercitation magna ut eu mollit est. Irure qui mollit exercitation velit ani
 
 Proident reprehenderit aute adipisicing magna est adipisicing ea quis mollit aute. Aute nisi amet commodo tempor ut veniam adipisicing. Cillum non consectetur velit cupidatat irure in. Deserunt laborum Lorem enim eiusmod. Officia nulla nulla fugiat laboris laboris consequat nostrud consequat aute minim officia aute et.
 
-> Ullamco ea fugiat minim laboris labore esse enim aliquip cupidatat anim sunt eu culpa mollit. Ex elit elit nisi ut dolore reprehenderit eiusmod qui non ea dolor ullamco. Aliqua incididunt laborum sunt non nostrud nostrud. Quis non Lorem elit ex deserunt do incididunt ut. Quis commodo in aliquip ut. Duis Lorem adipisicing mollit qui velit. Est qui id ullamco fugiat ea culpa cupidatat velit commodo non ut sint nisi consectetur.
+Ullamco ea fugiat minim laboris labore esse enim aliquip cupidatat anim sunt eu culpa mollit. Ex elit elit nisi ut dolore reprehenderit eiusmod qui non ea dolor ullamco. Aliqua incididunt laborum sunt non nostrud nostrud. Quis non Lorem elit ex deserunt do incididunt ut. Quis commodo in aliquip ut. Duis Lorem adipisicing mollit qui velit. Est qui id ullamco fugiat ea culpa cupidatat velit commodo non ut sint nisi consectetur.
 
 Ea magna nostrud officia sunt dolor nostrud exercitation sint. Culpa nulla elit dolore et. Aute aliquip labore reprehenderit Lorem quis magna excepteur. Sit amet esse ut do commodo cillum est ea duis sint. Deserunt dolore irure exercitation ipsum veniam.
 

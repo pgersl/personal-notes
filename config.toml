@@ -4,8 +4,12 @@ title = 'Petr Geršl - Notes'
 uglyURLs = 'false'
 enableEmoji = 'true'
 [markup]
-  [markup.goldmark.renderer]
-    unsafe = 'true'
+    [markup.goldmark.renderer]
+        unsafe = 'true'
+    [markup.tableOfContents]
+        endLevel = 3
+        ordered = false
+        startLevel = 1
 [params]
     description = "The official website of Petr Geršl dedicated to his notes and research"
 [outputs]

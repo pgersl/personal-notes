@@ -1,0 +1,15 @@
+<section class="site-map-section">
+    {{$sectionTitle := .Title}}
+    <button class="section-button">{{$sectionTitle}}</button>
+    <div class="section-content">
+        {{$underPages := where .Site.Pages ".Params.section" "==" $sectionTitle }}
+        {{range sort $underPages "Params.weight"}}
+            {{if eq .Params.type "note"}}
+                <a href="{{ .RelPermalink }}" class="note-link">{{.Title}}</a>
+            {{end}}
+            {{if eq .Params.type "index"}}
+                {{partial "site-map-section.html" .}}
+            {{end}}
+        {{end}}
+    </div>
+</section>
