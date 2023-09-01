@@ -26,4 +26,13 @@
         margin: 0;
         padding: 0;
     }
+    footer .flex-container {
+        display: none;
+    }
+    blockquote {
+        width: 95%;
+        box-shadow: none;
+        border-image: none;
+        border-left-color: black;
+    }
 }

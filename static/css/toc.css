@@ -1,10 +1,11 @@
 .toc {
     display: block;
-    overflow: unset;
+    overflow: auto;
     position: sticky;
     top: 6em;
     width: 25%;
     height: fit-content;
+    max-height: 82vh;
 }
 .toc ul {
     counter-reset: item;

@@ -1,11 +1,17 @@
 <section class="site-map-section">
     {{$sectionTitle := .Title}}
-    <button class="section-button">{{$sectionTitle}}</button>
+    <div class="section-button-container">
+        <button class="section-button">
+            <i class="section-icon fa-solid fa-angle-right"></i> {{$sectionTitle}}
+        </button>
+    </div>
     <div class="section-content">
         {{$underPages := where .Site.Pages ".Params.section" "==" $sectionTitle }}
         {{range sort $underPages "Params.weight"}}
             {{if eq .Params.type "note"}}
-                <a href="{{ .RelPermalink }}" class="note-link">{{.Title}}</a>
+                <div class="note-link-container">
+                    <a href="{{ .RelPermalink }}" class="note-link">&#8226 {{.Title}}</a>
+                </div>
             {{end}}
             {{if eq .Params.type "index"}}
                 {{partial "site-map-section.html" .}}

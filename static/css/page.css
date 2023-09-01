@@ -1,5 +1,8 @@
 .page {
     width: 75%;
+    height: fit-content;
+    overflow: auto;
+    margin-bottom: 2em;
 }
 .page-header {
     display: flex;

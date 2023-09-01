@@ -89,6 +89,9 @@ h6 {
 p {
     padding-bottom: 1em;
 }
+.page-content > ol, .page-content > ul {
+    margin-bottom: 1em;
+}
 ol, ul {
     list-style-position: inside;
     padding-left: .5rem;
@@ -142,6 +145,28 @@ a:active {
     -webkit-background-clip: text;
     color: transparent;
     width: fit-content;
+}
+blockquote {
+    display: flex;
+    flex-direction: column;
+    padding: 1em 1em 1em 2em;
+    background-color: var(--bg-clr7);
+    border-left: 10px solid transparent;
+    border-image: linear-gradient(to bottom, var(--accent-clr-a1), var(--accent-clr-b1));
+    border-image-slice: 1;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    box-shadow: var(--shadow);
+    font-style: italic;
+}
+blockquote p {
+    padding: 0;
+}
+.blockquote-author {
+    margin-top: 1em;
+    text-align: right;
+    font-size: var(--tiny-size);
+    font-style: normal;
 }
 
 @media (max-width:500px) {

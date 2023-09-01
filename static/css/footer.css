@@ -1,0 +1,30 @@
+footer {
+    border-top: var(--border);
+    margin-top: 2em;
+    padding-top: 1em;
+    color: var(--txt-clr2);
+}
+footer .flex-container {
+    align-items: center;
+    gap: 1em;
+    margin-bottom: 1em;
+    flex-wrap: wrap;
+}
+.footer-copy {
+    text-align: center;
+}
+.footer-button {
+    background: var(--txt-clr2);
+    color: var(--bg-clr2);
+}
+.footer-button:hover {
+    background: var(--bg-clr6);
+}
+.footer-link {
+    color: var(--txt-clr2);
+}
+.footer-link:hover {
+    color: var(--bg-clr6);
+    font-weight: normal;
+    background: none;
+}
