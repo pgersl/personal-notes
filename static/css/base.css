@@ -47,6 +47,7 @@ body, html {
 }
 .toc-page-container {
     flex-direction: row-reverse;
+    width: 75%;
 }
 
 @media (max-width:1100px) {
@@ -95,7 +96,7 @@ p {
 }
 ol, ul {
     list-style-position: inside;
-    padding-left: .5rem;
+    padding-left: .7rem;
 }
 a {
     text-decoration: underline;
@@ -146,6 +147,7 @@ a:active {
     -webkit-background-clip: text;
     color: transparent;
     width: fit-content;
+    margin-bottom: .25em;
 }
 blockquote {
     display: flex;
@@ -173,6 +175,49 @@ blockquote p {
     font-size: var(--tiny-size);
     font-style: italic;
     color: var(--txt-clr2);
+}
+figure {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    margin-bottom: 1em;
+    font-size: var(--tiny-size);
+    font-style: italic;
+}
+figure img {
+    width: 100%;
+    margin-bottom: 1em;
+}
+.note-table {
+    border-collapse: collapse;
+    width: 100%;
+    caption-side: bottom;
+    margin: 1em 0;
+    display: block;
+    overflow-x: auto;
+}
+thead, tbody {
+    background-color: var(--bg-clr7);
+    border: var(--border);
+    border-width: 4px;
+}
+.note-table th, .note-table td {
+    border: var(--border);
+    padding: .3rem .6rem;
+    align-items: center;
+}
+.note-table th {
+    background: linear-gradient(to right, var(--accent-clr-a1), var(--accent-clr-b1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.note-table caption {
+    margin-top: .5em;
+    font-size: var(--tiny-size);
+    font-style: italic;
 }
 
 @media (max-width:500px) {

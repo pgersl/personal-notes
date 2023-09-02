@@ -1,10 +1,10 @@
-body::-webkit-scrollbar, .site-map::-webkit-scrollbar, #search-results::-webkit-scrollbar {
+body::-webkit-scrollbar, .site-map::-webkit-scrollbar, #search-results::-webkit-scrollbar, .toc::-webkit-scrollbar, .note-table::-webkit-scrollbar {
   width: 0.5em;
 }
-body::-webkit-scrollbar-thumb, .site-map::-webkit-scrollbar-thumb, #search-results::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb, .site-map::-webkit-scrollbar-thumb, #search-results::-webkit-scrollbar-thumb, .note-table::-webkit-scrollbar-thumb {
   background-color: transparent;
 }
 
-body::-webkit-scrollbar-track, .site-map::-webkit-scrollbar-track, #search-results::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track, .site-map::-webkit-scrollbar-track, #search-results::-webkit-scrollbar-track, .note-table::-webkit-scrollbar-track {
   background-color: transparent;
 }

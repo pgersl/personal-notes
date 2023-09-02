@@ -1,0 +1,6 @@
+<figure>
+    <img src="{{.Get "src"}}" alt="{{.Get "alt"}}">
+    <caption>
+        {{with .Get "cap"}}{{.}}{{else}}{{.Get "alt"}}{{end}}
+    </caption>
+</figure>

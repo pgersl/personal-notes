@@ -39,6 +39,7 @@
 }
 .toc-content {
     width: 100%;
+    font-size: var(--tiny-size);
 }
 #toc-toggle-btn {
     display: none;
@@ -52,6 +53,7 @@
 @media (max-width:1100px) {
     .toc {
         width: 100%;
+        max-height: 30vh;
         position: initial;
     }
     #toc-toggle-btn {

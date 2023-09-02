@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    {{partial "head.html" .}}
+</head>
+<body>
+    <div class="content-container">
+        <header class="layout-element">
+            {{partial "site-header.html" .}}
+        </header>
+        <div class="flex-container">
+            <aside class="site-map layout-element">
+                {{partial "site-map.html" .}}
+            </aside>
+            <div class="flex-container toc-page-container">
+                <aside class="toc layout-element">
+                    {{partial "toc.html" .}}
+                </aside>
+                <main class="page layout-element">
+                    <div class="page-header">
+                        {{partial "page-header.html" .}}
+                    </div>
+                    <div class="page-content">
+                        {{.Content}}
+                        <p><strong>In {{.Title}}</strong></p>
+                        <ul class="section-list">
+                            {{range .Pages}}
+                                <li>
+                                    <a href="{{.RelPermalink}}">{{.Title}}</a>
+                                </li>
+                            {{end}}
+                        </ul>
+                    </div>
+                    <footer>
+                        {{partial "footer.html" .}}
+                    </footer>
+                </main>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
