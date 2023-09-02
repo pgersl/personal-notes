@@ -5,7 +5,6 @@
     top: 6em;
     display: block;
     overflow: auto;
-    height: fit-content;
     max-height: 82vh;
 }
 .site-map .flex-container {
@@ -17,9 +16,6 @@
 }
 .site-map.toggled #site-map-untoggle-btn {
     display: flex;
-}
-.site-map-content {
-    margin-top: 1em;
 }
 .section-content {
     padding-left: 1em;

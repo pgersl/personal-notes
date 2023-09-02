@@ -1,0 +1,11 @@
+.full-content-list-item h4 {
+    margin-bottom: 0;
+    width: fit-content;
+    background: linear-gradient(to right, var(--accent-clr-a1), var(--accent-clr-b1));
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.full-content-list-item .date {
+    margin-bottom: .5em;
+}

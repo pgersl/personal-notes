@@ -1,0 +1,11 @@
+[
+    {{- range $index, $page := .Site.Pages -}}
+    {
+        "link": "{{$page.RelPermalink}}",
+        "title": "{{with $page.Title}}{{.}}{{end}}",
+        "date": "{{with $page.Date}}{{. | dateFormat "02/01/2006"}}{{end}}",
+        "type": "{{with $page.Params.type}}{{.}}{{end}}"
+    }{{- if ne (add $index 1) (len .Site.Pages) -}},{{- end -}}
+    {{- end -}}
+
+]

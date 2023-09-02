@@ -39,6 +39,7 @@ body, html {
 }
 .flex-container {
     width: 100%;
+    height: fit-content;
     display: flex;
     flex-direction: row;
     flex-wrap: nowrap;
@@ -167,6 +168,11 @@ blockquote p {
     text-align: right;
     font-size: var(--tiny-size);
     font-style: normal;
+}
+.date {
+    font-size: var(--tiny-size);
+    font-style: italic;
+    color: var(--txt-clr2);
 }
 
 @media (max-width:500px) {

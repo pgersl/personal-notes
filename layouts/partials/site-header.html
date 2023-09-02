@@ -1,30 +1,48 @@
-<div class="header-container">
-    <button id="site-map-toggle-btn" class="icon-button">
-        <i id="site-map-toggle-icon" class="fa-solid fa-angle-right"></i>
-    </button>
-    <div class="header-logo">
-        <a href="{{.Site.BaseURL}}" class="header-logo-link">
-            <img id="header-logo-img" src="">
-        </a>
+<div class="header-content">
+    <div class="header-container">
+        <button id="site-map-toggle-btn" class="icon-button">
+            <i id="site-map-toggle-icon" class="fa-solid fa-angle-right"></i>
+        </button>
+        <div class="header-logo">
+            <a href="{{.Site.BaseURL}}" class="header-logo-link">
+                <img id="header-logo-img" src="">
+            </a>
+        </div>
     </div>
+    <div class="header-search">
+        {{partial "search.html" .}}
+    </div>
+    <div class="header-utils">
+        <button id="go-up-btn" class="icon-button" onclick="window.scrollTo(0,0)">
+            <i id="go-up-icon" class="fa-solid fa-arrow-up"></i>
+        </button>
+        <button id="search-btn" class="icon-button">
+            <i id="search-icon" class="fa-solid fa-magnifying-glass"></i>
+        </button>
+        <button id="theme-btn" class="icon-button">
+            <i id="theme-icon" class="fa-solid fa-moon"></i>
+        </button>
+        <button id="main-site-btn" class="icon-button">
+            <a href="https://pgersl.xyz/" target="_blank">
+                <i id="main-site-icon" class="fa-solid fa-globe"></i>
+            </a>
+        </button>
+    </div>
+    
 </div>
-<div class="header-search">
-    <i class="fa-solid fa-magnifying-glass"></i>
-    <input id="search-input" type="text" placeholder="Search my notes!">
+
+<div class="search-results-container">
+    <div id="search-results"></div>
+    <div id="not-found-message">
+        Oops...<br>
+        Nothing was found!<br>
+        Try searching for something else.
+    </div>
+
 </div>
-<div class="header-utils">
-    <button id="go-up-btn" class="icon-button" onclick="window.scrollTo(0,0)">
-        <i id="go-up-icon" class="fa-solid fa-arrow-up"></i>
-    </button>
-    <button id="search-btn" class="icon-button">
-        <i id="search-icon" class="fa-solid fa-magnifying-glass"></i>
-    </button>
-    <button id="theme-btn" class="icon-button">
-        <i id="theme-icon" class="fa-solid fa-moon"></i>
-    </button>
-    <button id="main-site-btn" class="icon-button">
-        <a href="https://pgersl.xyz/" target="_blank">
-            <i id="main-site-icon" class="fa-solid fa-globe"></i>
-        </a>
-    </button>
-</div>
+<template id="search-result-template">
+    <div class="search-result">
+        <a class="search-result-title" href=""></a>
+        <div class="search-result-path"></div>
+    </div>
+</template>
