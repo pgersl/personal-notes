@@ -8,3 +8,9 @@ body::-webkit-scrollbar-thumb, .site-map::-webkit-scrollbar-thumb, #search-resul
 body::-webkit-scrollbar-track, .site-map::-webkit-scrollbar-track, #search-results::-webkit-scrollbar-track, .note-table::-webkit-scrollbar-track {
   background-color: transparent;
 }
+body, .site-map, #search-results, .toc, .note-table {
+  scrollbar-width: none;
+}
+body, .site-map, #search-results, .toc, .note-table {
+  overflow: -moz-scrollbars-none;
+}
