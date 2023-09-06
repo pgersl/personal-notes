@@ -161,6 +161,7 @@ blockquote {
     border-bottom-right-radius: 20px;
     box-shadow: var(--shadow);
     font-style: italic;
+    margin: 1em 0;
 }
 blockquote p {
     padding: 0;
