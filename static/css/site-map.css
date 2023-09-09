@@ -32,6 +32,7 @@
     background-color: var(--bg-clr2);
     color: var(--txt-clr2);
     border: none;
+    text-align: left;
 }
 .section-button:hover {
     cursor: pointer;
@@ -48,23 +49,19 @@
 .site-map-section.toggled > .section-button-container > .section-button {
     color: var(--txt-clr);
 }
-.site-map-section.toggled > .section-button:hover {
-    color: var(--txt-clr2);
-}
 .site-map-section.toggled > .section-content {
     display: block;
 }
+.site-map.toggled {
+    display: block;
+    position: absolute;
+    width: 95vw;
+    top: 2em;
+    z-index: 999;
+}
 
-@media (max-width:850px) {
+@media (max-width:980px) {
     .site-map {
         display: none;
-    }
-    .site-map.toggled {
-        display: block;
-        position: absolute;
-        width: 95vw;
-        height: 92vh;
-        top: 2em;
-        z-index: 999;
     }
 }

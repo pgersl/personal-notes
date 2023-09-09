@@ -46,21 +46,29 @@
 }
 #search-results {
     display: block;
+    max-height: 50vh;
+    overflow-y: auto;
     width: 100%;
+}
+.search-result {
+    margin-bottom: 1em;
 }
 .search-result-title {
     font-family: var(--font-ex);
+    font-size: var(--h4-size);
 }
 .search-result-path {
     font-size: var(--tiny-size);
     color: var(--txt-clr2);
     font-style: italic;
 }
+.search-result-section-container {
+    color: var(--bg-clr6);
+}
 #not-found-message {
     text-align: center;
     color: var(--bg-clr3);
 }
-
 .search-toggled .search-results-container {
     width: 100%;
     max-height: 400px;

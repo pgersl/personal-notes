@@ -4,7 +4,8 @@
         "link": "{{$page.RelPermalink}}",
         "title": "{{with $page.Title}}{{.}}{{end}}",
         "date": "{{with $page.Date}}{{. | dateFormat "02/01/2006"}}{{end}}",
-        "type": "{{with $page.Params.type}}{{.}}{{end}}"
+        "type": "{{with $page.Params.type}}{{.}}{{end}}",
+        "section": "{{with $page.Params.section}}{{.}}{{end}}"
     }{{- if ne (add $index 1) (len .Site.Pages) -}},{{- end -}}
     {{- end -}}
 

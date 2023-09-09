@@ -16,10 +16,10 @@ function setTheme(theme) {
     }
   }
   
-  function toggleTheme() {
+  function toggleTheme() {    
     const currentTheme = localStorage.getItem('theme') || 'light';
     const newTheme = currentTheme === 'light' ? 'dark' : 'light';
-  
+
     setTheme(newTheme);
 }
   
