@@ -71,3 +71,15 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 -  psal primárně poezii, například *Sezóna v pekle, Opilý koráb, Verše., Spáč v úvalu*
 ## Charles Baudelaire
 - 1821 - 1867
+- jako mladý vynikal v latině a řečtině
+- studia na jednom z lyceií nedokončil a bac dokončil jako externí student jinde
+- básně mu dali smysl života a toužil se stát básníkem
+    - nelíbilo se to ale jeho nevlastnímu otci, který z něj chtěl mít vojáka nebo diplomata
+- když se osamostatnil a oženil, začal také experimentovat s drogami, které údajně podněcovali jeho tvořivost
+- téměř promarnil dědictví po otci
+- zajímal se o výtvarné umění a přispíval články do novin
+- v roce 1864 odjel do Belgie přednášet o literatuře a pracovat jako umělecký kritik
+- později se jeho zdravotní a duševní stav velmi zhoršil a v roce 1867 zemřel v soukromém sanatoriu v Paříži
+### Dílo
+- věnoval se primárně psaní poezie, ale také esejí o umění
+- jeho nejvýznamnější sbírkou jsou Květy zla
