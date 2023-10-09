@@ -58,6 +58,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - píše primárně poezii
 - mezi nejvýznamnější díla patří *Saturnské básně, Romance beze slov, Moudrost, Láska, Věnování* nebo *Štěstí*
 - kromě eseje Prokletí básníci napsal také několk autobiografických prozaických děl
+- jeho básně jsou do značné míry impresionistické s prvky dalších stylů
 ## Arthur Rimbaud
 - 1854 - 1891
 - sklony k psaní projevoval už v mládí
@@ -69,6 +70,8 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - konec života chtěl strávit v Africe, ale nakonec jej strávil v nemocnici v Marseille, kde zemřel v těžkých bolestech
 ### Dílo
 -  psal primárně poezii, například *Sezóna v pekle, Opilý koráb, Verše., Spáč v úvalu*
+- typická je pro něj asociace a bohata obrazotvornost
+- v básních odhaluje vnitřní svět lyrického subjektu
 ## Charles Baudelaire
 - 1821 - 1867
 - jako mladý vynikal v latině a řečtině
@@ -82,4 +85,8 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - později se jeho zdravotní a duševní stav velmi zhoršil a v roce 1867 zemřel v soukromém sanatoriu v Paříži
 ### Dílo
 - věnoval se primárně psaní poezie, ale také esejí o umění
-- jeho nejvýznamnější sbírkou jsou Květy zla
+- jeho nejvýznamnější sbírkou jsou *Květy zla*
+    - vycházela mnoho let a byla cenzurována
+        - Baudelaire byl stíhán za urážku náboženské mravnosti a veřejné morálky
+    - obsahuje 6 částí a 145 básní
+    - nejznámější básní je *Zdechlina*
