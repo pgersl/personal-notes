@@ -60,5 +60,24 @@ weight: 1
     - *železný zákon mzdový* (T. Malthuse)
         - populace roste geometricky zatímco zdroje se zvětšují jen aritemticky a zvyšování populace tudíž povede ke globální chudobě
 ## Marxistická ekonomie
+- vzniká v 19. století
+- je založená na plánované ekonomice
+    - stát obvykle plánuje ekonomický rozvoj pro nějaké období
+        - příkladem jsou komunistické pětiletky
+- vtah k výrobním prostředkům je ekonomická základna společnosti
+    - ekonomické prostředky je třeba rozdělit spravedlivě
+- spojuje ekonomii, politiku a filosofii
+- jako zdroj bohatství vnímá kapitál
+    - je to prostředek pro generování dalšího kapitálu, peněz
 ## Neoklasická ekonomie
+- vzniká na konci 19. století a začátku 20. století
+- mikroekonomie je silně spojena s psychologií
+- ekonomii popisuje jako exaktní vědu
+- *monetarismus* (Friedman)
+- kritizuje komunistickou ekonomiku
+    - základem musí být svobodný trh, jinak se ekonomika nerozvíjí
 ## J. M. Keynes
+- kritizuje klasickou ekonomii
+- zavádí ekonomické cykly
+    - myšlenka je spojena s hospodářskou
+- stát zasahuje do ekonomiky a tím třeba snižuje nezaměstnanost nebo ovlivňuje cenu měny oproti ostatním nebo reguluje inflaci
