@@ -10,6 +10,7 @@ weight: 13
     - ústava je platná od 16. 12. 1992 a nabývá účinnosti 1. 1. 1993
 - začíná *preambulí*
     - je to slavnostní úvod, ve kterém je ústava občany ČR příjmána
+    > My, občané České republiky v Čechách, na Moravě a ve Slezsku, v čase obnovy samostatného českého státu, věrni všem dobrým tradicím dávné státnosti zemí Koruny české i státnosti československé, odhodláni budovat, chránit a rozvíjet Českou republiku v duchu nedotknutelných hodnot lidské důstojnosti a svobody jako vlast rovnoprávných, svobodných občanů, kteří jsou si vědomi svých povinností vůči druhým a zodpovědnosti vůči celku, jako svobodný a demokratický stát, založený na úctě k lidským právům a na zásadách občanské společnosti, jako součást rodiny evropských a světových demokracií, odhodláni společně střežit a rozvíjet zděděné přírodní a kulturní, hmotné a duchovní bohatství, odhodláni řídit se všemi osvědčenými principy právního státu, prostřednictvím svých svobodně zvolených zástupců přijímáme tuto Ústavu České republiky
 - následuje 8 hlav
 - její součástí je také Listina základních práv a svobod
 # Obsah ústavy
@@ -61,9 +62,25 @@ weight: 13
         - udělovat státní vyznamenání
 ### Jusitce
 - justici v ČR tvoří nezávislé soudy
+- nejzásadnější je Ústavní soud ČR
+    - chrání ústavnost
+    - skládá se z 15 soudců, kteří jsou jmenováni na 10 let
+    - rozhoduje o zrušení zákonů nebo ustanovení, o ústavních stížnostech nebo žalobách
 ### Legislativní proces
 - návrh zákona může podat několik skupin, nejčastěji odbory poslanecké sněmovny nebo vláda
 - návrh putuje od poslanecké sněmovny, pokud je schválen putuje do senátu, pokud je schválen, putuje prezidentovi, pokud je podepsán, vstupuje v platnost
 - jestliže poslanecká sněmovna zákon nepříjme, dá mu připomínky a návrh se předá zpět navrhovateli k úpravě
 - jestliže zákon nepříjme až senát, zákon se vrací do poslanecké sněmovny a obvykle je pozměněn, jestliže se ale schválí znovu ve stejném znění, putuje zákon k prezidentovi
 - jestliže zákon nepřijme až prezident, putuje zákon do poslanecké sněmovny a obvykle je pozměněn, jestliže se ale schválí i potřetí ve stejném znění, vstupuje v platnost a je podepsán
+### Hlava pátá
+- definuje Nejvyšší kontrolní úřad (NKÚ)
+- kontroluje nakládání se státními financemi
+### Hlava šestá
+- definuje Českou národní banku (ČNB)
+- její hlavní funkcí je kontrola národní měny
+- provádí monetární politiku lze do ní zasahovat pouze na základě příslušných zákonů
+### Hlava sedmá
+- definuje úzmní samosprávu
+- základní jednotkou je obec, kterou spravuje její zvolené zastupitelstvo
+    - funguje v podstatě jako veřejnoprávní firma
+- definuje také vyšší správní celky (kraje)
