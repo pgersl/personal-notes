@@ -90,3 +90,48 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
         - Baudelaire byl stíhán za urážku náboženské mravnosti a veřejné morálky
     - obsahuje 6 částí a 145 básní
     - nejznámější básní je *Zdechlina*
+# Avantgarda
+- je to souhrnné označení pro futurismus, surrealismus, expresionismus a dadaismus a mnohé další
+- dochází k zániku běžně používaných a rozšířených stylů a literatura se velmi štěpí, často autor od autora
+    - často se experimentuje s formou
+- dílo má být obrazem vnitřního světa umělce
+## Guillaume Apollinaire
+- 1880 - 1918
+- byl to francouzský spisovatel francouzsko-polského původu, většinu svého života strávil v Paříži
+- byl předchůdcem většiny moderních směrů
+- během první světové války narukoval a byl vážně zraněn, po válce podlehl španělské chřipce
+- propagoval moderní směry skrze své eseje
+- živil se jako literární vědec a novinář, střídal ale další řadu různých zaměstnání
+- významný je pro svou poezii
+- pracuje s podvědomím
+- své texty často psal v různých obrazcích, čimž je propojil s výtvarnému umění
+- jeho básně jsou polytemtické
+### Dílo
+#### Alkoholy
+- básnická sbírka
+- obsahuje básně založené na principu asociace
+- v básních se zásadně nevyskytuje interpunkce
+- vyskytuje se zde nový žánr - *pásmo*
+    - poprvé ho použil v básní *Pásmo*
+    - je to dlouhá báseň, která skutečnost zachycuje z různých úhlů pohledu
+    - je polytematická
+        - změna témat nemusí být logické, ale pouze asociativní
+    - je psaná volným veršem
+    - objevuje se zde *litanický verš*
+        - je to několik veršů metaforicky odkazujících na tutéž věc
+#### Kaligramy
+- básnická sbírka
+- básně jsou psané do různých obrázků
+#### Prsy Tiresiovy
+- drama
+- hlavní postavou je Tereza, která se vzdá své ženské role, uřeže si prsa a vydává se za muže (Tires)
+- její manžel ale zatím zplodí přes 40 000 dětí
+- Tereza se nakonec k manželi vrátí, převlečená za kartářku a v podstatě se znovu poznávají
+## Christian Morgenstern
+- 1871 - 1914
+- byl to německý spisovatel, překladatel a novinář
+- byl předchůdcem mnoha moderních směrů, hlavně pak dadaismu
+- byl průkonpníkem nonsensové poezie
+    - obsahuje paradoxy, slovní hříčky, humor, nadsázku a obecně věci, které nedávají smysl
+### Dílo
+- **Šibeniční písně**

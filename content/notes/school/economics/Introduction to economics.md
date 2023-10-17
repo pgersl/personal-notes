@@ -75,8 +75,8 @@ weight: 1
 - ekonomii popisuje jako exaktní vědu
 - *monetarismus* (Friedman)
 - kritizuje komunistickou ekonomiku
-    - základem musí být svobodný trh, jinak se ekonomika nerozvíjí
-## J. M. Keynes
+- základem musí být svobodný trh, jinak se ekonomika nerozvíjí
+## J. M. Keynes
 - kritizuje klasickou ekonomii
 - zavádí ekonomické cykly
     - myšlenka je spojena s hospodářskou

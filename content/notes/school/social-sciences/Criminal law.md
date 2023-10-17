@@ -17,4 +17,4 @@ weight: 14
     - skutková podstata trestného činu
     - vina
     - úmysl
-    - věci vylučující trstnost
+    - věci vylučující trestnost
