@@ -19,7 +19,7 @@ weight: 19
 - přední kočetiny jsou přeměněny v křídla
 - klíční kosti jsou spojeny sáňky
 - ocas je zakrnělý
-## Kůže
+## Kůže
 - jejich kůže je hladká a téměř bez žláz
 - nad posledním obratlem je kostrční žláza, která vylučuje olejový sekret
     - je párová
@@ -33,7 +33,7 @@ weight: 19
 ## Dýchací soustava
 - dýchají plícemi a mají vzdušné vaky
 - vzdušné vaky slouží k efektivnímu dýchání a regulaci toku vzduchu při dýchání
-## Rozmnožovací soustava
+## Rozmnožovací soustava
 - rozmnožují se pomocí kloaky
 - častý je pohlavní dimorfismus
 - oplození je vnitřní
