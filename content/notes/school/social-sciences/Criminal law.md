@@ -10,7 +10,7 @@ weight: 14
 # Dělení trestního práva
 - trestní právo se dělí na hmotné a procesní
 ## Trestní právo hmotné
-- je definováno v trestním zákoníku
+- je definováno v trestním zákoníku, obsahuje tedy primárně definice
 - trestný čin je jednání nebezpečné pro společnost
 - trestem je prevence nebo represe
 - trestní odpovědnost určuje:
@@ -18,3 +18,5 @@ weight: 14
     - vina
     - úmysl
     - věci vylučující trestnost
+## Trestní právo procesní
+- definuje postup orgánu činných v trestním řízení při objasňování trestné činnosti
