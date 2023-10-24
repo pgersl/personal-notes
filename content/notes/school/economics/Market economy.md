@@ -13,7 +13,7 @@ weight: 2
 - smíšená ekonomika
     - je kombinací ostatních
     - funguje třeba v Číně
-# Podstata fungování trřní ekonomniky
+# Podstata fungování tržní ekonomniky
 - každý člověk má potřeby a ty se snaží uspokojit skrze statky a služby
 ## Potřeby
 - jsou to pocity nedostatku
@@ -30,6 +30,9 @@ weight: 2
 ## Hospodářský proces
 - popisuje fungování trhu
 - skládá se z cyklu výroby, rozdělování, směny a spotřeby
+### Výrobní faktory
+- stakty potřebné k produkci dalších statků
+- jsou trojí: přírodní zdroje, práce, kapitál
 ## Životní úroveň
 - je to míra uspokojení potřeb spotřebitele
 - určuje ji několik faktorů:
@@ -37,3 +40,11 @@ weight: 2
     - kvalita statků a služeb
     - množství a kvalita statků a služeb poskytovaných státem
     - úroveň životních podmínek
+# Trh
+- je to místo střetu kupujících a prodávajících
+- spojuje se poptávka a nabídka
+    - nabídka je množství produktů, které je výrobce ochoten prodat za určitou cenu
+    - poptávka je množství produktů, které jsou spotřebitelé za určitou cenu nakoupit
+- tři subjekty trhu: domácnosti (spotřebitelé), firmy (výrobci), stát
+
+{{< fig class="note-fig" src="/media/img/figs/market-economy/1.jpeg" alt="Graf vztahu nabídky a poptávky" >}}

@@ -127,6 +127,8 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - hlavní postavou je Tereza, která se vzdá své ženské role, uřeže si prsa a vydává se za muže (Tires)
 - její manžel ale zatím zplodí přes 40 000 dětí
 - Tereza se nakonec k manželi vrátí, převlečená za kartářku a v podstatě se znovu poznávají
+- v díle se poprvé vyskytuje slovo *surrealisme*
+    - bylo napsáno v roce 1918
 ## Christian Morgenstern
 - 1871 - 1914
 - byl to německý spisovatel, překladatel a novinář
@@ -135,3 +137,4 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
     - obsahuje paradoxy, slovní hříčky, humor, nadsázku a obecně věci, které nedávají smysl
 ### Dílo
 - **Šibeniční písně**
+## André Breton 
