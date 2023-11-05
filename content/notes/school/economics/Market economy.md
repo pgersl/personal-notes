@@ -48,3 +48,15 @@ weight: 2
 - tři subjekty trhu: domácnosti (spotřebitelé), firmy (výrobci), stát
 
 {{< fig class="note-fig" src="/media/img/figs/market-economy/1.jpeg" alt="Graf vztahu nabídky a poptávky" >}}
+
+- poptávka je klesající vzhledem k rostoucí ceně
+    - *efekt substituce* - nahrazení jiným produktem, který je ekonomičtější
+    - *efekt důchodový* - nedostatek finančních prostředků způsobuje, že si spotřebitel produkt nekoupí
+        - je pokrucován kvůli různým vlivům
+- nabídka je rostoucí vzhledem k rostoucí ceně
+    - *efekt změny výroby* - výroba se mění vzhledem k aktuálním trendům ve společnosti
+    - *efekt nových výrobců* - na trh se dostávají noví výrobci, kteří zakládají firmy takové, aby uspokojii potřeby společnosti 
+- *rovnovážná cena trhu* je bodem, kdy vše, co je nabídnuto je zároveň prodáno
+    - reálná cena trhu okolo rovnovážné ceny osciuluje a snaží se jí přiblížit
+        - jestliže je cena vyšší, dochází k nadbytkiu zboží (převis nabídky)
+        - jestliže je cena nižší, dochází k nedostatku zboží (převis poptávky)

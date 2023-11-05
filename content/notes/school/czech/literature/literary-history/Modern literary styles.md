@@ -6,6 +6,10 @@ section: "Literární historie"
 weight: 19
 ---
 # Hlavní nové směry
+- od počátku 20. století se umění včetně literatury rozchází do velkého množství nových stylů
+    - umělci často tvoří sami nebo se sdružují do menších skupin
+- často se vydávali prohlášení nebo manifesty
+    - argumentovali proti starému umění a zavádeli nové způsoby tvorby
 ## Impresionismus
 - z fr. *impression* (*pocit*)
     - název pochází ze slavného obrazu Clauda Moneta - Imprese
@@ -16,6 +20,13 @@ weight: 19
 - próza se hodně soustředí na pocity emocionální a na smyslové počitky
     - *synestézie* - druh metafory, při níž dojde k záměně smyslových vnímání (*slyšet chuť*)
 - často se objevuje příroda
+## Expresionismus
+- reaguje na impresionismus
+- zdůrazňuje vnitřní prožitek
+- pocity jsou často negativní - úzkost nebo beznaděj
+## Kubismus
+- rozkládá báseň na metafory spojené na základě volné asociace
+- zobrazuje totéž z více úhlů pohledu
 ## Symbolismus
 - vyjadřuje se symboly a v řetězcích metafor
 - píše se primárně poezie
@@ -31,6 +42,20 @@ weight: 19
 - je to poslední *univerzální směr*, znamená odštěpení
 - postihl celou Evropu
 - projevuje se často v architektuře a malířství
+## Futurismus
+- vzniká v Itálii
+- futuristé odmítají konzumní způsob života a tehdejší umění
+- nálezá zálibu v síle strojů a technice
+- válku považují za nutnou očistu lidstva
+    - někteří umělci narukovali
+- hlavním teoretikem byl *Filippo Tommaso Marinetti*
+    - napsal *Manifest futurismu*
+## Dadaismus
+- vzniká jako revolta proti válce
+- umělci prosazují absolutní svobodu
+- popírají, že umění by mělo mít jakýkoliv smysl
+- odmítají veškeré konvence
+- působí na city a uráží čtenáře
 # Prokletí básníci
 - z fr. *Les Poètes maudits*
 - je to hnutí francouzských básníku z konce druhé poloviny 19. století
@@ -132,9 +157,113 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 ## Christian Morgenstern
 - 1871 - 1914
 - byl to německý spisovatel, překladatel a novinář
-- byl předchůdcem mnoha moderních směrů, hlavně pak dadaismu
+- byl předchůdcem mnoha moderních směrů, hlavně pak dadaismu, ale také surrealismu a expresionismu
 - byl průkonpníkem nonsensové poezie
     - obsahuje paradoxy, slovní hříčky, humor, nadsázku a obecně věci, které nedávají smysl
+- inspirovali ho filosofové Friedrich Nietzsche a Arthur Shopenhauer
 ### Dílo
 - **Šibeniční písně**
-## André Breton 
+    - jejím mottem je *dítě v muži*
+    - jsou to groteskní verše a slovní hříčky
+    - básně jsou často nonsensové a vzhledem se podobají nějakému předmětu
+    - *absolutní básně*
+        - využívají shluky hlásek a slabik
+        - objevují se v nich neologismy, zvukomalba, vtip a deformování slov
+- **Plma Kužel**
+- **Šlasi** 
+## Tristan Tzara
+- byl to jeden z hlavních představitelů dadaismu
+- ovlivnil mnoho kubistů a futuristů
+- původně byl zásadně proti surrealistickému hnutí, ale později psal do surrealistických časopisů a přednášel o něm
+- vystupoval proti fašistům a nacistům
+### Dílo
+- **První nebeské dobrodružství pana Antipyrina**
+    - je to dílo zakládající dadaistickou literaturu
+    - typická je v něm vzpoura proti válce
+    - obsahuje směs nesouvisejících slov, které na sebe nenavazují a postrádají jakoukoliv logiku a smysl
+    - je založen na hře a náhodě
+- **Dvacet pět básní**
+    - skládá se z básní založených na náhodě
+- **Kalendářní biograf abstraktního srdce**
+## André Breton
+- je jedním ze zakládajících autorů surrealismu
+    - spolu s dalšími několika autory vydal *Manifest surrealismu*
+- původně se věnoval dadaistické tvorbě, ale tu později opouští
+- zaměřoval se na autoamtický text
+    - není kontrolován rozumem
+    - obsahuje nějakou logickou strukturu, ale události v něm nejsou v souladu s realitou
+- pro jeho dílo je typické propojení snu a reality a surrealismu a komunismu
+- sny se často stávají zdrojem inspirace
+### Dílo
+- **Magnetická pole**
+- **Nadja**
+    - je to dílo poetické prózy
+    - má dvě části
+        - v první části popisuje protagonisty
+        - v druhé části se jedná o něco na způsob milostného románu
+## Louis Aragon
+- byl významným představitelem surrealismu
+- původně se věnoval dadaistické tvorbě, později hlavně surrealismu, před druhou světovou válkou se ale stal komunistou a psal komunistickou literaturu
+- v průběhu války psal odbojovou poezii
+- po válce trávil hodně času v Sovětském svazu
+### Dílo
+- **Irena: Maldorovy zoěvy pornografie**
+- **Věčný pohyb**
+- **Aurelián**
+    - levicově orientovaný román
+    - je o lásce odehrávající se v meziválečné Paříži
+- **Velikonoční týden**
+    - je to vrchol Aragonovi tvorby
+    - předkládá v něm svůj osobní pohled na dějiny
+    - zobrazuje v něm život francouzské společnosti v prvních dnech po Napoleonově návratu z Elby
+## Paul Éluard
+- byl to levicově smýšlející básník a scénárista
+- patřil ke členům komunistické strany
+- původně psal ve stylu dadaismu, později se obrátil k surrealismu
+### Dílo
+- **Nezbytnosti života**
+    - básnická sbírka
+    - prolíná se vní milostná a dadaistický lyrika
+- **Veřejná řuže: Žena, princip života**
+    - básnická sbírka
+    - vychází z principů surrealismu, často využívá volné asociace
+    - obsahuje devatenáct básní napsaných volným veršem a jednu v próze
+    - ženu zobrazuje jako motiv milostné touhy v mnoha variacích
+- **Nezbytnosti života**
+- **Neštěstí nesmrtelných**
+- **Hlavní město bolesti**
+    - autor se zabývá bolestí a smrtí
+    - obsahuje i básně v próze
+## Sergej Alexandrovič Jesenin
+- ruský básník
+- špatně nesl první světovou válku a ruskou socialistickou revoluci
+- upadl do depresí, které řešil alkoholem
+- byla uzavřen do psychiatrické léčebny, ze které utekl do Leningradu, kde po několika večírcích spáchal sebevraždu
+- charakteristická je ruská příroda a život na ruské vesnici
+### Dílo
+- **Zpověď chuligána**
+    - mluví zde o svém bohémství
+    - promítá tam také hořkou sebeironii
+- **Anna Sněginová**
+    - milostná poema o první lásce
+- **Rus sovětská**
+    - vyjadřuje počáteční obdiv k sovětskému režimu
+- **Rozbité zrcadlo**
+    - vyjadřuje zklamání ze sovětského režimu
+## Georg Tarkl
+- rakouský básník
+- studoval farmacii, díky které se dostal ke kokainu a jiným dorgám
+- jeho první díla (převážně dramata) byla velmi neúspěšná a Tarkl se ocitl v hluboké tvůrčí krizi
+- v první světové válce byl uveden na frontu jako lékař
+- po traumatizujících zážitcích se pokoušel o sebevraždu, nakonec se otrávil kokainem
+### Dílo
+- **Básně**
+    - básnická sbírka
+    - je bohatě experiosnistická a symolistická
+- **Šebestián ve snu**
+    - básnická sbírka
+    - byla vydána posmrtně
+    - je ovlivněna dekadencí
+    - básně jsou velmi smutné a odkazují na deprese autora
+- **Grodek**
+    - báseň napsaná těsně před smrtí

@@ -114,6 +114,9 @@ a:active {
     -webkit-background-clip: text;
     color: transparent;
 }
+strong {
+    font-family: var(--font-ex);
+}
 .icon-button {
     height: 30px;
     width: 30px;
