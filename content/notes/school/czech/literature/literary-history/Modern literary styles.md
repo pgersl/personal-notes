@@ -176,7 +176,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - ovlivnil mnoho kubistů a futuristů
 - původně byl zásadně proti surrealistickému hnutí, ale později psal do surrealistických časopisů a přednášel o něm
 - vystupoval proti fašistům a nacistům
-### Dílo
+### Dílo
 - **První nebeské dobrodružství pana Antipyrina**
     - je to dílo zakládající dadaistickou literaturu
     - typická je v něm vzpoura proti válce
@@ -207,7 +207,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - v průběhu války psal odbojovou poezii
 - po válce trávil hodně času v Sovětském svazu
 ### Dílo
-- **Irena: Maldorovy zoěvy pornografie**
+- **Irena: Maldorovy zpěvy pornografie**
 - **Věčný pohyb**
 - **Aurelián**
     - levicově orientovaný román
@@ -250,7 +250,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
     - vyjadřuje počáteční obdiv k sovětskému režimu
 - **Rozbité zrcadlo**
     - vyjadřuje zklamání ze sovětského režimu
-## Georg Tarkl
+### Georg Tarkl
 - rakouský básník
 - studoval farmacii, díky které se dostal ke kokainu a jiným dorgám
 - jeho první díla (převážně dramata) byla velmi neúspěšná a Tarkl se ocitl v hluboké tvůrčí krizi

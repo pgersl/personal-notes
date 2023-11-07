@@ -67,3 +67,27 @@ weight: 14
     - genocidium, valečná krutost, porušení sankcí
 ## Trestní právo procesní
 - definuje postup orgánu činných v trestním řízení při objasňování trestné činnosti
+### Zásady trestního řízení
+1. stíhání jen na základě zákona
+2. presumpce neviny
+    - dokud není prokázána vina, obžalovaný je považován za nevinného
+3. obvinění státním zástupcem
+4. za jeden (tentýž) trestný čin může být jeden souzen pouze jednou
+5. příslušnost k soudu
+6. právo na obhájce
+7. trestá pouze soud
+8. vazba
+    - zadržovací vazba může trvat jen 24 až 48 hodin
+    - vyšetřovací vazba může trvat až 1 rok
+### Průběh trestního řízení
+1. přípravné řízení
+    - shromažďování důkazů
+    - jedná policie
+    - podezřelý v zadržovací vazbě
+2. předběžné projednání obžlaloby
+    - jedná soudce a obžaloba a obhájce
+3. hlavní líčení
+    - soudní řízení
+4. odvolací řízení
+5. vykonávací řízení
+    - výkon trestu
