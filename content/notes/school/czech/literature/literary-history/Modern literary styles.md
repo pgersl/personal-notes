@@ -62,7 +62,7 @@ weight: 19
     - termín *Prokletí básníci* byl poprvé použit ve stejnojmenné eseji Puala Verlaina z roku 1883
 - píší o dekadentním životním stylu spojeným s neúctou ke společnosti
 - často se u nich objevuje alkohol, dorgy a násilí
-- mezi předchůdce prokletých básníků patří hlavně Charles Baudelaire, Paul Verlaine a Arthur Rimbaud
+- mezi prokleté básníky patří hlavně Charles Baudelaire, Paul Verlaine a Arthur Rimbaud
 za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 ## Paul Verlaine
 - 1844 - 1896
@@ -89,7 +89,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - sklony k psaní projevoval už v mládí
 - některé jeho latinské verše byli zveřejněny v bulletinu Akademie v Douai
 - jako mladý obepisoval mnoho známých básníku, ale většinou bez reakce nebo pouze s uznáním
-- od jednoho ze svých přátel distal doporučení napsat Paulu Verlainovi
+- od jednoho ze svých přátel dostal doporučení napsat Paulu Verlainovi
 - později zanevřel na svou tvorbu a oddal se klasickému pracovnímu životu
     - stal se koloniálním vojákem, dezertoval a pracoval v cirkuse, poté taky jako obchodní zástupce
 - konec života chtěl strávit v Africe, ale nakonec jej strávil v nemocnici v Marseille, kde zemřel v těžkých bolestech
@@ -206,7 +206,7 @@ za předchůdce jsou považováni Francois Villon nebo Edgar Allan Poe
 - původně se věnoval dadaistické tvorbě, později hlavně surrealismu, před druhou světovou válkou se ale stal komunistou a psal komunistickou literaturu
 - v průběhu války psal odbojovou poezii
 - po válce trávil hodně času v Sovětském svazu
-### Dílo
+### Dílo
 - **Irena: Maldorovy zpěvy pornografie**
 - **Věčný pohyb**
 - **Aurelián**
