@@ -60,3 +60,17 @@ weight: 2
     - reálná cena trhu okolo rovnovážné ceny osciuluje a snaží se jí přiblížit
         - jestliže je cena vyšší, dochází k nadbytkiu zboží (převis nabídky)
         - jestliže je cena nižší, dochází k nedostatku zboží (převis poptávky)
+## Subjekty trhu
+- základním subjektem je domácnost, jsou to spotřebitelé
+- poskytovatelé a producenti jsou firmy
+- stát do trhu zasahuje
+## Pilíře fungování trhu
+1. **soukromé vlastnictví**
+2. **poptávka a nabídka**
+3. **konkurence**
+    - *dokonalá konkurence* - nikdo nemůže uměle určovat cenu na trhu
+    - *oligopolní konkurence* - skupina zásadně ovlivňuje cenu na trhu na základě domluvy
+    - *monopolní konkurence* - neexistuje konkurence
+    - konkurence může být cenová nebo necenová
+        - cenová konkurence nabízí tentýž produkt pouze na jinou cenu
+        - necenová konkurence nabízí jinou kvalitu, případně rychlejší dopravu (lepší dostupnost) nebo servis
