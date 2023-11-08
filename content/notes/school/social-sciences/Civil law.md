@@ -11,12 +11,20 @@ weight: 15
     - učinný od 1. 1. 2014
 - náplní jsou majetkové vztahy a vztahy vyplívající z práva na ochranu osobnosti
 - dělí se na občanské právo věcné a závazkové
+# Typy osob
+- *fyzická osoba*
+    - je k ní vázáno rodné číslo
+- *právnická osoba*
+    - je k ní vázáno identifikační číslo
+    - zároveň ji spravuje statární orgán (zástupce)
 # Občanské právo věcné
 > Zajištění práva nad věcí
 - *věc*
-    - může být hmotná a nehmotné
+    - může být hmotná a nehmotná
+        - mezi nehmotné věci patří myšlenky nebo patenty
     - hmotná věc může být movitá nebo nemovitá
-- *vlastnictví věci*
+## Způsoby vlastnění
+- ***vlastnictví věci***
     - tj. právo držet, užívat nebo disponovat věc
     - věc může být také duševní nebo autorská
     - z osoby na osobu přechází:
@@ -26,9 +34,18 @@ weight: 15
             - dědický proces spravuje notář
         - koupí
         - darem
-- *spoluvlastnictví věci*
+- ***spoluvlastnictví věci***
     - může být podílové nebo bezpodílové
+        - podílové spoluvlastnictví určuje přesný podíl jednotlivých spoluvlástníků
+        - bezpodílové spoluvlastnictví neurčuje přesný podíl jednotlivých spoluvlastníků
+            - nastává pouze v případě manželství
     - jednu věc lastní více než jedna osoba
-- *držba*
+- ***držba***
     - faktické ovládání věci
-    - oprávněné a neoprávněné
+    - oprávněná a neoprávněná
+        - neoprávněná držba se může stát i trestným činem
+        - v některých případech může být neopravněná držba v dobré vůli v případě, že pachatel si není vědom neoprávněné držby
+- ***věcná práva k cizím věcem***
+    - může to být věcné břemeno nebo zástavní nebo zadržovací právo
+    - může to být třeba hypotéka
+        - banka má věcné právo k nějaké soukromé věci
