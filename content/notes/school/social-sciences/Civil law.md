@@ -1,4 +1,3 @@
-
 ---
 title: "Občanské právo"
 layout: single
@@ -49,3 +48,23 @@ weight: 15
     - může to být věcné břemeno nebo zástavní nebo zadržovací právo
     - může to být třeba hypotéka
         - banka má věcné právo k nějaké soukromé věci
+# Občánské právo závazkové
+- zabývá se závazky a umožňuje vyžadovat jejich splnění
+- **Vznik závazku**
+    - **právním úkonem**
+        - závazek se uzavírá prostřednictvím smlouvy
+        - smlouva má několik typů
+    - **právní událostí**
+        - závazek je uzavřen formou události
+        - dědictví nebo narození dítěte
+- **Obsah závazku**
+    - předmětem závazku může být dar, výkon nebo zákaz činnosti a nebo strpění činnosti
+- **Zajištění závazku**
+    - závazek zajišťuje stát
+    - dojde-li k jeho porušení, může do jednání vstoupit a zahájit také trestní stíhání
+- **Zánik závazku**
+    - **právním úkonem**
+        - závazek se ruší výpovědí smlouvy
+    - **právní událostí**
+        - závazek vůči fyzickým osobám může být zrušen smrtí některého z účastníků
+    - závazek může zaniknout jestliže je promlčen a nebo je nemožné jej plnit
