@@ -20,7 +20,7 @@ weight: 20
 napsal celkem tři sbírky
 ### Dílo
 - **Sokolské sonety**
-    - básně jsou ovlivněny stylem [rochovců](/notes/school/czech/literature/literary-history/post-national-awakening#ruchovci)
+    - básně jsou ovlivněny stylem [ruchovců](/notes/school/czech/literature/literary-history/post-national-awakening#ruchovci)
     - obsahem je oslava činnosti tělovýchovného spolku Sokol a vlastenectví
     - popisem přírodních prostředí zachází do valstního nitra
     - je částečně ovlivněna také [impresionismem](/notes/school/czech/literature/literary-history/modern-literary-styles#impresionismus)
@@ -38,3 +38,46 @@ napsal celkem tři sbírky
     - vydáno posmrtně
     - objevují se zde duchovní a náboženské motivy
     - jsou napsané ve stylu symbolismu
+# Anarchističtí buřiči
+- nevydali vlastní manifest
+    - sdružovali se kolem časopisu *Omladina*
+- myšlenkově se blíží anarchismu a antimilitarismu
+- vedli téměř bohémský život
+- někteří byli odsouzeni kvůli svým anarchistickým a protirakouským postojům
+- píši převážně poezii, ale objevují se i prozaická tvorba
+- inspirují se folklórem
+- jejich jazyk je přirozený a ne příliš vyumělkovaný
+- verš je obvykle jednoduchý a pravidelný
+- ve své tvorbě byli značně rozlišní a spojují je pouze témata motivy
+## Stanislav Kostka Neumann
+- byl to anarchistka, později komunista
+- v jeho poezii se objevují i satanistické motivy
+- později se věnoval přirodní lyrice
+### Dílo
+- *Kniha lesů, vod a strání*
+    - lyrická básnický sbírka
+- *Nové zpěvy*
+    - civilistická básnická sbírka
+- *Rudé zpěvy*
+    - proletářská poezie
+## František Gellner
+- při svých studiích cestoval po Evropě
+- působyl v Lidových novinách
+- typiská je pro něj ironie, sarkasmus
+- verše mají charakter hospodského popěvku
+### Dílo
+- *Po nás ať přijde potopa*
+## Viktor Dyk
+- byl to novinář
+- byl pravicově zaměřený
+    - patřil k Masarykovým odpůrcům
+- publikoval v časopise Lumír
+- zemřel při plavání v moři
+    - říka se, že předpověděl svou smrt
+### Dílo
+- *Okno, Lehké a těžké kroky, Poslední rok, Anebo*
+    - válečná tetralogie 
+    - známá báseň *Země mluví* se sbírky Okno
+- *Milá sedmi loupežníků*
+- *Zmoudření Dona Quijota*
+- *Krysař*
