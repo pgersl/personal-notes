@@ -81,3 +81,15 @@ napsal celkem tři sbírky
 - *Milá sedmi loupežníků*
 - *Zmoudření Dona Quijota*
 - *Krysař*
+    - novela s romantistickými prvky
+    - čerpá ze staroněmecké pověsti
+    - krysař hrou na píšťalu vyhání myši
+        - je to tajemná postava, pochází z okraje společnosti
+        - líde se ho štítí, ale potřebují ho
+        - nemá jméno
+    - zbaví město krys, ale to mu pak nechce zaplatit
+    - zamiluje se do ženy Agnes, ta otěhotní s milencem
+        - lidé se na ni dívají přes prsty
+        - ze žalu skočí do propasti
+    - krysař se městu mstí a hrou na píšťalu je odvede k propasti
+    - přežije jen blázen a dítě

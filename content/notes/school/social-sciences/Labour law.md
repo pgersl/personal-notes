@@ -42,7 +42,7 @@ weight: 16
 - dle ukončení:
     - doba určitá
     - doba neurčitá
-- dle vztahu:
+- dle vztahu pracovních poměrů:
     - hlavní
     - vedlejší
     - souběžné
@@ -71,3 +71,52 @@ weight: 16
 ## Skončení pracovního poměru
 - může být ukončen právním jednáním nebo právní událostí
     - právní jednání může být dvoustranné (dohodou) nebo jednostranné (výpověď, okamžité zrušení, zrušení ve zkušební době)
+        - výpověď může být podána písemně a musí být doručena
+            - výpovědní lhůta běží od 1. dne následujícího měsíce
+                - trvá 2 měsíce
+        - okamžité zrušení pracovního poměru nastane, jestliže zaměstnanci není 15 dní po výplatním termínu vyplacena mzda nebo pokud je zaměstnanec odsouzen za úmyslný trestný čin a hrubé porušení kázně
+        - zrušení ve zkušební době je písemné, okamžité a není potřeba udat důvod
+    - právní událostí se rozumí uplynutí doby určené smlouvou, skončení dohodnutých prací nebo umrtí zaměstnance
+# Pracovní řád
+- je vydáván zaměstnavatelem a navazuje na ustanovení zákoníku práce
+- *pracovní kázeň* je dobrovolné a uvědomělé plnění povinností vyplívajících z obecných pracovně právních vztahů, z pracovního řádu, z pracovní smlouvy a z pokynů nadřízených
+## Povinnosti zaměstnance
+1. Pracovat svědomitě a řádně
+2. Plně využívat pracovní dobu a pracovní prostředky
+3. Dodržovat předpisy
+4. Řádně hospodařit se svěřeným majetkem
+## Povinnosti vědoucího zaměstnance
+- oproti zaměstnanci má další povinnosti
+1. Organizovat, řídit, kontrolovat
+2. Vytvářet příznivé pracovní podmínky
+3. Spravedlivě odměňovat práci
+4. Pečovat o zvýšování odborné úrovně zaměstnanců
+# Pracovní doba
+- je to doba, v níž je zaměstnanec povinnen pracovat pro zaměstnavatele
+- délka je stanovena zákonem
+    - maximálně 40 hodin týdně
+    - mladší 16 let maximálně 30 hodin týdně
+    - do pracovní doby se nepočítá povinná pauza půl hodiny
+- přestávky
+    - nejméně 30 minut po 4.5 hodinách
+    - mezi směnami nejméně 12 hodin (po dohodě až 8)
+    - jedenkrát týdně 35 hodin
+- pracovní klid
+    - je to čas, kdy lze práci nařídit jen výjimečně
+    - takové případy určuje zákon
+        - krmení a ošetřování hospodářských zvířat
+        - lodní posádky
+        - nutné opravy
+        - inventura
+- přesčasová práce
+    - na přáíkaz zaměstnavatele nebo s jeho souhlasem lze pracovat i nad rámec maximální pracovní doby určené zákonem nebo pracovní smlouvou
+- noční práce se koná mezi 22. a 6. hodinou
+## Dovolená
+- zaměstnanec má právo na dovolenou za kalendářní rok, jestliže v něm odpracoval alespoň 60 dnů
+- trvá čtyři týdny
+- dobu čerpání určí zaměstnavatel
+    - jestliže dojde ke změně termínu dovolené a tato změna je spojena s majetkovo újmou, tato újma musí být uhrazena
+- dovolená se přerušuje při nemocenské službě nebo službě v ozbrojených silách
+- odměna se vyplácí průměrem výdělku
+- jestliže dovolená není čerpána v kalendářním roce, převádí se do dalšího kalendářního roku pokud není dosažena maximální délka dovolené (8 týdnů v jednom kalendářním roce), potom se vyplácí náhrada
+# Odměňování za práci
