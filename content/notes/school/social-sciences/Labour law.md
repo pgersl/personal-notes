@@ -91,6 +91,19 @@ weight: 16
 2. Vytvářet příznivé pracovní podmínky
 3. Spravedlivě odměňovat práci
 4. Pečovat o zvýšování odborné úrovně zaměstnanců
+## Bezpečnost a ochrana zdraví
+- zaměstnavatel je povinnen:
+    1. Udržovat a zlepšovat ochranná zařízení
+    2. Dodat ochranné prostředky
+    3. Seznámení zaměstnance s bezpečnostními předpisy
+    4. Zjištění a odstranění příčin pracovních úrazů a nemocí z povolání
+    5. Stanovení zákazu kouření
+- zaměstnanec má povinnost:
+    1. Dodržovat předpisy
+    2. Používat ochranné pracovní prostředky
+    3. Dodržovat zákony
+    4. Účastnit se školení a výcviku
+    5. Oznamovat závady na pracovišti
 # Pracovní doba
 - je to doba, v níž je zaměstnanec povinnen pracovat pro zaměstnavatele
 - délka je stanovena zákonem
@@ -113,6 +126,7 @@ weight: 16
 - noční práce se koná mezi 22. a 6. hodinou
 ## Dovolená
 - zaměstnanec má právo na dovolenou za kalendářní rok, jestliže v něm odpracoval alespoň 60 dnů
+    - získává se tak nárok na poměrovou část dovolené
 - trvá čtyři týdny
 - dobu čerpání určí zaměstnavatel
     - jestliže dojde ke změně termínu dovolené a tato změna je spojena s majetkovo újmou, tato újma musí být uhrazena
@@ -120,3 +134,26 @@ weight: 16
 - odměna se vyplácí průměrem výdělku
 - jestliže dovolená není čerpána v kalendářním roce, převádí se do dalšího kalendářního roku pokud není dosažena maximální délka dovolené (8 týdnů v jednom kalendářním roce), potom se vyplácí náhrada
 # Odměňování za práci
+- *mzda* je všeobecné označení odměny pro zaměstnance za odvedenou práci
+- *plat* je odměna zaměstnanců v příspěvkových a rozpočtových organizaích
+- pravidla o odměňování určije Zákon o mzdě, Zákon o platech a Zákon o minimální mzdě
+- odměňování má obvykle formu peněžní, ale může být vyplácena i v naturáliích
+- za práci přes čas se mzda navyšuje minimálně o 25%
+- náhrada při překážkách v práci:
+    - obecný zájem
+    - výkon služby v ozbrojených silách
+    - školení a studium při zaměstnání
+    - důležité osobní překážky
+# Pracovní podmínky žen
+- pravidlo rovnoprávnosti - stejné možnosti uplatnění za zohlednění biologických a faktických rozdílů
+- zakazuje se zaměstnávat ženy pracei pro ně nevhodnými
+- těhotné ženy a matky mají zvláštní pracovní podmínky
+- mateřská a rodičovská dovolená do 4 let věku dítěte
+    - rodičovský dovolená se umožńuje také mužům
+# Pracovní podmínky mladistvích
+- úprava podmínek z důvodu fyzického a psychického vývoje
+- zakazuje se práce pod zemí a něpřiměřeně škodlivá věku
+- nesmí být uzavřena dohoda o hmotné zodpovědnosti
+- nesmí být nařízena práce v novi a přes čas
+- je nutná spolupráce se zákonými zástupci
+- nutnost zvýšené prevetnivní lékařské péče
