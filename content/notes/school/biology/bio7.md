@@ -2,8 +2,8 @@
 title: Členovci
 layout: single
 type: note
-section: "Biologie"
-weight: 17
+section: "Živočichové"
+weight: 6
 ---
 # Obecná charakteristika
 - je to nejpočetnější živočišný kmen s obrovským hospodářským významem

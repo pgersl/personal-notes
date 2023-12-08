@@ -2,8 +2,8 @@
 title: "Občanské právo"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 15
+section: "Právo"
+weight: 4
 ---
 - nejvýznamnější a nejobsáhlejší odvětví soukromého práva
 - hlavním pramenem je *Občanský zákoník*

@@ -2,8 +2,8 @@
 title: "Rostlinné orgány"
 layout: single
 type: note
-section: "Biologie"
-weight: 10
+section: "Rostliny"
+weight: 2
 ---
 - jsou tvořeny soubory pletiv
 - mají charakteristickou stavbu a funkci

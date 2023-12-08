@@ -2,7 +2,7 @@
 title: "Socializace"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 3
 ---
 > Socializace je proces rozvoje vlastností a kompetencí umožňující postupnou integraci jedince do společnosti.

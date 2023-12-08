@@ -2,7 +2,7 @@
 title: "Kosterní soustava"
 layout: single
 type: note
-section: "Biologie"
+section: "Člověk"
 weight: 20
 ---
 - kosti poskytují oporu tělu a chrání důležité orgány

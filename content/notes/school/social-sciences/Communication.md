@@ -2,7 +2,7 @@
 title: "Komunikace"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 6
 ---
 > Komunikace je prostředek dorozumívání mezi živými organismy.

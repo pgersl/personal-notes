@@ -2,8 +2,8 @@
 title: "Měkkýši"
 layout: single
 type: note
-section: "Biologie"
-weight: 15
+section: "Živočichové"
+weight: 4
 ---
 # Obecná charakteristika
 - mají vyvinutou pravou dutinu tělní - _coelom_ - a třetí zárodečný list - _mezoderm_

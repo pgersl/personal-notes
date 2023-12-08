@@ -2,8 +2,8 @@
 title: "Buněčné organely"
 layout: single
 type: note
-section: "Biologie"
-weight: 5
+section: "Buňka"
+weight: 3
 ---
 # Cytoplazmatická membrána ([pro.](/notes/school/biology/prokaryotic-cell) i [eu.](/notes/school/biology/eukaryotic-cell))
 - ohraničuje buňku od prostředí ve kterém se nachází

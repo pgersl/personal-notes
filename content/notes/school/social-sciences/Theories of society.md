@@ -2,8 +2,8 @@
 title: "Teorie společnosti"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 8
+section: "Sociologie"
+weight: 2
 ---
 # Teorie konsensu
 - v základu sociálního řádu se stojí nepsaná úmluva, lidé se zavazují k dodržování

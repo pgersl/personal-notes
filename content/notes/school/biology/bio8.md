@@ -2,8 +2,8 @@
 title: "Obojživelníci a plazi"
 layout: single
 type: note
-section: "Biologie"
-weight: 18
+section: "Živočichové"
+weight: 7
 ---
 # Obojživelníci
 

@@ -2,7 +2,7 @@
 title: "Úvod do psychologie"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 1
 ---
 - _psychologie_ je věda o lidské psychice, jednání a prožívání

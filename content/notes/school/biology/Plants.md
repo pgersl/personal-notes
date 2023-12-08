@@ -1,7 +1,7 @@
 ---
-title: "Buňka"
+title: "Rostliny"
 layout: list
 type: index
 section: "Biologie"
-weight: 2
+weight: 3
 ---

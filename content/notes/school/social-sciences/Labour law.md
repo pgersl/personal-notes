@@ -2,8 +2,8 @@
 title: "Pracovní právo"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 16
+section: "Právo"
+weight: 5
 ---
 > Soubor právních norem o pracovních vztazích a vztazích s výkonem práce souvisejících
 - je to hybridní právní odvětví

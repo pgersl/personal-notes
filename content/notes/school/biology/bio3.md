@@ -2,8 +2,8 @@
 title: "Žahavci"
 layout: single
 type: note
-section: "Biologie"
-weight: 13
+section: "Živočichové"
+weight: 2
 ---
 # Obecně
 - jsou to živočichové s paprsčitě souměrným tělem

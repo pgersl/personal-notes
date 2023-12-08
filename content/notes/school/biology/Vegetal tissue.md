@@ -2,8 +2,8 @@
 title: "Rostlinná pletiva"
 layout: single
 type: note
-section: "Biologie"
-weight: 9
+section: "Rostliny"
+weight: 1
 ---
 - soubor buněk se stejnou funkcí, tvarem a stavbou
 - pouze u vyšších rostlin

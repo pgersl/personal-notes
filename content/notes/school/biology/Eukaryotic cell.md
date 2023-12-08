@@ -2,8 +2,8 @@
 title: "Eukaryotická buňka"
 layout: single
 type: note
-section: "Biologie"
-weight: 4
+section: "Buňka"
+weight: 2
 ---
 - _eukaryotické buňky_ tvoří mnohobuněčné organismy
 - jsou mnohem komplexnější než [prokaryotické buňky](/notes/school/biology/prokaryotic-cell) svou stavbou a procesy, kterých je schopna

@@ -2,8 +2,8 @@
 title: "Transport látek přes buněčné membrány"
 layout: single
 type: note
-section: "Biologie"
-weight: 6
+section: "Buňka"
+weight: 4
 ---
 - buňka je otevřená soustava
 - cytoplazmatická membrána reguluje příjem, je polopropustná (_semipermeabilní_)

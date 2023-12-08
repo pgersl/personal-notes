@@ -2,8 +2,8 @@
 title: "Kroužkovci"
 layout: single
 type: note
-section: "Biologie"
-weight: 16
+section: "Živočichové"
+weight: 5
 ---
 # Obecná charakteristika
 - mají vytvořenu druhotnou dutinu tělní - _coelom_

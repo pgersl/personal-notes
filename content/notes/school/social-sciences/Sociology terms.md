@@ -2,8 +2,8 @@
 title: "Terminologie sociologie"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 11
+section: "Sociologie"
+weight: 5
 ---
 - sociální skupina je tvořena alespoň třemi členy
     - lze tak studovat nejen vztah mezi těmito členy, ale také vztahy členů ke vztahům mezi jinými členy

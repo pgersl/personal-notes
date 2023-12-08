@@ -2,8 +2,8 @@
 title: "Prokaryotická buňka"
 layout: single
 type: note
-section: "Biologie"
-weight: 3
+section: "Buňka"
+weight: 1
 ---
 - _prokaryoty_ jsou jednobuněčné organismy, které nemají DNA uschované v jádře (volně se pohybuje uvnitř buňky)
     - ve výjimečných případech se obejví i organismus složený jen z _prokaryotických buněk_, ale takových organismů není mnoho

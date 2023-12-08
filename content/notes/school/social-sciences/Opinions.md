@@ -2,7 +2,7 @@
 title: "Postoje"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 5
 ---
 > Postoj je sklon člověka reagovat ustáleným způsobem na předmět, osobu nebo situaci.

@@ -2,8 +2,8 @@
 title: "Mnohobuněčné organismy, Houbovci"
 layout: single
 type: note
-section: "Biologie"
-weight: 12
+section: "Živočichové"
+weight: 1
 ---
 # Mnohobuněčné organismy
 ## Charakteristika

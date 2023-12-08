@@ -2,8 +2,8 @@
 title: "Trestní právo"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 14
+section: "Právo"
+weight: 3
 ---
 - je to soubor právních norem o trestání fyzických osob za závažná provinění, tj. trestné činy
 - patří k veřejnému právu

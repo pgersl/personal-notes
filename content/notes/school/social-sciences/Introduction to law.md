@@ -2,8 +2,8 @@
 title: "Úvod do práva"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 12
+section: "Právo"
+weight: 1
 ---
 # Pojem právo
 - právo lze chápat dvěma způsoby:

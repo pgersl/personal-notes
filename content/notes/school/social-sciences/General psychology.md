@@ -2,7 +2,7 @@
 title: "Obecná psychologie"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 2
 ---
 # Psychycké procesy

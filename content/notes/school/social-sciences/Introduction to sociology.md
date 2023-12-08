@@ -2,8 +2,8 @@
 title: "Úvod do sociologie"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 7
+section: "Sociologie"
+weight: 1
 ---
 > Sociologie je věda o člověku ve společnosti.
 

@@ -2,8 +2,8 @@
 title: "Současná společnost"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 10
+section: "Sociologie"
+weight: 4
 ---
 # Současné dělení světa
 - na světě lze dělat linie, které dělí svět ekonomicky

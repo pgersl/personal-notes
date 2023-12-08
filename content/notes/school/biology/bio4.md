@@ -2,8 +2,8 @@
 title: "Ploštěnci, hlísti, vířnici"
 layout: single
 type: note
-section: "Biologie"
-weight: 14
+section: "Živočichové"
+weight: 3
 ---
 # Triblastika
 - probíhá u živočichů se třemi zárodečnými listy

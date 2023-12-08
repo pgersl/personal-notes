@@ -2,8 +2,8 @@
 title: "Vodní režim"
 layout: single
 type: note
-section: "Biologie"
-weight: 8
+section: "Buňka"
+weight: 6
 ---
 - voda tvoří 60% - 80% hmotnosti živého organismu
     - toto procento se ovlivňuje vnějším prostředím, během života a roku

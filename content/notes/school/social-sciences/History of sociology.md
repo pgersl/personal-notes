@@ -2,8 +2,8 @@
 title: "Historie sociologie"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 9
+section: "Sociologie"
+weight: 3
 ---
 
 # Protosociologie

@@ -2,8 +2,8 @@
 title: "Osmotické procesy v buňce"
 layout: single
 type: note
-section: "Biologie"
-weight: 7
+section: "Buňka"
+weight: 5
 ---
 - osmóza - pronikání molekul vody skrz membránu
 # Hypertonické prostředí

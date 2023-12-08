@@ -2,8 +2,8 @@
 title: "Ústava"
 layout: single
 type: note
-section: "Základy společenských věd"
-weight: 13
+section: "Právo"
+weight: 2
 ---
 - Ústava ČR je nejzákladnějším právním dokumentem České republiky
 - je schválená Českou národní radou

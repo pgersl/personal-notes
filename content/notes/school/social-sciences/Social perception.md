@@ -2,7 +2,7 @@
 title: "Sociální percepce"
 layout: single
 type: note
-section: "Základy společenských věd"
+section: "Psychologie"
 weight: 4
 ---
 > Sociální percepce je proces vnímání a posuzování, jejímž výsledkem je vytvoření obrazu druhého nebe sebe samého.

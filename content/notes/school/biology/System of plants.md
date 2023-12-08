@@ -2,8 +2,8 @@
 title: "Systém rostlin"
 layout: single
 type: note
-section: "Biologie"
-weight: 11
+section: "Rostliny"
+weight: 3
 ---
 # Mechy
 - výtrusné rostliny

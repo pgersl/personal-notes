@@ -2,8 +2,8 @@
 title: "Ptáci a savci"
 layout: single
 type: note
-section: "Biologie"
-weight: 19
+section: "Živočichové"
+weight: 8
 ---
 # Ptáci
 - jsou to suchozemští i vodní obratlovci
