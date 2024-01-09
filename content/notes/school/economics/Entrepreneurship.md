@@ -30,3 +30,31 @@ weight: 3
 - proces vzniku obchodních živností:
     1. založení (společenská smlouva, notářský zápis)
     2. zápis do obchodního rejstříku
+- znaky obchodních společností:
+    1. ručení
+    2. vklad
+    3. řízení
+    4. rozdělování zisku
+- **Veřejná obchodní společnost** (v.o.s)
+    - ručení osobním majetkem
+    - není předepsán minimální vklad
+    - společnost je řízena společnou dohodou
+    - dělení zisku rovným dílem
+- **Komanditní společnost**
+    - zakloženo komplementáři a komandisté
+    - komplementáři ručí majetkem a komandisté pouze navyšují majetekm společnosti
+    - komandisté vkládají minimálně 5 000 Kč
+    - společnost řídí pouze komplementáři
+    - zisk se dělí mezi komplementáře a společnost
+- **Společnost s ručeným omezeným** (s.r.o.)
+    - ručení do výše vkladu
+    - maximálně 50 společníků (minimálně 1)
+    - minimální vklad činí 1 Kč
+    - společnost zastupuje jednatel a valná hromada (společníků)
+    - zisk dle výše vkladu
+- **Akciová společnosti** (a.s.)
+    - větší množství kapitálu
+    - akciová společnost ručí jako celek, akcionáři přichází o akcie
+    - vklad minimálně 20 000 000 Kč
+    - akcionáři tvoří valnou hromadu, společnost řídí představenstvo a dozorčí rady
+    - zisk se dělí dle dividend
