@@ -44,3 +44,24 @@ weight: 2
 - byl to aritokrat určený pro poilitiku v Aténách
 - politické názory propojuje s filosofií
 - dílo Ústava, Zákony
+# Středověk a renesance
+## Křesťanská podstata chápání světa
+- jediný Bůh - abrahámovské náboženství
+- stvoření světa z ničeho pouhou vůlí Ducha
+- příchod Mesiáše - obětování za hříchy lidí, božská podstata
+- tojjedinost Boha
+- dědičný hřích
+- náboženství knihy - Bible
+- starý zákon - židovské tradice (Bůh je trestající otec)
+- nový zákon - od příchodu Mesiáše (Bůh je odpouštějící a milující otec)
+- vzestupné chápání dějin
+## Svatý Augustin
+- 354 - 430 AD
+- ve 33 letech konvertoval na křesťanství
+- biskup ve městě Hippo (Annaba)
+- umírá při obléhání Hippa Vandaly
+### O obci boží
+- obec boží je bůh a církev je jeho zástupce na zemi
+- obec světská je panovník
+- obec světská je podřízena obci boží 
+- dílo je ovlivněno sporem o investituru
