@@ -103,7 +103,7 @@ weight: 21
 - je uloženo v osrdečníku
     - je to vazivový vak
 - na povrchu srdce je tuková tkáň
-- *epikard* je na zevní vrstva srdeční stěny
+- *epikard* je zevní vrstva srdeční stěny
 - *myokard* je svalovina srdce
 - *endokard* je vnitřní vrstva, která vystéla srdeční dutinu
 
