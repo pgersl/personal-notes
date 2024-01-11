@@ -91,18 +91,24 @@ weight: 21
 - pumpování krve zajišťují předsíně a komory srdce
 - srdeční chlopně usměrňují průtok krve
     - oddělují předsíně a komory nebo tepny a komory
-    - trojcípá chlopeň je mezi pravou síní a komorou
-    - pulmonální chlopeň je mezi pravou komorou a plicní tepnou
-    - dvojcípá chlopeň (mitrální) je mezi levou předsíní a komorou
-    - aortální chlopeň je mezi levou komorou a aortou
+    - *trojcípá chlopeň* je mezi pravou síní a komorou
+    - *pulmonální chlopeň* je mezi pravou komorou a plicní tepnou
+    - *dvojcípá chlopeň* (mitrální) je mezi levou předsíní a komorou
+    - *aortální chlopeň* je mezi levou komorou a aortou
     - pulmonální a aortální chlopně souhrně *poloměsíčité chlopně*
     - trojcípá a dvojcípá chlopně souhrně *cípaté chlopně*
+
+{{< fig src="/media/img/figs/bio11/3.png" alt="Popis srdečních chlopní"  >}}
+
 - je uloženo v osrdečníku
     - je to vazivový vak
 - na povrchu srdce je tuková tkáň
 - *epikard* je na zevní vrstva srdeční stěny
 - *myokard* je svalovina srdce
 - *endokard* je vnitřní vrstva, která vystéla srdeční dutinu
+
+{{< fig src="/media/img/figs/bio11/4.png" alt="Popis srdeční stěny"  >}}
+
 - věnčité tepny jsou na povrchu srdce a vyživují ho
 
 {{< fig src="/media/img/figs/bio11/1.png" alt="Stavba srdce"  >}}
@@ -113,6 +119,9 @@ weight: 21
     - *hisův svazek*
     - *Tawarova raménka*
     - *Purkyňova reménka*
+
+{{< fig src="/media/img/figs/bio11/5.png" alt="Popis struktur vedoucích srdeční vzruch"  >}}
+
 ## Krevní oběh
 - *malý (plicní) oběh*
     - odkysličená krev je ze srdce pumpována do pravé a levé plíce a okysličená krev se vrací zpět do srdce
