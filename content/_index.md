@@ -1,27 +1,14 @@
 ---
-title: "Welcome!"
+title: "Vítejte!"
 layout: home
 type: home
 ---
+## O mně
 
-Welcome to my notes site!
+Jsem Petr Geršl, student víceletého gymnázia, a toto jsou stránky s mými poznámkami. Dříve jsem si dělal poznámky na papír, ale v současnosti se snažím být co nejvíce paper-less. S digitálními poznámkami jsem začal už před nějakou dobou s nástroji, které jsem postupně opouštěl, protože mi nevyhovovali. Používal jsem [Notion](https://www.notion.so/), ale to se špatně sdílí a zároveň mi obecně mi nevyhovoval komplexní systém, který Notion nabízí a potřeboval jsem něco jenoduššího. Později jsem přešel na [Obsidian](https://www.obsidian.md/), jenže ten nemá dobře funkční zdarma rozhraní na jiných platformách než na počítači. Ještě než byl [Roam Research](https://www.roamresearch.com/) placený jsem si založil účet a ten držím zdarma doteď. Z Obsidianu jsme migroval sem. Roam jsem používal docela dlouho, ale později pro mě bylo sdílení s ostatními taky nepohodlné. Nakonec jsem se rozhodl napsat vlastní stránky, ke kterým budou mít přístup všichni a sdílení je jne otázkou zkopírování odkazu.
 
-# Peter who?
+{{< fig src="/media/img/main/me.jpg" alt="Petr Geršl" >}}
 
-Hey! Welcome to yet another site of mine. My name is Petr Geršl and I am a high school student, based in Brno, Czech Republic. This is a site dedicated to my notes. Enjoy!
+## Proč tyto stránky existují
 
-# Why this site exists?
-
-In a project started in the summer of 2023, I redesigned my personal website. For easier navigation in everything I put out and to learn more about basic front-end development, I decided to separate everything into 3 websites:
-
-- [portfolio, blog and gallery](https://pgersl.xyz/)
-- [my music](https://music.pgersl.xyz/)
-- and [my notes](#)
-
-The primary reason why I wrote this website is to share my notes with my classmates and, since these are online, with the entire world. I used to use [Notion](https://www.notion.so/), [Obsidian](https://obsidian.md/) and even [Roam Research](https://roamresearch.com/) to take notes. While these platforms are awesome for personal note-taking, it is either painful or pricy to share my notes with people around me, even harder with those who don't usually deal with plain-text markdown files. This is why I decided (after [my friend](https://vitcerny.xyz/) did it) to just do everything on my own and create a website. This eventually turned into several websites.
-
-# What can you find here?
-
-This is a website containing all my notes on various topics including a whole lot of notes from school. These notes are primarily written in Czech (the majority of them are) and only a few are in English. The site does not offer multilingual support (yet).
-
-**So don't just sit there! Start exploring, maybe you'll learn something!**
+V rámci většího projektu, na kterém jsem pracoval přes léto 2023 jsem moje stránky rozdělil na několik subdomén a zároveň zásadně upravil jejich vzezření. Jsem fanoušek konceptu [learning in public](https://www.swyx.io/learn-in-public) a zároveň můžu snadněji moje poznámky sdílet (primárně s mými spolužáky). Většina poznámek, které zde najdete, jsou poznámky školní, které ale i tak mohou sloužit jako velmi elementární zdroj informací. Některé poznámky jsou komplexnější, ty ale stále doplňuji.

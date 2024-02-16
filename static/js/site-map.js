@@ -1,25 +1,11 @@
-const siteMapToggle = document.getElementById('site-map-toggle-btn');
-const siteMapContainer = document.querySelector('.site-map');
-const siteMapUntoggle = document.getElementById('site-map-untoggle-btn');
+const siteMapUtil = document.getElementById('site-map-toggle')
+const siteMapContainer = document.getElementById('site-map');
 
-const header = document.querySelector('header.layout-element');
-const toc = document.querySelector('.toc');
-const page = document.querySelector('.page');
+// Toggling the site map on smaller view width
 
-// Site-map toggling on smaller screens 
-siteMapToggle.addEventListener('click', () => {
-    siteMapContainer.classList.toggle('toggled');
-    header.style.display = 'none';
-    toc.style.display = 'none';
-    page.style.display = 'none';
-});
-
-siteMapUntoggle.addEventListener('click', () => {
-    siteMapContainer.classList.toggle('toggled');
-    header.style.display = '';
-    toc.style.display = '';
-    page.style.display = '';
-});
+siteMapUtil.addEventListener('click', () => {
+    siteMapContainer.classList.toggle('toggled-by-util')
+})
 
 // Untoggle all child sections when a parent is un toggled
 
@@ -34,16 +20,9 @@ function untoggleChildSections(section) {
 const sectionBtns = document.querySelectorAll('.section-button');
 
 sectionBtns.forEach((sectionBtn) => {
-    const section = sectionBtn.parentElement.parentElement;
-
-    const sectionIcon = sectionBtn.querySelector('.section-icon');
+    const section = sectionBtn.parentElement;
     sectionBtn.addEventListener('click', () => {
-        // Check if the section does not have a highlighted link 
-        if (!section.contains(document.querySelector('.note-link.highlighted'))) {
-            section.classList.toggle('toggled');
-            sectionIcon.classList.toggle('fa-angle-right');
-            sectionIcon.classList.toggle('fa-angle-down');
-        }
+        section.classList.toggle('toggled');
         // Check if the section does not have toggled as a class, if not, untoggle all child sections
         if (!section.classList.contains('toggled')) {
             const childSections = section.querySelectorAll('.site-map-section');
@@ -74,19 +53,9 @@ highlightedLinks.forEach((highlightedLink) => {
 
     if (section) {
         section.classList.add('toggled');
-        const sectionButton = section.querySelector('.section-button');
-        if (sectionButton) {
-            sectionButton.querySelector('.section-icon').classList.remove('fa-angle-right');
-            sectionButton.querySelector('.section-icon').classList.add('fa-angle-down');
-        }
         const parentSections = sectionParents(section);
         parentSections.forEach((parentSection) => {
             parentSection.classList.add('toggled');
-            const parentSectionButton = parentSection.querySelector('.section-button');
-            if (parentSectionButton) {
-                parentSectionButton.querySelector('.section-icon').classList.remove('fa-angle-right');
-                parentSectionButton.querySelector('.section-icon').classList.add('fa-angle-down');
-            }
         });
     }
 });

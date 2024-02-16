@@ -26,7 +26,8 @@ weight: 21
 - hrdinové jsou apatičtí a utíkají ze světa, nenavazují dobře vztahy, nesnaží se dosáhnout tradičních cílů, nezajímají je běžné starosti lidí, žijí povrchně
 ## Ernest Hemingway
 - 1899 - 1961
-- v díle čerpá z vlastních zážitků
+- prozaik, novinář
+- v díle jsou autobiografické prvky
 - žil v Americe, ale také po Evropě
     - ve Španělsku působil jako novinář
 - měl rád napětí, jezdil na lovy, účastnil se byčích zápasů
@@ -39,16 +40,63 @@ weight: 21
     - popisuje pouze to, co je na první pohled vidět
 ### Dílo
 - **Sbohem, armádo**
+    - román
+    - milostný příběh s tragickými motivy
     - líčí osudy amerického dobrovolníka
     - odehrává se v Itálii v lazaretě
     - vysvětluje nesmyslnost zabíjení, ukazuje vztahy mezi vojáky
 - **Komu zvoní hrana**
     > Never send to know for whom the bell tolls, it tolls for thee.
+    - román
+    - španělská občasnká válka
+    - o partizánovi Jordanovi zamilovaném do dívky Marie
+    - Jordan je v bojích zraněn, ale odmítl pomoc
+    - zbdzdil pronásledovatele
 - **Stařec a moře**
+    - novela
     - hlavní postavou je stařec, který loví ryby
     - zaučuje chlapce, ale rodiče chtějí, aby se učil s někým úspěšnějším
     - stařec se vydá na moře a chce dokázat, že umí lovit ryby, zachytí velkou rybu, která ho odtáhne na moře
     - podaří se mu ji ulovit, ale je přepaden žraloky, kteří rybu sežerou, zbyde jen kost
+## William Faulkner
+- nedostudoval a neusadil se
+- rodiče byli aristokratičtí otrokáři
+### Dílo
+- **Jižanská sága**
+    - obsahlé generační romány
+    - trilogie: *Vesnice, Město, Sídlo*
+    - komplexní psychologie a kombinace pohledů postav
+- **Divoké palmy**
+    - pomalý kratký román
+## Francis Scott Fitzgerald
+- scénárista ve 20. letech
+- kvůli penězům psal do Saturday Evening Post
+    - přesto se zadlužil
+### Dílo
+- **Na prahu ráje**
+- **Krásní a prokletí**
+- **Velký Gatsby**
+    - nešťastný bohatý člověk, toužící po lásce
+    - kritika aristokracie
+- **Něžná je noc**
+    - psychiatr si vezme svoji pacientku
+## John Steinbeck
+- čerpá z venkova Kalifornie o osudech lidí a kritice společnosti
+- v díle prostí lidé potkají nevšední osudy
+- získal nobelovu cenu za literaturu
+### Dílo
+- **Hrozny hněvu**
+    - kritický román o farmářích z doby hospodářské krize
+- **Na východ od ráje**
+    - román z kalifornského venkova
+    - paralela bratrů ráje ve sporu dvou rodin
+- **O myších a lidech**
+    - novela vzdálených příbuzných Lennieho a George
+    - sní o společném hospodářství
+    - Lennie je zaostalý a George se o něj musí starat
+    - po nechtěné vraždě Georgovi ženy Lenniho sám zastřelí
+## Upton Sinclair
+- román Džungle
 # Pražští němci
 - je to skupina autorů, kteří psali německy, ale pobývali v Česku
 ## Franz Kafka

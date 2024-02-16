@@ -1,33 +1,18 @@
-<!DOCTYPE html>
-<html>
-<head>
-    {{partial "head.html" .}}
-</head>
-<body>
-    {{partial "loading.html"}}
-    <div class="content-container">
-        <header class="layout-element">
-            {{partial "site-header.html" .}}
-        </header>
-        <div class="flex-container">
-            <aside class="site-map layout-element">
-                {{partial "site-map.html" .}}
-            </aside>
-            <div class="flex-container toc-page-container">
-                <aside class="toc layout-element">
-                    {{partial "toc.html" .}}
-                </aside>
-                <main class="page layout-element">
-                    <div class="page-header">
-                        {{partial "page-header.html" .}}
-                    </div>
-                    <div class="page-content">{{.Content}}</div>
-                    <footer>
-                        {{partial "footer.html" .}}
-                    </footer>
-                </main>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+{{define "title"}}<title>{{.Title}}</title>{{end}}
+{{define "styles"}}<link rel="stylesheet" href="/css/single.css">{{end}}
+{{define "scripts"}}<script src="/js/toc.js" defer></script>{{end}}
+{{define "nav-utils"}}
+    <button class="nav-util" id="toc-toggle"><i class="fa-solid fa-list"></i></button>
+{{end}}
+{{define "toc"}}
+    <aside id="toc">
+        <div class="aside-title">Obsah</div>
+        {{.TableOfContents}}
+    </aside>
+{{end}}
+{{define "main"}}
+    <main>
+        <div class="main-title">{{.Title}}</div>
+        <div class="main-content">{{.Content}}</div>
+    </main>
+{{end}}

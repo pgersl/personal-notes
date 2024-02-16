@@ -1,84 +1,30 @@
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Mulish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=REM&display=swap');
 
 :root {
-    --font: 'Mulish', sans-serif;
-    --font-ex: 'Archivo Black', sans-serif;
-    --border: 2px solid var(--bg-clr3);
-    --shadow: 0 0 10px var(--bg-clr4);
+    --transition: all 100ms;
+    --spacer: 2em 0;
 
-    --font-size: 18px;
-    --h1-size: 36px;
-    --h2-size: 33px;
-    --h3-size: 29px;
-    --h4-size: 24px;
-    --h5-size: 21px;
-    --header-size: 50px;
-    --tiny-size: 15px;
+    --font: 'REM', sans-serif;
+    --font-size: 14px;
+    --h1-size: 28px;
+    --h2-size: 24px;
+    --h3-size: 21px;
+    --h4-size: 18px;
+    --tiny-size: 10px;
 
-    --accent-gradient1: linear-gradient(to bottom right, var(--accent-clr-a1), var(--accent-clr-b1));
-    --accent-gradient2: linear-gradient(to bottom right, var(--accent-clr-a2), var(--accent-clr-b2));
-    --accent-gradient3: linear-gradient(to bottom right, var(--accent-clr-a3), var(--accent-clr-b3));
-}
+    /*colors*/
+    --light1: #F9FAFA;
+    --light2: #e7ebeb;
+    --light3: #cfd3d3;
+    --light4: #a1a4a4;
+    --dark1: #0f1111;
+    --accent1: #355133;
+    --accent2: #4d7c4a;
+    --accent3: #5e965a;
+    --accent4: #253724;
+    --accent5: #94c792;
 
-:root[data-theme="light"] {
-    --bg-clr1: #F2F2F2;
-    --bg-clr2: #FFFFFF;
-    --bg-clr3: #C1C1C1;
-    --bg-clr4: #00000042;
-    --bg-clr5: #000000a2;
-    --bg-clr6: #616161;
-    --bg-clr7: #f8f8f8;
-    --txt-clr: #262626;
-    --txt-clr2: #929292;
-    --accent-clr-a1: #0745ff;
-    --accent-clr-a2: #6a90ff;
-    --accent-clr-a3: #b4c7ff;
-    --accent-clr-b1: #008cff;
-    --accent-clr-b2: #66baff;
-    --accent-clr-b3: #b2dcff;
-    --selection-clr: #b2dcff57;
-}
-
-:root[data-theme="dark"] {
-    --bg-clr1: #202020;
-    --bg-clr2: #262626;
-    --bg-clr3: #606060;
-    --bg-clr4: #00000042;
-    --bg-clr5: #ffffff2c;
-    --bg-clr6: #9c9c9c;
-    --bg-clr7: #2b2b2b;
-    --txt-clr: #FFFFFF;
-    --txt-clr2: #747474;
-    --accent-clr-a1: #FFC107;
-    --accent-clr-a2: #FFD96A;
-    --accent-clr-a3: #FFECB4;
-    --accent-clr-b1: #FF7300;
-    --accent-clr-b2: #FFAB66;
-    --accent-clr-b3: #FFD5B2;
-    --selection-clr: #FFD5B257;
-}
-
-@media (max-width:500px) {
-    :root {
-        --font-size: 15px;
-        --h1-size: 30px;
-        --h2-size: 27px;
-        --h3-size: 24px;
-        --h4-size: 21px;
-        --h5-size: 18px;
-        --header-size: 37px;
-        --tiny-size: 12px;
-    }
-}
-@media (max-width:280px) {
-    :root {
-        --font-size: 12px;
-        --h1-size: 24px;
-        --h2-size: 22px;
-        --h3-size: 20px;
-        --h4-size: 17px;
-        --h5-size: 15px;
-        --header-size: 30px;
-        --tiny-size: 9px;
-    }
+    --gradient1: linear-gradient(120deg, var(--dark1) 0%, var(--accent4) 100%);
+    --gradient2: linear-gradient(90deg, var(--dark1) 0%, var(--accent4) 27%, var(--accent2) 100%);
+    --gradient3: linear-gradient(120deg, var(--dark1) 0%, var(--accent4) 40%, var(--accent1) 100%);
 }
