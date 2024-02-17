@@ -107,7 +107,8 @@ nav {
     padding: var(--spacer);
     display: flex;
     flex-direction: column;
-    gap: 1.5em;
+    justify-content: center;
+    align-items: center;
 }
 
 nav * {
@@ -117,6 +118,15 @@ nav * {
 nav i {
     font-size: var(--tiny-size);
 }
+
+.nav-content {
+    width: 95vw;
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
 
 #nav-links-search {
     display: flex;
@@ -132,7 +142,6 @@ nav i {
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding-left: 2em;
 }
 
 .main-nav-links {
@@ -170,9 +179,9 @@ nav i {
 }
 
 #nav-search {
-    padding-right: 3em;
     color: var(--light1);
     width: 40%;
+    display: flex;
 }
 
 #nav-search i {
@@ -229,13 +238,16 @@ nav i {
     overflow-y: auto;
 }
 
+.search-result.selected {
+    color: var(--accent2);
+}
+
 .nav-utils {
     width: fit-content;
     display: none;
     flex-direction: row;
     gap: 1em;
     display: none;
-    padding-left: 2em;
 }
 
 .nav-util {
@@ -420,7 +432,7 @@ footer {
         background-color: var(--light1);
         position: absolute;
         z-index: 900;
-        top: 28em;
+        top: calc(25vh + 10em);
         left: 0;
         border-right: none;
         padding: 1em;
@@ -445,24 +457,11 @@ footer {
         align-items: flex-start;
         justify-content: flex-start;
     }
-    .nav-links {
-        padding-right: 2em;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: flex-start;
-    }
-    .main-nav-links {
-        border-right: none;
-    }
-    .sites-nav-links {
-        padding-left: 0;
-    }
     #nav-search {
-        padding-right: 2em;
-        margin-left: 2.2em;
-        width: 200px;
+        width: 100%;
+        margin-left: .25em;
     }
     #site-map {
-        top: 33em;
+        top: calc(25vh + 14em);
     }
 }

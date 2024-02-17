@@ -125,7 +125,7 @@ thead, tbody {
         background-color: var(--light1);
         position: absolute;
         z-index: 800;
-        top: 33em;
+        top: calc(25vh + 14em);
         left: 0;
         border-left: none;
         padding: 1em;
@@ -134,6 +134,9 @@ thead, tbody {
     }
     #toc.toggled-by-util {
         display: block;
+    }
+    #toc ul {
+        width: 100%;
     }
     main {
         width: 100%;

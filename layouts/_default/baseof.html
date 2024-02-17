@@ -38,40 +38,42 @@
     <body>
         <header>Petr Geršl</header>
         <nav>
-            <div id="nav-links-search">
-                <div class="nav-links">
-                    <div class="main-nav-links">
-                        <a href="/" class="nav-link">Domů</a>
+            <div class="nav-content">
+                <div id="nav-links-search">
+                    <div class="nav-links">
+                        <div class="main-nav-links">
+                            <a href="/" class="nav-link">Domů</a>
+                        </div>
+                        <div class="sites-nav-links">
+                            {{range .Site.Menus.sites}}
+                                <a href="{{.URL}}" class="nav-link">{{.Name}} <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            {{end}}
+                        </div>
                     </div>
-                    <div class="sites-nav-links">
-                        {{range .Site.Menus.sites}}
-                            <a href="{{.URL}}" class="nav-link">{{.Name}} <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
-                        {{end}}
-                    </div>
-                </div>
-                <div id="nav-search">
-                    <div id="nav-search-bar">
-                        <i class="fa-solid fa-magnifying-glass"></i>
-                        <input id="search-input" type="text" placeholder="Hledat...">
-                        <div id="search-results-container">
-                            <div id="search-results"></div>
-                            <div id="not-found-message">
-                                Jejda...<br>
-                                Nic nenalezeno!<br>
-                                Zkuste vyhledat něco jiného.
-                            </div>
-                            <template id="search-result-template">
-                                <div class="search-result">
-                                    <a class="search-result-title" href=""></a>
+                    <div id="nav-search">
+                        <div id="nav-search-bar">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input id="search-input" type="text" placeholder="Hledat...">
+                            <div id="search-results-container">
+                                <div id="search-results"></div>
+                                <div id="not-found-message">
+                                    Jejda...<br>
+                                    Nic nenalezeno!<br>
+                                    Zkuste vyhledat něco jiného.
                                 </div>
-                            </template>
+                                <template id="search-result-template">
+                                    <div class="search-result">
+                                        <a class="search-result-title" href=""></a>
+                                    </div>
+                                </template>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="nav-utils">
-                <button class="nav-util" id="site-map-toggle"><i class="fa-solid fa-bars"></i></button>
-                {{block "nav-utils" .}}{{end}}
+                <div class="nav-utils">
+                    <button class="nav-util" id="site-map-toggle"><i class="fa-solid fa-bars"></i></button>
+                    {{block "nav-utils" .}}{{end}}
+                </div>
             </div>
         </nav>
         <div class="flex-container">

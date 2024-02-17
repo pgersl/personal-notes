@@ -4,9 +4,44 @@ const searchBar = document.getElementById('search-input');
 const notFoundMessage = document.getElementById('not-found-message');
 const searchResultsContainer = document.getElementById('search-results-container');
 
+let currentResultIndex = -1;
+
+function highlightResult(index) {
+  const results = resultsContainer.querySelectorAll('.search-result');
+  results.forEach((result, i) => {
+      if (i === index) {
+          result.classList.add('selected');
+      } else {
+          result.classList.remove('selected');
+      }
+  });
+}
+
+document.body.addEventListener('keydown', (e) => {
+  if (resultsContainer.style.display === 'flex') {
+      const results = resultsContainer.querySelectorAll('.search-result');
+      if (e.key === 'ArrowDown') {
+          e.preventDefault();
+          currentResultIndex = Math.min(currentResultIndex + 1, results.length - 1);
+          highlightResult(currentResultIndex);
+      } else if (e.key === 'ArrowUp') {
+          e.preventDefault();
+          currentResultIndex = Math.max(currentResultIndex - 1, 0);
+          highlightResult(currentResultIndex);
+      } else if (e.key === 'Enter' && currentResultIndex !== -1) {
+          e.preventDefault();
+          const selectedResult = results[currentResultIndex];
+          const resultLink = selectedResult.querySelector('.search-result-title');
+          window.location.href = resultLink.href;
+      }
+  }
+});
+
 function performSearch(searchValue, data) {
-  const matchingResults = data.filter(search => search.title.toLowerCase().includes(searchValue));
-  
+  const searchWords = searchValue.split(' ');
+  const matchingResults = data.filter(search => {
+    return searchWords.every(word => search.title.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').includes(word))
+  })
   matchingResults.sort((a, b) => {
     const titleA = a.title.toLowerCase();
     const titleB = b.title.toLowerCase();
@@ -36,6 +71,7 @@ function performSearch(searchValue, data) {
     resultsContainer.style.display = 'flex';
     searchResultsContainer.style.display = 'block';
     notFoundMessage.style.display = 'none';
+    currentResultIndex = -1;
   } else {
     searchResultsContainer.style.display = 'block';
     resultsContainer.style.display = 'none';
@@ -47,7 +83,7 @@ fetch('/index.json')
   .then(response => response.json())
   .then(data => {
     searchBar.addEventListener('input', (e) => {
-      const val = e.target.value.toLowerCase().trim();
+      const val = e.target.value.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g, '').trim();
       if (val === '') {
         searchResultsContainer.style.display = 'none';
       } else {
