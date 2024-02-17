@@ -438,6 +438,7 @@ footer {
         padding: 1em;
         width: 100%;
         border-bottom: solid 4px var(--accent3);
+        max-height: 55vh;
     }
     #site-map.toggled-by-util {
         display: block;
@@ -459,9 +460,10 @@ footer {
     }
     #nav-search {
         width: 100%;
-        margin-left: .25em;
+        padding: 0 .25em;
     }
     #site-map {
         top: calc(25vh + 14em);
+        max-height: 50vh;
     }
 }
