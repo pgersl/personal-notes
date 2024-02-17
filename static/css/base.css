@@ -464,6 +464,6 @@ footer {
     }
     #site-map {
         top: calc(25vh + 14em);
-        max-height: 50vh;
+        max-height: calc(25vh + 14em);
     }
 }

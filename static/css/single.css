@@ -135,6 +135,7 @@ thead, tbody {
         padding: 1em;
         width: 100%;
         border-bottom: solid 4px var(--accent3);
+        max-height: calc(25vh + 14em);
     }
     #toc.toggled-by-util {
         display: block;
