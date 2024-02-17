@@ -47,6 +47,10 @@
     color: var(--accent5);
 }
 
+#toc ul {
+    width: 100%;
+}
+
 main {
     width: 70%;
     padding-right: 2em;
@@ -134,9 +138,6 @@ thead, tbody {
     }
     #toc.toggled-by-util {
         display: block;
-    }
-    #toc ul {
-        width: 100%;
     }
     main {
         width: 100%;
