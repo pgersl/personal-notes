@@ -58,3 +58,23 @@ weight: 3
     - vklad minimálně 20 000 000 Kč
     - akcionáři tvoří valnou hromadu, společnost řídí představenstvo a dozorčí rady
     - zisk se dělí dle dividend
+## Neziskové organizace
+- jejich cílem je zlepšení životní úrovně
+- státní neziskové organizace:
+    - **Organizační složky**
+        - řízení společnosti, věda, pořádek, obrana
+        - nejsou právnickými osobami
+        - ministerstva, finanční úřady, městská policie
+    - **Příspěvková organizace**
+        - vzdělávání, kultura, zdravotnictví
+        - zdroje z rozpočtu a výdělky si mohou ponechat
+- nestátní neziskové organizace:
+    - nemají nárok na peníze ze státního rozpočtu
+    - **Nadace**
+        - obecně prospěšný činnost
+        - dětské domovy, katastrofy, operace
+    - **Obecně prospěšná společnost**
+        - vzdělávání, kultura, památky
+    - **Sdružení**
+        - dobrovolná spojení občanů
+        - společné zájmy

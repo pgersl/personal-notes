@@ -159,3 +159,180 @@ weight: 21
 ### Dílo
 - **Pasák**
 - **Zuřivý reportér**
+# Francie
+## Marcel Proust
+- 1871 - 1922
+- pocházel z bohaté rodiny
+- psal moderní prózu
+- hodně cestoval a byl sociálně aktivní
+- spolutvůrce moderního románu
+    - nejednotná kompozice
+    - volně propojené obrazy
+- uplácel za dobré recenze
+### Dílo
+- **Hledání ztraceného času**
+    - román
+    - psáno v ich-formě
+    - prolínání faktů s doměnkami
+    - básnické ozoby
+    - obraz francouzské společnosti ve druhé polovině 19. století
+## Romain Rolland
+- 1866 - 1944
+- hudební a literární kritik
+- získal Nobelovu cenu za literaturu
+    - věnovanou částku daroval charitě
+- stavěl se proti nacismu, fašismu a komunismu
+- psal eseje, životopisy, novely a romány 
+### Dílo
+- **Jan Kryštof**
+    - románová epopej
+    - oslava umění
+    - inpirováno dílem Ludwiga van Beethovena
+    - touha po spravedlivější společnosti
+    - kompozice je inspirována strukutrou symfonie
+- **Okouzlená duše**
+    - román
+    - hlavní hrdina se staví proti nespravedlnosti
+    - chce lásku a svobodu
+- **Dobrý člověk ještě žije**
+    - román
+    - zobrazuje francouzský venkov
+    - hrdina přes všechny těžkosti nepropaá skepsy
+- **Petr a Lucie**
+    - novela
+    - jedna dějová linka s pointou
+    - děj se odehrává během první světové války
+    - hrdiny jsou mladí lidé
+    - typický je kontrast
+    - na Velký pátek jsou při bombardování pohřbeni zaživa v kostele, kde na ně spadne mohutný pilíř
+## Antoine de Saint-Exupéry
+- 1900 - 1944
+- novinář
+- měl zájem o letectví, ale během jednoho z letů se ztratil
+- v díle se vyskytují motivy letectví, filosofické myšlenky
+### Dílo
+- **Citadela**
+    - román
+    - soubor úvah, fiktiních rozhovorů a dějových poselství
+    - nedokončeno
+- **Malý princ**
+    - folosofická pohádka
+    - hledání smyslu života
+    - Malý princ se potká s letcem, který havaruje
+    - Malý princ navštěvuje různé planetky a prozkoumává ho očima dítěte
+    - prince uštkne had a skončí na své rodné planetce
+# Anglie
+## James Joyce
+- psal moderní a avantgardní prózu
+- žil v Dublinu a časot se jeho děje v něm odehrávají
+### Dílo
+- **Odysseus**
+    - román
+    - odkaz na Homéra
+    - děj se odehrává během jednoho dne na začátku 20. století
+    - Leopold Bloom zažívá během dne to, co Odysseus zažívá během 10 let
+    - příběh je zakončený erotickým snem Leopoldovi manželky
+## John Galsworthy
+- prozaik a dramatik
+- psal klasické románové ságy
+- děje se odehrávají ve viktoriánské Anglii
+### Dílo
+- **Sága rodiny Forsytů**
+    - tři romány a dvě povídky (mezihry)
+    - seriálová podoba
+    - rodina lpí na majetku a rodině, jsou to obchodoníci a továrníci
+    - mladá generace mění hodnoty
+## George Bernard Shaw
+- prozaik, dramatik
+- ovlivnil světové mínění
+- jeho dílo je značně rozsáhlé
+- jeho satiry se delí na neutěšené (útočné a končí pesimisticky) a utěšené (končí smířlivě)
+### Dílo
+- **Domy pana Sartoria**
+- **Živnost paní Warrenové**
+- **Válka a hrdina**
+- **Člověk nikdy neví**
+- **Pygmalion**
+    - komedie, satira na viktoriánské představy společenských tříd
+    - klasická struktura v 5 dějstvích
+    - Líza je chudá a mluví angličtinou spodiny, chtěla by mít květinářství
+    - profesor fonetiky Higgins neumí udržet emoce a nemá k Líze úctu, ale snaží se ji naučit správné výslovnosti a správným mravům, obléká ji do hezkých šatů
+    - Pickerin je často u Higginse a k Líze se chová uctivě
+# Rusko
+- *socialistický realismus*
+    - styl psaní
+    - opěvující komunistické myšlenky a boje za revoluci
+    - prostředí je často dělnické
+## Maxim Gorkij
+- spisovatel, dramatik, básník
+- hlavní autor socialistického realismu
+- něikolikrát emigroval a znovu se vrátil do Ruska
+- nebál se šířit své názory
+    - pravděpodobně byl otráven
+### Dílo
+- **Matka**
+    - politický román
+    - dělnická rodina žije ve velmi různých poěmrech
+    - revoluční myšlenky
+- **Na dně**
+    - filosofické drama
+    - soudobé
+    - většina se odehrává ve sklepech a noclehárnách
+## Ivan Bunin
+- prozaik, básník, překladatel
+- cestoval po světě
+- získal Nobelovu cenu
+- kritizoval revoluci a musel emigrovat
+### Dílo
+- **Míťova láska**
+    - novela
+    - citové vzplanutí
+    - vztah má trhliny
+    - končí rozchodem a sebevraždou
+## Boris Pasternak
+- básník, prozaik a překladatel
+- odmítl převzít Nobelovu cenu
+- podílel se na obraně Moskvy před nacisty
+- jeho ranná tvorba je poetická
+    - byl členem futuristické skupiny LEF
+    - psal přírodní lyriku
+    - v poezii projevoval svou lásku k Rusku a ruské přírodě
+- vrcholem jeho tvorby je próza
+### Dílo
+- **Blíženec v oblacích**
+- **Sestra má - život**
+- **Druhé zrození**
+- **V ranních vlacích**
+- **Když se vyčasí**
+- **Doktor Živago**
+    - román
+    - psaný deset let
+        - byl vydán po pádu SSSR
+    - neideologicky stvárnil období kolem bolševické revoluce
+    - zachycuje mnoho postav a vztahů, většina žije sama
+    - autobiografické prvky (v pocitech hlavní postavy)
+    - Pasternak byl kvůli románu vyloučen se svazu sovětských spisovatelů
+## Michail Bulgakov
+- dramatik, prozaik a vojenský lékař
+- poslavil se svými fejetony
+- satiricky zachycuje realitu života kolem revoluce (chudoba, těžký život, alkoholismus, omezenost a manipulace)
+    - nemusel emigrovat
+- nikdy nepsal v prokomunistickém duchu, ale nevyjadřoval se přímo proti režimu
+    - jeho díla byla zakázána
+- chtěl emigrovat, ale nebylo mu to povoleno
+- v jeho díle jsou typické snové, fantaskní a nadpřirozené motivy
+- zdramatizoval několik prozaických děl
+### Dílo
+- **Dny Turbinových**
+- **Útěk**
+- **Zojčin byt**
+- **Zápisky mladého lékaře**
+- **O prospěšnosti alkoholismu**
+- **Psí srdce**
+- **Osudná vejce**
+- **Mistr a Markéta**
+    - román
+    - magický realismus
+    - rokupis byl spálen
+        - Bulgakov ho potom psal zpaměti znovu
+    - polemika s ateistickou propagandou SSSR, všudypřítomnost dobra a zla v každém člověku
