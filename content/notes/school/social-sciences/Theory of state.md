@@ -66,7 +66,7 @@ weight: 3
     - vyhovuje menšině
     - je nestabilní
 # Dělení států
-## Podle počtu států
+## Podle počtu hlav státu 
 - *monarchie* (vláda jednoho)
     - vládce je urozený
 - *oligarchie* (vláda skupiny)

@@ -120,7 +120,7 @@ weight: 21
     - *Tawarova raménka*
     - *Purkyňova reménka*
 
-{{< fig src="/media/img/figs/bio11/5.png" alt="Popis struktur vedoucích srdeční vzruch"  >}}
+{{< fig src="/media/img/figs/bio11/5.png" alt="Popis struktur vedoucích srdeční vzruch" >}}
 
 ## Krevní oběh
 - *malý (plicní) oběh*

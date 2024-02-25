@@ -7,7 +7,7 @@ enableEmoji = 'true'
     [markup.goldmark.renderer]
         unsafe = 'true'
     [markup.tableOfContents]
-        endLevel = 3
+        endLevel = 5
         ordered = false
         startLevel = 1
 [params]

@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Vývoj jazyků</title>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+        <link rel="manifest" href="/fav/site.webmanifest">
+
+
+        <link rel="stylesheet" type="text/css" href="/css/root.css">
+        <link rel="stylesheet" type="text/css" href="/css/base.css">
+        <link rel="stylesheet" href="/css/single.css">
+
+        <script src="https://kit.fontawesome.com/9ab7bfa7fc.js" crossorigin="anonymous"></script>
+        <script data-goatcounter="https://notespgersl.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>
+            MathJax = {
+                tex: {
+                  inlineMath: [['$', '$'], ['\\(', '\\)']]
+                },
+                svg: {
+                  fontCache: 'global'
+                }
+              };
+
+        </script>
+        <script type="text/javascript" src="/js/site-map.js" defer></script>
+        <script type="text/javascript" src="/js/search.js" defer></script>
+        <script src="/js/toc.js" defer></script>
+
+    </head>
+    <body>
+        <header>Petr Geršl</header>
+        <nav>
+            <div class="nav-content">
+                <div id="nav-links-search">
+                    <div class="nav-links">
+                        <div class="main-nav-links">
+                            <a href="/" class="nav-link">Domů</a>
+                        </div>
+                        <div class="sites-nav-links">
+                            
+                                <a href="https://pgersl.xyz" class="nav-link">Hlavní <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                                <a href="https://wiki.pgersl.xyz" class="nav-link">Wiki <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                                <a href="https://music.pgersl.xyz" class="nav-link">Hudba <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                        </div>
+                    </div>
+                    <div id="nav-search">
+                        <div id="nav-search-bar">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input id="search-input" type="text" placeholder="Hledat...">
+                            <div id="search-results-container">
+                                <div id="search-results"></div>
+                                <div id="not-found-message">
+                                    Jejda...<br>
+                                    Nic nenalezeno!<br>
+                                    Zkuste vyhledat něco jiného.
+                                </div>
+                                <template id="search-result-template">
+                                    <div class="search-result">
+                                        <a class="search-result-title" href=""></a>
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-utils">
+                    <button class="nav-util" id="site-map-toggle"><i class="fa-solid fa-bars"></i></button>
+                    
+    <button class="nav-util" id="toc-toggle"><i class="fa-solid fa-list"></i></button>
+
+                </div>
+            </div>
+        </nav>
+        <div class="flex-container">
+            <aside id="site-map">
+                <div class="aside-title">Poznámky</div>
+                <div class="site-map-content">
+                    
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Český jazyk</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Mluvnice</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Úvod do mluvnice</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/speech-and-language/" class="note-link">Řeč a jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/evolution-of-languages/" class="note-link">Vývoj jazyků</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/national-language/" class="note-link">Národní jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/czech-dialects/" class="note-link">Dialekty</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/czech-formal-language/" class="note-link">Spisovný jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/standard-and-codification/" class="note-link">Norma a kodifikace</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/sound-nature-of-a-language/" class="note-link">Zvuková stránka jazyka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/graphical-nature-of-a-language/" class="note-link">Grafická stránka jazyka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/correct-spelling/" class="note-link">Pravopis</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Morfologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/nouns/" class="note-link">Podstatná jména</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/adjectives/" class="note-link">Přídavná jména</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/pronouns/" class="note-link">Zájmena</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/numerals/" class="note-link">Číslovky</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/verbs/" class="note-link">Slovesa</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/adverbs/" class="note-link">Příslovce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/conjunctions/" class="note-link">Spojky</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/grammatical-particles/" class="note-link">Částice</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/interjections/" class="note-link">Citoslovce</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Syntax</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/introduction-to-syntax/" class="note-link">Úvod do syntaxe</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/sentence-types/" class="note-link">Druhy vět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/negation/" class="note-link">Zápor</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/word-relationships-in-a-sentence/" class="note-link">Vztahy mezi slovy ve větě</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/subject/" class="note-link">Podmět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/predicate/" class="note-link">Přísudek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/object/" class="note-link">Předmět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/adverbials/" class="note-link">Příslovečné určení</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/atribute/" class="note-link">Přívlastek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/atribut-verbale/" class="note-link">Doplněk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/apposition/" class="note-link">Přístavek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/expressions-that-are-not-constituents/" class="note-link">Výrazy, které nejsou větnými členy</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/other-types-of-constituents/" class="note-link">Další typy větných členů</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/complex-sentences/" class="note-link">Souvětí</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/hypotaxis/" class="note-link">Souvětí podřadné</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/parataxis/" class="note-link">Souvětí souřadné</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Lexikologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/introduction-to-lexicology/" class="note-link">Úvod do lexikologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/word-formation/" class="note-link">Slovotvorba</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/semantics/" class="note-link">Sémantika</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/vocabulary/" class="note-link">Slovní zásoba</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literatura</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/introduction-to-literature/" class="note-link">Úvod do literatury</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literární teorie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/stylistic-devices/" class="note-link">Figury a tropy</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/composition-of-prose-and-poetry/" class="note-link">Kompozice prózy a poezie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/tools-of-poetry/" class="note-link">Nástroje poezie</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literární historie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-mesopotamia/" class="note-link">Literatura starověké Mezopotamie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-egypt/" class="note-link">Literatura starověkého Egypta</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-india/" class="note-link">Literatura starověké Indie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-china/" class="note-link">Literatura starověké Číny</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-arabia/" class="note-link">Literatura starověké Arábie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-israel/" class="note-link">Literatura starověkého Izraele</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-greece/" class="note-link">Literatura starověkého Řecka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-rome/" class="note-link">Literatura starověkého Říma</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/medival-literature/" class="note-link">Středověká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/czech-medival-literature/" class="note-link">Česká středověká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-renaissance-era/" class="note-link">Renesanční literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-baroque-era/" class="note-link">Barokní literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-classical-era/" class="note-link">Klasicistní literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-romantic-period/" class="note-link">Romantická literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/national-awakening/" class="note-link">Literatura národního obrození</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/post-national-awakening/" class="note-link">Postobrozenecká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-realist-period/" class="note-link">Literatura realismu</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/modern-literary-styles/" class="note-link">Literární moderna</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/czech-modern-literature/" class="note-link">Česká moderna a dekadence</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-between-wars/" class="note-link">Meziválečná literatura</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Sloh</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/introduction-to-stylistics/" class="note-link">Úvod do slohu</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/description/" class="note-link">Popis</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/story/" class="note-link">Vypravování</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/journalistic-style/" class="note-link">Publicistický funkční styl</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Biologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/properties-of-living-organisms/" class="note-link">Vlastnosti živých organismů</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Buňka</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/prokaryotic-cell/" class="note-link">Prokaryotická buňka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/eukaryotic-cell/" class="note-link">Eukaryotická buňka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/cell-organels/" class="note-link">Buněčné organely</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/matter-tranfer-through-cell-membrane/" class="note-link">Transport látek přes buněčné membrány</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/osmotic-processes-in-cells/" class="note-link">Osmotické procesy v buňce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/water-and-living-organisms/" class="note-link">Vodní režim</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Rostliny</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/vegetal-tissue/" class="note-link">Rostlinná pletiva</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/plant-parts/" class="note-link">Rostlinné orgány</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/system-of-plants/" class="note-link">Systém rostlin</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Živočichové</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio2/" class="note-link">Mnohobuněčné organismy, Houbovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio3/" class="note-link">Žahavci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio4/" class="note-link">Ploštěnci, hlísti, vířnici</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio5/" class="note-link">Měkkýši</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio6/" class="note-link">Kroužkovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio7/" class="note-link">Členovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio8/" class="note-link">Obojživelníci a plazi</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio9/" class="note-link">Ptáci a savci</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Člověk</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio10/" class="note-link">Kosterní soustava</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio11/" class="note-link">Svalová a oběhová soustava</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Základy společenských věd</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Psychologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-psychology/" class="note-link">Úvod do psychologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/general-psychology/" class="note-link">Obecná psychologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/socialisation/" class="note-link">Socializace</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/social-perception/" class="note-link">Sociální percepce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/opinions/" class="note-link">Postoje</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/communication/" class="note-link">Komunikace</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Právo</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-law/" class="note-link">Úvod do práva</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/constitution/" class="note-link">Ústava</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/criminal-law/" class="note-link">Trestní právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/civil-law/" class="note-link">Občanské právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/labour-law/" class="note-link">Pracovní právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/family-law/" class="note-link">Rodinné právo</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Sociologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-sociology/" class="note-link">Úvod do sociologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/theories-of-society/" class="note-link">Teorie společnosti</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/history-of-sociology/" class="note-link">Historie sociologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/current-society/" class="note-link">Současná společnost</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/sociology-terms/" class="note-link">Terminologie sociologie</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Politologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-politology/" class="note-link">Úvod do politologe</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/history-of-politology/" class="note-link">Historie politologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/theory-of-state/" class="note-link">Státověda</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Základy ekonomie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/introduction-to-economics/" class="note-link">Úvod do ekonomie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/market-economy/" class="note-link">Tržní ekonomnika</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/entrepreneurship/" class="note-link">Podnikání</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/banking/" class="note-link">Bankovnictví</a></span>
+            
+            
+        
+    </div>
+</section>
+                    
+                </div>
+            </aside>
+            <div id="main-toc">
+                
+    <aside id="toc">
+        <div class="aside-title">Obsah</div>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#jazykové-skupiny-indo-evropské-jazykové-rodiny">Jazykové skupiny indo-evropské jazykové rodiny</a>
+      <ul>
+        <li><a href="#indo-íránské-jazyky">Indo-íránské jazyky</a></li>
+        <li><a href="#slovanské-jazyky">Slovanské jazyky</a>
+          <ul>
+            <li><a href="#západoslovanské-jazyky">Západoslovanské jazyky</a></li>
+            <li><a href="#východoslovanské-jazyky">Východoslovanské jazyky</a></li>
+            <li><a href="#jihoslovanské-jazyky">Jihoslovanské jazyky</a></li>
+          </ul>
+        </li>
+        <li><a href="#románské-jazyky">Románské jazyky</a></li>
+        <li><a href="#germánské-jazyky">Germánské jazyky</a></li>
+        <li><a href="#keltské-jazyky">Keltské jazyky</a></li>
+        <li><a href="#baltské-jazyky">Baltské jazyky</a></li>
+        <li><a href="#ostatní">Ostatní</a></li>
+      </ul>
+    </li>
+    <li><a href="#vývoj-českého-jazyka">Vývoj českého jazyka</a>
+      <ul>
+        <li><a href="#14-stoletínotesschoolczechliteratureliterary-historyczech-medival-literature"><a href="/notes/school/czech/literature/literary-history/czech-medival-literature">14. století</a></a></li>
+        <li><a href="#1-polovina-15-století">1. polovina 15. století</a></li>
+        <li><a href="#humanismus">Humanismus</a></li>
+        <li><a href="#pobělohorské-období">Pobělohorské období</a></li>
+        <li><a href="#národní-obrozená---2-světová-válka">Národní obrozená - 2. světová válka</a></li>
+        <li><a href="#vývoj-jazyka-v-současnosti">Vývoj jazyka v současnosti</a>
+          <ul>
+            <li><a href="#slovní-zásobanotesschoolczechczech-grammarlexicologyvocabulary"><a href="/notes/school/czech/czech-grammar/lexicology/vocabulary">Slovní zásoba</a></a></li>
+            <li><a href="#hláskoslovínotesschoolczechczech-grammarsound-nature-of-a-languagehláska"><a href="/notes/school/czech/czech-grammar/sound-nature-of-a-language#hl%C3%A1ska">Hláskosloví</a></a></li>
+            <li><a href="#tvaroslovínotesschoolczechczech-grammarmorphology"><a href="/notes/school/czech/czech-grammar/morphology/">Tvarosloví</a></a></li>
+            <li><a href="#skladbanotesschoolczechczech-grammarsyntax"><a href="/notes/school/czech/czech-grammar/syntax/">Skladba</a></a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+    </aside>
+
+                
+    <main>
+        <div class="main-title">Vývoj jazyků</div>
+        <div class="main-content"><ul>
+<li>původně existovalo několik <strong>prajazyků</strong>, které se rozštěpily na <strong>jazykové rodiny</strong></li>
+<li>nejrozšířenější jsou jazyky indo-evropské rodiny (rozšířené v kulturní oblasti Indie a Evropy)</li>
+</ul>
+<h1 id="jazykové-skupiny-indo-evropské-jazykové-rodiny">Jazykové skupiny indo-evropské jazykové rodiny</h1>
+<h2 id="indo-íránské-jazyky">Indo-íránské jazyky</h2>
+<ul>
+<li>mluví se jimi v jižní a jihozápadní Asii</li>
+<li>indické jazyky: <em>sakskr, bengálština, romština, hindština</em></li>
+<li>íránské jazyky: <em>kurdština, perština, afgánština</em></li>
+</ul>
+<h2 id="slovanské-jazyky">Slovanské jazyky</h2>
+<ul>
+<li>za společný základ je považována <strong>praslovanština</strong> (její existence je pouze předpokládaná, neboť nemáme písemné důkazy)</li>
+<li>nejstarším doloženým spisovným jazykem je <strong>staroslověnština</strong>
+<ul>
+<li><em>Cyril</em> a <em>Metoděj</em> k nám přinesli její základ v podobě makedonského dialektu jednoho starobulharského jazyka</li>
+<li>písmem byla <strong>hlaholice</strong> a žáci <em>Cyrila</em> a <em>Metoděje</em> ji předělali na <strong>cyrilici</strong></li>
+</ul>
+</li>
+<li>společným znakem všech slovanských jazyků je <em>flexe</em> (ohýbání)</li>
+<li>společné rysy vykazují také v mluvnické stavbě a slovní zásobě</li>
+</ul>
+<h3 id="západoslovanské-jazyky">Západoslovanské jazyky</h3>
+<ul>
+<li>čeština, slovenština, polština, kašubština, lužická srbština (horní a dolní)</li>
+<li>všechny používají latinku</li>
+</ul>
+<h3 id="východoslovanské-jazyky">Východoslovanské jazyky</h3>
+<ul>
+<li>ruština, beloruština, ukrajinština</li>
+<li>všechny používají azbuku</li>
+</ul>
+<h3 id="jihoslovanské-jazyky">Jihoslovanské jazyky</h3>
+<ul>
+<li>slovinština, chorvatština, srbština, makedonština, bulharština</li>
+<li>různá písma</li>
+</ul>
+<h2 id="románské-jazyky">Románské jazyky</h2>
+<ul>
+<li>jižní a jihozápadní Evropa, Amerika</li>
+<li>španělština, francouzština, italština, rumunština,&hellip;</li>
+</ul>
+<h2 id="germánské-jazyky">Germánské jazyky</h2>
+<ul>
+<li>celý svět</li>
+<li>angličtina</li>
+<li>němčina, nizozemština, vlámština, švédština,&hellip;</li>
+</ul>
+<h2 id="keltské-jazyky">Keltské jazyky</h2>
+<ul>
+<li>irština, velština, skotština, (bretonština)</li>
+</ul>
+<h2 id="baltské-jazyky">Baltské jazyky</h2>
+<ul>
+<li>litevština, lotyšština</li>
+</ul>
+<h2 id="ostatní">Ostatní</h2>
+<ul>
+<li>italické jazyky
+<ul>
+<li>historické (většinou zaniklé) jazyky používané v růžných částech Itálie</li>
+</ul>
+</li>
+<li>armenština</li>
+<li>albánština</li>
+<li>řečtina</li>
+<li>maďarština, finština a estonština patří do <strong>ugrofinské jazykové rodiny</strong></li>
+</ul>
+<h1 id="vývoj-českého-jazyka">Vývoj českého jazyka</h1>
+<h2 id="14-stoletínotesschoolczechliteratureliterary-historyczech-medival-literature"><a href="/notes/school/czech/literature/literary-history/czech-medival-literature">14. století</a></h2>
+<ul>
+<li>nastává <strong>první velký rozkvět českého jazyka</strong></li>
+<li>vzniká mnoho jazykových a literárních památek</li>
+<li>čeština se objevuje v oblastech, kde se používala latina</li>
+<li>propracovává se <em>styl vyprávěcí</em> (<em>Dalimilova kronika</em>) a <em>styl odborný</em> (právnické texty)</li>
+<li>některá díla mají mnoho lidových prvků (<em>Mastičkář</em>)</li>
+</ul>
+<h2 id="1-polovina-15-století">1. polovina 15. století</h2>
+<ul>
+<li>čeština už moc nikam neproniká</li>
+<li>úlohy mezi češtinou a latinou jsou rozděleny -&gt; čeština v dílech pro lid a latina v odborných textech</li>
+<li>čeština se stala nástrojem vzdělání</li>
+</ul>
+<h2 id="humanismus">Humanismus</h2>
+<ul>
+<li><strong>další rozkvět</strong></li>
+<li>rozšíření slovní zásoby, zejména přijmáním slov z jiných jazyků</li>
+<li>ustálení mluvnické stavby</li>
+<li>dostatek jazykových prostředků -&gt; umožnění stylistického diferencování</li>
+<li>vznik prvních mluvnic spisovného jazyka</li>
+<li>překlad <em>Bible</em> (<em>Bible kralická</em>) a spisy a slovníky <strong>Daniela Adama Veleslavína</strong> považovány za vrchol jazykového dvoření</li>
+</ul>
+<h2 id="pobělohorské-období">Pobělohorské období</h2>
+<ul>
+<li>postupné <strong>vytlačování češtiny z veřejného jazyka</strong> -&gt; <strong>úpadek</strong></li>
+<li>čeština se udžela zejména na venkově</li>
+</ul>
+<h2 id="národní-obrozená---2-světová-válka">Národní obrozená - 2. světová válka</h2>
+<ul>
+<li>obrození jazyka</li>
+<li><strong>Dobrovský</strong> - <em>Zevrubná mluvnice českého jazyka</em></li>
+<li><strong>Jungmann</strong> - <em>Českoněmecká slovník</em></li>
+<li>mezi světovými jazyky je čeština už vyspělá</li>
+<li>později je ovlivněna ruštinou a angličtinou</li>
+</ul>
+<h2 id="vývoj-jazyka-v-současnosti">Vývoj jazyka v současnosti</h2>
+<ul>
+<li>český jazyk se neustále vyvyjí</li>
+</ul>
+<h3 id="slovní-zásobanotesschoolczechczech-grammarlexicologyvocabulary"><a href="/notes/school/czech/czech-grammar/lexicology/vocabulary">Slovní zásoba</a></h3>
+<ul>
+<li>některá slova se stávají knižními (<em>věru</em> -&gt; <em>opravdu</em>)</li>
+<li>některá slova přecházejí do spisovné češtiny (<em>holka</em>)</li>
+<li>přejímáme z cizích jazyků</li>
+</ul>
+<h3 id="hláskoslovínotesschoolczechczech-grammarsound-nature-of-a-languagehláska"><a href="/notes/school/czech/czech-grammar/sound-nature-of-a-language#hl%C3%A1ska">Hláskosloví</a></h3>
+<ul>
+<li>změny v hláskování se uplatňují především v obecné češtině (mal<strong>ý</strong> -&gt; mal<strong>ej</strong>)</li>
+</ul>
+<h3 id="tvaroslovínotesschoolczechczech-grammarmorphology"><a href="/notes/school/czech/czech-grammar/morphology/">Tvarosloví</a></h3>
+<ul>
+<li>u <a href="/notes/school/czech/czech-grammar/morphology/nouns">podstatných jmen</a> přechod tvarů od vzoru <strong>kost</strong> k vzoru <strong>píseň</strong> (<em>velmocem</em> i <em>velmocím</em>)</li>
+<li>u <a href="/notes/school/czech/czech-grammar/morphology/pronouns">zájmen</a> je spisovný tvar <em>ho</em> vedle <em>jej</em>; spisovný hovorový je tvar <em>mojí</em></li>
+<li>u <a href="/notes/school/czech/czech-grammar/morphology/verbs">sloves</a> jsou spisovné hovorové tvary <em>kryju, kryjou</em> vedle <em>kryji, kryjí</em>; v infinitivu ustupují tvary končící na <em>-ti</em>; vedle <em>sázejí</em> je i tvar <em>sází</em></li>
+<li>ztráta rodu (<strong>ti</strong> malý kluci, <strong>ty</strong> malý kluci)</li>
+<li>prosazování koncovky <em>-ma</em> (s kamarády, s kamaráda<strong>ma</strong>)</li>
+<li>skloňování <a href="/notes/school/czech/czech-grammar/morphology/adjectives">přídavných jmen</a> přivlastňovacích podle tvrdého vzoru (máminu šéfovi, mámin<strong>ému</strong>/mámin<strong>ýmu</strong> šéfovi)</li>
+</ul>
+<h3 id="skladbanotesschoolczechczech-grammarsyntax"><a href="/notes/school/czech/czech-grammar/syntax/">Skladba</a></h3>
+<ul>
+<li>prosazování <a href="/notes/school/czech/czech-grammar/syntax/object">předmětu</a> ve 4. pádě (<em>diskutovat o problému, diskutovat problém</em>)</li>
+<li>neshodné <a href="/notes/school/czech/czech-grammar/syntax/atribute">přívlastky</a> stojící před jménem (<em>Gambrinus liga</em>)</li>
+<li>nesklonná vztážná zájmena (<em>kniha, kterou jsem četl; kniha, co jsem četl</em>)</li>
+</ul>
+</div>
+    </main>
+
+            </div>
+        </div>
+        <footer>
+            <div class="footer-content">
+                <div class="footer-container">
+                    <strong>Petr Geršl</strong>
+                    <div class="footer-item"><a class="footer-link" href="mailto:pgersl05@gmail.com">pgersl05@gmail.com</a></div>
+                    <div class="footer-item"><a class="footer-link" href="tel:+420731347915">+420 731 347 915</a></div>
+                    <div class="footer-item">Brno, CZE</div>
+                </div>
+                <div class="footer-container">
+                    <strong>Explore more:</strong>
+                    
+                        <a href="https://pgersl.xyz" class="footer-link">Hlavní <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                        <a href="https://wiki.pgersl.xyz" class="footer-link">Wiki <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                        <a href="https://music.pgersl.xyz" class="footer-link">Hudba <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                </div>
+                <div class="footer-container">
+                    <strong>Find me:</strong>
+                    <div class="footer-item"><a class="footer-link" href="linkedin.com/in/petr-geršl-9324491a6" target="_blank">LinkedIn</a></div>
+                    <div class="footer-item"><a class="footer-link" href="https://github.com/pgersl" target="_blank">GitHub</a></div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

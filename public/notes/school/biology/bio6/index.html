@@ -1,0 +1,1403 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Kroužkovci</title>
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+        <link rel="manifest" href="/fav/site.webmanifest">
+
+
+        <link rel="stylesheet" type="text/css" href="/css/root.css">
+        <link rel="stylesheet" type="text/css" href="/css/base.css">
+        <link rel="stylesheet" href="/css/single.css">
+
+        <script src="https://kit.fontawesome.com/9ab7bfa7fc.js" crossorigin="anonymous"></script>
+        <script data-goatcounter="https://notespgersl.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>
+            MathJax = {
+                tex: {
+                  inlineMath: [['$', '$'], ['\\(', '\\)']]
+                },
+                svg: {
+                  fontCache: 'global'
+                }
+              };
+
+        </script>
+        <script type="text/javascript" src="/js/site-map.js" defer></script>
+        <script type="text/javascript" src="/js/search.js" defer></script>
+        <script src="/js/toc.js" defer></script>
+
+    </head>
+    <body>
+        <header>Petr Geršl</header>
+        <nav>
+            <div class="nav-content">
+                <div id="nav-links-search">
+                    <div class="nav-links">
+                        <div class="main-nav-links">
+                            <a href="/" class="nav-link">Domů</a>
+                        </div>
+                        <div class="sites-nav-links">
+                            
+                                <a href="https://pgersl.xyz" class="nav-link">Hlavní <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                                <a href="https://wiki.pgersl.xyz" class="nav-link">Wiki <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                                <a href="https://music.pgersl.xyz" class="nav-link">Hudba <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            
+                        </div>
+                    </div>
+                    <div id="nav-search">
+                        <div id="nav-search-bar">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input id="search-input" type="text" placeholder="Hledat...">
+                            <div id="search-results-container">
+                                <div id="search-results"></div>
+                                <div id="not-found-message">
+                                    Jejda...<br>
+                                    Nic nenalezeno!<br>
+                                    Zkuste vyhledat něco jiného.
+                                </div>
+                                <template id="search-result-template">
+                                    <div class="search-result">
+                                        <a class="search-result-title" href=""></a>
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-utils">
+                    <button class="nav-util" id="site-map-toggle"><i class="fa-solid fa-bars"></i></button>
+                    
+    <button class="nav-util" id="toc-toggle"><i class="fa-solid fa-list"></i></button>
+
+                </div>
+            </div>
+        </nav>
+        <div class="flex-container">
+            <aside id="site-map">
+                <div class="aside-title">Poznámky</div>
+                <div class="site-map-content">
+                    
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Český jazyk</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Mluvnice</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Úvod do mluvnice</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/speech-and-language/" class="note-link">Řeč a jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/evolution-of-languages/" class="note-link">Vývoj jazyků</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/national-language/" class="note-link">Národní jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/czech-dialects/" class="note-link">Dialekty</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/czech-formal-language/" class="note-link">Spisovný jazyk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/introduction-to-czech-grammar/standard-and-codification/" class="note-link">Norma a kodifikace</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/sound-nature-of-a-language/" class="note-link">Zvuková stránka jazyka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/graphical-nature-of-a-language/" class="note-link">Grafická stránka jazyka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/correct-spelling/" class="note-link">Pravopis</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Morfologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/nouns/" class="note-link">Podstatná jména</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/adjectives/" class="note-link">Přídavná jména</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/pronouns/" class="note-link">Zájmena</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/numerals/" class="note-link">Číslovky</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/verbs/" class="note-link">Slovesa</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/adverbs/" class="note-link">Příslovce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/conjunctions/" class="note-link">Spojky</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/grammatical-particles/" class="note-link">Částice</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/morphology/interjections/" class="note-link">Citoslovce</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Syntax</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/introduction-to-syntax/" class="note-link">Úvod do syntaxe</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/sentence-types/" class="note-link">Druhy vět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/negation/" class="note-link">Zápor</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/word-relationships-in-a-sentence/" class="note-link">Vztahy mezi slovy ve větě</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/subject/" class="note-link">Podmět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/predicate/" class="note-link">Přísudek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/object/" class="note-link">Předmět</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/adverbials/" class="note-link">Příslovečné určení</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/atribute/" class="note-link">Přívlastek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/atribut-verbale/" class="note-link">Doplněk</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/apposition/" class="note-link">Přístavek</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/expressions-that-are-not-constituents/" class="note-link">Výrazy, které nejsou větnými členy</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/other-types-of-constituents/" class="note-link">Další typy větných členů</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/complex-sentences/" class="note-link">Souvětí</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/hypotaxis/" class="note-link">Souvětí podřadné</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/syntax/parataxis/" class="note-link">Souvětí souřadné</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Lexikologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/introduction-to-lexicology/" class="note-link">Úvod do lexikologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/word-formation/" class="note-link">Slovotvorba</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/semantics/" class="note-link">Sémantika</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/czech-grammar/lexicology/vocabulary/" class="note-link">Slovní zásoba</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literatura</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/introduction-to-literature/" class="note-link">Úvod do literatury</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literární teorie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/stylistic-devices/" class="note-link">Figury a tropy</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/composition-of-prose-and-poetry/" class="note-link">Kompozice prózy a poezie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-theory/tools-of-poetry/" class="note-link">Nástroje poezie</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Literární historie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-mesopotamia/" class="note-link">Literatura starověké Mezopotamie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-egypt/" class="note-link">Literatura starověkého Egypta</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-india/" class="note-link">Literatura starověké Indie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-china/" class="note-link">Literatura starověké Číny</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-arabia/" class="note-link">Literatura starověké Arábie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-israel/" class="note-link">Literatura starověkého Izraele</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-greece/" class="note-link">Literatura starověkého Řecka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/ancient-literature-of-rome/" class="note-link">Literatura starověkého Říma</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/medival-literature/" class="note-link">Středověká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/czech-medival-literature/" class="note-link">Česká středověká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-renaissance-era/" class="note-link">Renesanční literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-baroque-era/" class="note-link">Barokní literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-classical-era/" class="note-link">Klasicistní literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-romantic-period/" class="note-link">Romantická literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/national-awakening/" class="note-link">Literatura národního obrození</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/post-national-awakening/" class="note-link">Postobrozenecká literatura</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-of-the-realist-period/" class="note-link">Literatura realismu</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/modern-literary-styles/" class="note-link">Literární moderna</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/czech-modern-literature/" class="note-link">Česká moderna a dekadence</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/literature/literary-history/literature-between-wars/" class="note-link">Meziválečná literatura</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Sloh</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/introduction-to-stylistics/" class="note-link">Úvod do slohu</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/description/" class="note-link">Popis</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/story/" class="note-link">Vypravování</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/czech/stylistics/journalistic-style/" class="note-link">Publicistický funkční styl</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Biologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/properties-of-living-organisms/" class="note-link">Vlastnosti živých organismů</a></span>
+            
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Buňka</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/prokaryotic-cell/" class="note-link">Prokaryotická buňka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/eukaryotic-cell/" class="note-link">Eukaryotická buňka</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/cell-organels/" class="note-link">Buněčné organely</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/matter-tranfer-through-cell-membrane/" class="note-link">Transport látek přes buněčné membrány</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/osmotic-processes-in-cells/" class="note-link">Osmotické procesy v buňce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/water-and-living-organisms/" class="note-link">Vodní režim</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Rostliny</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/vegetal-tissue/" class="note-link">Rostlinná pletiva</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/plant-parts/" class="note-link">Rostlinné orgány</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/system-of-plants/" class="note-link">Systém rostlin</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Živočichové</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio2/" class="note-link">Mnohobuněčné organismy, Houbovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio3/" class="note-link">Žahavci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio4/" class="note-link">Ploštěnci, hlísti, vířnici</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio5/" class="note-link">Měkkýši</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio6/" class="note-link">Kroužkovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio7/" class="note-link">Členovci</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio8/" class="note-link">Obojživelníci a plazi</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio9/" class="note-link">Ptáci a savci</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Člověk</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio10/" class="note-link">Kosterní soustava</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/biology/bio11/" class="note-link">Svalová a oběhová soustava</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Základy společenských věd</button>
+    <div class="section-content">
+        
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Psychologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-psychology/" class="note-link">Úvod do psychologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/general-psychology/" class="note-link">Obecná psychologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/socialisation/" class="note-link">Socializace</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/social-perception/" class="note-link">Sociální percepce</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/opinions/" class="note-link">Postoje</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/communication/" class="note-link">Komunikace</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Právo</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-law/" class="note-link">Úvod do práva</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/constitution/" class="note-link">Ústava</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/criminal-law/" class="note-link">Trestní právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/civil-law/" class="note-link">Občanské právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/labour-law/" class="note-link">Pracovní právo</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/family-law/" class="note-link">Rodinné právo</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Sociologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-sociology/" class="note-link">Úvod do sociologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/theories-of-society/" class="note-link">Teorie společnosti</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/history-of-sociology/" class="note-link">Historie sociologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/current-society/" class="note-link">Současná společnost</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/sociology-terms/" class="note-link">Terminologie sociologie</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+            
+            
+                <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Politologie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/introduction-to-politology/" class="note-link">Úvod do politologe</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/history-of-politology/" class="note-link">Historie politologie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/social-sciences/theory-of-state/" class="note-link">Státověda</a></span>
+            
+            
+        
+    </div>
+</section>
+            
+        
+    </div>
+</section>
+                    
+                        <section class="site-map-section">
+    
+    <button class="section-button">	&bull; Základy ekonomie</button>
+    <div class="section-content">
+        
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/introduction-to-economics/" class="note-link">Úvod do ekonomie</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/market-economy/" class="note-link">Tržní ekonomnika</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/entrepreneurship/" class="note-link">Podnikání</a></span>
+            
+            
+        
+            
+            <span>&#8226; <a href="/notes/school/economics/banking/" class="note-link">Bankovnictví</a></span>
+            
+            
+        
+    </div>
+</section>
+                    
+                </div>
+            </aside>
+            <div id="main-toc">
+                
+    <aside id="toc">
+        <div class="aside-title">Obsah</div>
+        <nav id="TableOfContents">
+  <ul>
+    <li><a href="#obecná-charakteristika">Obecná charakteristika</a></li>
+    <li><a href="#mnohoštětnatci-_polychatea_">Mnohoštětnatci (<em>Polychatea</em>)</a>
+      <ul>
+        <li><a href="#stavba-těla">Stavba těla</a></li>
+        <li><a href="#rozmnožování">Rozmnožování</a></li>
+        <li><a href="#zástupci">Zástupci</a></li>
+      </ul>
+    </li>
+    <li><a href="#opaskovci-_clitellata_">Opaskovci (<em>Clitellata</em>)</a>
+      <ul>
+        <li><a href="#máloštětinatci-_oligochaeta_">Máloštětinatci (<em>Oligochaeta</em>)</a>
+          <ul>
+            <li><a href="#žížala-obecná-_lumbricus-terrestris_">Žížala obecná (<em>Lumbricus terrestris</em>)</a></li>
+            <li><a href="#další-zástupci">Další zástupci</a></li>
+          </ul>
+        </li>
+        <li><a href="#pijavice">Pijavice</a>
+          <ul>
+            <li><a href="#trávicí-soustava-1">Trávicí soustava</a></li>
+            <li><a href="#rozmnožování-2">Rozmnožování</a></li>
+            <li><a href="#zástupci-1">Zástupci</a></li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li><a href="#drápkovci-_onychophora_">Drápkovci (<em>Onychophora</em>)</a></li>
+  </ul>
+</nav>
+    </aside>
+
+                
+    <main>
+        <div class="main-title">Kroužkovci</div>
+        <div class="main-content"><h1 id="obecná-charakteristika">Obecná charakteristika</h1>
+<ul>
+<li>mají vytvořenu druhotnou dutinu tělní - <em>coelom</em></li>
+<li>vykazují vnější i vnitří segmentaci</li>
+<li>mají vyvinuté speciální pohybové ústrojí
+<ul>
+<li>u starších druhů jsou to <em>parapodia</em></li>
+<li>pokročilejší druhy mají článkované končetiny</li>
+</ul>
+</li>
+<li>segmentace jejich těla je stejnocenná - <em>homonomní</em>
+<ul>
+<li>všechny články jsou podobně velké</li>
+</ul>
+</li>
+<li>s výjimkou prvního a posledního článku vypadají všechny články stejně</li>
+<li>v předné části těla se soustřeďuje smyslové ústrojí - <em>prostomium</em>
+<ul>
+<li>to platí obzvláště u plovouvích forem</li>
+<li>vzniká zde mozkové ganglium</li>
+<li>proces přetváření se nazývá <em>cefalizace</em></li>
+</ul>
+</li>
+<li>v zadní části srůstají poslední články v <em>pygidium</em></li>
+<li>některé orgány se v těle opakují v každém článku
+<ul>
+<li>jsou to nervové uzliny, pohlavní orgány i s vývody, vylučovací ústrojí a parapodia</li>
+</ul>
+</li>
+<li>jiné orgány prostupují celým tělem
+<ul>
+<li>například cévní nebo trávicí soustava</li>
+</ul>
+</li>
+<li>vnitřní segmentací se vyvinul třetí zárodečnáý list - <em>mezoderm</em>
+<ul>
+<li>jednotlivé články jsou odděleny blanitou přepážkou - <em>disepiment</em></li>
+</ul>
+</li>
+</ul>
+<h1 id="mnohoštětnatci-_polychatea_">Mnohoštětnatci (<em>Polychatea</em>)</h1>
+<ul>
+<li>obývají mělká šelfová moře</li>
+<li>důkazem jejich starobylosti jsou fosilní nálezy
+<ul>
+<li>pochází z kambria</li>
+</ul>
+</li>
+<li>živí se dravě nebo planktonem</li>
+</ul>
+<h2 id="stavba-těla">Stavba těla</h2>
+<ul>
+<li>kromě hlavy a pygidia mají mnoho stejnocenných článků
+<ul>
+<li>na bocích každého z nich se nacházejí specializované pohybové buňky - <em>parapodia</em></li>
+<li>na parapodiích jsou nahoře žábry</li>
+<li>pod žábrami jsou umístěné hmatové buňky</li>
+</ul>
+</li>
+<li>na povrchu jejich těla je jednovrstevná pokožka
+<ul>
+<li>u většiny druhu plní dýchací funkci, ale některé k tomu kombinují také žábry</li>
+</ul>
+</li>
+<li>pod pokožkou je umístěn svalový vak</li>
+<li><strong>cévní osustava</strong> je uzavřená
+<ul>
+<li>krev je narůžovělá
+<ul>
+<li>vlivem přítomnosti barviva <em>chlorocruorinu</em> může mít také smaragdově zelenou barvu</li>
+</ul>
+</li>
+<li>krev je vedena tepající hřbetní cévou k přídi těla a břišní tepající cévou opačně</li>
+</ul>
+</li>
+<li>vylučují metanefridiemi</li>
+<li><strong>nervová soustava</strong> je gangliová žebříčkovitého typu
+<ul>
+<li>je uložena na břišní straně těla ve dvou pásech nervů</li>
+<li>v každém článku je pár ganglií</li>
+<li>dojde-li ke srůstu tohoto páru, hovoříme o břišní nervové pásce</li>
+</ul>
+</li>
+</ul>
+<h2 id="rozmnožování">Rozmnožování</h2>
+<ul>
+<li>jsou to gonochoristé s nepřímým vývojem</li>
+<li>z oplozeného vajíčka mnohoštětnatců se líhne larva přilbovitého tvaru
+<ul>
+<li><em>trochofora</em></li>
+<li>na obvodu mají dva věnce brv a mezi nimi ústní otvor</li>
+</ul>
+</li>
+<li>pokročilejším  stádiem larvy je <em>metatrochofora</em>
+<ul>
+<li>začínají v ní narůstat tělní čánky</li>
+<li>jakmile články dorostou, vývoj je dokončen</li>
+</ul>
+</li>
+<li>rozmnožování může probíhat také nepohlavně rozpadem vícesegmentového těla ve dva menší jedince, kteří růstem dospívají - <em>fisiparie</em></li>
+</ul>
+<h2 id="zástupci">Zástupci</h2>
+<ul>
+<li><em>nereidka hnědá</em>
+<ul>
+<li>je nejznámější</li>
+<li>žije pelagicky</li>
+<li>dorůstá délky 10 cm</li>
+<li>je dravá
+<ul>
+<li>má dobře vyvinutá kusadla</li>
+<li>šlápnutí na ni jě obvykle bolestivé</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><em>pískovník rybářský</em>
+<ul>
+<li>žije zahrabaný v písku u pobřeží</li>
+<li>živí se organickámi zbytky v písku</li>
+<li>rybáři jej používají jako návnadu</li>
+</ul>
+</li>
+<li><em>palolo zelený</em>
+<ul>
+<li>žije v Tichém a Indickém oceánu</li>
+<li>v období rozmnožování zůtává část těla na útesu a zadní část s vajíčky a spermiemi vyplouvá na hladinu
+<ul>
+<li>části chránící vajíčka postupně praskají a oplodňují se</li>
+<li>část těla, která zůstala na útesu dorůstá</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><em>afroditka plsnatá</em>
+<ul>
+<li>&ldquo;<em>mořská myš</em>&rdquo;</li>
+<li>žije v evropských mořách</li>
+<li>dorůstá délky asi 15 cm</li>
+<li>je jedovatá
+<ul>
+<li>tělo je pokrytu hustými štětinami</li>
+<li>štětiny mohou být barevné</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><em>rournatec vějířový</em>
+<ul>
+<li>žije přisedle v rourkách
+<ul>
+<li>vystrukuje pouze vějířovitá tykadla</li>
+<li>tykadla jsou obvykle barevná</li>
+</ul>
+</li>
+<li>živí se mikroskopickou potravou</li>
+<li>je hojný</li>
+</ul>
+</li>
+</ul>
+<h1 id="opaskovci-_clitellata_">Opaskovci (<em>Clitellata</em>)</h1>
+<ul>
+<li>nevytvářejí parapodia</li>
+<li>v přední části těla mají nápadně zduřelé tělní články s kožními žlázami
+<ul>
+<li>této části se říká <em>opasek</em></li>
+<li>jeho výměšky spojení jedinců a přenos jedinců a spermií</li>
+</ul>
+</li>
+</ul>
+<h2 id="máloštětinatci-_oligochaeta_">Máloštětinatci (<em>Oligochaeta</em>)</h2>
+<ul>
+<li>příčný řez jejich těla je kruhový</li>
+<li>příď je sbíhavá
+<ul>
+<li>je na ní také člení lalok, který vybíhá v hmatový prstík</li>
+</ul>
+</li>
+<li>záď je plošší a zaoblená</li>
+</ul>
+<h3 id="žížala-obecná-_lumbricus-terrestris_">Žížala obecná (<em>Lumbricus terrestris</em>)</h3>
+<ul>
+<li>na bocích každého článku má čtyři páry štětinek</li>
+<li>hřbetní strana je klenutější a tmavší než břišní strana</li>
+<li>na hřbetě žížaly prosvítá hřbetní céva</li>
+<li>na každém článku jsou 4 páry štětin, které umožňují pohyb</li>
+<li>má jednovrstevnou pokožku
+<ul>
+<li>je vlhká a bohatě prokrvená</li>
+<li>plní také dýchací funkci</li>
+<li>obsahuje mnoho hmatových a světličivých buněk - <em>faosomy</em> - a mechanoreceptorů</li>
+<li>pokožka vylučuje ochranou kutikulu</li>
+</ul>
+</li>
+<li>rozlišuje světlo a tmu
+<ul>
+<li>je fotofobní</li>
+</ul>
+</li>
+<li>je u nich vyvinuta dobrá schopnost regenerace</li>
+<li>svou činností převrtává a převrstvuje půdu
+<ul>
+<li>přispívá tak k zúrodňování půdy a její ekologický význam je veliký</li>
+<li>provětrávají a nakypřují půdu</li>
+</ul>
+</li>
+<li>je součástí potravního řetězce</li>
+<li>živí se oranickými zbytky v půdě
+<ul>
+<li>jejich rozklad na látky anorganické vede ke vzniku humusu</li>
+</ul>
+</li>
+</ul>
+<h4 id="trávicí-soustava">Trávicí soustava</h4>
+<ul>
+<li>trávicí trubice prochází celým tělem
+<ul>
+<li>začíná ústy a končí řitním otvorem v posledním článku</li>
+</ul>
+</li>
+<li>po stranách žláznatého žaldku má vápenaté žlázy
+<ul>
+<li>slouží k neutralizaci huminových kyselin, které jsou složkou tlejících listů
+<ul>
+<li>tvoří hlavní část potravy</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>trávicí soustavou může v krátkém čase projít relativně velké množství potravy
+<ul>
+<li>má velmi nízkou nutriční hodnotu</li>
+</ul>
+</li>
+<li>dokonalejší využití potravy zajišťuje epiteliální řasa <em>tyflosolis</em>
+<ul>
+<li>ční do dutiny střeva</li>
+</ul>
+</li>
+<li>střevo žížaly je obaleno ekxrečním epitelem - <em>chloragogenní epitel</em>
+<ul>
+<li>jeho buňky hromadí tělu škodlivé látky</li>
+<li>po odloupnutí opouštějí tělo metanefridiemi</li>
+</ul>
+</li>
+<li>vylučování probíhá metanefridiemi, které jsou na kažném článku
+<ul>
+<li>připomíná obrvenou nálevku a prostupuje vinutým kanálkem do článku následujícího</li>
+</ul>
+</li>
+</ul>
+<h4 id="cévní-soustava">Cévní soustava</h4>
+<ul>
+<li>je uzavřená</li>
+<li>jejich krev je červená a obsahuje krevní barvivo hemoglobin</li>
+<li>krev je uváděna do pohybu hřbetní cévou</li>
+<li>cévní systém se bohatě větví v síti podkožních vlásečnic
+<ul>
+<li>dýchají tak celým povrchem těla</li>
+</ul>
+</li>
+</ul>
+<h4 id="nervová-soustava">Nervová soustava</h4>
+<ul>
+<li>je gangliová žebříčkovitého typu</li>
+<li>prostupuje břišní částí těla</li>
+</ul>
+<h4 id="rozmnožování-1">Rozmnožování</h4>
+<ul>
+<li>v přední části se z metanefriií vyvinuly vývodné pohlavní cesty
+<ul>
+<li>chámovody a vejcovody</li>
+</ul>
+</li>
+<li>jsou to hermafroditi</li>
+<li>spermie získané při kopulaci ukládají ve váčku do dozrání vlastních vajíček</li>
+<li>v desátém a jedenáctem článku mají po jednom páru varlat</li>
+<li>ve třináctém článku je párový vaječník ustící do čtrnáctého článku</li>
+<li>kolem svých nakladených oplozených vajíček z opasku vylučují tuhnoucí sekret
+<ul>
+<li>vzniká kokon, který je poté stažen přes příď</li>
+</ul>
+</li>
+<li>žížala má vývoj přímý</li>
+</ul>
+<h3 id="další-zástupci">Další zástupci</h3>
+<ul>
+<li><em>žížala hnojní</em>
+<ul>
+<li>používá se k ekologickému zpracování komunálního odpadu - <em><a href="https://en.wikipedia.org/wiki/Vermicompost">vermikompost</a></em></li>
+</ul>
+</li>
+<li><em>žížala podhorská</em>
+<ul>
+<li>žije v trouchnivějících pařezech v horských oblastech</li>
+<li>je nápadná svým tmavým světélkujícím slizem</li>
+</ul>
+</li>
+<li><em>žížala rousnice</em></li>
+<li><em>potočnice račí</em>
+<ul>
+<li>parazituje na žábrech raků</li>
+</ul>
+</li>
+<li><em>nitěnka obecná</em>
+<ul>
+<li>žije v zabahněných tocích</li>
+<li>ze své rourky v bahně vystrkuje pouze záď, kteoru pohybuje do stran</li>
+<li>je oblíbeným krmivem akvarijních rybek</li>
+</ul>
+</li>
+<li><em>roupnice obecná</em>
+<ul>
+<li>žije v půdě</li>
+<li>je mikroskopická</li>
+</ul>
+</li>
+<li><em>naidky</em>
+<ul>
+<li>žijí ve vodě a v bahně</li>
+<li>živí se jimi ryby</li>
+</ul>
+</li>
+</ul>
+<h2 id="pijavice">Pijavice</h2>
+<ul>
+<li>v příčném řezu jsou shora mírně zploštělé</li>
+<li>jejich povrchová segmentace je výrazně zmnožená
+<ul>
+<li>na jeden tělní článek připadají 3 - 14 kožních zářezů</li>
+</ul>
+</li>
+<li>mají dvě přísavky
+<ul>
+<li>první navazuje na trávicí trubici</li>
+<li>zadní pouze přichytává</li>
+</ul>
+</li>
+<li>jsou to ektoparazité nebo predátoři sladkovodních živočichů</li>
+<li>jejich tělesná ústrojnost je v porovnání s žížalami jednodušší</li>
+<li>jejich tělo se směrem k zádi rozšiřuje</li>
+<li>cévní a nervová soustava jsou podobné těm žížalým</li>
+<li>dýchají celým povrchem těla</li>
+<li>nemají příliš dobrou regenerační schopnost</li>
+<li>pohybují se piďalkovitě přísavkami nebo vlněním přímo ve vodě</li>
+</ul>
+<h3 id="trávicí-soustava-1">Trávicí soustava</h3>
+<ul>
+<li>uprostřed přední přísavky jsou chitinové čelisti
+<ul>
+<li>je jimi narušována pokožka hostitele</li>
+</ul>
+</li>
+<li>za ústy je svalnatý hltan
+<ul>
+<li>ústí do něj žlázky vylučující hirudin
+<ul>
+<li>zabraňuje srážení krve</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>střevo pijavek má vychlipeniny, ve kterých se usazuje krev hostitele
+<ul>
+<li>žijí v nich také symbiotické mikroorganismy
+<ul>
+<li>konzervují krev</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>řitní otvor vyúsťuje nad zadní přísavku</li>
+<li>vylučuje metanefridiemi</li>
+</ul>
+<h3 id="rozmnožování-2">Rozmnožování</h3>
+<ul>
+<li>jsou to hermafroditi</li>
+<li>oplozená vajíčka jsou kladena v kokonech na vodní rostliny nebo do vlhkého bahnana břehu</li>
+<li>jejich vývoj je přímý</li>
+</ul>
+<h3 id="zástupci-1">Zástupci</h3>
+<ul>
+<li><em>pijavka lékařská</em>
+<ul>
+<li>má černohnědočervenou kresbu hřbetu a světlé černě skvrnité břicho</li>
+<li>ve středověku se používala k odsávání krve nemocným
+<ul>
+<li>docházelo při tom často k druhotným infekcím hnisavými bakteriemi</li>
+</ul>
+</li>
+<li>dnes se používá ke zprůchodňování cév při amputaci končetin</li>
+</ul>
+</li>
+<li><em>pijavka koňská</em>
+<ul>
+<li>je predátorem</li>
+<li>živí se drobným hmyzem a měkkýši</li>
+</ul>
+</li>
+<li><em>pijavka bahenní</em>
+<ul>
+<li>žije pod kameny ve vodě</li>
+</ul>
+</li>
+<li><em>hltanovka bahenní</em></li>
+<li><em>chobotnatka rybí</em>
+<ul>
+<li>je přenašečem krevních parazitů ryb</li>
+</ul>
+</li>
+</ul>
+<h1 id="drápkovci-_onychophora_">Drápkovci (<em>Onychophora</em>)</h1>
+<ul>
+<li>vyvinuly se z mnohoštětnatců přizpůsobením se na život mimo vodu</li>
+<li><strong>Společné znaky mnohoštětnatců a drápkovců</strong>:
+<ul>
+<li>homonomně článkované tělo</li>
+<li>souvislý podkožní třívrstevný svalový vak</li>
+<li>typ nervové soustavy</li>
+<li>segmentální uspořádání metanefridií</li>
+<li>váčkovitá očka</li>
+<li>rovné střevo</li>
+</ul>
+</li>
+<li><strong>Odlišné znaky mnohoštětnatců a drápkovců</strong>:
+<ul>
+<li>na povrchu těla mají komolcovité panožky</li>
+<li>povrch těla je z chitinu</li>
+<li>rozvijí se u nich vzdušnice</li>
+<li>přední páry metanefridií se přeměnily na slinné žlázy a článkovaná tykadla</li>
+</ul>
+</li>
+<li>jsou to noční živočichové</li>
+<li>žijí v tlející organické hmotě pralesů tropického pásma</li>
+<li>živí se dravě
+<ul>
+<li>kořisti se zmocňují vystříknutím lepkavého sekretu slinných a makadlových žláz</li>
+<li>znehybní tak drobný hmyz</li>
+</ul>
+</li>
+<li>jsou to gonochoristé a jsou živorodí
+<ul>
+<li>jejich mláďata jsou pohyblivá a nepigmentovaná</li>
+<li>při každém svlé přibývá článku a panožek</li>
+<li>jejich vývoj se označuje jako <em>anamorfóza</em></li>
+<li>dospívají ve dvou letech</li>
+</ul>
+</li>
+<li>přispěli k doměnce, že členovci se mohli podobně vyvinout z mnohoštětnatců, ale drápkovic sami nejsou mezičlánkem vývoje</li>
+</ul>
+</div>
+    </main>
+
+            </div>
+        </div>
+        <footer>
+            <div class="footer-content">
+                <div class="footer-container">
+                    <strong>Petr Geršl</strong>
+                    <div class="footer-item"><a class="footer-link" href="mailto:pgersl05@gmail.com">pgersl05@gmail.com</a></div>
+                    <div class="footer-item"><a class="footer-link" href="tel:+420731347915">+420 731 347 915</a></div>
+                    <div class="footer-item">Brno, CZE</div>
+                </div>
+                <div class="footer-container">
+                    <strong>Explore more:</strong>
+                    
+                        <a href="https://pgersl.xyz" class="footer-link">Hlavní <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                        <a href="https://wiki.pgersl.xyz" class="footer-link">Wiki <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                        <a href="https://music.pgersl.xyz" class="footer-link">Hudba <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    
+                </div>
+                <div class="footer-container">
+                    <strong>Find me:</strong>
+                    <div class="footer-item"><a class="footer-link" href="linkedin.com/in/petr-geršl-9324491a6" target="_blank">LinkedIn</a></div>
+                    <div class="footer-item"><a class="footer-link" href="https://github.com/pgersl" target="_blank">GitHub</a></div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>
