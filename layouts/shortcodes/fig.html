@@ -1,0 +1,8 @@
+<figure>
+    <a class="img-link" href="{{.Get "src"}}" target="_blank">
+        <img src="{{.Get "src"}}" alt="{{with .Get "alt"}}{{.}}{{end}}">
+    </a>
+    <figcaption>
+        {{with .Get "cap"}}{{.}}{{else}}{{with .Get "alt"}}{{.}}{{end}}{{end}}
+    </figcaption>
+</figure>

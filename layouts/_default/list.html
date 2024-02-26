@@ -1,0 +1,14 @@
+{{define "title"}}<title>{{.Title}}</title>{{end}}
+{{define "main"}}
+    <main>
+        <div class="main-title">{{.Title}}</div>
+        <div class="main-content">
+            <p>V {{.Title}}:</p>
+            <ul>
+                {{range .Pages}}
+                    <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
+                {{end}}
+            </ul>
+        </div>
+    </main>
+{{end}}

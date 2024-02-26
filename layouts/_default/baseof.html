@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        {{block "title" .}}{{end}}
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/fav/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/fav/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/fav/favicon-16x16.png">
+        <link rel="manifest" href="/fav/site.webmanifest">
+
+
+        <link rel="stylesheet" type="text/css" href="/css/root.css">
+        <link rel="stylesheet" type="text/css" href="/css/base.css">
+        {{block "styles" .}}{{end}}
+
+        <script src="https://kit.fontawesome.com/9ab7bfa7fc.js" crossorigin="anonymous"></script>
+        <script data-goatcounter="https://notespgersl.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+        <script>
+            MathJax = {
+                tex: {
+                  inlineMath: [['$', '$'], ['\\(', '\\)']]
+                },
+                svg: {
+                  fontCache: 'global'
+                }
+              };
+
+        </script>
+        <script type="text/javascript" src="/js/site-map.js" defer></script>
+        <script type="text/javascript" src="/js/search.js" defer></script>
+        {{block "scripts" .}}{{end}}
+
+    </head>
+    <body>
+        <header>Petr Geršl</header>
+        <nav>
+            <div class="nav-content">
+                <div id="nav-links-search">
+                    <div class="nav-links">
+                        <div class="main-nav-links">
+                            <a href="/" class="nav-link">Domů</a>
+                        </div>
+                        <div class="sites-nav-links">
+                            {{range .Site.Menus.sites}}
+                                <a href="{{.URL}}" class="nav-link">{{.Name}} <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                            {{end}}
+                        </div>
+                    </div>
+                    <div id="nav-search">
+                        <div id="nav-search-bar">
+                            <i class="fa-solid fa-magnifying-glass"></i>
+                            <input id="search-input" type="text" placeholder="Hledat...">
+                            <div id="search-results-container">
+                                <div id="search-results"></div>
+                                <div id="not-found-message">
+                                    Jejda...<br>
+                                    Nic nenalezeno!<br>
+                                    Zkuste vyhledat něco jiného.
+                                </div>
+                                <template id="search-result-template">
+                                    <div class="search-result">
+                                        <a class="search-result-title" href=""></a>
+                                    </div>
+                                </template>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="nav-utils">
+                    <button class="nav-util" id="site-map-toggle"><i class="fa-solid fa-bars"></i></button>
+                    {{block "nav-utils" .}}{{end}}
+                </div>
+            </div>
+        </nav>
+        <div class="flex-container">
+            <aside id="site-map">
+                <div class="aside-title">Poznámky</div>
+                <div class="site-map-content">
+                    {{$pages := where .Site.Pages ".Params.section" ""}}
+                    {{range sort $pages "Params.weight"}}
+                        {{partial "site-map-section.html" .}}
+                    {{end}}
+                </div>
+            </aside>
+            <div id="main-toc">
+                {{block "toc" .}}{{end}}
+                {{block "main" .}}{{end}}
+            </div>
+        </div>
+        <footer>
+            <div class="footer-content">
+                <div class="footer-container">
+                    <strong>Petr Geršl</strong>
+                    <div class="footer-item"><a class="footer-link" href="mailto:pgersl05@gmail.com">pgersl05@gmail.com</a></div>
+                    <div class="footer-item"><a class="footer-link" href="tel:+420731347915">+420 731 347 915</a></div>
+                    <div class="footer-item">Brno, CZE</div>
+                </div>
+                <div class="footer-container">
+                    <strong>Explore more:</strong>
+                    {{range .Site.Menus.sites}}
+                        <a href="{{.URL}}" class="footer-link">{{.Name}} <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+                    {{end}}
+                </div>
+                <div class="footer-container">
+                    <strong>Find me:</strong>
+                    <div class="footer-item"><a class="footer-link" href="linkedin.com/in/petr-geršl-9324491a6" target="_blank">LinkedIn</a></div>
+                    <div class="footer-item"><a class="footer-link" href="https://github.com/pgersl" target="_blank">GitHub</a></div>
+                </div>
+            </div>
+        </footer>
+    </body>
+</html>

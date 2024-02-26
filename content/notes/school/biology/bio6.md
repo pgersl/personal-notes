@@ -1,0 +1,238 @@
+---
+title: "Kroužkovci"
+layout: single
+type: note
+section: "Živočichové"
+weight: 5
+---
+# Obecná charakteristika
+- mají vytvořenu druhotnou dutinu tělní - _coelom_
+- vykazují vnější i vnitří segmentaci
+- mají vyvinuté speciální pohybové ústrojí
+    - u starších druhů jsou to _parapodia_
+    - pokročilejší druhy mají článkované končetiny
+- segmentace jejich těla je stejnocenná - _homonomní_
+    - všechny články jsou podobně velké
+- s výjimkou prvního a posledního článku vypadají všechny články stejně
+- v předné části těla se soustřeďuje smyslové ústrojí - _prostomium_
+    - to platí obzvláště u plovouvích forem
+    - vzniká zde mozkové ganglium
+    - proces přetváření se nazývá _cefalizace_
+- v zadní části srůstají poslední články v _pygidium_
+- některé orgány se v těle opakují v každém článku
+    - jsou to nervové uzliny, pohlavní orgány i s vývody, vylučovací ústrojí a parapodia
+- jiné orgány prostupují celým tělem
+    - například cévní nebo trávicí soustava
+- vnitřní segmentací se vyvinul třetí zárodečnáý list - _mezoderm_
+    - jednotlivé články jsou odděleny blanitou přepážkou - _disepiment_
+# Mnohoštětnatci (_Polychatea_)
+- obývají mělká šelfová moře
+- důkazem jejich starobylosti jsou fosilní nálezy
+    - pochází z kambria
+- živí se dravě nebo planktonem
+## Stavba těla
+- kromě hlavy a pygidia mají mnoho stejnocenných článků
+    - na bocích každého z nich se nacházejí specializované pohybové buňky - _parapodia_
+    - na parapodiích jsou nahoře žábry
+    - pod žábrami jsou umístěné hmatové buňky
+- na povrchu jejich těla je jednovrstevná pokožka
+    - u většiny druhu plní dýchací funkci, ale některé k tomu kombinují také žábry
+- pod pokožkou je umístěn svalový vak
+- **cévní osustava** je uzavřená
+    - krev je narůžovělá
+        - vlivem přítomnosti barviva _chlorocruorinu_ může mít také smaragdově zelenou barvu
+    - krev je vedena tepající hřbetní cévou k přídi těla a břišní tepající cévou opačně
+- vylučují metanefridiemi
+- **nervová soustava** je gangliová žebříčkovitého typu
+    - je uložena na břišní straně těla ve dvou pásech nervů
+    - v každém článku je pár ganglií
+    - dojde-li ke srůstu tohoto páru, hovoříme o břišní nervové pásce
+## Rozmnožování
+- jsou to gonochoristé s nepřímým vývojem
+- z oplozeného vajíčka mnohoštětnatců se líhne larva přilbovitého tvaru
+    - _trochofora_
+    - na obvodu mají dva věnce brv a mezi nimi ústní otvor
+- pokročilejším  stádiem larvy je _metatrochofora_
+    - začínají v ní narůstat tělní čánky
+    - jakmile články dorostou, vývoj je dokončen
+- rozmnožování může probíhat také nepohlavně rozpadem vícesegmentového těla ve dva menší jedince, kteří růstem dospívají - _fisiparie_
+## Zástupci
+- _nereidka hnědá_
+    - je nejznámější
+    - žije pelagicky
+    - dorůstá délky 10 cm
+    - je dravá
+        - má dobře vyvinutá kusadla
+        - šlápnutí na ni jě obvykle bolestivé
+- _pískovník rybářský_
+    - žije zahrabaný v písku u pobřeží
+    - živí se organickámi zbytky v písku
+    - rybáři jej používají jako návnadu
+- _palolo zelený_
+    - žije v Tichém a Indickém oceánu
+    - v období rozmnožování zůtává část těla na útesu a zadní část s vajíčky a spermiemi vyplouvá na hladinu
+        - části chránící vajíčka postupně praskají a oplodňují se
+        - část těla, která zůstala na útesu dorůstá 
+- _afroditka plsnatá_
+    - "_mořská myš_"
+    - žije v evropských mořách
+    - dorůstá délky asi 15 cm
+    - je jedovatá
+        - tělo je pokrytu hustými štětinami
+        - štětiny mohou být barevné
+- _rournatec vějířový_
+    - žije přisedle v rourkách
+        - vystrukuje pouze vějířovitá tykadla
+        - tykadla jsou obvykle barevná
+    - živí se mikroskopickou potravou
+    - je hojný
+# Opaskovci (_Clitellata_)
+- nevytvářejí parapodia
+- v přední části těla mají nápadně zduřelé tělní články s kožními žlázami
+    - této části se říká _opasek_
+    - jeho výměšky spojení jedinců a přenos jedinců a spermií
+## Máloštětinatci (_Oligochaeta_)
+- příčný řez jejich těla je kruhový
+- příď je sbíhavá
+    - je na ní také člení lalok, který vybíhá v hmatový prstík
+- záď je plošší a zaoblená
+### Žížala obecná (_Lumbricus terrestris_)
+- na bocích každého článku má čtyři páry štětinek
+- hřbetní strana je klenutější a tmavší než břišní strana
+- na hřbetě žížaly prosvítá hřbetní céva
+- na každém článku jsou 4 páry štětin, které umožňují pohyb
+- má jednovrstevnou pokožku
+    - je vlhká a bohatě prokrvená
+    - plní také dýchací funkci
+    - obsahuje mnoho hmatových a světličivých buněk - _faosomy_ - a mechanoreceptorů
+    - pokožka vylučuje ochranou kutikulu
+- rozlišuje světlo a tmu
+    - je fotofobní
+- je u nich vyvinuta dobrá schopnost regenerace
+- svou činností převrtává a převrstvuje půdu
+    - přispívá tak k zúrodňování půdy a její ekologický význam je veliký
+    - provětrávají a nakypřují půdu
+- je součástí potravního řetězce
+- živí se oranickými zbytky v půdě
+    - jejich rozklad na látky anorganické vede ke vzniku humusu
+#### Trávicí soustava
+- trávicí trubice prochází celým tělem
+    - začíná ústy a končí řitním otvorem v posledním článku
+- po stranách žláznatého žaldku má vápenaté žlázy
+    - slouží k neutralizaci huminových kyselin, které jsou složkou tlejících listů
+        - tvoří hlavní část potravy
+- trávicí soustavou může v krátkém čase projít relativně velké množství potravy
+    - má velmi nízkou nutriční hodnotu
+- dokonalejší využití potravy zajišťuje epiteliální řasa _tyflosolis_
+    - ční do dutiny střeva
+- střevo žížaly je obaleno ekxrečním epitelem - _chloragogenní epitel_
+    - jeho buňky hromadí tělu škodlivé látky
+    - po odloupnutí opouštějí tělo metanefridiemi
+- vylučování probíhá metanefridiemi, které jsou na kažném článku
+    - připomíná obrvenou nálevku a prostupuje vinutým kanálkem do článku následujícího
+#### Cévní soustava
+- je uzavřená
+- jejich krev je červená a obsahuje krevní barvivo hemoglobin
+- krev je uváděna do pohybu hřbetní cévou
+- cévní systém se bohatě větví v síti podkožních vlásečnic
+    - dýchají tak celým povrchem těla
+#### Nervová soustava
+- je gangliová žebříčkovitého typu
+- prostupuje břišní částí těla
+#### Rozmnožování
+- v přední části se z metanefriií vyvinuly vývodné pohlavní cesty
+    - chámovody a vejcovody
+- jsou to hermafroditi
+- spermie získané při kopulaci ukládají ve váčku do dozrání vlastních vajíček
+- v desátém a jedenáctem článku mají po jednom páru varlat
+- ve třináctém článku je párový vaječník ustící do čtrnáctého článku
+- kolem svých nakladených oplozených vajíček z opasku vylučují tuhnoucí sekret
+    - vzniká kokon, který je poté stažen přes příď
+- žížala má vývoj přímý
+### Další zástupci
+- _žížala hnojní_
+    - používá se k ekologickému zpracování komunálního odpadu - _[vermikompost](https://en.wikipedia.org/wiki/Vermicompost)_
+- _žížala podhorská_
+    - žije v trouchnivějících pařezech v horských oblastech
+    - je nápadná svým tmavým světélkujícím slizem
+- _žížala rousnice_
+- _potočnice račí_
+    - parazituje na žábrech raků
+- _nitěnka obecná_
+    - žije v zabahněných tocích
+    - ze své rourky v bahně vystrkuje pouze záď, kteoru pohybuje do stran
+    - je oblíbeným krmivem akvarijních rybek
+- _roupnice obecná_
+    - žije v půdě
+    - je mikroskopická
+- _naidky_
+    - žijí ve vodě a v bahně
+    - živí se jimi ryby
+## Pijavice
+- v příčném řezu jsou shora mírně zploštělé
+- jejich povrchová segmentace je výrazně zmnožená
+    - na jeden tělní článek připadají 3 - 14 kožních zářezů
+- mají dvě přísavky
+    - první navazuje na trávicí trubici
+    - zadní pouze přichytává
+- jsou to ektoparazité nebo predátoři sladkovodních živočichů
+- jejich tělesná ústrojnost je v porovnání s žížalami jednodušší
+- jejich tělo se směrem k zádi rozšiřuje
+- cévní a nervová soustava jsou podobné těm žížalým
+- dýchají celým povrchem těla
+- nemají příliš dobrou regenerační schopnost
+- pohybují se piďalkovitě přísavkami nebo vlněním přímo ve vodě
+### Trávicí soustava
+- uprostřed přední přísavky jsou chitinové čelisti
+    - je jimi narušována pokožka hostitele
+- za ústy je svalnatý hltan
+    - ústí do něj žlázky vylučující hirudin
+        - zabraňuje srážení krve
+- střevo pijavek má vychlipeniny, ve kterých se usazuje krev hostitele
+    - žijí v nich také symbiotické mikroorganismy
+        - konzervují krev
+- řitní otvor vyúsťuje nad zadní přísavku
+- vylučuje metanefridiemi
+### Rozmnožování
+- jsou to hermafroditi
+- oplozená vajíčka jsou kladena v kokonech na vodní rostliny nebo do vlhkého bahnana břehu
+- jejich vývoj je přímý
+### Zástupci
+- _pijavka lékařská_
+    - má černohnědočervenou kresbu hřbetu a světlé černě skvrnité břicho
+    - ve středověku se používala k odsávání krve nemocným
+        - docházelo při tom často k druhotným infekcím hnisavými bakteriemi
+    - dnes se používá ke zprůchodňování cév při amputaci končetin
+- _pijavka koňská_
+    - je predátorem
+    - živí se drobným hmyzem a měkkýši
+- _pijavka bahenní_
+    - žije pod kameny ve vodě
+- _hltanovka bahenní_
+- _chobotnatka rybí_
+    - je přenašečem krevních parazitů ryb
+# Drápkovci (_Onychophora_)
+- vyvinuly se z mnohoštětnatců přizpůsobením se na život mimo vodu
+- **Společné znaky mnohoštětnatců a drápkovců**:
+    - homonomně článkované tělo
+    - souvislý podkožní třívrstevný svalový vak
+    - typ nervové soustavy
+    - segmentální uspořádání metanefridií
+    - váčkovitá očka
+    - rovné střevo
+- **Odlišné znaky mnohoštětnatců a drápkovců**:
+    - na povrchu těla mají komolcovité panožky
+    - povrch těla je z chitinu
+    - rozvijí se u nich vzdušnice
+    - přední páry metanefridií se přeměnily na slinné žlázy a článkovaná tykadla
+- jsou to noční živočichové
+- žijí v tlející organické hmotě pralesů tropického pásma
+- živí se dravě
+    - kořisti se zmocňují vystříknutím lepkavého sekretu slinných a makadlových žláz
+    - znehybní tak drobný hmyz
+- jsou to gonochoristé a jsou živorodí
+    - jejich mláďata jsou pohyblivá a nepigmentovaná
+    - při každém svlé přibývá článku a panožek
+    - jejich vývoj se označuje jako _anamorfóza_
+    - dospívají ve dvou letech
+- přispěli k doměnce, že členovci se mohli podobně vyvinout z mnohoštětnatců, ale drápkovic sami nejsou mezičlánkem vývoje
