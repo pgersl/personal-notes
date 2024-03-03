@@ -1,0 +1,347 @@
+---
+title: "Organokovové sloučeniny"
+layout: single
+type: note
+section: "Deriváty uhlovodíků"
+weight: 2
+---
+- jsou to organické sloučeniny, ve kterých se nachází vazba uhlík-kov
+    - do skupiny nepatří jednodušší sloučeniny jako kyanidy a karbidy
+- používají se v organické syntéze
+    - jsou velmi reaktivní a umožňují tak řadu chemických přeměn, které by nebyly možné s použitím standardních látek
+# Organokovové sloučeniny s [kovy hlavních skupin](/notes/research/chemistry/inorganic-chemistry/periodic-table/main-group-elements)
+- jsou to sloučeniny, které obsahují vazby uhlíku s kovy hlavních skupin, kam se řadí i [skupina zinku](/notes/research/chemistry/inorganic-chemistry/periodic-table/group-ii.b)
+- hodně se podobají odpovídajícím sloučeninám s vodíkem
+    - elektronegativita uhlíku a vodíku je dost podobná
+- vazba je většinou iontová nebo silně polární
+    - elektronegativita nepřechodných kovů je totiž nižší než uhlík
+    - kladný parciální náboj je na kovu
+    - na uhlíku je záporný parciální náboj
+- stálost se zvyšuje s rostoucí elektronegativitou
+    - takové vazby mají kovalentní charakter
+    - pozorujeme to u sloučenin prvků [4.](/notes/research/chemistry/inorganic-chemistry/periodic-table/tetrels) a [5.](/notes/research/chemistry/inorganic-chemistry/periodic-table/pentels) skupiny
+    - vaužívá se toho v přípravě celé řady organometalických sloučenin
+        - $M-R+E-X\longrightarrow{MX+R-E}$
+            - $M$ - $Li,Mg,Al,Zn$
+            - $E$ - $Si,B,As,P$
+## Organokovové sloučeniny [alkalických kovů](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkali-metals)
+- iontovost vazby $C-M$ je okolo 50%
+    - špatně se znázorňuje vazba mezi uhlíkem kovem pomocí čárky
+    - vazba je také nejvíce polární ze všech sloučenin
+- lze je připravit reakcí elementárního kovu a příslušného uhlovodíku
+- prudce reagují s vodou
+- nejstálejší jsou organolithné sloučeniny lithia
+    - používjí se v organické syntéze
+        - běžně se používá _buthyllithium_ a _fenyllithium_
+    - připravují se reakcí kovu s alkyl- nebo arylhalogenidem
+    - jsou oligomerní
+- ostatní sloučeniny jsou na vzduchu nestálé a samozápalné
+- existují sloučeniny, kde se nachází sodný kation jako centrální atom [koordinační](/notes/research/chemistry/general-chemistry/chemical-bonds/donor-acceptor-bond) sloučeniny
+    - k roztoku kovového iontu se přidávají sloučeniny obsahující karbonylové skupiny nebo polyethery
+        - kovový kation interguje s kyslíkovými atomy a vzniká komplexní částice
+    - smíšený komplex _salicyladehydu_ a _2-nitrofenolu_
+        {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2FbzI1VWaTz2.png?alt=media&token=fcff05fc-2158-400a-b714-8e54015a1094" alt="" >}}
+    - _18-crown-6_
+        {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2FbADLCnPgcm.png?alt=media&token=8d996c99-9b7f-4cbc-a880-4cbe6c8bf94e" alt="" >}}
+    - _2,2,2-kryptand_
+        {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2FI5PjKm4aEz.png?alt=media&token=2a35be47-ee09-4845-abea-bec43d4bf531" alt="" >}}
+## Organokovové sloučeniny prvků [2.](/notes/research/chemistry/inorganic-chemistry/periodic-table/group-ii.a) skupiny
+- nejznámější jsou sloučeniny [beryllia](/notes/research/chemistry/inorganic-chemistry/periodic-table/beryllium) a [hořčíku](/notes/research/chemistry/inorganic-chemistry/periodic-table/magnesium)
+    - oba kovy tvoří polymerní methyl derivát s analogickou strukturou jejich hydridů
+    - **Grignardova činidla**
+        - organohořečnaté sloučeniny (_alkylmagnesiumhalogenidy_)
+        - obecný vzorec: $RMgX$
+        - např.: $CH_2CH_2MgI$ - ethylmagnesiumjodid
+        - připravují se rakcí halogenovaných uhlovodíků s práškovým hořčíkem v etherickém roztoku
+        - používají se jako alkylační činidla
+        - byli objeveny francouzským chemikem _V. Grignardem_
+            - získal za ně Nobelovu cenu v roce 1912
+- organokovové sloučeniny [kovů alkalických zemin](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkaline-earth-metals) jsou velmi nestálé
+## Organokovové sloučeniny [zinku](/notes/research/chemistry/inorganic-chemistry/periodic-table/zinc), [kadmia](/notes/research/chemistry/inorganic-chemistry/periodic-table/cadmium) a [rtuti](/notes/research/chemistry/inorganic-chemistry/periodic-table/mercury)
+- tvoří lineární molekuly $MR_2$
+    - nejsou asociovány v pevné fázi ani roztoku
+        - netvoří se alkylové můstky
+    - _dimethylrtuť_ $Hg(CH_3)_2$
+        - je to extrémně toxická kapalina
+        - ma bod varu blízký vodě
+        - s vodou se misí
+        - ve vodách vzniká působením mikroorganismů z nerozpustných produktů rozpadu organortuťnatých fungicidů
+        - její reakce s halogenidy kovů je důležitá pro koncept Lewisových tvrdých a měkkých kyselin
+            - $n\ Hg(CH_3)_2+2\ MX_n\longrightarrow{n\ HgX_2+2\ M(CH_3)_n}$
+            - tato reakce probíhá, pokud kov $M$ tvoří silnější kovalentní vazbu než rtuť
+            - _měkké kyseliny_ vytěsní rtuť
+            - _tvrdé kyseliny_ rtuť nevytěsní
+- **zinek** 
+    - tvoří také sloučeniny typu $RZnY$
+        - $Y$ - halogen, kyanoskupina nebo skupiny typu $OR,SR,NR_2,PR_2$ a další
+    - uplatňují se jako výchozí látky pro polymeraci
+    - do komplexů se často váže thiomočovina, [aminy](/notes/research/chemistry/organic-chemistry/carbohydrate-derivatives/amines), $CH_3COO^-$ a další organické sloučeniny
+- **kadmium** nemá jiné běžné sloučeniny
+- **rtuť** 
+    - tvoří látky typu $RHgY$
+    - $Y$ značí velkou skupinu různých atomových uskupení
+    - některé se používají ve farmacii
+## Organokovové sloučeniny prvků [3.](/notes/research/chemistry/inorganic-chemistry/periodic-table/triels) skupiny
+- nejrozsáhlejší je skupina sloučenin tvoří **bor**
+    - jedná se o analoga boranů
+- [hliník](/notes/research/chemistry/inorganic-chemistry/periodic-table/aluminium) tvoří sloučeniny typu $R_3Al,R_2AlY,RAlY_2$
+    - $R$ - alkyl nebo aryl
+    - $Y$ - $H,F,Cl,Br,I,OR,CN,PR_2$
+    - jsou většinou dimerní a elektronově deficitní
+    - mají stejné uspořádání jako chlorid hlinitý
+    - $M[AlR_4]$
+        - $M$ - alkalický kov
+        - $R$ - alkyl, $H,OR$
+        - jejich struktura je iontová
+    - mají silné redukční účinky
+    - některé jsou samozápalné
+    - využívají se v organické syntéze a katalýze a v raketové technice
+- [ostatní prvky](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-triels) prvky tvoří sloučeniny podobné těm hliníku
+## Organokovové sloučeniny prvků [4.](/notes/research/chemistry/inorganic-chemistry/periodic-table/tetrels) skupiny
+- jsou to převážně tetraalkylsloučeniny a tetraarylsloučeniny $R_4M$
+- případně sloučeniny od nich odvozené $R_3MY,R_2MY_2,RMY_3$
+    - $Y$ - $H,F,Cl,Br,I,OH,OR,CN,NCO,NCS,CNS,\frac{1}{2}S,SiR_2,OSiR_3,\frac{1}{3}N,NR_3,\frac{1}{2}NH$
+- většina těchto sloučenin jsou těkavé nízkomolekulární látky 
+- nejrozsáhlejší je chemie **organosilikonových sloučenin**
+    - křemík se vlastnostmi uhlíku celkem blíží uhlíku
+    - typické je koordinační číslo 4
+    - síla vazby $Si-C$ je o trochu slabší než síla vazby $C-C$, kvůli její slabé polaritě
+        - způsobuje to snadnější nukleofilní ataku
+    - nejsnáze se tvoří methyl deriváty
+    - reakcí chlor methanu s křemíkem při teplotě 300°C a za katalýzy mědí vznikají sloučeniny typu $(CH_3)_nSiCl_4-n$
+        - jejich hydrolýzou se vyrábí _siloxany_
+            - slouží pro výrobu dalších derivátů
+                - $2\ (CH_3)_3SiCl+2\ Li\longrightarrow{(CH_3)_3Si-Si(CH_3)_3+2\ LiCl}$
+                - změnou reakčních podmínek se dají připravit velmi rozmanité deriváty
+- sloučeniny germania jsou analogické těm křemíku
+- sloučeniny cínu jsou méně rozmanité
+    - mají většinou vyšší koordinační číslo než 4
+        - třeba _dufluor-dimethylstannan_ $SnF_2(CH_3)_2$ má polymerní strukturu s koordinačním číslem 6
+            - ostatní halogenidy poskytují monomerní sloučeniny typu $(CH_3)_2SnX_2$
+            - takové sloučeniny reagují s vodou za vzniku kationtů typu $R_2Sn(H_2O)_4^{2+}$
+    - existují sloučeniny s vazbou kov-kov
+        - $Sn_4F_5(CH_3)_{12}$
+        - $Sn_5(CH_3)_{10}$
+        - $Sn_5(C_6H_5)_{12}$
+- olovo poskytuje malý počet sloučenin
+    - $(C_2H_5)_4Pb$ - _tetraethylplmbum_
+        - používala se jako přídavek do benzínu jako antidetonační přísada
+            - uvolňuje se do vzduchu a znečičťuje životní prostředí
+            - olovo se usazuje v minerálech
+            - olovo se ze vzduchu dostává do lidského těla
+                - usazuje se v kostech
+                - způsobuje snižování inteligence a pravděpodobně způsobylo nárůst kriminality
+        - je prudce jedovaté
+## Organokovové sloučeniny prvků [5.](/notes/research/chemistry/inorganic-chemistry/periodic-table/pentels) skupiny
+- připravují se reakcí halogenidů typu $EX_3$ nebo oxihalogenidů typu $EX_3O$ s Grignardovými činidly
+- **fosfor**
+    - nejvýznamější jsou _trialkyl-_ a _triarylfosfiny_ $R_3P$
+        - s rostoucím řetězcem je stálost větší
+        - _trimethylfosfin_ $(CH_3)_3P$ je na vzduchu nestálý a samozápalný
+        - _trifenylfosfin_ $Ph_3P$ je stálý
+            - vyrábí se průmyslově
+            - je významným ligandem komplexních sloučenin některých přechodných kovů
+                - využívají se v katalýze
+            - jeho oxidací peroxidem vodíku vzniká _trifenylfosfinoxid_
+                - dá se připravit i reakcí _chloriduoxidufosforečného_ s Grignardovým činidlem
+        - mají schopnost vytvářet fosfoniový kation $PH_4^+$
+    - fosfor může s uhlíkem vytvářet dvojnou vazbu za vzniku _alkylidenfosforanů_
+    - v nižších oxokyselinách fosforu, $HPO_2$ a $H_3PO_3$, lze vodíky substituovat za alkyly na _kyseliny fosfinové_ $R-P(H)O_2H$ a $R-P(R')O_2H$ a _fosfonové_ $R-PO_3H_2$
+        - jejich aminoderiváty a jejich deriváty byli pozorovány v živých organismech
+- [ostatní pentely](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-pentels) tvoří obrovskou skupinu
+    - existuje celá řada
+    - jsou to: 
+        - molekulární látky $R_3M,R_2MY$ a $RMY_2$
+        - oniové soli $[R_4M]^+\ Y^-$ a $[R_3HM]^+\ Y^-$
+            - jsou to analoga amonných a fosfoniových solí
+        - s vazbou kov-kov
+        - arseničné a antimoničné sloučeniny $R_5M,R_4MY,R_3MY_2,R_2MY_3$ a $RMY_4$
+## Příprava organokovových sloučenin prvků hlavních skupin
+- nejběžnější metodou přípravy je přímá reakce kovu s alkylhalogenidem
+    - kov i alkylhalogenid jsou umístěny ve vhodném rozpouštědle
+        - alkylfluoridy se většinou nepoužívají, protože jsou málo reaktivní a málo dostupné
+        - u lithia se nejčastěji používá diethylether nebo [nasycený uhlovodík](/notes/research/chemistry/organic-chemistry/carbohydrates/alkanes-and-cycloalkanes)
+            - produktem je _alkyllithium_ a halogenid lithia
+        - u hořčíku se používají výhradně [ethery](/notes/research/chemistry/organic-chemistry/carbohydrate-derivatives/ethers)
+            - produktem je alkylmagnesiumhalogenid
+            - ethery stabilizují vzniklé grignardovo činidlo vytvořením komplexu Lewisova kyselina-Lewisova báze
+            - ethery navíc obnovují povrch hořčíku, tekže umožňují rekaci pokračovat
+            - s reaktivnějšími arylhalogenidy](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes) a [vinylhalogenidy se jako rozpouštědlo používá tetrahydrofuran
+                - tvoří silnější komplex
+        - u zinku se používají také téměř výhradně ethery
+            - produktem _alkylzinkhalogenid_
+- k reakci dochází na povrchu kovu
+    - první krokem je předání nepárového elektronu kovu alkylhalogenidu a vzniká radikálanion
+        - $R-X+M\cdot\longrightarrow[R-X]^-+M^+$
+    - v dalším kroku se radikálanion rozpadá na halogenidový anion a alkylový radikál
+    - alkylový radikál je rychle zachycen kovovým radikálem a vzniká alkylkov
+    - kovový kation a halogenidový anion potom spolu vytvoří příslušný halogenid
+- pro přípravu organických sloučenin s méně elektropozitivními prvky se používají alkylkovy připravené přímou reakcí a halogenidy příslušných prvků
+    - _transmetalace_
+        - je to přenos organického zbytku z jedné sloučeniny na druhou
+## Reakce organokovových sloučenin prvků hlavních skupin
+- jsou to velmi silné báze
+    - dokáží odtrhnout protony i z velmi málo kyslích sloučenin
+- mohou reagovat jako jako nukleofilní činidla
+- nejreaktivnější jsou organolithné a organohořečnaté sloučeniny
+    - mají největší polaritu vazby uhlík-kov
+- organokovové sloučeniny prvků s nižší elektropozitivitou reagují s vodou a slabými kyselinami jen velmi neochotně
+    - důsledkem toho je, že dlouho strvávají v životním prostředí a mohou působit ekologickou zátěž
+# Organokovové sloučeniny s [kovy vedlejších skupin](/notes/research/chemistry/inorganic-chemistry/periodic-table/transition-elements)
+- jsou to sloučeniny, které obsahují vazbu mezi uhlíkem a přechodným kovem
+- vyčleňovány jsou kyanidy a jejich deriváty a částečně také karbonyly
+    - organoemtalické a koordinační sloučeniny se do značné míry překrývají
+- **hapticita** $\eta$
+    - koordinace prostřednictvím $\pi$ vazeb
+    - udává počet atomů uhlíku ve vazebné vzdálenosti k centrálnímu atomu
+        - _monohapto_ $\eta^1$
+            - vyskytuje se třeba u methylového ligandu
+        - _dihapto_ $\eta^2$
+            - vyskytuje se v ethenylovém ligandu
+        - _pentahapto_ $\eta^5$
+            - vyskytuje se cyklopentadienylového ligandu
+- **Lewisova teorie měkkých a tvrdých kyselin**
+    - ochota tvořit organometalické sloučeniny je u měkkých kyselin větší
+        - tvoří snadno kovalentní vazby
+    - sloučeniny měkkých kyselin jsou mnohem stálejší
+## Organokovové sloučeniny [skandia](/notes/research/chemistry/inorganic-chemistry/periodic-table/scandium), [yttria](/notes/research/chemistry/inorganic-chemistry/periodic-table/yttrium) a [lanthanu](/notes/research/chemistry/inorganic-chemistry/periodic-table/lanthanum-and-lathanoids)
+- tyto prvky tvoří kationty $M^{3+}$
+- patří do skupiny tvrdých kyselin
+- jejic sloučeniny $MR_3$ jsou na vzduchu nestálé
+    - snadno se oxidují i hydrolyzují
+- výjimku tvoří cyklopentadienyly $[M(C_5H_5)_3]$
+    - převládá iontový charakter vazby mezi centrálním atomem a anionty $C_5H_5^-$
+## Organokovové sloučeniny [titanu](/notes/research/chemistry/inorganic-chemistry/periodic-table/titanium), [zirkonia a hafnia](/notes/research/chemistry/inorganic-chemistry/periodic-table/zirconium-and-hafnium)
+- připomínají sloučeniny skandia, yttria, a lanthanu
+- tetraalkyly $MR_4$ jsou velmi nestálé
+    - $Ti(CH_3)_4$ se rozkládá nad teplotou -20°C
+- **titan**
+    - sloučeniny typu $R_4Ti$ ($R_3TiY,R_2TiY_2,RTiY_3$) jsou nejstálejší
+    - sloučeniny typu $R_3Ti$ ($R_2TiY,RTiY_2$) a $R_2Ti$ ($RTiY$) jsou mnohem méně stálé
+    - jsou extrémně snadno hydrolyzovatelné na vazbě $Ti-C$
+    - na vzduchu se sloučeniny obsahující atomy titian v oxidační stavu méně než $IV$ velmi rychle oxidují
+    - velký výnam má intermediární tvorba vazeb $Ti-C$ při Ziegler-Nattově katalyzované polymeraci alkenů
+        - je to děj, při němž do vazby $Ti-C$ neustále vstupují nové a nové molekuly ethenu, za vzniku rozsáhého uhlíkatého řetězce
+        - používá se směs $R_3Al$ a $TiCl_4$
+    - reakcí $TiCl_4$ s $NaC_5H_5$ se dá přípravit $[Ti(\eta^5-C_5H_5)_2]Cl_2$
+- **zirkonium a hafnium**
+    - vazba kov-uhlík je docela slabá
+    - na vzduchu jsou poměrně stálé komplexy typu $[M(\eta^5-C_5H_5)_2]X_2$
+## Organokovové sloučeniny [vanadu](/notes/research/chemistry/inorganic-chemistry/periodic-table/vanadium), [niobu a tantalu](/notes/research/chemistry/inorganic-chemistry/periodic-table/niobium-and-tantalum)
+- **vanad**
+    - nejvýznamnější jsou:
+        - _karbonyly_ $[V^{-I}(CO)_6]$
+        - _cyklopentdieny_ s nespecifikovanými donorovými atomy uhlíku $[(\eta^5-C_5H_5)_2V]$ (_vanadocen_)
+            - přpadně deriváty $[(\eta^5-C_5H_5)_2VY]$ a $[(\eta^5-C_5H_5)VY_2]$
+                - $Y$ - chlor, [alkyl]([Uhlovodíky](/notes/research/chemistry/organic-chemistry/carbohydrates/carbohydrates)) nebo [aryl](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes)
+            - jsou poměrně nestálé
+        - některé se uplatňují při katalytické kopolymeraci směsi alkanů
+- **niob a tantal** anallogické sloučeniny netvoří
+    - nejsou příliš prozkoumané
+    - studovány byli některé karbonyly, cyklopentadieny a alkylkovy
+## Organokovové sloučeniny [chromu](/notes/research/chemistry/inorganic-chemistry/periodic-table/chromium), [molybdenu](/notes/research/chemistry/inorganic-chemistry/periodic-table/molybdenum) a [wolframu](/notes/research/chemistry/inorganic-chemistry/periodic-table/wolfram)
+- **chrom**
+    - významné jsou estery $H_2CrO_4$
+        - používají v katalytické chemii a organické syntéze
+    - _karbonyly_
+        - známé jsou _hexakarbonyl chromu_ $[Cr(CO)_6]$ a jeho deriváty
+            - $[Cr(CO)_5Y],[Cr(CO)_4Y_2],[Cr(CO)_3Y_3],[Cr(CO)_2Y_4],[Cr(CO)Y_5]$
+                - $Y$ - $CN^-,SCN^-,NCS^-,Cl^-,Br^-,I^-,PR_3,NH_3$ a další
+    - _haptické sloučeniny_
+        - _bis(_$\eta^6$_-beznen)chrom_ $[(\eta^6-C_6H_6)_2Cr]$
+        - _chromocen_ $[(\eta^5-C_5H_5)_2Cr]$
+            - používá se v katalytické chemii a organické syntéze
+    - byli připraveny i další smíšené sloučeniny
+        - $[(\eta^5-C_5H_5)Cr(CO)_3H],[(\eta^5-C_5H_5)Cr(CO)_3]$ a jiné
+- **molybden**
+    - významné jsou karbonyly a jejich deriváty
+    - dále je schopen tvořít vazby s anionty $C_5H_5^-,$ borany, karborany a [alkyly]([Uhlovodíky](/notes/research/chemistry/organic-chemistry/carbohydrates/carbohydrates)) a [aryly](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes)
+    - vyskytují se v nich často vazby kov-kov a kov-halogen
+- **wolfram**
+    - nemá příliš velkou tendenci tvořit organokovové sloučeniny
+    - _hexamethylwolfram_ $W(CH_3)_6$ je tmavě červená krystalická látka
+        - na vzduchu vybuchuje
+- pro molybden a wolfram není typická tvorba metalocenů
+    - vytváří se pouze dimery $[M(\eta^5-C_5H_5)(CO)_3]$
+    - stabilnější jsou sandwichové sloučeniny $[M(\eta^6-C_6H_6)_2]$
+## Organokovové sloučeniny [manganu](/notes/research/chemistry/inorganic-chemistry/periodic-table/manganese), [technecia a rhenia](/notes/research/chemistry/inorganic-chemistry/periodic-table/technetium-and-rhenium)
+- stálostí se docela podobají sloučeninám chromu, molybdenu a wolframu
+- z metalocenů je znám pouze _manganocen_ $Mn(\eta^5-C_5H_5)$
+- **mangan**
+    - vazby $Mn-C$ tvoří velmi neochotně
+    - základní organokovové sloučeniny jsou velmi nestálé
+    - krom derivátů karbonylu manganu jsou významné i sloučeniny typu $RMnY,MnR_2,MnR_3$ a $M^IMnR_3$
+    - dalé mangan tvoří sloučeniny s nepřesně definovanými vazbami, primárně acetylidy a allylidy (_(prop-2-en)yly_)
+- **rhenium**
+    - vazby $Re-C$ tvoří vcelku ochotně
+    - jeho sloučeniny jsou mnohem stálejší
+    - stabilitu zvyšuje přítomnost atomů kyslíku
+    - celá řada sloučenin se odvozuje od $Re_3Cl_9$ substitucí atomů chloru
+        - extrémem jsou sloučeniny typu $Re_3R_9$
+## Organokovové sloučeniny prvků [triády železa](/notes/research/chemistry/inorganic-chemistry/periodic-table/iron-group)
+- $\sigma$-vazby s uhlíkem tvoří velmi neochotně
+- doposud nebyly připraveny jednoduché sloučeniny
+- vytváří celou řadu karbonylů
+- [železo](/notes/research/chemistry/inorganic-chemistry/periodic-table/iron)
+    - kromě klasických organokovových sloučeniy se $\sigma$-vazbou typu $Fe-C$, derivátů karbonylů a odbobných látek existuje i mnoho látek s nespecifickou vazbou mezi atomy uhlíku a železem
+    - nejvýznamnější je _bis(_$\eta^5$_-cyklopentadienyl)železo_ (_ferrocen_, $[Fe(\eta^5-C_5H_5)_2]$) a látky od něj odvozené
+        - molekula je tvořená dvěma planárními cyklopentadienidovými ionty ležících ve dvou rovnoběžných rovinách a uzavírají mezi sebou kation $Fe^{2+}$
+            - taková vazba nemá [iontový charakter](/notes/research/chemistry/general-chemistry/chemical-bonds/ionic-bond)
+        - má podobné chemické vlastnsoti jako jiné [aromatické sloučeniny](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes)
+        - jednotlivé vodíky obou cyklopentadienových kruhů je možné nahradit dalšími substituenty
+        - cyklopentadienové kruhy je možné nahradit jiným aromátem
+        - železo se dá oxidovat a vzniká _ferriciniový kation_ $[Fe(\eta^5-C_5H_5)_2]^+$
+        - jeho reakcí s $Fe(CO)_5$ se získává dimerní $[Fe(\eta^5-C_5H_5)(CO)_2]_2$
+            - obsahuje vazbu kov-kov
+    - další organokovové sloučeniny železa se uplatňují v organické katalýze
+- [kobalt](/notes/research/chemistry/inorganic-chemistry/periodic-table/cobalt)
+    - obsahují $\sigma$-vazby $C-Co$ i nespecifikované vazby a donorové atomy
+    - analogem ferrocenu je _kobaltocen_ $[Co(\eta^5-C_5H_5)_2]$
+        - je paramagnetický
+        - na vzduchu se oxiduje na _kation kobalticenia_ $[Co(\eta^5-C_5H_5)_2]^+$
+            - je stálý a odolný vůči působení koncentrované $HNO_3$
+    - existuje mnoho dalších sloučenin obsahujících jako ligandy [aromatické molekuly](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes), allylová skupina, molekuly [dienů](/notes/research/chemistry/organic-chemistry/carbohydrates/alkenes,-polyenes-and-cycloalkenes) a podobně
+- [nikl](/notes/research/chemistry/inorganic-chemistry/periodic-table/nickel)
+    - tvoří je velmi podobně jako [kobalt](/notes/research/chemistry/inorganic-chemistry/periodic-table/cobalt) a železo
+        - mohou také obsahovat $\sigma$-vazby $C-Ni$ nebo donorově nespecifikované vazby
+    - analogem ferrocenu je _nikelocen_ $[Ni(\eta^5-C_5H_5)_2]$
+    - dále tvoří komplexy s alkeny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkenes,-polyenes-and-cycloalkenes), [alkyny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkynes), allylovou skupinou, [pyridinem, _thiomočovinou_ $CS(NH_2)_2$ a řadou dalších organických látek
+## Organokovové sloučeniny [ruthenia a osmia](/notes/research/chemistry/inorganic-chemistry/periodic-table/ruthenium-and-osmium)
+- netvoří jednoduché sloučeniny se $\sigma$-vazbou
+- ke stabilizaci je potřeba koordinace ligandů $\pi$-vazbami a karbonylovými skupinami
+- oba kovy vytváří vazby kov-kov
+    - tím vzniká rozsáhlá skupina karbonylů a klastrů a jejich derivátů
+    - známé jsou sloučeniny: 
+        - $Os_3(CO)_{12}$
+        - $Os_6(CO)_{12}$
+## Organokovové sloučeniny [rhodia a iridia](/notes/research/chemistry/inorganic-chemistry/periodic-table/rhodium-and-iridium)
+- mají velký význam pro katalýzu
+- v mnohém se podobají sloučeninám lehkých platinových kovů
+- tvoří velmi rozsáhlou skupinu klastrových karbonylů a jejich derivátů s vazbami kov-kov
+    - existují sloučeniny typu $M_6(CO)_6$
+## Organokovové sloučeniny [palladia a platiny](/notes/research/chemistry/inorganic-chemistry/periodic-table/palladium-and-platinum)
+- jednoduché sloučeniny se $\sigma$-vazbami jsou velmi málo běžné a jednoduché karbonyly neexistují
+- karbonyly musí být stabilizovány dalšími ligandy
+- mnohem častější jsou sloučeniny s nespecifikovanými ligandy, jako jsou ethen, dieny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkenes,-polyenes-and-cycloalkenes), [alkyny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkynes), karbonyl, substituovaný fosfan nebo arsan, ale také [pyridin a [aminy](/notes/research/chemistry/organic-chemistry/carbohydrate-derivatives/amines)
+## Organokovové sloučeniny [mědi](/notes/research/chemistry/inorganic-chemistry/periodic-table/copper), [zlata](/notes/research/chemistry/inorganic-chemistry/periodic-table/gold) a [stříbra](/notes/research/chemistry/inorganic-chemistry/periodic-table/silver)
+- chemie organometalických sloučeniny je vlastně málo rozsáhlá
+- jednoduché karbonyly neexistují
+- alkylové sloučeniny jsou málo časté a většinou nestálé
+- **měď**
+    - nejsou příliš typické
+    - v některých komplexech se jako ligandy objevují močovina, thiomočovina, [aminy](/notes/research/chemistry/organic-chemistry/carbohydrate-derivatives/amines) a další
+    - alkylové sloučeniny mědi byli objeveny relativně nedávno
+    - málo častá je koordinace [alkenů](/notes/research/chemistry/organic-chemistry/carbohydrates/alkenes,-polyenes-and-cycloalkenes) a dienů a karbonylu
+    - ještě vzácnější jsou donorově nespecifické vazby
+- **zlato**
+    - není jich mnoho
+    - nejčastěji obsahují $\sigma$-vazbu $C-Au$
+    - jsou to většinou látky typu $R_2AuY$ a $RAuY_2$
+        - $R$ - alkyl
+        - $Y$ - halogen, kyanoskupina, hydroxylový skupina
+    - většina je dimerní nebo dokonce polymerní
+- **stříbro**
+    - nejsou typické
+    - bylo popsáno několik komplexů s [alkeny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkenes,-polyenes-and-cycloalkenes), [alkyny](/notes/research/chemistry/organic-chemistry/carbohydrates/alkynes) a [areny](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes)
+        - jsou to většinou donorově nespicifické sloučeniny
+ [areny](/notes/research/chemistry/organic-chemistry/carbohydrates/arenes)

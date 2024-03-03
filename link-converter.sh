@@ -18,9 +18,10 @@ fi
 temp_file="$file.temp"
 
 # Replace markdown links with HTML links
-sed 's/\[\([^]]*\)\](\([^)]*\))/<a href="\2">\1<\/a>/g' "$file" > "$temp_file"
+sed -e 's/\[\([^]]*\)\](\([^)]*\))/<a href="\2">\1<\/a>/g' \
+    -e 's/!\[\]\(([^)]*)\)/{{<fig src="\1" alt="" >}}/g' "$file" > "$temp_file"
 
 # Overwrite the original file with modified content
 mv "$temp_file" "$file"
 
-echo "Markdown links replaced with HTML links in '$file'."
+echo "Markdown links and image links replaced in '$file'."

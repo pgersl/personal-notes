@@ -116,6 +116,10 @@ thead, tbody {
     font-weight: bold;
 }
 
+.note-table img {
+    max-width: 160px;
+}
+
 @media (max-width:1080px) {
     #main-toc {
         width: 100%;
