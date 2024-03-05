@@ -1,0 +1,187 @@
+.main-content {
+    width: 100%;
+    display: block;
+    overflow-x: auto;
+    --element-width: 60px;
+    --element-height: 60px;
+    --element-gap: .2em;
+    --element-padding: .5em;
+    --group-skip: 40px;
+}
+#periodic-table {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1em;
+}
+#main-table {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+}
+#table-blocks {
+    display: flex;
+    flex-direction: row;
+}
+#elements-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#period-numbers {
+    margin-top: 2.3em;
+    display: flex;
+    flex-direction: column;
+    gap: var(--element-gap);
+}
+.period-number {
+    height: var(--element-height);
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--element-padding) 0;
+}
+
+.group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--element-gap);
+    width: fit-content;
+}
+#group-numbers {
+    display: flex;
+    flex-direction: row;
+    gap: var(--element-gap);
+}
+.group-number {
+    width: var(--element-width);
+    padding: var(--element-padding);
+    white-space: nowrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    gap: var(--element-gap);
+}
+
+#s-block {
+    display: flex;
+    flex-direction: row;
+    gap: var(--element-gap);
+    margin-right: var(--element-gap);
+}
+#d-block {
+    display: flex;
+    flex-direction: column;
+    gap: var(--element-gap);
+    margin-right: var(--element-gap);
+}
+#p-block {
+    display: flex;
+    flex-direction: row;
+    gap: var(--element-gap);
+}
+#f-block {
+    display: flex;
+    flex-direction: column;
+    gap: var(--element-gap);
+    margin: var(--group-skip) 0 0 25.8em;
+}
+
+.element {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: var(--element-padding);
+    border-radius: .4em;
+    gap: var(--element-gap);
+    text-decoration: none;
+    background-color: var(--light2);
+    width: var(--element-width);
+    height: var(--element-height);
+    transition: var(--transition);
+}
+.element-placeholder {
+    padding: .5em;
+    width: var(--element-width);
+    height: var(--element-height);
+}
+.element-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 1em;
+    font-size: var(--tiny-size);
+}
+.element-symbol {
+    font-size: var(--h2-size);
+}
+.element-bottom {
+    font-size: var(--tiny-size);
+}
+a.element:hover {
+    background-color: var(--accent3);
+    color: var(--light1);
+}
+.element-multiple {
+    display: flex;
+    flex-direction: column;
+    gap: .2em;
+    text-decoration: none;
+}
+.element-multiple-row {
+    flex-direction: row;
+}
+.element-multiple:hover {
+    color: var(--light1);
+    background-color: var(--accent3);
+    border-radius: .5em;
+}
+.element-multiple:hover .element {
+    background-color: var(--accent3);
+}
+.unknown {
+    color: var(--light4);
+}
+
+#group-number-iiib, .d-block-gap {
+    margin-right: calc(var(--group-skip) - var(--element-gap));
+}
+
+@media (max-width:480px) {
+    .main-content {
+        --element-width: 15px;
+        --element-height: 15px;
+        --element-gap: .2em;
+        --element-padding: .5em;
+        --group-skip: 15px;
+    }
+    .element-top {
+        display: none;
+    }
+    .element-symbol {
+        font-size: var(--h4-size);
+    }
+    .element-bottom {
+        display: none;
+    }
+    #group-numbers {
+        display: none;
+    }
+    #period-numbers {
+        display: none;
+    }
+    #f-block {
+        margin-left: 7.7em;
+    }
+}

@@ -1,0 +1,101 @@
+---
+title: "Molybden"
+layout: single
+type: note
+section: "unlisted"
+weight: 
+---
+- nacházejí se ve skupině [VI.B](/notes/research/chemistry/inorganic-chemistry/periodic-table/group-vi.b)
+- jeho elektronová konfigurace je $Kr]4d^55s^1$[*
+# Zisk a výskyt molybdenu
+- je mnohem vzácnejší než [chrom](/notes/research/chemistry/inorganic-chemistry/periodic-table/chromium)
+- získávají se z _molybdenitu_ $MoS_2$ a _wulfenitu_ $PbMoO_4$
+- je to [mikrobiogenní prvek](/notes/research/chemistry/biochemistry/dynamic-biochemistry/bioinorganic-chemistry)
+    - aktivuje [enzymy](/notes/research/chemistry/biochemistry/descriptive-biochemistry/enzymes)
+    - je součástí nitrogenáz, reduktáz i oxidáz
+        - nejvýznamnější je jeho úloha při fixaci vzdušného dusíku při biosyntéze amoniaku v bakteriích
+        - nejvýznamnější je nitrogenáza
+            - je složena ze dvou [bílkovin](/notes/research/chemistry/biochemistry/descriptive-biochemistry/proteins)
+                - _molybdoferredoxin_
+                    - obsahuje jak molybden, tak železo
+                - _azaferredoxin_
+                    - molybden neobsahuje 
+                - na molybdoferredoxin se naváže dusík prostřednictvím molybdenu
+                - azaferredoxin je potom redukován a přijaté elektrony se přesouvají na molybdoferredoxin, kde usnadňují protonizaci vázáné molekuly dusíku
+    - většinou se nachází spolu se železem
+# Vlastnosti molybdenu
+- má vysoký bod tání
+- snadno se pasivuje
+    - je odolný vůči působení kyselin
+        - rozpouští se jen v horké kyselině chlorovodíkové a sírové
+        - dobře se rozpouští ve směsích oxidujících kyselin
+        - neodolává působení oxidujících zásaditých tavenin
+- používá se k legování oceli
+    - přispívá k vynikajícím vlastnostem a odolnosti vůči korozi
+- nejstálejší je v oxidačním stavu $VI$
+- stálý je také v oxidačním stavu $IV$
+- poměrně běžné jsou sloučeniny v oxidačním stavu $V,III$ a $II$
+- existují i sloučeniny v jiných oxidačních stavech, ale ty nejsou tak stálé
+# Sloučeniny molybdenu
+- _oxid molybdenový_ $MoO_3$
+    - je nerozpustný ve vodě
+    - je slabě kyselý a má slabší oxidační účinky
+    - jeho rozdílné chování od oxidu chromového je způsobeno polymerních charakterem jeho mřížky, vyšší elektropozitivitou molybdenu a vyšší stabilitou oxidačního stavu $VI$
+    - jeho redukcí vodíkem lze získat _oxidmolybdeničitý_ $MoO_2$
+        - v pruběhu reakce vznikají smíšené tuhé oxidy obsahující $Mo^{VI},Mo^{V}$ a $Mo^{IV}$
+    - smíšené oxidy molybdenu se používají jako pigmenty a v [analytické chemii](/notes/research/chemistry/general-chemistry/analytical-chemistry/analytical-chemistry)
+        - produkty se nazývají _molybdenové modři_, ale jejich složení a mechanismus jejich vzniku není zcela vysvětlen
+        - složení se pohybuje v rozmezí $MoO_3$ a $MoO(OH)_3$
+- _kyselina molybdenová_ $H_2MoO_4\cdot{ H_2O}$
+    - nemá oxidační účinky
+    - je velmi málo rozpustná ve vodě
+    - připravuje se vytěsněním silnou minerální kyselinou z molebdenanů
+    - molybden vytváří mnoho formálních _isopolykyselin_ a _heteropolykyselin_
+        - známým příkladem soli heteropolykyseliny je _monohydrát fosfáto-dodekamolybdenanu triamonného_ $(NH_4)_3PMo_{12}O_{40}\cdot{H_2O}$
+            - používá se při stanovení fosforečnanů
+            - vylučuje se jako žlutá sraženina z roztoků fosforečnanů a kyseliny  fosforečné po přidání _molybdenanu amonného_
+                - odbobným způsobem se připravují i soli heteropolykyselin jako $H_4SiMo_{12}O_{40}$ nebo $H_3AsMo_{12}O_{40}$
+        - $Mo_6O_{19}^{2-}$ vzniká kondenzací tetraedrického $MoO_4^{2-}$
+            - původní tertraedrické uspořádání se při kondenzaci mění na oktaedrické se společnou hranou
+- _molybdenany_
+    - připravují se reakcí $MoO_3$ s oxidy nebo hydroxidy alkalických kovů
+    - jsou jedny z nejstálejších sloučeniny molybdenu
+    - jejich oxidační sloučeniny jsou podstatně slabší než tomu je u chromanů
+    - anionty $MoO_4^{2-}$ mají velký sklon k polykondenzaci v kyelém i nteruálním prostředí
+        - v zásaditém prostředí jsou stálejší monomery
+        - pokud dojde k otupení bazicity přídavkem kyseliny, monomery se shromáždí na tetramer nebo oktamer
+            - $7\ MoO_4^{2-}+8\ H_3O^+\longrightarrow{Mo_7O_{24}^{4-}+12\ H_2O}$
+            - $8\ MoO_4^{2-}+12\ H_3O^+\longrightarrow{Mo_8O_{26}^{4-}+18\ H_2O}$
+        - ke kondenzaci může v roztoku dojít i za účasti cizých aniontů podobného charakteru a dochází ke vzniku _heteropolyaniontů_
+            - např.: $PO_4^{3-}+12\ MoO_4^{2-}+24\ H_3O^+\longrightarrow{PMo_{12}O_{40}^{3-}+36\ H_2O}$
+                - v této reakci vzniká _tetrakis(trimolybdato)fosforečnanový aniontu_
+                    - obvykle se zapisuje jako $P(Mo_3O_{10})_4^{3-}$
+            - mají uplatnění v analytické chemii
+- _halogenidy_
+    - fluor dostává molybden do nejvyšších oxidačních stavů
+        - existují $MoF_6,MoF_5,MoF_4$ a $MoF_3$
+    - ostatní halogeny stabilizují molybden v nižších oxidačních stavech
+        - $MoX_4,MoX_3,MoX_2$
+    - struktura nižších halogenidů je velmi složité
+        - některé mají polyjadernou struktury s vazbami kov-kov
+            - například u halogenidu $MoX_2$ se jedná o klastry $[Mo_6X_8]X_4$
+            - struktura kationtu $[Mo_6X_8]^{4+}$
+                {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2FsPkO6xlux2.png?alt=media&token=06532173-857e-4d12-ba06-1c8fc3d3a33c" alt="" >}}
+    - ve styku s vodou podléhají okamžité hydrolýze
+    - nižší halogenidy se v kontaktu se vzdušným kyslíkem oxidují
+- _sulfidy_
+    - vytvářejí se dva stálé suflidy $MoS_2$ a $MoS_3$
+    - uplatňují se jako maziva
+    - pro aniont molebdenanový je charakteristické nahrazení atomů kyslíku atomy síry za vzniku _aniontů tetrathiomolybdenanového_ $MoS_4^{2-}$
+- molybden tvoří intersticiální karbidy a nitridy
+    - mají velmi kompaktní mřížku
+    - vyznačují se velkou tvrdostí a malou těkavostí
+- _komplexy_
+    - molybden má velkou schonost vytvářet řadu [komplexních sloučenin](/notes/research/chemistry/inorganic-chemistry/general-inorganic-chemistry/complex-compounds)
+    - jsou především v oxidačních stavech $VI,V$ a $IV$
+    - molybden dosahuje vysokých koordinačních čísel
+        - často dokonce 8
+    - ligandy jsou nejčastěji $CN^-,SCN^-,F^-,Cl^-,O^{2-},OH^-$, některé organické anionty a moelkuly a anorganické oxoanionty
+- _molebdenové bronzy_
+    - jsou to slitiny alkalických kovů s oxidem molybdenovým 
+- organokovové sloučeniny

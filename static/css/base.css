@@ -147,7 +147,6 @@ nav i {
 
 .nav-content {
     width: 95vw;
-    max-width: 1500px;
     display: flex;
     flex-direction: column;
     gap: 1.5em;

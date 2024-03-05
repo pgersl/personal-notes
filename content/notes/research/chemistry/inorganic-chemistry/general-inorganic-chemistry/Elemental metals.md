@@ -1,0 +1,1070 @@
+---
+title: "Elementární kovy"
+layout: single
+type: note
+section: "Obecná anorganická chemie"
+weight: 10
+---
+- elementární kovy mají mimořádný technický význam
+- uplatňují se v elementární formě nebo častěji formou slitin 
+- používají se ve strojírenství, elektrotechnice, spotřebním průmyslu a stevbnictví
+- jejich sloučeniny jsou průmyslově neméně významné
+# Rozšíření kovů v přírodě
+- nejrozšířenější kovy jsou _hliník, železo, vápník, sodík, dralsík, hořčík_ a _titan_
+- nejrozšířenější jsou kovy s nižším atomovým číslem
+- jejich získatelnost je přímo úměrná jejich kumulací a lokalizací ložisek
+- _ruda_
+    - je to nerost nebo skupina nerostů, ze kterých lze v dané etapě technologického vývoje průmyslově a s prospěchem získávat elementární kovy, jejich slitiny nebo sloučeniny
+- jejich extrahovatelnost z rudy je silně ovlivněna jejich chemickými vlastnostmi
+- rozdělení zásob
+    - 5% - rudy velmi bohaté
+        - extrakce elementrárních kovů je relativně snadná
+    - 30% - rudy středně bohaté
+    - 65% - rudy chudé
+        - extrakce elementárních kovů je technicky velmi náročná
+        - u velké části je extrakce zatím nemožná
+# Explotace kovů z přírodních zdrojů
+- explotace z přírody je ohromná
+- dochází k rychlému vyčerpávání zásob jednotlivých kovů
+- po vyčerpání zásob bohatějšch kovů se přejde k extrakci z jiných sloučenin a nerostů
+- později se přejde na chudší rudy a polykomponentní sloučeniny
+- to si vyžádá technologický vývoj
+# Vznik nerostů
+- vznik nerosůt je spjat s tuhnutím magmatu
+    - při chladnutí Země vznikla ze svrchní vrstvy magmatu _primární zemská kůra_
+    - chemické složení se měnilo a nebylo homogenní
+    - _magma_, které dnes tříští na zem je komplikovanou směsí převážně křemičitanů různých kovů
+- tuhnutí magmatu probíhá v několika fázích
+    - jsou závislé na původním složení magmatu a stavových veličinách soustavy
+    - závisí také na dynamice změn těchto faktorů
+- **Fáze tuhnutí magmatu**
+    - _likvace_
+        - oddělování tekutých fází
+        - uvolní se kapalné _sulfidy železa_ a _niklu_
+    - _krystalizace I._
+        - uvolní se _oxidy, křemičitany_ a _fosforečnany_
+        - $Fe^{II,III},Cr^{III},Al^{III},Mg^{II},Mn^{II},Ti^{IV},Ca^{II},Zr^{IV},$ platinové kovy, _diamant_
+        - při větších rozdílech hustot se krystali pohybovali a vznikali aglomeráty
+        - při menších rozdílech se krystali usadili na místě
+    - _krystalizace II._
+        - uvolní se _křemičitany, hlinitokřemičitany, sírany, fluoridy_ a _hydroxidy_
+        - $Mg^{II},Fe^{II},Co^{II},Al^{III},K^I,Na^I,SiO_2,$ _tridymit, cristobaltit_
+        - nejprve se uvolní křemičitany ve formě klasického tetraedru a sloučeniny tento tetraedr obshaující
+        - později se uvolňují _pyroxeny_
+            - jsou to sloučeniny obsahující řetězce křemičitanových aniontů
+        - dál se uvolňují _amfiboly_
+            - jsou to sloučeniny obsahující dva řetězce křemičitanových aniontů
+        - dál se uvolní _slídy_
+            - obsahují vrstevnaté uspořádání aniontů křemičitanových
+        - dál se uvolňuje _orthoklas_ a _křemen_
+            - má prostorovou síť aniontů
+            - křemičitany se nejprve uvolňují s železem ve struktuře
+                - způsobuje jejich tmavé zbarvení
+                - _melanokratní minerály_
+            - jakmile jsou železné zásoby vyčerpány, křemen se zabarvuje do svých charakteristických barev
+                - krystalizuje _orthoklas, muskovit_ a _živec_ a modifikace $SiO_2$
+    - _krystalizace III._
+        - uvolní se _fluoridy, chloridy, hydroxidy, boritany, fosforečnany_ a _křemičitany_
+        - $Li^I,Be^{II},Mn^{II},Ti^{IV},Zr^{IV},Hf^{IV},Th^{IV},Ta^V,Nb^V,U^{IV},Sn^{IV},$ vzácné kovy
+        - vznikají žíly nerostů
+            - zaplňují ještě volné oblasti v zatuhé hornině
+        - vznikají velmi pestré minerály
+    - _pneumatické a hydrotermální děje_
+        - plyny a zbytky zkapalnělého magmatu spolu reagují za vzniku nových minerálů
+        - po poklesu pod kritický bod vody (374°C) se uvolňují z vodných roztoků primárně sulfidy tvořící velmi významná ložiska
+            - mají polymetalický charakter
+        - mnohé minerály vzniklé dříve se za nestálých podmínkách na povrchu rozpadají a vznikají nové
+    - dojde-li v místě, kde už došlo ke krystalizaci z magmatu nebo dokonce ke vznku drohotných minerálů k dalšími vyvření magmatu, změní se složení půdy okolo
+# Obecné metody výroby kovů
+## Těžba rudy
+- nespadá do oblasti chemických disciplín
+- jedná se pouze o mechanickou manipulaci
+## Nechemické separační metody
+- mají charakter mechanicko-fyzikálního nebo fyzikálně-chemického separačního procesu
+- jsou založeny na fyzikálních a chemických jevech
+- používá se třeba: 
+    - magnetická separace
+    - plavení
+    - sedimentace
+    - [flotace](https://en.wikipedia.org/wiki/Froth_flotation)
+    - frakční rozpouštění
+## Chemické separační postupy
+- aktivní složka je oddělována od zbytku
+    - případně se převádí na jinou sloučeninu, ze které se surový kov získává snadněji
+- používá se třeba:
+    - tavení s některými látkami
+    - rozklad kyselinami nebo alkalickými hydroxidy
+    - rozklad komplexotvornými roztoky
+    - termické rozklady bez přístupu vzduchu
+    - pražení na vzduchu
+    - vylučování sraženin z roztoků
+- velmi často se zakončují dalšími separačními metodami
+## Chemické děje vedoucí ke vzniku elementárního kovu
+### Výroba redukčními pochody
+- spočívají v redukci sloučeniny kovu
+    - nejčastěji oxidu nebo halogenidu
+- uskutečňují se většinou ve vyšších teplotách (_termoredukční pochody_)
+- **Redukovadla**
+    - _elementární nekovy a polokovy_ ($H_2,C$,...)
+    - _elementární kovy_ ($Al,Mg,Ba,Na,Si,Zn,Zr,Fe$,...)
+    - _sloučeniny_ ($CO,SO_2,CaC_2,KCN$,...)
+- **Redukce vodíkem**
+    - poskytuje relativně čisté kovy
+    - je náročná finančně a bezpečnostně
+    - spočívá v žíhání sloučeniny proudem vodíku
+        - některé halogenidy se takto redukují v plynném stavu
+    - nejsnáze se redukují halogenidy a oxidy kovů
+    - sulfidy se většinou touto metodou neupravují
+    - pro neušlechtilé kovy nelze tuto metodu použít
+- **Redukce uhlíkem**
+    - provádí se s oxidy kovů
+    - patří k nejběžnějším postupům
+    - směs oxidu a koksu se vyhřívá v elektrické peci nebo se potřebné teplory dosahuje spalováním uhlíku
+    - v reakčním prostoru probíhá řada reakcí
+    - většina kovu je redukována uvolňujícím se $CO$
+        - záleží na podmínkách
+    - jsou to jedny z nejstarších metod
+    - není nákladná ani složitá a je dobře propracovaná
+    - čistota kovů není příliš vysoká
+    - některé silně elektropozitivní kovy navíc tvoří s uhlíkem karbidy a není možné je takto vyrábět
+        - u některých ušlechtilých kovů se stejné situaci 
+            - předchází přidáním oxidů železa a oxidu žádaného kovu nebo smíšeným oxidem
+            - vzniká slitina železa a žádaného kovu
+- **Redukce elementárními kovy**
+    - _metalotermie, termitové reakce_
+    - jsou to velmi exotermické reakce
+    - slouží k přípravě málo ušlechtilých kovů
+        - jejich příprava jinými metodami není možná
+        - dají se tak připravovat i ušlechtilé kovy
+    - k redukci slouží většinou _hliník, křemík_ nebo _hořčík_
+    - určitou dobu se používala tzv. _Krollova metoda_
+        - je to redukce halogenidů roztavenými elementárními kovy
+    - jsou to metody dost drahé a nepříliš efektivní
+        - je potřeba těžce získatelných kovů
+        - musí se provádět za sníženého tlaku nebo v atmosféře inertního plynu
+- **Substituce**
+    - využívá se méně ušlechtilých kovů k vyloučení sraženiny ušlechtilého kovu
+    - nějčastěji se užívá železo
+- **Redukce sloučninou**
+    - používají se _oxid uhelnatý_, termická reakce s _karbidem vápenatým_ (_karbidotermie_) a _kyanidy_
+    - využívá se i částečného opražení sulfidů a následným znepřístupněním kyslíku, kdy původní sulfid vyredukuje ze všech sloučenin elementární kov
+- takto připravené kovy jsou houbovité a vysoce pórovité, někdy prášky
+    - většinou se ztavují dohromady na kompaktní materiál
+- vzniklé kovy mohou být kapalné nebo plynné a oddělují se jinými separačními metodami
+### Výroba kovů tepelným rozkladem sloučenin
+- provádí se v trubicích nebo válcích
+- látka je v nich uložena na lodičce nebo přímo v trubici
+- reakční prostor se zahřívá zvenčí
+- vedlejší produkty se odvádějí destilací odsáváním z reakčního prostoru
+- nejčastěji se užívá rozkladu oxidů a azidů
+    - nevhodnější jsou oxidy ušlechtilích kovů
+        - jsou _termicky labilní_
+    - u azidů je termická labilita podmínkou
+        - azidy navíc nesmí mít sklon k explozitě
+- lze rozkládat i plynné látky
+    - rozkládají se na vyhřátem kovovém vláknu
+    - ty se vyhřívají elektrickým proudem
+- významné jsou dekomopozice karbonylů
+    - $[Ni(CO)_4]\longrightarrow{Ni}+4\ CO$
+- lze provádět i dekompozici hydridů
+- dál se dají rozkládat i jodidy a bromidy
+- tyto metody většinou slouží k přečišťování produktů získaných jinými procesy
+### Výroba kovů elektrolytickými pochody
+- patří k nejpoužívanějším techonologiím
+- u některých kovů je to jediná vhodná cesta pro jejich získání
+- **Elektrolytické rozklady vodných roztoků**
+    - uskutečňují se při normální teplotě
+        - jen málo často při teplotách vyšších
+    - do roztoku se umístí dvě elektrody
+        - na katodě se uvolňuje kov
+    - za anodu lze použít i získávaný kov samotný, který se postupně rozpustí do roztoku a uvolní se na katodě
+        - _elektrolytická rafinace kovů_
+    - kovy, jejichž elektrodový potenciál ve vysoce záporný, se na katodě přímo neuvolňují
+        - přednostně dochází k redukci protonů v oxoniovém kationtu na plynný vodík, který se uvolňuje
+            - dá se tomu zabránit vrstvou rtuti
+                - vodík se bude uvolňovat neochotně
+                - kov se bude vylučovat ve formě amalgamu
+        - dále mohou kovy s vodou zreagovat za tvorby příslušných hydroxidů
+    - některé kovy ($Ge,Mo,W,Ti$) se na katodě nevylučují
+        - příčiny nejsou přesně známy
+    - účinnost a čistotu produktu po elektrolýze určuje mnoho faktorů
+        - pro každý kov bude proces trochu jiný
+- **Elektrolytické roztoky tavenin**
+    - _tavenina_
+        - roztavená sůl kovu
+    - uskutečňují se při docela vysokých teplotách
+    - produkty bývají tekuté
+        - pokud tekuté nejsou, bývají pórovité a musí být ztaveny
+    - z reakční směsi se kov odčerpává
+    - z taveniny lze získat i ty nejméně ušlechtilé kovy
+    - používá se hlavně na výrobu alkalických kovů a kovů alkalických zemin
+    - elektrolyzují se obvykle taveniny halogenidů, halogenokomplexů, hydroxidů a oxidů
+    - je energeticky velmi náročná
+        - užívá se vysoké proudové hustoty
+        - tepelné ztráty musí být okamžitě doplněny
+    - používají se primárně jednosložkové taveniny
+    - anodické produkty jsou nebezpečné a ekologicky problematické
+        - produkty se špatně zachycují a filtrují
+## Rafinační postupy
+- čistota kovu závisí na:
+    - metodě přípravy
+    - typ kovu
+    - výchozí surovině
+    - parametrech výrobního procesu
+- obecně platí, že primárně vyrobený kov nevyhovuje svou čistotou
+### Chemické rafinace
+- existuje jich velmi mnoho
+- často se používají jako předrafinační způsoby
+    - jsou to kroky, které předchází finální rafinaci
+    - reakcemi se do systému vnáši další nečistoty a nežádoucí látky
+- kovy získané chemickou rafinací se používají jako konstrukční materiály nebo složky do slitin nebo jako výchozí látky pro syntézu dalších sloučenin
+    - nejsou vhodné pro použití do speciálních oblastí
+- **Převedení na vhodnou sloučeninu**
+    - pouhým převedením na nějakou konkrétní sloučeniny se odstraní mnoho nečistot
+        - sloučeninu je potřeba separovat jinou separační metodou
+    - sloučenina se pak dál čistí a nakonec se převádí na elementární kov
+    - dá se využít i převedení na organickou sloučeninu
+- **Atakování něžádoucích složek**
+    - různými reakcemi se nežádoucí složky převádí na separovatelné složky
+    - čištěný kov pak žádné reakci nepodléhá
+### Fyzikálně-chemické rafinace
+- nejvýznamější metodou je elektrolýza
+    - je výborně propracovaná a snadno realizovatelná
+    - užívá se i vícestupňové elektrolýzi, při které se jako anoda používá získávaný kov, který se několikrát rozpustí
+    - pod anodou se hromadí _anodové kaly_
+        - jsou to vzniklé nečistoty
+    - elektrolýza tavenin se někdy také používá jako účinná rafinační metoda
+- zatím málo využívanou metodou jsou _měniče iontů_
+    - jsout přírodní nebo syntetické makromolekulární látky
+    - jsou schopné na svém povrchu zachycovat ionty z elektrolytů
+    - používají se k získávání kovů z odpadních vod
+### Fyzíkální rafinace
+- používá se k zisku materiálů o vysoké čistotě
+- jsou vždy finálními rafinacemi
+- **Pochody za sníženého tlaku**
+    - využívají k dělení rozdílné těkavosti kovů a komponent je znečušťujících
+    - základní materiál se za velmi sníženého tlaku odporově nebo indukčně zahřívá
+    - dochází k jeho těkání
+    - kov se zbavuje těkavých sloučenin
+    - posléze sám těká a zbavuje se netěkavých nečistot
+- **Zonální rafinace**
+    - spočívá v opakovaném jednosměrném průchodu protáhlého ingotu kovu místem, kde je kov vyhřátý na teplotu blízkou teplotě jeho tání
+    - nežádoucí dobře rozpustné látky se shromáždí na odlehlé straně ingotu
+    - nerozpustné látky se shromáždí na přední straně ingotu
+    - střední část ingotu je vysoce čistý materiál
+    - k podobné situaci dochází, když se z taveniny sloučeniny kovu získávají jeho monokrystaly
+# Výroba a použití kovů
+## [Alkalické kovy](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkali-metals)
+### Lithium
+- **Zdroje**
+    - hlavně z křemičitanů
+        - _lepidolit_ $K(Li,Al)_3(Al,Si,Rb)_4O_{10}(F,OH)_2$
+        - _spodumen_ $LiAlSi_2O_6$
+    - dál z fosforečnanů
+        - _trifylin_ $(Li,Na)(Fe,Mn)PO_4$
+    - dál z některých ložisek chloridů
+- **Výroba**
+    - tavnou elektrolýzou 
+        - směs $LiCl$ a $KCl$ při 400°C
+    - metalometricky
+        - působením $Ca$ nebo $Al$
+        - zisk z $Li_2O$ nebo $LiOH$ při 800 - 1000°C
+        - rafinace destilací za sníženého tlaku
+- **Použití**
+    - zušlechťující a deoxidační přísada v metalurgii
+    - teplonosné médium jaderných elektráren
+    - příprava organolithných sloučenin
+    - redukční prostředek v organické syntéze
+    - polymerační katalyzátor
+### Sodík
+- **Zdroje**
+    - primárně z chloridu $NaCl$
+        - _halit_
+        - mořská voda
+    - ostatní minerály se v metalurgii moc nepoužívají
+        - _trona_ $Na_2CO_3\cdot{NaHCO_3}\cdot{2\ H_2O}$
+        - _kryolit_ $Na_3AlF_6$
+        - _chilský ledek_ $NaNO_3$
+        - _Glauberova sůl_ $Na_2SO_4\cdot{10\ H_2O}$
+        - _glauberit_  $Na_2SO_4\cdot{CaSO_4}$
+- **Výroba**
+    - tavnou elektrolýzou
+        - směs $NaCl$ a některých dalších halogenidů při 600 až 650°C
+        - rafinace destilací za sníženého tlaku
+- **Použití**
+    - v organické syntéze
+        - při výrobě _tetraethylolova_
+    - k výrobě kovů redukcí kapalným sodíkem
+    - k výrobě některých sodných sloučenin
+### Draslík
+- **Zdroje**
+    - primárně z chloridů
+        - _sylvín_ $KCl$
+        - _karnalit_ $KMgCl_3\cdot{6\ H_2O}$
+        - _kainit_ $KCl\cdot{MgSO_4}\cdot{3\ H_2O}$
+    - ostatní minserály se v metalurgii nevyužívají
+- **Výroba**
+    - karbidometricky 
+        - při 600 - 800°C
+    - metalometricky 
+        - z $KCl$ redukcí sodíkem při 840°C
+        - vzniká slitina sodíku s draslíkem
+    - tavnou elektrolýzou 
+        - $KOH,KNO_3$ nebo $K_2CO_3$ rozpuštěných v tavenině $KCl$
+        - rafinace destilací za zvýšeného tlaku
+- **Použití**
+    - teplonosné médium v jaderních elektrárnách
+    - slitina se sodíkem jako redukovadlo v organické syntéze
+### Rubidium a cesium
+- **Zdroje**
+    - z některých draselných solí obsahujích izomorfně přítomné $Rb$ a $Cs$
+    - přímým zdrojem jsou matečné louhy po zrpacování _karnalitu_
+    - cesium obsahuje křemičitan _pollucit_ $Cs_4Al_4Si_9O_{26}\cdot{H_2O}$
+- **Výroba**
+    - metalometricky
+        - redukcí oxidů, chloridů, hydroxidů a chromanů
+        - působením $Mg,Ca,Zr,Ba$ nebo $Al$ v proudu vodíku při 500 - 800°C
+    - tavnou elektrolýzou
+        - chloridy nebo hydroxidy
+- **Použití**
+    - pro výrobu těžkotavitelných skel
+    - v elektrotechnice a osvětlovací technice
+### [Beryllium](/notes/research/chemistry/inorganic-chemistry/periodic-table/beryllium)
+- **Zdroje**
+    - primárně hlinitokřemičitany a křemičitan
+        - _beryl_ $Be_3Al_2Si_6O_{18}$
+        - _fenakit_ $Be_2SiO_4$
+- **Výroba**
+    - tavnou elektrolýzou
+        - směs $BeCl_2$ a $NaCl$ při 350°C
+    - metalometricky
+        - redukcí fluoridu nebo chloridu hořčíkem v elektrické peci
+    - redukcí uhlíkem
+        - $BeO$ při 1400°C
+        - po slinutí se lisuje
+        - rafinace destilací za sníženého tlaku
+- **Použití**
+    - moderátor neutronů v jaderných elektrárnách
+    - výroba slitin beryllia
+        - _berylliové bronzy_
+        - jsou velmi tvrdé a houževnaté
+### [Hořčík](/notes/research/chemistry/inorganic-chemistry/periodic-table/magnesium)
+- **Zdroje**
+    - primárně z chloridů
+        - _karnalit_
+        - _bischofit_ $MgCl_2\cdot{6\ H_2O}$
+    - dále uhličitany
+        - _dolomit_ $CaMg(CO_3)_2$
+        - _magnesit_ $MgCO_3$
+    - ostatní minerály nejsou využívány
+- **Výroba**
+    - tavnou elektrolýzou
+        - $MgCl_2$ s přídavkem $KCl, LiF, NaF$ nebo $CaCl_2$ při 650 - 750°C
+        - rafinace přetavením a destilací za zvýšeného tlaku
+    - redukcí uhlíkem, karbidem vápenatým nebo křemíkem
+        - $MgO$ při 1200 - 2200°C
+- **Použití**
+    - k zušlechťování kovů, zejéna hliníku, mědi a železa
+    - výroba kovů Krollovým způsobem
+    - v organické syntéze
+        - Grignardova činidla
+## [Kovy alkalických zemin](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkaline-earth-metals)
+### Vápník
+- **Zdroje**
+    - primárně z uhličitanů
+        - _vápenec_ $CaCO_3$
+        - _dolomit_
+    - dále _fluorit_ $CaF_2$ a _apatit_ $Ca_5(PO_4)_3(F,Cl,OH)$
+- **Výroba**
+    - tavnou elektrolýzou
+        - směs $CaCl_2$ a $CaF_2$ při 700 - 800°C
+    - metalometricky
+        - reakcí $CaCl_2$ s elementárním hliníkem
+- **Použití**
+    - k výrobě kovů kalciometrií
+    - slitina $PbCa$ se používá jako ložiskový kov
+    - jako deoxidační přísada při výrobě oceli
+### Stroncium
+- **Zdroje**
+    - je izomorfně přítomno v některých minerálech vápníku
+    - jeho vlastní minerály jsou velmi vzácné
+        - _stroncianit_ $SrCO_3$
+        - _celestin_ $SrSO_4$
+- **Výroba**
+    - tavnou elektrolýzou
+        - směs $SrCl_2$ a $KCl$ při 700°C
+    - matelometricky
+        - z $SrO$ aluminotermií
+- **Použití**
+    - není významné
+### Baryum
+- **Zdroje**
+    - _baryt_ $BaSO_4$
+    - _witherit_ $BaCO_3$
+- **Výroba**
+    - elektrolýzou
+        - vodný roztok $BaCl_2$ za použití rtuťové katody
+    - metalometricky
+        - redukcí $BaO$ účinky $Si$ nebo $Al$
+    - tavnou elektrolýzou
+        - $BaCl_2$
+        - vrstva roztaveného olova tvoří katodu
+        - vzniká slitina $PbCa$
+- **Použití**
+    - používá se vyjmečně v metelometrii
+    - slitina $PbCa$ se používá jako ložiskový kov
+### Radium
+- jako kov se nevyrábí
+- jeho sloučeniny se získávají z koncentrátů připravovaných při zpracování uranových rud
+### [Hliník](/notes/research/chemistry/inorganic-chemistry/periodic-table/aluminium)
+- **Zdroje**
+    - primárně _oxid-hydroxidy_
+        - _bauxit_ $AlO(OH)\cdot{Al(OH)_3}$
+            - obsahuje navíce i železo, mangan a křemen
+    - méně často se využívají _hlinitokřemičitany_
+        - _nefelin_ $Na_2Al_2Si_2O_8$
+    - ostatní hojné minerály obsahující hliník se zatím k jeho výrobě nepoužívají
+- **Výroba**
+    - tavnou elektrolýzou
+        - $Al_2O_3$ rozpuštěného v tavenině _kryolitu_ $Na_3[AlF_6]$ nebo _chiolitu_ $Na_2AlF_5$
+        - **výroba** $Al_2O_3$ (_Bayerova metoda_)
+            - připravuje se z bauxitu
+            - na bauxit se působí roztokem $NaOH$ za zvýšeného tlaku a teploty
+                - $AlO(OH)+NaOH+H_2O\longrightarrow{Na[Al(OH)_4]}$
+                - touto operací se oddělí nečistoty a vedlejší produkty ($Fe^{III},Mn^{IV}$ a $SiO_2$)
+            - karbonatací vzniklého roztoku se vyloučí $Al(OH)_3$
+                - $2\ Na[Al(OH)_4]+CO_2\longrightarrow{2\ Al(OH)_3}+Na_2CO_3+H_2O$
+            - hydroxid se potom termicky dehydratuje kalcinací při 1200°C
+        - rafinace druhou tavnou elektrolýzou a případně zonální tavbou
+    - _subhalogenidovou metodou_
+        - z chloridu hlinitého $AlCl_3$ a $Al_2O_3$ při 1200°C 
+        - využívá existence velmi nestálého _chloridu hlinného_ $AlCl$
+            - $Al_2O_3+3\ C+AlCl_3\longrightarrow{3\ AlCl+3\ CO}$
+        - při 600°C se nestabilní chlorid rozpadá
+            - $3\ AlCl\longrightarrow{2\ Al}+AlCl_3$
+        - tato metoda se používá velmi vzácně
+            - je velmi energeticky náročná a náročná na kvalitu materiálů výrobního zařízení
+- **Použití**
+    - výroba slitin hliníku
+        - používají se jako:
+            - konstrukřní materiály vynikajících parametrů
+                - hlavně v atomobilovém a leteckém průmyslu
+            - elektrické vodiče
+                - dnes už spíše vzácně
+            - antikorozní povlaky
+            - výrobky spotřebního průmyslu
+                - kuchyňské nádobí
+                - obalové materiály
+                    - _alobal_
+                        - komerční tenká fólie
+    - alminometrie
+    - organická syntéza
+## [Další triely](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-triels)
+### Gallium
+- **Zisk**
+    - nemá samostatný minerál
+    - je přitomno izomorně v 
+        - _bauxitu_ $AlO(OH)\cdot{Al(OH)_3}$
+        - _sfaleritu_ $(Zn,Fe)S$
+        - některý druzích uhlí
+- **Výroba**
+    - elektrolýtou vodných roztoků $Na_2GaO_4$
+        - získávají se z luhů vzniklých při zpracování bauxitu
+    - tavnou elektrolýzou $GaCl_3$
+        - rafinace operacemi za sníženého tlaku a zonální tavbou
+- **Použití**
+    - polovodičové technologie
+        - například laserové diody
+    - sluneční články
+    - náplň do křemenných teploměrů
+        - měří teploty až 1200°C
+### Indium
+- **Zisk**
+    - provází olovo zinek a cín v jejich rudách
+- **Výroba**
+    - cementace zinkem z vodnéh roztoku $In_2(SO_4)_3$
+- **Použití**
+    - polovodičová technika
+    - zušlechťující komponenta ložiskových kovů
+### Thallium
+- **Zisk**
+    - provází olovo a zinek v některých jejich rudách
+    - přímým zdrojem je prach z těchto rud
+- **Výroba**
+    - redukcí $TlCl$ pomocí $KCN$
+    - cementrací zinkem z vodného roztoku $Tl_2(SO_4)_3$
+    - elektrolýzou vodného roztoku $Tl_2(SO_4)_3$
+- **Použití**
+    - k příprave slitin
+## [Tetrely](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-tetrels)
+### Germanium
+- **Zisk**
+    - primárně ulétavý popílek ze spalování některých druhů uhlí
+    - provází některé rudy zinku 
+- **Výroba**
+    - redukcí $GeO_2$ vodíkem při 550°C
+    - redukcí $GeCl_4$ zinkem při 930°C
+- **Použití**
+    - v polovodičové technice
+### Cín
+- **Zisk**
+    - primárně _kassiterit_ $SnO_2$
+    - méně často se využívají jeho sulfidické rudy
+- **Výroba**
+    - redukcí $SnO_2$ uhlíkem při teplotě 1300°C
+        - produkt velmi nečistý
+        - reafinuje se různými chemickými metodami a elektrolyticky
+        - pokud je vyžadována vysoká čistota produktu, provádí se destilace za sníženého tlaku
+- **Použití**
+    - k protikorozní ochraně kovových materiálů
+        - _pocínovaný plech_
+    - pro výrobu pájecích kovů a řady dalších speciálních slitin
+        - _bronz_ - slitina mědi a cínu
+### Olovo
+- **Zisk**
+    - primárně ze sulfidických rud
+        - _galenit_ $PbS$
+    - méně často z minerálů
+        - _cerussit_ $PbCO_3$
+        - _anglesit_ $PbSO_4$
+- **Výroba**
+    - redukcí $PbO$ uhlíkem nebo oxidem uhličitým při teplotě 1000°C
+        - samotné redukci ještě předchází pražení sulfidické rudy
+            - $2\ PbS + 3\ O_2\longrightarrow{2\ PbO+2\ SO_2}$
+    - redukcí $PbO$ vychozím $PbS$ při 1000°C
+        - nejdříve se praží sulfidická ruda za přístupu vzduchu a následně se náhle přístup vzduchu zamezí
+            - $2\ PbO+PbS\longrightarrow{3\ Pb}+SO_2$
+    - rafinace se provádí chemickými způsoby nebo elektrolyticky
+- **Použití**
+    - surové olovo je meziproduktem výroby kovů, které ho doprovází v jeho rudách
+    - výroba akumulátorů
+    - konstrukční materiál
+        - pro některá hcemická zařízení
+    - výroba pájecích kovů
+    - liteřina
+    - ložiskový kov
+    - výroba [tetraethylolova]($(C_2H_5)_4Pb$ - _tetraethylplmbum_)
+## [Pentely](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-pentels)
+### Arsen
+- **Zisk**
+    - hlavně ze sulfidických rud
+        - _arsenopyrit_ $FeAsS$
+        - _auripigment_ $As_2S_3$
+        - _realgar_ $As_4S_4$
+    - dále z arsenidů
+        - _löllingit_ $FeAs_2$
+    - dále z odpadů po pražení sulfidických rud
+- **Výroba**
+    - tepelným rozkladem arsenopyritu
+        - při 700 až 800°C
+        - $FeAsS\longrightarrow{FeS+As}$
+    - tepelným rozkladem löllingitu při 700°C
+        - $FeAs_2\longrightarrow{FeAs+As}$
+    - redukce $As_2O_3$ uhlíkem při 900°C
+        - vyjímečně se redukuje i zirkonem
+        - rafinace se provadí krystalizací ze své taveniny za vysokých tlaků, sublimací nebo pochody za sníženého tlaku
+- **Použití**
+    - polovodičová technika
+    - připrava slitin
+### Antimon
+- **Zisk**
+    - hlavně sulfidické rudy a rudy olova
+        - _antimonit_ $Sb_2S_3$
+    - případně oxid
+        - _valentinit_ $Sb_2O_3$
+    - většina zdrojů je málo kvalitních a musí se obohacovat flotací nebo vytavováním
+- **Výroba**
+    - redukcí $Sb_2O_3$ uhlíkem po pražení $Sb_2S_3$ na $SbO_2$
+        - pražení
+            - $Sb_2S_3+5\ O_2\longrightarrow{2\ SbO_2}+3\ SO_2$
+        - převedení do na $Sb_2O_3$
+            - $4\ SbO_2+C\longrightarrow{2\ Sb_2O_3}$
+        - redukce
+            - $2\ Sb_2O_3+3\ C\longrightarrow{4\ Sb}+3\ CO_2$
+    - redukcí $Sb_2S_3$ elementárním železem při 1200°C
+    - antimon se předrafinovává chemicky nebo elektrolytyckou cestou
+    - rafinuje se destilací za sníženého tlaku a zonální tavbou
+- **Použití**
+    - výroba slitin
+    - ochranné povlaky na některé kovy
+### Bismut
+- **Zisk**
+    - primárně ze sulfidů
+        - _bismutit_ $Bi_2S_3$
+    - dále oxid-soli
+        - _bismutit_ $Bi_2O_2CO_3$
+    - dále izomorfní příměsy rud jiných kovů
+- **Výroba**
+    - redukcí $Bi_2S_3$ elementárním železem při 700°C
+    - redukcí $Bi_2O_3$ uhlíkem při 900°C
+    - cementací vodných roztoků bismutitých solí železem
+        - $2\ Bi^{3+}+3\ Fe\longrightarrow{2\ Bi}+3\ Fe^{2+}$
+    - rafinace se provadí chemickými cestami a potom elektorlyticky
+- **Použití**
+    - výroba speciálních slitin
+        - pájecí kovy
+        - lehkotavitelné slitiny
+            - používají se v jaderné energetice
+        - magnetické slitiny $Bi-Mn$
+### [Skandium](/notes/research/chemistry/inorganic-chemistry/periodic-table/scandium), [yttrium](/notes/research/chemistry/inorganic-chemistry/periodic-table/yttrium) a [lanthanoidy](/notes/research/chemistry/inorganic-chemistry/periodic-table/lanthanum-and-lathanoids)
+- **Zisk**
+    - **prvky s větším atomovým poloměrem**
+        - tvoří jednu skupinu minerálů
+        - křemičitany
+            - _cerit_ $(Ce,La,Ca)_9(Mg,Fe^{3+})(SiO_4)_6(SiO_3OH)(OH)_3$
+            - _orthit_ $(Ce,Ca,Y,La)_2(Al,Fe^{3+})_3(SiO_4)_3(OH)$
+        - fosforečnany
+            - _monazit_ $(Ce,La,Th)PO_4$
+            - některé apatity
+        - fluorid-uhličitany
+            - _bastnäsit_ $(La,Ce,Y)CO_3F$
+    - **prvky s menším atomovým poloměrem**
+        - tvoří skupinu _yttriových zemin_
+        - křemičitany
+            - _gadolinit_ $(Ce,La,Nd,Y)_2FeBe_2Si_2O_{10}$
+            - _thortweitit_ $(Sc,Y)_2Si_2O_7$
+        - fosforečnany
+            - _xenotim_ $YPO_4$
+        - dále niobičnany a tantaličnany
+    - europium doprovází některé vápenaté soli
+    - promethium se v přírodě nevyskytuje
+        - je to uměle připravený prvek
+- **Výroba**
+    - tavnou elektrolýtou solí při realtivně vysokých teplotách
+    - metalometrikcy
+        - redukcí alkalickými kovy, hořčíkem, vápníkem, křemíkem, připadně lanthanem
+    - elektrolýzou vodných roztoků příslušných solí za použití rtuťové katody
+    - při chemickém zpracování rud se používají různá organická rozpouštědla a měniče iontů
+- **Použití**
+    - jako slitiny s používají jako desulfrační a deoxidačná přísady v hutnictví železa
+    - čisté kovy nemají příliš velké uplatnění a jsou velmi drahé
+    - jejich sloučeniny mají aplikace v technice a vědě
+### [Titan](/notes/research/chemistry/inorganic-chemistry/periodic-table/titanium)
+- **Zisk**
+    - primárně oxidické rudy
+        - _rutil_ $TiO_2$
+        - _antas_ $TiO_2$
+        - _brookit_ $TiO_2$
+        - perovskit $CaTiO_3$
+        - ilmenit $FeTiO_3$
+- **Výroba**
+    - redukcí $TiCl_4$ hořčíkem nebo sodíkem při 900°C
+        - _Krollův postup_
+        - provádí se za sníženého tlaku pod ochrannou atmosférou vzácného plynu
+        - provádí se nejčastěji
+        - $TiCl_4$ se připravuje zahříváním rudy v proudu chloru s uhlíkem
+            - při vyšších teplotách je plynný
+            - po ochlazení kondenzuje a čístí se destilací
+    - elektrolýza $TiCl_4$
+    - elektrolýza taveniny $K_2[TiF_6]$
+    - redukce $K_2[TiF_6]$ kapalným sodíkem
+    - redukce $TiO_2$ hydridem vápenatým
+    - metalometricky
+        - z ilmenitových koncentrátů hliníkem nebo křemíkem
+            - případně lze použít i uhlík
+        - vznikne slitina titanu a železa _ferrotitan_
+    - rafinace se provádí [van Arkelovou-de Boerovou metodou](https://en.wikipedia.org/wiki/Van_Arkel%E2%80%93de_Boer_process)
+        - je to krystalizace kovu z rozloženého jodidu kovu za sníženého tlaku v atmosféře vzácného plynu
+        - produkovaný kov je extrémně čistý
+- **Použití**
+    - konstrukční materiál vynikajících vlastností
+    - výroba slitin se železem a hliníkem
+### [Zirkonium a hafnium](/notes/research/chemistry/inorganic-chemistry/periodic-table/zirconium-and-hafnium)
+- **Zisk**
+    - _zirkon_ $ZrSiO_4$
+    - _baddeleyit_ $ZrO_2$
+    - hafnium se nachází izomorfně ve sloučeninách zirkonia
+- **Výroba**
+    - redukcí halogenidů obou kovů nebo $K_2[ZrF_6]$ kapalnými kovy
+        - _Krollův postup_
+    - redukcí koncentrátů s velkým obsahem $ZrO_2$ křemíkem nebo hliníkem za přítomnosti oxidů železa
+        - vzniká slitina _ferrozirkonium_ nebo _ferrozitkoniumsilicium_
+    - rafinace se provádí van Arkelovou-de Boerovou metodou
+    - dělení zirkonia a hafnia se provádí extrakčně
+- **Použití**
+    - zirkonium je konstrukční materiál s vynikajícími vlastnostmi
+        - používá se v jaderné technice, elektrotechnice a chemickém průmyslu
+    - výroba slitin zirkonia
+    - hafnium má podobné využití, ale je mnohem méně významné
+### [Thorium](/notes/research/chemistry/inorganic-chemistry/periodic-table/actinium-and-actinoids)
+- **Zisk**
+    - hlavně fosforečnany vzácných zemin
+        - _monazit_ $(Ce,La,Th)PO_4$
+- **Výroba**
+    - metalometricky
+        - redukcí fluoridu, chloridu nebo oxidu thoričitého sodíkem nebo vápníkem
+    - tavnou elektrolýzou směsi $K[ThF_5]$ s $KCl$a $NaCl$ při 750°C
+        - používá se molybdenová katoda
+    - rafinace se provádí van Arkelovou-de Boerovou metodou
+- **Použití**
+    - součást speciálních slitin
+    - výchozí látka pro výrobu $^{233}U$ jaderným procesem, který slouží jako palivo do jaderných rekatorů vedle $^{235}U$ 
+### [Vanad](/notes/research/chemistry/inorganic-chemistry/periodic-table/vanadium)
+- **Zisk**
+    - hlavně rudy železa s vyšším obsahem vanadu
+    - dále rudy olovnato-měďnato-nikelnaté
+        - _vanadinit_ $Pb_5(VO_4)_3Cl$
+    - dále rudy uranové
+        - _carnotit_ $K_2(UO_3)_3(VO_4)_2\cdot{3\ H_2O}$
+    - zdrojem jsou také vanadové složky některých [rop](/notes/research/chemistry/organic-chemistry/general-organic-chemistry/crude-oil)
+- **Výroba**
+    - kalciotemicky nebo silikotemicky z $V_2O_5$
+        - $V_2O_5+5\ Ca+5\ CaCl_2\longrightarrow{2\ V+5\ CaO\cdot{CaCl_2}}$
+        - při silikometrii se používá _ferrosilicium_ a vzniká slitina _ferrovanad_
+    - redukcí $VCl_3$ nebo $VCl_4$ vodíkem nebo sodíkem, hořčíkem nebo hydridem sodným
+    - tavnou elektrolýzou
+        - směs $VCl_3$, $KCl$ a $LiCl$
+    - rafinace se provádí van Arkelovou-de Boerovou metodou
+- **Použití**
+    - legování oceli
+    - výroba magnetických slitin
+        - $Co-Fe-V$
+### [Niob a tantal](/notes/research/chemistry/inorganic-chemistry/periodic-table/niobium-and-tantalum)
+- **Zisk**
+    - primárně niobičnan-tantaličnany
+        - _columbit_ (_tantalit_) $(Fe,Mn)(Nb,Ta)_2O_6$
+        - _samarskit_ $(Y,Fe^{3+},U)(Nb,Ta)O_4$
+    - dále z příměsi cíničito-wolframových rud
+- **Výroba**
+    - redukcí $Nb_2O_5$ uhlíkem za sníženého tlaku při 1000°C
+        - konverze na karbid
+            - $Nb_2O_5+7\ C\longrightarrow{2\ NbC}+5\ CO$
+        - následně se vzniklá směs karbidu a nezpracovaného oxidu slisuje
+        - žíhání směsi
+            - $Nb_2O_5+5\ NbC\longrightarrow{7\ Nb+5\ CO}$
+    - tavnou elektrolýzou $K_2[NbF_7]$ nebo $K_2[TaF_7]$
+    - redukcí $K_2[TaF_7]$ sodíkem při 900°C
+    - redukcí $TaCl_5$ hořčíkem
+    - redukcí $Nb_2O_5$ nebo $Ta_2O_5$ hliníkem za přítomnosti oxidů železa
+        - vznikají slitiny _ferroniob_ nebo _ferrotantal_
+    - kovy se od sebe oddělují extrakčně
+    - rafinace se provádí van Arkelovou-de Boerovou metodou
+- **Použití**
+    - konstrukční materiály vysoké pevnosti a chemické a tepelné odolonosti
+        - využívají se v: 
+            - raketové technice
+            - letecké technice
+            - jaderné technice
+            - vysokotlakých chemických zářizeních
+            - vakuové technice
+            - elektrotechnice
+    - slitiny se železem jako přísady do oceli
+    - slitina $Nb-Al-Ti-Sn$ jako supravodič 
+### [Chrom](/notes/research/chemistry/inorganic-chemistry/periodic-table/chromium)
+- **Zisk**
+    - primárně ze smíšeného oxidu
+        - _chromit_ $FeCr_2O_4$
+- **Výroba**
+    - redukcí chromitu v elektrické peci uhlíkem
+        - při 1000 až 1300°C
+        - vzniká slitina _ferrochrom_
+    - aluminometricky z čistého $Cr_2O_3$
+    - elektrolýtou vodných roztoků kyseliny chromové
+        - rafinace pochody za sníženého tlaku
+- **Použití**
+    - ve formě slitinu železa jako přísada do oceli
+    - výroba speciálních slitin
+        - s niklem, kobaltem a manganem
+        - ochranné povlaky na jiný kovový materiál, vytvářené galvanickým pokovování
+### [Molybden](/notes/research/chemistry/inorganic-chemistry/periodic-table/molybdenum)
+- **Zisk**
+    - primárně sulfidické rudy
+        - _molybdenit_ $MoS_2$
+    - ostatní minerály se zatím nevyužívají
+- **Výroba**
+    - primárně z $MoO_3$
+        - záskává se pražením molybdenitu
+            - $2\ MoS_2+7\ H_2O\longrightarrow{2\ MoO_3+4\ SO_2}$
+    - redukcí koncentrátu (až 90% $MoO_3$) uhlíkem nebo aluminometricky
+        - vzniká slitina _ferromolybden_
+    - redukcí $MoO_3$ vodíkem při teplotě 1200°C
+    - tavnou elektrolýzou $MoO_3$
+        - v tavenině boritanů, halogenidů nebo fosforečnaná alkalických kovů
+    - rafinace se provadí slinutím a kováním
+- **Použití**
+    - legování oceli
+    - litiny
+        - používají se ve zbrojním průmyslu, na kolejnice a obráběcí stroje
+    - vakuová technika a elektrotechnika
+### [Wolfram](/notes/research/chemistry/inorganic-chemistry/periodic-table/wolfram)
+- **Zisk**
+    - primárně z wolframanů
+        - _wolframit_ $(Fe,Mn)WO_4$
+        - _scheelit_ $CaWO_4$
+- **Výroba**
+    - z konentrátu (až 75% $WO_3$) redukcí uhlíkem v elektrické peci nebo aluminometricky
+        - vzniká slitina _ferrowolfram_
+    - redukcí uhlíkem při 1400°C nebo vodíkem při 1100°C z čistého $WO_3$
+    - metalometricky redukcí $WO_3$ zinkem
+    - rafinace se provádí slinutím a kováním, případně van Arkelovou-de Boerovou metodou a zonální tavbou
+- **Použití**
+    - ve formě slitiny se železem na legování oceli
+    - výroba slinutých karbidů pro obráběci zařízení
+    - výroba speciálních slitin
+### [Uran](/notes/research/chemistry/inorganic-chemistry/periodic-table/uranium)
+- **Zisk**
+    - minerály, ve jejichž struktuře je skupina $UO_2$ nebo $UO_3$
+        - _uraninit_ (_smolinec_) $UO_2$
+    - dále vanadičnany
+        - _carnotit_ $K_2(UO_2)_2(VO_4)_2\cdot{3\ H_2O}$
+    - dále uranové slídy
+- **Výroba**
+    - redukcí $UF_4$ vápníkem nebo hořčíkem
+    - rafinace se provádí před vlastní výrobou destilací $UF_4$
+- **Použití**
+    - výroba palivových článků do jaderných elektráren
+### [Mangan](/notes/research/chemistry/inorganic-chemistry/periodic-table/manganese)
+- **Zisk**
+    - primárně z oxidických rud
+        - _burel_ $MnO_2$
+        - _psilomelan_ $Ba(Mn^{2+})(Mn^{4+})_8O_{16}(OH)_4$
+    - často doprovází železné rudy
+- **Výroba**
+    - redukcí oxidů managanu uhlíkem v elektrické peci
+        - vyšší oxidy se termicky štěpí na $MnO$, který se dále redukuje
+        - vedlejším produktem je karbid $Mn_3C$
+        - pokud je přítomno železo, tvorba karbidu je menší, ale vzniká slitina _ferromangan_
+    - aluminometricky z $Mn_3O_4$
+        - $MnO_2$ nejde použít, protože s hliníkem reaguje příliš prudce
+    - elektrolýzou roztoku $MnSO_4$
+    - rafinace se provádí destilací za sníženéhé tlaku
+- **Použití**
+    - deoxidační a zušlechťující přísada k ocelím a slitinám niklu
+### [Rhenium](/notes/research/chemistry/inorganic-chemistry/periodic-table/technetium-and-rhenium)
+- **Zisk**
+    - je velmi vzácné 
+    - doprovází molybden a je přítomno v některých rudých mědi
+- **Výroba**
+    - redukcí $KReO_4$ nebo $NH_4ReO_4$ vodíkem při 1000°C
+    - rafinace se provádí van Arkelovou-de Boerovou metodou
+- **Použití**
+    - slitiny s platinou a wolframem
+        - vyznačují se velkou tvrdostí chemickou odolností
+### [Železo](/notes/research/chemistry/inorganic-chemistry/periodic-table/iron)
+- **Zisk**
+    - převážně oxidické rudy
+        - _magnetit_ $Fe_3O_4$
+        - _hematit_ (_krevel_) $Fe_2O_3$
+        - _limonit_ $FeO(OH)$
+    - dále _siderit_ (_ocelek_) $FeCO_3$
+    - dále sulfidické rudy
+        - _pyrit_ $FeS_2$
+        - _markasit_ $FeS_S$
+        - _pyrrhotin_ $FeS$
+    - další hojné minerály se nepoužívají
+- Výroba
+    - **čisté železo**
+        - redukcí oxidů železa vodíkem při 1000°C
+        - elektrolýzou vodných roztoků železnatých solí
+        - termickým rozkladem $[Fe(CO)_5]$
+    - **technické železo**
+        - redukcí oxidů železa uhlíkem ve vysoké peci
+        - redukcí oxidů železa uhlíkem za stálého snižování objemu uhlíku
+            - vznikají litiny
+- **Použití**
+    - hlavní, univerzální a široce úžívaný konstrukční a nástrojový materiál
+        - uplatňuje se ve vedhc odvětvích průmyslové výroby
+    - některé speciální účely
+        - ferity
+        - magnetické slitiny
+    - jako katalyzátor v organické syntéze
+### [Kobalt](/notes/research/chemistry/inorganic-chemistry/periodic-table/cobalt)
+- **Zisk**
+    - primárně ze sulfidických rud železa, mědi, niklu, zinku a olova s obsahem kobaltu
+        - _linneit_ $(Co,Ni)_3S_4$
+        - _karolit_ $CuCo_2S_4$
+    - dále arsenidy
+        - _smaltin_ $CoAs_2$
+        - _kobaltin_ $CoAsS$
+    - dále komplikovanější oxidické rudy
+        - _asbolan_ $(Co,Mn)O\cdot{MnO_2}\cdot{Fe_2O_3}\cdot{4\ H_2O}$
+- **Výroba**
+    - redukcí $Co_3O_4$ uhlíkem při 1100°C, popřípadě redukcí vodíkem nebo aluminometricky
+    - elektrolýzou vodného roztoku $CoSO_4$
+    - rafinace se provádí přetavením nebo elektrolyticky
+- **Použití**
+    - speciální vysoce žáruvzdorné slitiny
+        - používají se v raketové technice, do tryskových motorů a podobně
+        - přidávají se do oceli
+            - na výrobu magnetů
+        - výroba endoprotéz
+    - výroba _cermentů_
+        - jsou to keramickokovové materiály
+### [Nikl](/notes/research/chemistry/inorganic-chemistry/periodic-table/nickel)
+- **Zisk**
+    - primárně sulfidické rudy
+        - _pentlandit_ $(Ni,Fe)_9S_8$
+        - _millerit_ $NiS$
+    - méně významné jsou rudy křemičitanové a oxidické
+- **Výroba**
+    - redukcí $NiO$ uhlíkem při 1260°C
+        - případně redukcí uhlíkem v elektrické peci v teplotě nad bodem tání niklu
+    - _Mondova metoda_
+        - redukcí $NiO$ směsí $CO$ a $H_2$ (_vodným plynem_) při 400°C se získá nečistý nikl
+        - reakcí niklu s $CO$ se při 60°C získá plyn $[Ni(CO)_4]$
+        - ten se převádí do rozkladné věže a termicky se rozkládá při 230°C
+        - získá se velmi čistý nikl
+    - elektrolýzou vodného roztoku $NiSO_4$
+    - k rafinaci se používá elektrolýza
+- **Použití**
+    - konstrukční materiál pro chemické a elektrochemické aparatury
+    - legování oceli a dalších kovů
+    - výroba slitin variabilních magnetických vlastností
+    - speciální slitiny pro elektrotechnická zařízení a letecký průmysl
+        - $Ni-Mn,Ni-Cr$ nebo $Ni-Cr-Ti-Al$
+    - galvanické pokovování
+        - vrstva niklu se používá k nanášení elektrolytickému nanášení vrstvy chromu
+    - v potravinářství jako katalyzátor ztužování tuků
+    - výroba akumulátorů
+### [Platinové kovy](/notes/research/chemistry/inorganic-chemistry/periodic-table/platinum-group)
+- **Zisk**
+    - primárně ryzí přírodní platina, kterou doprovází ostatní latinové kovy spolu s niklem, železem
+    - malé příměsy platinových kovů jsou přítomny v sulfidických rudách niklu a mědi
+    - malá množství platinových kovů doprovází stříbro a zlato
+- **Výroba**
+    - termickým rozkladem při 1000°C nebo redukcí vodíkem při 1000°C
+        - používají se sloučeniny: 
+            - $(NH_4)_2[PtCl_6]$
+            - $(NH_4)_2[RhCl_6]$
+            - $(NH_4)_2[RuCl_6]$
+            - $(NH_4)_2[IrCl_6]$
+            - $[Pd(NH_3)_2Cl_2]$
+            - $[OsO_2(NH_3)_4]Cl_2$
+        - jednotlivé používané sloučeniny se připravují relativně složitým chemickým separačním postupem z ryzí platiny nebo z anodových kalů po rafinaci niklu, mědi, stříbra a zlata v lučavce královské
+- **Použití**
+    - různá menší chemická a elektrotechnická zařízení
+    - hydrogenační a jiné katalyzátory
+### [Měď](/notes/research/chemistry/inorganic-chemistry/periodic-table/copper)
+- **Zisk**
+    - primárně sulfidické rudy
+        - _chalkosin_ $Cu_2S$
+        - _chalkopyrit_ $CuFeS_2$
+        - _bornit_ $Cu_3FeS_3$
+        - _covellin_ $CuS$
+    - dále oxidické a oxid-uhličitanové rudy
+        - _kuprit_ $Cu_2O$
+        - _tenorit_ $CuO$
+        - _malachit_ $CuCO_3\cdot{Cu(OH)_2}$
+        - _azurit_ $2\ CuCO_3\cdot{Cu(OH)_2}$
+    - dále křemičitanové rudy
+        - _chrysokol_ $CuSiO_3\cdot{2\ H_2O}$
+    - dále polymetalické rudy
+- **Výroba**
+    - redukcí $Cu_2O$ účinkem $Cu_2S$ v _měďařském konvertoru_
+        - $Cu_2S+2\ Cu_2O\longrightarrow{6\ Cu+SO_2}$
+    - redukcí plynného $(CuCl)_3$ vodíkem při 800°C
+        - pracuje se v reaktoru s oxidickou rudou křemičitanového typu za přítomnosti malého množství $NaCl$ a [uhlí](/notes/research/chemistry/organic-chemistry/general-organic-chemistry/coal)
+        - reakcí vodní páry s uhlím vzniká vodík
+            - $C+H_2O\longrightarrow{CO_2}+H_2$
+        - reakcí křemičitanové rudy s chloridem sodným vodní párou vzniká chlorovodík
+            - $2\ NaCl+SiO_2+H_2O\longrightarrow{2\ HCl+Na_2SiO_3}$
+        - reakcí chlorovodíku s oxidem měďným vzniká chlord měďný
+            - $3\ Cu_2O+6\ HCl\longrightarrow{2\ (CuCl)_3+3\ H_2O}$
+        - plynný $(CuCl)_3$ se redukuje vodíkem
+            - $2\ (CuCl)_3+3\ H_2\longrightarrow{6\ Cu+6\ HCl}$
+    - elektrolýzou vodných roztoků $CuSO_4$
+    - rafinace se provádí oxidací nečistot v roztaveném kovu nebo elektrolyticky s měděnou anodou
+- **Použití**
+    - elekrotechnika, tepelná technika, potravinářský průmysl
+    - výroba slitin
+        - _mosazi_
+            - se zinkem
+        - _bronzy_
+            - s cínem, hliníkem, berylliem a křemíkem
+### [Stříbro](/notes/research/chemistry/inorganic-chemistry/periodic-table/silver)
+- **Zisk**
+    - primárně sulfidické rudy olova, zinku, mědi a nklu
+    - menší část se získává z vlastních sulfidických rud
+        - _argentit_ $Ag_2S$
+- **Výroba**
+    - oddělením stříbra s rud olova
+        - krystalizací (_partinsonování_)
+        - separací pomocí zinku (_parkesování_)
+        - takto získané slitiny ($Ag-Pb,Ag-Zn-Pb$) se olova zbavují oxidací a zinku destliací
+    - amalgamací elementárního stříbra v surovině
+        - pokud ruda obsauje sloučeniny stříbra, přidáním další složky se rozloží
+        - z amalgamu se destiluje rtuť
+    - kyanidovám loužením surovin obsahujícíh elementární stříbro nebo jeho sloučeniny a následnou cementací zinkem
+        - loužení
+            - $4\ Ag+8\ KCN+2\ H_2O+O_2\longrightarrow{4\ K[Ag(CN)_2]+4\ KOH}$
+            - $Ag_2S+4\ KCN\longrightarrow{2\ K[Ag(CN)_2]+K_2S}$
+        - cementace
+            - $2\ K[Ag(CN)_2]+Zn\longrightarrow{2\ Ag+K_2[Zn(CN)_4]}$
+    - rafinace oxidačním tavením nebo elektrolyticky
+- **Použití**
+    - výroba klenotů, uměleckých klenotů a mincí
+    - některá chemická zařízení menší velikosti
+    - katalyzátory
+    - optika (zrcadla)
+    - elektrotechnika
+### [Zlato](/notes/research/chemistry/inorganic-chemistry/periodic-table/gold)
+- **Zisk**
+    - většinou se vyskytuje jako elementární kov
+    - doporvází sulfidické rudy mědi olova a zinku
+- **Výroba**
+    - amalgamací elementární zlata přítomného v zlatonosné surovině
+        - rtuť se odděluje oddestilováním
+        - tkato vyrobené zlaot obsahuje přímesy stříbra a mědi
+    - kyanidovým loužením a cementací zinkem
+        - loužení
+            - $4\ Au+8\ KCN+2\ H_2O+O_2\longrightarrow{4\ K[Au(CN)_2]+4\ KOH}$
+        - cementace
+            - $2\ K[Au(CN)_2]+Zn\longrightarrow{2\ Au+K_2[Zn(CN)_4]}$
+        - existuje i metoda selektivního zachycování zlata pomocí měniče iontů
+    - rafinace se provádí různými chemickými a elektrolytickými postupy
+- **Použití**
+    - výroba klenotů a umělckých předmětů
+    - výroba rubínového skla a dekorace procelánu
+    - zubní lékařství
+    - některá technická zařízení
+### [Zinek](/notes/research/chemistry/inorganic-chemistry/periodic-table/zinc)
+- **Zisk**
+    - primárně sulfidické rudy
+        - _sfalerit_ $ZnS$
+    - méně často se využívají oxidické nebo hličitanové rudy
+        - _smithsonit_ $ZnCO_3$
+- **Výroba**
+    - redukcí $ZnO$* uhlíkem při 1200°C
+        - páry zinku se destilují
+    - elektrolýzou vodného roztoku $ZnSO_4$
+    - rafinace se provádí chemickými a elektrochemickými procesy
+- **Použití**
+    - pozinkování kovových materiálů
+    - slitiny s mědí, hliníkem a jinými kovy
+    - výroba organických sloučenin
+### [Kadmium](/notes/research/chemistry/inorganic-chemistry/periodic-table/cadmium)
+- **Zisk**
+    - hlavním zdrojem jsou zinkové rudy s obsahem kadmia
+- **Výroba**
+    - v prvních destilačních frakcích vzniklých při výrobě zinku se nachází značné množství kadmia
+    - také kaly při elektrolytickém zpracování zinku obsahují kadmium
+    - z těckto zdrojů se kadmium získává destilací za současné redukce uhlíkem nebo převedením na roztok síranu kademntatého a následnou elektrolýzou
+    - rafinace se provádí elektrolyticky 
+- **Použití**
+    - výroba akumulátorů
+    - lehkotavitelné slitiny a speciální pájecí kovy
+    - legování mědi
+    - pokovování elektrotechnických součástek
+### [Rtuť](/notes/research/chemistry/inorganic-chemistry/periodic-table/mercury)
+- **Zisk**
+    - technicky významná je _rumělka_ (_cinnabarit_) $HgS$
+    - v přírodě je také ryzí
+- **Výroba**
+    - pražením $HgS$ na vzduchu při 500°C a kondenzací rtuťových par
+        - $HgS+O_2\longrightarrow{Hg+SO_2}$
+    - pálením $HgS$ oxidem vápenatým bez přístupu vzduchu
+        - $4\ HgS+4\ CaO\longrightarrow{4\ Hg+3\ CaS+CaSO_4}$
+    - srážením $HgS$ železem
+        - $HgS+Fe\longrightarrow{Hg+FeS}$
+    - rafinace se provádí vakuovou destilací
+- **Použití**
+    - amalgamační výroba stříbra a zlata
+    - amalgamové elektrody při elektrolýze
+    - fyzikální, elektrochemické a elektrotechnické přístroje a zařízení
+ním $HgS$ železem
+        - $HgS+Fe\longrightarrow{Hg+FeS}$
+    - rafinace se provádí vakuovou destilací
+- **Použití**
+    - amalgamační výroba stříbra a zlata
+    - amalgamové elektrody při elektrolýze
+    - fyzikální, elektrochemické a elektrotechnické přístroje a zařízení

@@ -1,0 +1,126 @@
+---
+title: "Měď"
+layout: single
+type: note
+section: "unlisted"
+weight: 
+---
+- nachází se ve skupině [I.B](/notes/research/chemistry/inorganic-chemistry/periodic-table/group-i.b)
+- její elektronová konfigurace je $[Ar]4s^13d^{10}$
+# Zisk a výskyt mědi
+- v přírodě se nachází především ve sloučeninách
+- ryzí je velmi vzácná
+- patří mezi [biogenní prvky](/notes/research/chemistry/biochemistry/dynamic-biochemistry/bioinorganic-chemistry)
+    - _cytochromoxidasa_
+        - [enzym](/notes/research/chemistry/biochemistry/descriptive-biochemistry/enzymes) obsahující měď
+    - _hemocyanin_
+        - je to látka, která přenáší kyslík v krvi měkýšů
+        - má [bílkovinnou povahu](/notes/research/chemistry/biochemistry/descriptive-biochemistry/proteins)
+        - má obdobnou funkci jako hemoglobin u savců
+    - v těle dospělého člověka se nachází někde vázáno přibližně 100 mg mědi
+    - člověk příjimá měď v potravě
+        - denní dávka by se měla pohybovat v rozmezí 3-5 mg
+        - nedostatek může způsobit některé formy anemie
+        - přebytek v důsledku špatného fungování jejího vylučování vede k vzniku [Wilsonovy choroby](https://en.wikipedia.org/wiki/Wilson%27s_disease)
+- výroba je složitá
+    - vzniká velmi mnoho jemně zrnitého odpadu
+# Vlastnosti mědi
+- je to měkký, houževnatý kov načervenalé barvy
+- je to ušlechtilý kov
+- velmi dobře vede elektrikcý proud
+- velká množství mědi se spotřebuje na výrobu elektrických vodičů
+- je součástí řady slitin
+    - _mosazi_
+        - slitiny se [zinkem](/notes/research/chemistry/inorganic-chemistry/periodic-table/zinc)
+    - _bronzy_
+        - slitiny s cínem, často s příměsí zinku nebo olova
+    - _alpaka_
+        - slitiny s [niklem](/notes/research/chemistry/inorganic-chemistry/periodic-table/nickel) a zinkem
+    - přidává se i do mincovního [stříbra](/notes/research/chemistry/inorganic-chemistry/periodic-table/silver) a [zlata](/notes/research/chemistry/inorganic-chemistry/periodic-table/gold)
+## Vazebné možnosti mědi
+- stálé jsou oxidační stavy $II$ a $I$
+    - atomy $Cu^I$ se snadno oxidují na $Cu^{II}$
+- relativně dostupný, ale málo stálý je oxidační stav $III$ a $0$
+## Reakce mědi
+- na vzduchu je poměrně stálá 
+    - pokud je působení vzdušného oxidu uhličitého vystavena delší dobu, pokrývá se vrstvičkou _uhličitanu měďnatého_ $CuCO_3$
+        - _měděnka_
+        - objevuje se na střechách starých budov
+- při vyšších teplotách reaguje ochotně s řadou nekovů
+    - neslučuje se pouze s uhlíkem, vodíkem a dusíkem
+- reaguje s koncentrovanými roztoky kyseliny dusičné a sírové
+    - nejlépe probíhá za zvýšené teploty
+    - $Cu+4\ HNO_3\longrightarrow{Cu(NO_3)_2}+2\ NO_2+2\ H_2O$
+    - $Cu+2\ H_2SO_4\longrightarrow{CuSO_4+2\ H_2O+SO_2}$
+    - se zředěným roztokem kyseliny dusičné nevzniká $NO_2$ ale $NO$, který se tímto způsobem přiravuje
+        - $3\ Cu+8\ HNO_3\longrightarrow{3\ Cu(NO_3)_2+2\ NO+4\ H_2O}$
+- v koncentrovaných roztocích kyanidů se rozpouští za vývoje vodíků
+# Sloučeniny mědi
+- _oxid měďný_ $Cu_2O$
+    - je to červeně zbarvená látka
+    - připravuje se redukcí měďnatých solí
+    - je nerozpustný ve vodě
+    - v kyselinách se rozpouští za vzniku komplexních částic
+        - např. $Cu_2O+4\ HCl\longrightarrow{2\ H[CuCl_2]+H_2O}$
+        - u kyselin, kde anion není vhodným ligandem
+    - poměrně snadno oxiduje na oxid měďnatý
+- _oxid měďnatý_ $CuO$
+    - je to černě zbarvená látka
+    - připravuje se termickým rozkladem některých měďnatých sloučenin
+        - $2\ Cu(NO_3)_2\longrightarrow{2\ CuO+4\ NO_2+O_2}$
+    - je nerozputný ve vodě
+    - v kyselinách se rozpouští za vzniku
+    - vyzužívá se pro důkaz kationů $Cu^{2+}$ v [analytické chemii](/notes/research/chemistry/general-chemistry/analytical-chemistry/analytical-chemistry)
+    - slouží jako oxidovadlo
+- _hydroixd měďnatý_ $Cu(OH)_2$
+    - vzniká alkalizací roztoků měďnatých solí
+    - je poněkud amfoterní
+        - v kyselinách se rozpouští za opětovné tvorby měďnatých solí
+        - v koncentrovaných roztocích alkalických hydroxidů se částečně rozpouští za vzniku velmi nestabilních měďnatanů 
+    - _hydroxid měďny_ nebyl prokázán
+- _sulfid měďnatý_ $CuS$
+    - je to černě zbarvená látka
+    - je ve vodě nerozpustný
+    - působením vlhkého vzduchu se oxiduje za vzniku _síranu měďnatého_
+        - ten se používá jako insekticid a jako výchozí látka pro syntézu dalších sloučenin mědi
+- _halogenidy_
+    - odvozují se z oxidačních stavů $I$ i $II$
+        - _fluorid měďný_ se zatím nepovedlo přpravit
+    - _jodid měďnatý_ $CuI_2$ je vysoce nestabilní látka
+        - podléhá vnitřnímu redoxnímu ději a rozpadá se na $CuI$ a $I_2$
+    - halogenidy měďné jsou bezbarvé a jsou známy jen v bezvodé formě
+    - halogenidy měďnaté jsou barevné a existují bezvodé i hydráty
+    - chloridy se používají jako katalyzátory
+        - _chlord měďnatý_ $CuCl$ se navíc používá jako redukovadlo
+- _kyanidy a thikyanatany_
+    - v oxidačním stavu $II$ jsou velmi nestálé
+        - rozpadají se podobně jako $CuI_2$
+    - v oxidačním stavu $I$ jsou to naopak vysoce stálé a odolné látky
+- _komplexy_
+    - měď tvoří řadu [komplexních sloučeniny](/notes/research/chemistry/inorganic-chemistry/general-inorganic-chemistry/complex-compounds) v obou oxidačních stavech
+        - atomy $Cu^I$ dosahují koordinačních čísel 2, 3 a 4
+            - koordinace je buď lineární, trigonální nebo tetraedrická
+        - atomy $Cu^{II}$ dosahují koordinačních čísel 4, 5 a 6
+            - koordinace může být tetredrická, tetragonální, tetragonálně pyramidální, trigonálně bipyramidální, oktaedrická nebi tetragonálně bipyrimadální
+        - velmi výjimečně jsou koordinační čísla vyšší
+    - typickými ligandy jsou $Cl^-,Br^-,CN^-,SCN^-,OCN^-,S_2O_3^{2-},OH^-,NH_3$ a $H_2O$
+    - _pentahydrát síranu měďnatého_ $CuSO_4\cdot{5\ H_2O}$
+        - _modrá skalice_
+        - používá se k výrobě celé řady měďnatých sloučeniny, k moření osiva a v galvanotechnice
+        - jeho struktura je poměrně složitá
+            {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2Fe7LXus1V5B.png?alt=media&token=8b186866-9cd7-4179-9499-638d779b2382" alt="" >}}
+            - čtyři molekuly vody tvoří kolem měďnatého kationtu čtverec
+            - nad a pod čtvercem jsou pak navázány síranové anionty pomocí jednoho kyslíku
+            - má tedy oktaedrickou koordinaci
+            - pátá molekula vody je prostřednictvím [vodíkových můstků](/notes/research/chemistry/general-chemistry/chemical-bonds/hydrogen-bonding) vázána k jedné z koordinoaných molekul vody a k síranovému aniontu dalšího komplexu
+            - vzniká tak krystalický mřížka
+        - při zahřívání přechází na trihydrát, později na monohydrát a nakonec vziká bezvodý bílý síran měďnatý $CuSO_4$
+            - při teplotách vyšších než 700°C se rozkládá na $CuO$ a $SO_3$
+    - _hydroxid tetraaminměďnatý_ $[Cu(NH_3)_4] (OH)_2$
+        - ve vodném roztoku rozpouští celulosu
+        - používá se při výrobě umělého hedvábí
+- organokovové sloučeniny
+- vyšších oxidačních stavů než $II$ dosahuje měď v reakci se silnými oxidačními činidli
+    - třeba působením fluoru na směs $KCl$ a $CuCl_2$ při vyšší teplotě se tvoří _hexafluoroměditan draselný_ $K_3[CuF_6]$
+    - _měditany_ se tvoří reakcí v kyslíkové atmosféře za vysoké teploty
+        - např. $2\ K_2O+4\ CuO+O_2\longrightarrow{2\ KCuO_2}$

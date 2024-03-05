@@ -1,0 +1,138 @@
+---
+title: "Chrom"
+layout: single
+type: note
+section: "unlisted"
+weight: 
+---
+- nachází se ve skupuně [VI.B](/notes/research/chemistry/inorganic-chemistry/periodic-table/group-vi.b)
+- jeho elektronová konfigurace je $Ar]3d^54s^1$[*
+- název pochází z řeckého _chroma_
+    - znamená to _barva_
+    - sloučeniny chromu jsou barevné
+# Zisk a výskyt chromu
+- je to v přírodě hojně zastoupený prvek
+- vyskytuje se přibližně ve stejném množství jako nikl
+- jeho nejvýznamnějšími rudami jsou:
+    - _chromit_ $FeCr_2O_4$
+    - _krokoit_ $PbCrO_4$
+- stopová množství chromu se nachází v drahých kamenech smaragdu a rubínu
+- jeho naleziště se rychle vyčerpávají a je snaha o jeho postupné nahrazování dostupnějšími materiály
+- je to [mikrobiogenní prvek](/notes/research/chemistry/biochemistry/dynamic-biochemistry/bioinorganic-chemistry)
+    - je nezbytný pro metabolismus cukrů
+    - jeho fungování není doposud přesně popsáno
+# Vlastnoti chromu
+- na vzduchu je stálý
+    - pasivuje se vrstvičkou oxidu
+    - používá se proto ke galvanickému pokovování
+        - ochrana před korozí
+- dobře reaguje se žředěnou kyselinou chorovodíkovou a sírovou
+- při styku s taveninami hydroxidů za přítomnosti vzdušného kyslíku tvoří chromany
+- používá se na výrobu slitin s neželeznými kovy a k potírání kovových součástek
+## Vazebné možosti chromu
+- chrom nabývá oxidačních čísel v rozmezí $-II$ až $VI$
+    - nejstabilnější je v oxidačním stavu $III$ a $VI$
+        - stav $III$ je nejstálejší
+    - za nepřítomnosti redukovatelných látek je stálý i stav $II$
+        - na vzduchu se okamžitě oxidují
+            - stálý je pouze octan ve formě dimeru
+    - v nižších oxidačních stavech (do $I$) se vyskytuje v koordinačních sloučeninách
+- atomy $Cr^{VI}$ vykazují výlučeně tetraedrickou nebo deformovaně tetraedrickou koordianci
+    - hybridizace $sd^3$
+        - na $\sigma$-vazbách se podílejí elektrony z orbitalu $4s$ a tří degenerovaných orbitalů $3d$
+    - na slabé $\pi$-interakci se podílejí i orbitaly $4p$
+- atomy $Cr^{III}$ vykazují výlučně oktaedrickou nebo deformovaně okaedrickou koordinaci
+    - snadno tvoří polyjaderné hydroxokomplexy
+        - děje se to kvůli acidobazickému chování iontu $[Cr(H_2O)_6]^{3+}$
+            - ion disociuje za vzniku $[Cr(H_2O)_5OH]^{2+}$
+            - v druhém kroku dojde ke spojení dvou těchto částic $[(H_2O)_5Cr-OH-Cr(H_2O)_5]^{5+}$
+        - tvorba hydroxomůstku je typická i pro amminkomplexy
+            - působením hydroxidu se lomený hydroxomůstek mění na lineární oxomůstek
+                - je to reverzibilní změna
+                - je doprovázena změnou barvy
+- atomy v ostatních oxidačních stavech vykazují primárně tetraedrickou nebo oktaedrickou koordinaci
+    - existují i jiné možné koordinace
+# Sloučeniny chromu
+- _oxid chromitý_ $Cr_2O_3$
+    - je to amfoterní látka
+    - ve vodě se nerozpouští
+    - má zelenou barvu
+    - pokud je vyžíhán, nereaguje s kyselinami
+    - je redxně indiferentní
+    - používá se jako pigment
+    - příprava:
+        - termickým rozkladem _dichromanu amonného_ $(NH_4)_2Cr_2O_7$
+            - $(NH_4)_2Cr_2O_7\longrightarrow{Cr_2O_3+N_2+4\ H_2O}$
+        - redukcí _dochrimanu sodného_ $Na_2Cr_2O_7$ sírou
+            - $Na_2Cr_2O_7+S\longrightarrow{Cr_2O_3+Na_2SO_4}$
+- _oxid chromový_ $CrO_3$
+    - je kyselinotvorný
+        - s vodou reaguje za vzniku _kyseliny chromové_ $H_2CrO_4$
+    - má kovalentní charakter
+    - připravuje se reakcí koncentrované kyseliny sírové s nasyceným roztokem _chromanu draselného_ $K_2Cr_2O_7$
+        - $K_2Cr_2O_7+2\ H_2SO_4\longrightarrow{2\ CrO_3+2\ KHSO_4+H_2O}$
+    - je to velmi dobré oxidační činidlo
+        - s některými látkami je oxiduje explozivně
+    - je složkou pokovovacích lázní
+    - používá se pro přípravu některých organokovových sloučenin a esterů kyseliny chromové
+- _hydroxid chromitý_ $Cr(OH)_3$
+    - je to amfoterní látka
+        - se silnými zásadmi poskytuje _hydroxochromitany_ $[Cr(OH)_4]^-$
+        - s kyselinami dává soli chromité
+- _chromany_ $Cr^{VI}$
+    - jsou charakteristicky žluté
+    - struktura aniontu:
+        {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2Fna-8iU_l1y.png?alt=media&token=f6b6fd30-1697-43ae-b276-5adc39b1d591" alt="" >}}
+    - chromany [alkalických kovů](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkali-metals) jsou dobře rozpustné ve vodě
+    - jsou to velmi dobrá oxidační činidla
+    - získávají se neutralizací _kyseliny chromové_ $H_2CrO_4$ nebo oxidací $Cr_2O_3$ v taveninách vzdušným kyslíkem
+    - jsou stálé v zásaditém prostředí
+        - v kyselém prostředí podléha kondenzaci
+            - např.: $2\ CrO_4^{2-}+2\ H_3O^+\longrightarrow{Cr_2O_7^{2-}+3\ H_2O}$
+            - vede k vzniku polychromanových aniontů
+    - deriváty chromanů
+        - substitucí jednoho atomu kyslíku v chromanovém aniontu za chlor vznikají _halogenochromany_
+            - nastává to třeba v molekule _chlorochromanu draselného_ $KCrO_3Cl$
+            - připravují se varem kyseliny chlorovodíkové s dichromanem
+                - $K_2Cr_2O_7+2\ HCl\longrightarrow{2\ KCrO_3Cl+H_2O}$
+        - substitucí dvou atomů chlorů vzniká _dichlorid-dioxid chromový_ $Cr_2O_2Cl_2$
+            - je to krvavě červená kapalina
+            - na vzduchu sublimuje
+            - je silně korozivní
+            - při styku s kůži způsobuje popáleniny a poškuzuje dýchací cesty
+            - při požití způsobí obrovská vnitřní zranění
+            - je velmi karcinogenní
+            - s vodou reaguje extrémně agresivně
+                - při hoření by se měl kontakt s vodou obejít
+        - obdobné sloučeniny obsahující jod nebo brom nelze připravit
+- _dichromany_ $Cr^{VI}$
+    - jsou charakteristicky oranžové
+    - struktura aniontu:
+        {{< fig src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FPetrGersl%2FxBovbolTCH.png?alt=media&token=be9c898a-b87f-404d-9065-b46f8dd98923" alt="" >}}
+    - v roztoucích jsou schopny oxidovat železnaté kationty nebo oxid siřičitý na sírany
+    - _dichroman sodný_ (_dihydrát_) $Na_2Cr_2O_7\cdot{2\ H_2O}$
+        - slouží jako výchozí surovina pro výrobu řady pigemntů a nátěrových hmot
+        - v organické syntéze se používá jako oxidační činidlo
+- _halogenidy_
+    - připravují se přímým slučováním elementárních prvků
+        - s fluorem poskytuje $CrF_5$ a $CrF_6$
+        - s ostatními halogeny poskytuje $CrX_3$
+            - jejich redukcí vznikají $CrX_2$
+                - dá se toho dosáhnout proudem vodíku nebo ve vodných roztocích působením práškového chromu nebo [zinku](/notes/research/chemistry/inorganic-chemistry/periodic-table/zinc)
+    - halogenidy chromnaté jsou extrémně silná redukční činidla
+        - jsou schopny redukovat protony ve vodě na elementární vodík
+        - jsou modře zbarvené
+- _sulfid chromitý_ $Cr_2S_3$
+    - sulfidy ve vyšších oxidačních stavech nejsou známy
+    - připravuje se přímou syntézou
+- známy jsou také karbidy a nitridy chromu
+    - mají různá oxidační čísla
+- _komplexy_
+    - chrom tvoří nejrozmanitější řadu [komplexních sloučenin](/notes/research/chemistry/inorganic-chemistry/general-inorganic-chemistry/complex-compounds)
+    - nejčastěji se v nich chrom vyskytuje v oxidačním stavu $III$
+    - obvyklími ligandy jsou molekuly $H_2O,NH_3$, aminy](/notes/research/chemistry/organic-chemistry/carbohydrate-derivatives/amines), [pyridinu, močoviny a ionty $F^-,Cl^-,Br^-,CN^-,SCN^-,Cr_2O_4^{2-},NO^+$ a další
+    - _komplexní dodekahydrát síranu draselno-chromitého_ $[K(H_2O)_6][Cr(H_2O)_6] (SO_4)_2$
+        - _kamenec chromitý_
+        - používá se v kožedělném průmyslu k čínění kůže
+        - má fialovou barvu
+- organokovové sloučeniny

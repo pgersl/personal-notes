@@ -1,0 +1,1131 @@
+{{define "title"}}<title>{{.Title}}</title>{{end}}
+{{define "styles"}}<link rel="stylesheet" href="/css/tableu.css">{{end}}
+{{define "scripts"}}<script src="/js/toc.js" defer></script>{{end}}
+{{define "nav-utils"}}
+    <button class="nav-util" id="toc-toggle"><i class="fa-solid fa-list"></i></button>
+{{end}}
+
+{{define "main"}}
+    <main>
+        <div class="main-title">{{.Title}}</div>
+        <div class="main-content">
+            <div id="periodic-table">
+                <div id="main-table">
+                    <div id="period-numbers">
+                        <div class="period-number">1. perioda</div>
+                        <div class="period-number">2. perioda</div>
+                        <div class="period-number">3. perioda</div>
+                        <div class="period-number">4. perioda</div>
+                        <div class="period-number">5. perioda</div>
+                        <div class="period-number">6. perioda</div>
+                        <div class="period-number">7. perioda</div>
+                    </div>
+                    <div class="elements-container">
+                        <div id="group-numbers">
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-i.a">1 (I.A)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-ii.a">2 (II.A)</a>
+                            <a class="group-number" id="group-number-iiib" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-iii.b-lathanoids-and-actinoids">3 (III.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-iv.b">4 (IV.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-v.b">5 (V.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-vi.b">6 (VI.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-vii.b">7 (VII.B)</a>
+                            <div class="group-number">8 (VIII.B)</div>
+                            <div class="group-number">9 (VIII.B)</div>
+                            <div class="group-number">10 (VIII.B)</div>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-i.b">11 (I.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/group-ii.b">12 (II.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/triels">13 (III.A)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/tetrels">14 (IV.A)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/pentels">15 (V.A)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/chalcogenes">16 (VI.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/halogenes">17 (VII.B)</a>
+                            <a class="group-number" href="/notes/research/chemistry/inorganic-chemistry/periodic-table/noble-gases">18 (VIII.B)</a>
+                        </div>
+                        <div id="table-blocks">
+                            <div id="s-block">
+                                <div class="group">
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/hydrogen" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">1</div>
+                                            <div class="element-top-item">1.008</div>
+                                        </div>
+                                        <div class="element-symbol">H</div>
+                                        <div class="element-bottom">Vodík</div>
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/alkali-metals" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">3</div>
+                                                    <div class="element-top-item">6.941</div>
+                                                </div>
+                                                <div class="element-symbol">Li</div>
+                                                <div class="element-bottom">Lithium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">11</div>
+                                                    <div class="element-top-item">22.99</div>
+                                                </div>
+                                                <div class="element-symbol">Na</div>
+                                                <div class="element-bottom">Sodík</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">19</div>
+                                                    <div class="element-top-item">39.10</div>
+                                                </div>
+                                                <div class="element-symbol">K</div>
+                                                <div class="element-bottom">Draslík</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">37</div>
+                                                    <div class="element-top-item">85.47</div>
+                                                </div>
+                                                <div class="element-symbol">Rb</div>
+                                                <div class="element-bottom">Rubidium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">55</div>
+                                                    <div class="element-top-item">132.9</div>
+                                                </div>
+                                                <div class="element-symbol">Cs</div>
+                                                <div class="element-bottom">Cesium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">87</div>
+                                                    <div class="element-top-item">223.0</div>
+                                                </div>
+                                                <div class="element-symbol">Fr</div>
+                                                <div class="element-bottom">Francium</div>
+                                            </div>
+                                        </a>
+                                    </a>
+                                </div>
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/beryllium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">4</div>
+                                            <div class="element-top-item">9.012</div>
+                                        </div>
+                                        <div class="element-symbol">Be</div>
+                                        <div class="element-bottom">Beryllium</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/magnesium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">12</div>
+                                            <div class="element-top-item">24.31</div>
+                                        </div>
+                                        <div class="element-symbol">Mg</div>
+                                        <div class="element-bottom">Hořčík</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/alkaline-earth-metals" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">20</div>
+                                                <div class="element-top-item">40.08</div>
+                                            </div>
+                                            <div class="element-symbol">Ca</div>
+                                            <div class="element-bottom">Vápník</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">38</div>
+                                                <div class="element-top-item">87.62</div>
+                                            </div>
+                                            <div class="element-symbol">Sr</div>
+                                            <div class="element-bottom">Stroncium</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">56</div>
+                                                <div class="element-top-item">137.3</div>
+                                            </div>
+                                            <div class="element-symbol">Ba</div>
+                                            <div class="element-bottom">Baryum</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">88</div>
+                                                <div class="element-top-item">226.0</div>
+                                            </div>
+                                            <div class="element-symbol">Ra</div>
+                                            <div class="element-bottom">Radium</div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div id="d-block">
+                                <div class="row">
+                                    <div class="element-placeholder d-block-gap"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                </div>
+                                <div class="row">
+                                    <div class="element-placeholder d-block-gap"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                </div>
+                                <div class="row">
+                                    <div class="element-placeholder d-block-gap"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                    <div class="element-placeholder"></div>
+                                </div>
+                                <div class="row">
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/scandium" class="element d-block-gap">
+                                        <div class="element-top">
+                                            <div class="element-top-item">21</div>
+                                            <div class="element-top-item">44.96</div>
+                                        </div>
+                                        <div class="element-symbol">Sc</div>
+                                        <div class="element-bottom">Skandium</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/titanium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">22</div>
+                                            <div class="element-top-item">47.87</div>
+                                        </div>
+                                        <div class="element-symbol">Ti</div>
+                                        <div class="element-bottom">Titan</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/vanadium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">23</div>
+                                            <div class="element-top-item">50.94</div>
+                                        </div>
+                                        <div class="element-symbol">V</div>
+                                        <div class="element-bottom">Vanad</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/chromium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">24</div>
+                                            <div class="element-top-item">52.00</div>
+                                        </div>
+                                        <div class="element-symbol">Cr</div>
+                                        <div class="element-bottom">Chrom</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/manganese" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">25</div>
+                                            <div class="element-top-item">54.94</div>
+                                        </div>
+                                        <div class="element-symbol">Mn</div>
+                                        <div class="element-bottom">Mangan</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/iron" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">26</div>
+                                            <div class="element-top-item">55.85</div>
+                                        </div>
+                                        <div class="element-symbol">Fe</div>
+                                        <div class="element-bottom">Železo</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/cobalt" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">27</div>
+                                            <div class="element-top-item">58.93</div>
+                                        </div>
+                                        <div class="element-symbol">Co</div>
+                                        <div class="element-bottom">Kobalt</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/nickel" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">28</div>
+                                            <div class="element-top-item">58.69</div>
+                                        </div>
+                                        <div class="element-symbol">Ni</div>
+                                        <div class="element-bottom">Nikl</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/copper" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">29</div>
+                                            <div class="element-top-item">63.55</div>
+                                        </div>
+                                        <div class="element-symbol">Cu</div>
+                                        <div class="element-bottom">Měď</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/zinc" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">30</div>
+                                            <div class="element-top-item">65.38</div>
+                                        </div>
+                                        <div class="element-symbol">Zn</div>
+                                        <div class="element-bottom">Zinek</div>
+                                    </a>
+                                </div>
+                                <div class="row">
+                                    <div class="group d-block-gap">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/yttrium" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">39</div>
+                                                <div class="element-top-item">88.91</div>
+                                            </div>
+                                            <div class="element-symbol">Y</div>
+                                            <div class="element-bottom">Yttrium</div>
+                                        </a>
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/lanthanum-and-lathanoids" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">57</div>
+                                                <div class="element-top-item">138.9</div>
+                                            </div>
+                                            <div class="element-symbol">La</div>
+                                            <div class="element-bottom">Lanthan</div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/zirconium-and-hafnium" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">40</div>
+                                                    <div class="element-top-item">91.22</div>
+                                                </div>
+                                                <div class="element-symbol">Zr</div>
+                                                <div class="element-bottom">Zirkon</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">72</div>
+                                                    <div class="element-top-item">178.5</div>
+                                                </div>
+                                                <div class="element-symbol">Hf</div>
+                                                <div class="element-bottom">Hafnium</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/niobium-and-tantalum" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">41</div>
+                                                    <div class="element-top-item">92.91</div>
+                                                </div>
+                                                <div class="element-symbol">Nb</div>
+                                                <div class="element-bottom">Niob</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">73</div>
+                                                    <div class="element-top-item">181.0</div>
+                                                </div>
+                                                <div class="element-symbol">Ta</div>
+                                                <div class="element-bottom">Tantal</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/molybdenum" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">42</div>
+                                                <div class="element-top-item">95.95</div>
+                                            </div>
+                                            <div class="element-symbol">Mo</div>
+                                            <div class="element-bottom">Molybden</div>
+                                        </a>
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/wolfram" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">74</div>
+                                                <div class="element-top-item">183.8</div>
+                                            </div>
+                                            <div class="element-symbol">W</div>
+                                            <div class="element-bottom">Wolfram</div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/technetium-and-rhenium" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">43</div>
+                                                    <div class="element-top-item">98.00</div>
+                                                </div>
+                                                <div class="element-symbol">Tc</div>
+                                                <div class="element-bottom">Technecium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">75</div>
+                                                    <div class="element-top-item">186.2</div>
+                                                </div>
+                                                <div class="element-symbol">Rh</div>
+                                                <div class="element-bottom">Rhenium</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/ruthenium-and-osmium" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">44</div>
+                                                    <div class="element-top-item">101.1</div>
+                                                </div>
+                                                <div class="element-symbol">Ru</div>
+                                                <div class="element-bottom">Ruthenium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">76</div>
+                                                    <div class="element-top-item">190.2</div>
+                                                </div>
+                                                <div class="element-symbol">Os</div>
+                                                <div class="element-bottom">Osmium</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/rhodium-and-iridium" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">45</div>
+                                                    <div class="element-top-item">102.9</div>
+                                                </div>
+                                                <div class="element-symbol">Rh</div>
+                                                <div class="element-bottom">Rhodium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">77</div>
+                                                    <div class="element-top-item">192.2</div>
+                                                </div>
+                                                <div class="element-symbol">Ir</div>
+                                                <div class="element-bottom">Iridium</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/palladium-and-platinum" class="element-multiple">
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">46</div>
+                                                    <div class="element-top-item">106.4</div>
+                                                </div>
+                                                <div class="element-symbol">Pd</div>
+                                                <div class="element-bottom">Palladium</div>
+                                            </div>
+                                            <div class="element">
+                                                <div class="element-top">
+                                                    <div class="element-top-item">78</div>
+                                                    <div class="element-top-item">195.1</div>
+                                                </div>
+                                                <div class="element-symbol">Pt</div>
+                                                <div class="element-bottom">Platinum</div>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/silver" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">47</div>
+                                                <div class="element-top-item">107.9</div>
+                                            </div>
+                                            <div class="element-symbol">Ag</div>
+                                            <div class="element-bottom">Stříbro</div>
+                                        </a>                                   
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/gold"     class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">79</div>
+                                                <div class="element-top-item">197.0</div>
+                                            </div>
+                                            <div class="element-symbol">Au</div>
+                                            <div class="element-bottom">Zlato</div>
+                                        </a>
+                                    </div>
+                                    <div class="group">
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/cadmium" class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">48</div>
+                                                <div class="element-top-item">112.4</div>
+                                            </div>
+                                            <div class="element-symbol">Cd</div>
+                                            <div class="element-bottom">Kadmium</div>
+                                        </a>                                   
+                                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/mercury"     class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">80</div>
+                                                <div class="element-top-item">200.6</div>
+                                            </div>
+                                            <div class="element-symbol">Hg</div>
+                                            <div class="element-bottom">Rtuť</div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/actinium-and-actinoids" class="element d-block-gap">
+                                        <div class="element-top">
+                                            <div class="element-top-item">89</div>
+                                            <div class="element-top-item">227.0</div>
+                                        </div>
+                                        <div class="element-symbol">Ac</div>
+                                        <div class="element-bottom">Aktinium</div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">104</div>
+                                            <div class="element-top-item">267.0</div>
+                                        </div>
+                                        <div class="element-symbol">Rf</div>
+                                        <div class="element-bottom">Rutherfordium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">105</div>
+                                            <div class="element-top-item">262.0</div>
+                                        </div>
+                                        <div class="element-symbol">Db</div>
+                                        <div class="element-bottom">Dubnium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">106</div>
+                                            <div class="element-top-item">269.0</div>
+                                        </div>
+                                        <div class="element-symbol">Sg</div>
+                                        <div class="element-bottom">Seaborgium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">107</div>
+                                            <div class="element-top-item">264.0</div>
+                                        </div>
+                                        <div class="element-symbol">Bh</div>
+                                        <div class="element-bottom">Bohrium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">108</div>
+                                            <div class="element-top-item">269.0</div>
+                                        </div>
+                                        <div class="element-symbol">Hs</div>
+                                        <div class="element-bottom">Hassium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">109</div>
+                                            <div class="element-top-item">278.0</div>
+                                        </div>
+                                        <div class="element-symbol">Mt</div>
+                                        <div class="element-bottom">Meitnerium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">110</div>
+                                            <div class="element-top-item">281.0</div>
+                                        </div>
+                                        <div class="element-symbol">Ds</div>
+                                        <div class="element-bottom">Darmstadtium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">111</div>
+                                            <div class="element-top-item">282.0</div>
+                                        </div>
+                                        <div class="element-symbol">Rg</div>
+                                        <div class="element-bottom">Roentgenium</div>
+                                    </div>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">112</div>
+                                            <div class="element-top-item">285.0</div>
+                                        </div>
+                                        <div class="element-symbol">Cn</div>
+                                        <div class="element-bottom">Copenicium</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="p-block">
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/boron" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">5</div>
+                                            <div class="element-top-item">10.81</div>
+                                        </div>
+                                        <div class="element-symbol">B</div>
+                                        <div class="element-bottom">Bor</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/aluminium" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">13</div>
+                                            <div class="element-top-item">26.98</div>
+                                        </div>
+                                        <div class="element-symbol">Al</div>
+                                        <div class="element-bottom">Aluminium</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/other-triels" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">31</div>
+                                                <div class="element-top-item">69.72</div>
+                                            </div>
+                                            <div class="element-symbol">Ga</div>
+                                            <div class="element-bottom">Gallium</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">49</div>
+                                                <div class="element-top-item">114.8</div>
+                                            </div>
+                                            <div class="element-symbol">In</div>
+                                            <div class="element-bottom">Indium</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">81</div>
+                                                <div class="element-top-item">204.4</div>
+                                            </div>
+                                            <div class="element-symbol">Tl</div>
+                                            <div class="element-bottom">Thallium</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">113</div>
+                                            <div class="element-top-item">286.0</div>
+                                        </div>
+                                        <div class="element-symbol">Nh</div>
+                                        <div class="element-bottom">Nihonium</div>
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/carbon" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">6</div>
+                                            <div class="element-top-item">12.01</div>
+                                        </div>
+                                        <div class="element-symbol">C</div>
+                                        <div class="element-bottom">Uhlík</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/silicon" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">14</div>
+                                            <div class="element-top-item">28.09</div>
+                                        </div>
+                                        <div class="element-symbol">Si</div>
+                                        <div class="element-bottom">Křemík</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/other-tetrels" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">32</div>
+                                                <div class="element-top-item">72.64</div>
+                                            </div>
+                                            <div class="element-symbol">Ge</div>
+                                            <div class="element-bottom">Germanium</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">50</div>
+                                                <div class="element-top-item">118.7</div>
+                                            </div>
+                                            <div class="element-symbol">Sn</div>
+                                            <div class="element-bottom">Cín</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">82</div>
+                                                <div class="element-top-item">207.2</div>
+                                            </div>
+                                            <div class="element-symbol">Pb</div>
+                                            <div class="element-bottom">Olovo</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">114</div>
+                                            <div class="element-top-item">289.0</div>
+                                        </div>
+                                        <div class="element-symbol">Fl</div>
+                                        <div class="element-bottom">Flevorium</div>
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/nitrogen" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">7</div>
+                                            <div class="element-top-item">14.01</div>
+                                        </div>
+                                        <div class="element-symbol">N</div>
+                                        <div class="element-bottom">Dusík</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/phosphorus" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">15</div>
+                                            <div class="element-top-item">30.97</div>
+                                        </div>
+                                        <div class="element-symbol">P</div>
+                                        <div class="element-bottom">Fosfor</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/other-pentels" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">33</div>
+                                                <div class="element-top-item">74.92</div>
+                                            </div>
+                                            <div class="element-symbol">As</div>
+                                            <div class="element-bottom">Arsen</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">51</div>
+                                                <div class="element-top-item">121.8</div>
+                                            </div>
+                                            <div class="element-symbol">Sb</div>
+                                            <div class="element-bottom">Antimon</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">83</div>
+                                                <div class="element-top-item">209.0</div>
+                                            </div>
+                                            <div class="element-symbol">Bi</div>
+                                            <div class="element-bottom">Bismut</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">115</div>
+                                            <div class="element-top-item">289.0</div>
+                                        </div>
+                                        <div class="element-symbol">Mc</div>
+                                        <div class="element-bottom">Moscovium</div>
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/oxygen" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">8</div>
+                                            <div class="element-top-item">16.00</div>
+                                        </div>
+                                        <div class="element-symbol">O</div>
+                                        <div class="element-bottom">Kyslík</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/sulfur" class="element">
+                                        <div class="element-top">
+                                            <div class="element-top-item">16</div>
+                                            <div class="element-top-item">32.07</div>
+                                        </div>
+                                        <div class="element-symbol">S</div>
+                                        <div class="element-bottom">Síra</div>
+                                    </a>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/other-chalcogenes" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">33</div>
+                                                <div class="element-top-item">78.96</div>
+                                            </div>
+                                            <div class="element-symbol">Se</div>
+                                            <div class="element-bottom">Selen</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">52</div>
+                                                <div class="element-top-item">127.6</div>
+                                            </div>
+                                            <div class="element-symbol">Te</div>
+                                            <div class="element-bottom">Tellur</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">84</div>
+                                                <div class="element-top-item">209.0</div>
+                                            </div>
+                                            <div class="element-symbol">Po</div>
+                                            <div class="element-bottom">Polonium</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">116</div>
+                                            <div class="element-top-item">293.0</div>
+                                        </div>
+                                        <div class="element-symbol">Lv</div>
+                                        <div class="element-bottom">Livermorium</div>
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <div class="element-placeholder"></div>
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/other-chalcogenes" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">9</div>
+                                                <div class="element-top-item">19.00</div>
+                                            </div>
+                                            <div class="element-symbol">F</div>
+                                            <div class="element-bottom">Fluor</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">17</div>
+                                                <div class="element-top-item">35.45</div>
+                                            </div>
+                                            <div class="element-symbol">Cl</div>
+                                            <div class="element-bottom">Chlor</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">35</div>
+                                                <div class="element-top-item">79.90</div>
+                                            </div>
+                                            <div class="element-symbol">Br</div>
+                                            <div class="element-bottom">Brom</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">53</div>
+                                                <div class="element-top-item">126.9</div>
+                                            </div>
+                                            <div class="element-symbol">I</div>
+                                            <div class="element-bottom">Jod</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">85</div>
+                                                <div class="element-top-item">210.0</div>
+                                            </div>
+                                            <div class="element-symbol">At</div>
+                                            <div class="element-bottom">Astat</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">117</div>
+                                            <div class="element-top-item">294.0</div>
+                                        </div>
+                                        <div class="element-symbol">Ts</div>
+                                        <div class="element-bottom">Tennesin</div>
+                                    </div>
+                                </div>
+                                <div class="group">
+                                    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/halogenes" class="element-multiple">
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">2</div>
+                                                <div class="element-top-item">4.003</div>
+                                            </div>
+                                            <div class="element-symbol">He</div>
+                                            <div class="element-bottom">Helium</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">10</div>
+                                                <div class="element-top-item">20.18</div>
+                                            </div>
+                                            <div class="element-symbol">Ne</div>
+                                            <div class="element-bottom">Neon</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">18</div>
+                                                <div class="element-top-item">39.95</div>
+                                            </div>
+                                            <div class="element-symbol">Ar</div>
+                                            <div class="element-bottom">Argon</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">36</div>
+                                                <div class="element-top-item">83.80</div>
+                                            </div>
+                                            <div class="element-symbol">Kr</div>
+                                            <div class="element-bottom">Krypton</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">54</div>
+                                                <div class="element-top-item">131.3</div>
+                                            </div>
+                                            <div class="element-symbol">Xe</div>
+                                            <div class="element-bottom">Xenon</div>
+                                        </div>
+                                        <div class="element">
+                                            <div class="element-top">
+                                                <div class="element-top-item">86</div>
+                                                <div class="element-top-item">222.0</div>
+                                            </div>
+                                            <div class="element-symbol">Rn</div>
+                                            <div class="element-bottom">Radon</div>
+                                        </div>
+                                    </a>
+                                    <div class="element unknown">
+                                        <div class="element-top">
+                                            <div class="element-top-item">118</div>
+                                            <div class="element-top-item">294.0</div>
+                                        </div>
+                                        <div class="element-symbol">Og</div>
+                                        <div class="element-bottom">Oganesson</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="f-block">
+                    <div class="row">
+                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/lanthanum-and-lathanoids" class="element-multiple element-multiple-row">
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">58</div>
+                                    <div class="element-top-item">140.1</div>
+                                </div>
+                                <div class="element-symbol">Ce</div>
+                                <div class="element-bottom">Cer</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">59</div>
+                                    <div class="element-top-item">140.9</div>
+                                </div>
+                                <div class="element-symbol">Pr</div>
+                                <div class="element-bottom">Praseodym</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">60</div>
+                                    <div class="element-top-item">144.2</div>
+                                </div>
+                                <div class="element-symbol">Nd</div>
+                                <div class="element-bottom">Neodym</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">61</div>
+                                    <div class="element-top-item">145.0</div>
+                                </div>
+                                <div class="element-symbol">Pm</div>
+                                <div class="element-bottom">Prometheum</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">62</div>
+                                    <div class="element-top-item">150.4</div>
+                                </div>
+                                <div class="element-symbol">Sm</div>
+                                <div class="element-bottom">Samarium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">63</div>
+                                    <div class="element-top-item">152.0</div>
+                                </div>
+                                <div class="element-symbol">Eu</div>
+                                <div class="element-bottom">Europium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">64</div>
+                                    <div class="element-top-item">157.3</div>
+                                </div>
+                                <div class="element-symbol">Gd</div>
+                                <div class="element-bottom">Gadolinium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">65</div>
+                                    <div class="element-top-item">158.9</div>
+                                </div>
+                                <div class="element-symbol">Tb</div>
+                                <div class="element-bottom">Terbium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">66</div>
+                                    <div class="element-top-item">162.5</div>
+                                </div>
+                                <div class="element-symbol">Dy</div>
+                                <div class="element-bottom">Dysprosium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">67</div>
+                                    <div class="element-top-item">164.9</div>
+                                </div>
+                                <div class="element-symbol">Ho</div>
+                                <div class="element-bottom">Holmium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">68</div>
+                                    <div class="element-top-item">167.3</div>
+                                </div>
+                                <div class="element-symbol">Er</div>
+                                <div class="element-bottom">Erbium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">69</div>
+                                    <div class="element-top-item">168.9</div>
+                                </div>
+                                <div class="element-symbol">Tm</div>
+                                <div class="element-bottom">Thulium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">70</div>
+                                    <div class="element-top-item">173.0</div>
+                                </div>
+                                <div class="element-symbol">Yb</div>
+                                <div class="element-bottom">Ytterbium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">71</div>
+                                    <div class="element-top-item">175.0</div>
+                                </div>
+                                <div class="element-symbol">Lu</div>
+                                <div class="element-bottom">Lutecium</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="row">
+                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/thorium" class="element">
+                            <div class="element-top">
+                                <div class="element-top-item">90</div>
+                                <div class="element-top-item">232.0</div>
+                            </div>
+                            <div class="element-symbol">Th</div>
+                            <div class="element-bottom">Thorium</div>
+                        </a>
+                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/actinium-and-actinoids" class="element">
+                            <div class="element-top">
+                                <div class="element-top-item">91</div>
+                                <div class="element-top-item">231.0</div>
+                            </div>
+                            <div class="element-symbol">Pa</div>
+                            <div class="element-bottom">Protaktinium</div>
+                        </a>
+                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/uranium" class="element">
+                            <div class="element-top">
+                                <div class="element-top-item">92</div>
+                                <div class="element-top-item">238.0</div>
+                            </div>
+                            <div class="element-symbol">U</div>
+                            <div class="element-bottom">Uran</div>
+                        </a>
+                        <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/actinium-and-actinoids" class="element-multiple element-multiple-row">
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">93</div>
+                                    <div class="element-top-item">237.1</div>
+                                </div>
+                                <div class="element-symbol">Np</div>
+                                <div class="element-bottom">Neptunium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">94</div>
+                                    <div class="element-top-item">244.0</div>
+                                </div>
+                                <div class="element-symbol">Pu</div>
+                                <div class="element-bottom">Plutonium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">95</div>
+                                    <div class="element-top-item">243.0</div>
+                                </div>
+                                <div class="element-symbol">Am</div>
+                                <div class="element-bottom">Americium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">96</div>
+                                    <div class="element-top-item">247.0</div>
+                                </div>
+                                <div class="element-symbol">Cm</div>
+                                <div class="element-bottom">Curium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">97</div>
+                                    <div class="element-top-item">247.0</div>
+                                </div>
+                                <div class="element-symbol">Bk</div>
+                                <div class="element-bottom">Berkelium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">98</div>
+                                    <div class="element-top-item">251.0</div>
+                                </div>
+                                <div class="element-symbol">Cf</div>
+                                <div class="element-bottom">Kalifornium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">99</div>
+                                    <div class="element-top-item">252.0</div>
+                                </div>
+                                <div class="element-symbol">Es</div>
+                                <div class="element-bottom">Einsteinium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">100</div>
+                                    <div class="element-top-item">257.3</div>
+                                </div>
+                                <div class="element-symbol">Fm</div>
+                                <div class="element-bottom">Fermium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">101</div>
+                                    <div class="element-top-item">258.0</div>
+                                </div>
+                                <div class="element-symbol">Md</div>
+                                <div class="element-bottom">Mendelevium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">102</div>
+                                    <div class="element-top-item">259.0</div>
+                                </div>
+                                <div class="element-symbol">No</div>
+                                <div class="element-bottom">Nobelium</div>
+                            </div>
+                            <div class="element">
+                                <div class="element-top">
+                                    <div class="element-top-item">103</div>
+                                    <div class="element-top-item">262.0</div>
+                                </div>
+                                <div class="element-symbol">Lr</div>
+                                <div class="element-bottom">Lawrencium</div>
+                            </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+    <a href="/notes/research/chemistry/inorganic-chemistry/periodic-table/" class="element">
+        <div class="element-top">
+            <div class="element-top-item"></div>
+            <div class="element-top-item"></div>
+        </div>
+        <div class="element-symbol"></div>
+        <div class="element-bottom"></div>
+    </a>
+{{end}}

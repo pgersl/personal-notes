@@ -1,0 +1,193 @@
+---
+title: "Kyslík"
+layout: single
+type: note
+section: "unlisted"
+weight: 
+---
+- nachází se ve skupině [VI.A](/notes/research/chemistry/inorganic-chemistry/periodic-table/chalcogenes)
+- jeho elektronová konfigurace je $[He]2s^22p^4$
+# Zisk a výskyt kyslíku
+- je to nejrozšířenější prvek na Zemi
+- je nedílnou součástí vzduchu
+    - tvoří 21% atmosféry
+    - vázaný se vyskytuje v litosféře i hydrosféře
+- je součástí všech živých organismů
+- vyskytuje se ve třech izotopech
+    - $^{16}O$ - 99.76%
+    - $^{17}O$ - 0.04%
+    - $^{18}O$ - 0.2%
+## Alotropické modifikace kyslíku
+### Ozon $O_3$
+- je tvořen třemi atomy kyslíku
+    - strukturou se podobá vodě
+    - elektronový vzorec - $|\underline{\overline{O}}^--\overline{O}^+=\underline{\overline{O}}$
+- je to jedovatý, bezbarvý plyn
+    - v silnějších koncentracích je namodralý
+    - kapalný je tmavě modrý až fialový
+- má velmi charakteristický zápach
+- vyskytuje se ve vyšších vrstvách atmosféry
+    - vzniká zde působením UV záření na molekuly dikyslíku
+    - nachází se ve výšce 25 až 30 km
+    - ozonová vrstva působí jako filtr chránící živé organismy před UV zářením
+- vyrábí se v _ozonizátoru_
+    - výroba spočívá v působení elektrického výboje na molekulu dikyslíku
+    - molekula dikyslíku se homolyticky rozštěpí a reaguje s dalšími molekulami dikyslíku za vzniku dvou molekul ozonu
+- využívá se na sterilizaci vody a bělení olejů a škrobu
+- je velmi reaktivní
+    - snadno se rozpadá na dikyslík a atmární kyslík
+        - proto má velmi silné oxidační účinky
+- směs se vzduchem o minimální koncentraci ozonu 70% je výbušná
+- reaguje se všemi kovy krom [zlata](/notes/research/chemistry/inorganic-chemistry/periodic-table/gold), [platiny](/notes/research/chemistry/inorganic-chemistry/periodic-table/palladium-and-platinum) a [iridia](/notes/research/chemistry/inorganic-chemistry/periodic-table/rhodium-and-iridium)
+- s alkalickými hydroxidy poskytuje ozonidy $MO_3$
+### Dikyslík $O_2$
+- je tvořen dvěma atomy kyslíku
+    - elektronový vzorec - $\underline{\overline{O}}=\underline{\overline{O}}$
+- je to bezbarvý plyn s bodem varu -183°C a bodem tání -218.8°C
+- **Příprava dikyslíku**
+    - **Laboratorní příprava dikyslíku**
+        - některé kyslíkaté soli se účinkem tepla rozkládají za uvolnění kyslíku
+            - pro tuto přípravu se nejčastěji používají chlorečnan nebo dusičnan sodný nebo draselný a manganistan draselný
+                - nejvýhodnější je chlorečnan, ovšem jeho termický rozklad probíhá pouze v přítomnosti katalyzátoru
+            - některé oxidy lze termicky rozkládat také
+                - používají se obzvlášť oxidy rtuťnatý a stříbrný
+        - další možností je katalytický rozklad vodného roztoku peroxidu vodíku
+            - obvykle se ke katalýze používá oxid manganičitý
+        - poslední možností je elektrolýza zředěného roztoku kyseliny sírové
+    - **Průmyslová příprava kyslíku**
+        - zakládá se na frakční destilaci vzduchu
+        - užívá se v celé řadě oxidačních reakcí a při spalování nejrůznějších materiálů
+        - používá se také v lékařství a při sváření a řezání kovů
+# Vlastnosti kyslíku
+- je po fluoru druhým nejelektronegativnějším prvkem
+- je velmi reaktivní
+- molekulární kyslík se přímo slučuje s většinou prvkůza vzniku oxidů
+    - s některými kovy se neslučuje přímo a jejich oxidy je třeba připravit jinými způsoby
+    - doposud nebyli připraveny oxidy některých [vzácných plynů](/notes/research/chemistry/inorganic-chemistry/periodic-table/noble-gases)
+- atomární kyslík je mnohem reaktivnější než molekulární kyslík
+    - jeho reakce mají explozivní charakter
+    - nevyskytuje se volně a okamžitě se váže do dvou atomových molekul
+# Sloučeniny kyslíku
+## Oxidy
+### Dělení oxidů podle chemického chování
+- **Kyselé oxidy**
+    - jsou to oxidy odvozené od nekovových prvků a kovových prvků s oxidačním číslem vyšším nebo rovným $V$
+    - některé z nich reagují s vodou za vzniku kyslíkatých kyselin
+    - některé z nich jsou ve vodě nerozpustné a rozpouštějí se v zásadách za vzniku příslušných solí
+- **Bazické oxidy**
+    - jsou to oxidy odvozené od silně elektropozitivních prvků
+    - reagují s vodou za vzniku hydroxidů
+- **Amfoterní oxidy**
+    - jsou to oxidy kovů s nižšími oxidačními čísly
+    - reagují s kyselinami i zásadami za vzniku příslušných solí
+        - v případě reakce se zásadou je kov vázaný v aniontu
+            - $ZnO+2\ NaOH+H_2O\longrightarrow{Na_2[Zn(OH)_4]}$
+- **Neutrální oxidy**
+    - jsou to oxidy, které nereagují ani se zásadami ani s kyselinami
+### Dělení oxidů podle struktury
+- **Iontové oxidy**
+    - jsou to oxidy tvořené anionty $O^{2-}$, které se vážou vazbami iontového charakteru na elektropozitivní prvky
+    - jsou známé především oxidy [alkalických kovů](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkali-metals), [kovů alkalických zemin](/notes/research/chemistry/inorganic-chemistry/periodic-table/alkaline-earth-metals), [lanthanoidů](/notes/research/chemistry/inorganic-chemistry/periodic-table/lanthanum-and-lathanoids), [aktinoidů](/notes/research/chemistry/inorganic-chemistry/periodic-table/actinium-and-actinoids) a některých přechodných kovů v nízkých oxidačních stavech
+    - anion $O^{2-}$ je silná zásada
+        - vodě odnímá proton
+            - $O^{2-}+H_2O\longrightarrow{2\ OH^-}$
+    - označují se jako _zásadotvorné_
+    - s kyselinami tvoří soli
+- **Polymerní oxidy**
+    - jejich strukturu tvoří lineární nebo trojrozměrné řetězce
+    - kyslíkové atomy jsou vázány převážně kovalentní vazbou ke kovu
+    - jsou známé primárně u kovů se střední a vyšší hodnotou elektronegativty a některých polokovů a nekovů
+    - většina nereaguje s vodou
+    - některé jsou _kyselinotvorné_
+        - v reakcích tvoří odpovídající kyseliny
+    - některé jsou _amfoterní_
+        - reagují s kyselinami i zásadami za vzniku odpovídajících solí
+        - v krystalickém pevném stavu jsou často vůči působení kyselin a zásad velmi odolné
+    - mohou být i zásadotvorné
+- **Molekulové oxidy**
+    - tvoří přesně definované molekuly s kyslíky vázanými ke kovům kovalentní vazbou
+    - většinou je tvoří nekovy, [arsen, antimon](/notes/research/chemistry/inorganic-chemistry/periodic-table/other-pentels) a některé kovy ve vysokých oxidačních stupních ([mangan](/notes/research/chemistry/inorganic-chemistry/periodic-table/manganese), [osmium](/notes/research/chemistry/inorganic-chemistry/periodic-table/ruthenium-and-osmium))
+    - většina je kyselinotvorná
+    - malá skupina nereaguje s kyselinami, zásadami ani vodou a označují se jako _neutrální_
+- **Podvojné oxidy**
+    - obsahují atomy dvou kovů, které jsou s kyslíkem vázány do trojrozměrných struktur
+## Voda $H_2O$
+- je to nejrozšířenější látka obsahující kyslík na zemi
+- běžně se vyskytuje ve všech skupenstvích
+- za běžných podmínek je to bezbarvá kapalina bez zápachu
+    - v silných vrstvách je blankytně modrá
+- její hustota je při 4°C 1 g $\cdot$ cm$^{-3}$
+- v přírodě se nikdy nevyskytuje čistá
+    - podle původu obsahuje různé koncentrace rozpuštěných nebo rozptýlených látek
+    - v závislosti na použití se proto vždy sterilizuje nebo zbavuje tvrdosti
+    - v laboratořích se používá voda destilovaná
+- atomy molekuly vody svírají úhel přibližně 105°
+- má velmi polární charakter
+    - proto je skvělým rozpouštědlem iontových látek
+    - při rozpouštění jsou ionty obklopeny molekulamy vody
+        - dochází k jejich hydrataci
+- tvoří [vodíkové můstky](/notes/research/chemistry/general-chemistry/chemical-bonds/hydrogen-bonding)
+    - významně ovlivňují její vlastnosti
+- účasní se obrovské řady reakcí
+### Led
+- je to voda v pevném stavu
+- také obsahuje vodíkové můstky
+- tvoří řadu polymorfních struktur
+    - ochlazrním na 0°C při atmosférickém tlaku vzniká obyčejný led
+        - voda krystalizuje v hexagonální soustavě
+        - obsahuje velké dutiny 
+        - má nižší hustotu než voda díky své struktuře
+    - při nízkých tlacích při teplotách -80°C až -140°C krystalizuje voda v kubické soustavě
+        - jeho hustota ke přibližně stejná jako u obyčejného ledu
+    - při kondenzaci vodní páry při teplotě -110°C vzniká amorfní led
+    - při vysokých tlacích může vznikat dalších šest modifikací, které mají větší hustotu než voda
+### Hydráty
+- jsou to látky, ve kterých voda vystupuje jako součást struktury
+- v některých sloučeninách chemická individualita molekul vody zcela zaniká a těmto sloučeninám se hydráty neříká
+    - jedná se o některé kyseliny a hydroxidy, které lze formálně považovat za hydráty příslušných oxidů
+- **Krystalohydráty**
+    - v krystalech některých solí jsou součástí struktury molekuly rozpouštědla, vody
+    - taková voda se označuje jako _krystalová_
+        - ve vzorcích se zapisuje za tečkou po vzorci soli ($CuSO_4\cdot{5\ H_2O}$)
+    - krystalová voda značně ovlivňuje fyzikální i chemické látky
+    - zahříváním se voda z krystalické struktury odpařuje
+        - něktré krystali jsou labilní a vodu odevzdávají snadno a přechází tak na nižší krystalohydráty a bezvodé látky
+        - některé krystali vodu neodevzdají ani při vysokých teplotách a nelze tak připravit bezvodé látky
+            - teplota nutná k odstranění vody by rozložila původní látku
+- **Aquakomplexy**
+    - voda je vázána [donor-akceptorní vazba](/notes/research/chemistry/general-chemistry/chemical-bonds/donor-acceptor-bond)
+        - podílejí se na ní volné elektrony kyslíku vody
+    - aqua ligand má nulový náboj
+## Peroxid vodíku $H_2O_2$
+- je to bezbarvá, sirupovitá kapalina, ve které se vodíkové můstky uplatňují ještě víc než ve vodě
+- je výborným polárním rozpouštědlem
+- jeho struktura není planární
+    - úhel mezi rovinou vazby jednoho z vodíku na první z kyslíků a rovinou vazby druhého z vodíků ke druhému z kyslíků je 93.6°C
+- vyrábí se reakcí peroxidu barnatého se zředěnou kyselinou sírovou
+    - $BaO_2+H_2SO_4\longrightarrow{BaSO_4+H_2O_2}$
+    - síran barnatý je nerozpusntý a odstraňuje se filtrací
+- je termicky málo stabilní
+    - před dosažením bodu varu (152.1°C) se explozivně rozkládá
+        - bod varu byl určen výpočtem
+    - za laboratorní teploty je ale realtivně stálý a rozkládá se velmi pomalu
+- má velmi silné oxidační účinky
+    - ve styku s velmi silnými oxidačními činidly může působyt i jako redukční činidlo
+        - příkladem je reakce manganistanu draselného s peroxidem vodíku v kyselém prostředí
+            - $5\ H_2O+2\ MnO_4^-+6\ H_3O^+\longrightarrow{5\ O_2+2\ Mn^{2+}+14\ H_2O}$
+            - často se používá k připravě kyslíku v laboratoři
+- má charakter slabé kyseliny
+    - se silnými zásadami vytváří dvě řady solí
+        - _hydrogenperoxidy_ $M^IHO_2$
+        - _peroxidy_ $M^{II}_2O_2$
+    - peroxidy jsou známe hlavně u alkalických kovů a kovů alkalických zemin
+        - připravují se hlavně hořením v kyslíku
+    - peroxidový anion $O_2^{2-}$ je extrémně silnou bází
+        - odejímá proton molekule vody
+            - $O_2^{2-}+2\ H_2O\longrightarrow{H_2O_2+2\ OH^-}$
+## Hyperoxidy
+- s alkalickými kovy (krom lithia) tvoří kyslík také hyperoxidy $M^IO_2$
+- obsahují hyperoxidový anion $O_2^-$
+    - je to extrémně silná báze
+    - velmi ochotně reaguje s vodu
+        - vzniká odpovídající hydroxid, peroxid vodíku a kyslík
+        - $2\ O_2^-+2\ H_2O\longrightarrow{2\ OH^-+H_2O_2+O_2}$
