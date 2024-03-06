@@ -159,6 +159,7 @@ a.element:hover, .element-multiple:hover .element {
     font: var(--font);
     border-radius: .3em;
     background-color: var(--light2);
+    color: var(--dark1);
 }
 .selector:hover, .block-selector:hover {
     cursor: pointer;
