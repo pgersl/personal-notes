@@ -1,0 +1,395 @@
+---
+title: "Česká meziválečná literatura"
+layout: single
+type: note
+section: "Literární historie"
+weight: 22
+---
+# Úvod
+- po první světové válce vznik Československé republiky
+- v architektuře se objevují styly jako kubismus nebo funkcionalismus
+- v sochařství a malířství se objevují umělci inspirování kubismem, fauvismem a expresionismem
+    - spousta umělců jezdí na studijní pobyty
+    - významný je František Kupka
+- umělci zakládají různé spolky
+    - nejvýznamější skupinou byl *Děvětsil*
+        - mezi členy byli teoretici, výtvarníci, ale také básníci Jaroslav Seifert a Vítězslav Nezval
+- v literatuře se jako reakce na revoluční dění v Rusku objevuje proletářská poezie
+    - hlavním představitelem byl Jiří Wolker
+    - mezi další představitele patří také [Stanislav Kostka Neumann](/notes/school/czech/literature/literary-history/czech-modern-literature/#stanislav-kostka-neumann), Josef Hora, Jindřich Hořejší a Jaroslav Seifert
+- civilismus a vitalismus se mění na ***poetismus***
+    - směr vzniká v porstředí Devětsilu v roce 1922
+    - je výlučně český
+    - v roce 1924 vyšel Manifest poetismu
+    > Poetismus je metoda, jak nazírati svět, aby byl básní.
+    - **Základní znaky poetismu**
+        - volná obrazotvornost, fantazie, spontánnost, hra
+        - volba konkrétních pojmů, smyslovost
+        - volné řazení asociací, metafor, volný i pravidelný verš
+        - motivy cirkusu, exotiky, přírodní lyrika, milostná poezie
+        - obdiv k civilizaci, velkoměstu
+        - apolitičnost, radost
+- ve 30. letech se spisovatelé od poetismu odvracejí k surrealismu nebo socialistickému realismu
+    - poetismus se ale držel dál
+- vzniká také poezie metafyzická
+    - je spojována s pesimismem a dominantním motivem je smrt
+    - mezi představitele patří František Halas, Vladimír Holan Vilém Závada
+# Jiří Wolker
+- 1900 - 1924
+- básník, prozaik
+- hlavní představitel proletářské poezie
+- vyrůstal v kultivoovaném prstředí a byl podporován v uměleském rozvoji
+- literárně se rozvíjel už na gymnáziu, ale nejznámější jsou jeho díla, která psal při studiu práv
+- ve 21 letech mu byla zjištěna tuberkulóza a o tří roky později jí podlehl
+- byl členem Devětsilu
+## Dílo
+- **Host do domu**
+    - básnická sbírka
+    - má tři části - *Chlapec, Ukřižované srdce, Host do domu*
+    - první část je optimistická, druhá je zaměřena na projevy bídy a třetí vyjadřuje lásku k věcem, které se autor snaží poolidštit
+- **Těžká hodina**
+    - nejznámější básnická sbírka
+    - proletářská poezie
+    - soustřeďuje se na existanční a mravní problémy
+    - využivá sociální baladu, kde hrdina bojuje proti sociálním osudům
+    - je v zásadě pesimistická
+    - v básních se někdy vyskytuje dialogy
+- *sociální pohádky*
+    - jsou to pohádky zabývající se sociální tématikou
+    - původně Wolker zamýšlel napsat celou sbírku, ale nestihl ji dokončit
+# Josef Hora
+- 1891 - 1945
+- básník, novinář, překladatel, literární kritik
+- přestavitel proletářské poezie
+- typická je sociální problematika a meditativní lyričnost
+- začal publikovat v průběhu studií práv
+- později řídil kulturní rubriku Rudého práva
+## Dílo
+- **Pracující den**
+    - básnická sbírka
+    - osudy dělníků, kteří jsou portrétování jako nositelé nového humanismu
+- **Srdce a vřava světa**
+- **Bouřlivé jaro**
+- **Struny větru**
+    - básnická sbírka
+    - postupný přechod od proletářské poezie k poetismu
+    - lyrické básně o zážitcích ze SSSR
+    - nejznámější báseň *Čas*
+- **Máchovské variace**
+    - básnická sbírka
+    - ke 100. výročí Máchovy smrti
+    - protifašistický tón
+    - Mácha jako symbol neposlušnosti a vytrvalosti
+- **Domov**
+    - básnická sbírka
+    - oslava Česka a jeho minulosti
+    - nejznámější báseň *Zpěv rodné zemi*
+- **Zápisky z nemoci**
+- **Socialistické naděje**
+    - román
+    - nedosahuje kvalit jako jeho poezie
+# Vítězslav Nezval
+- 1900 - 1958
+- básník, dramatik, překladatel
+- přispíval do několika novin a časopisů
+- je jedním ze zakladatelů poetismu, později se zapojil do činnosti komunistické strany a psal ve stylu socialistického realismu
+## Dílo
+- **Pantomima**
+    - básnická sbírka
+    - ve stylu poetismu
+    - obsahuje různé druhy textů
+    - nejvýznamnější je hravá skladba *Abeceda*
+- **Podivuhodný kouzelník**
+    - básnická sbírka
+    - ve stylu poetismu
+    - ukazuje radost z běžných situací
+- **Básně noci**
+    - básnická sbírka
+    - sbírka je věnována Otakaru Březinovi
+    - přinaší vizi nové kultury
+    - vyzývá ke změnám v literatuře a společnosti
+    - *Akrobat*
+        - basnická skladba vyjadřující autorovo stylové rozpolcení
+        - vše se odehrává během jednohoo dne
+        - akrobat balancuje na hraně
+    - *Edison*
+        - děj se odehrává v USA a v Praze
+        - je rozdělen do pěti zpěvů
+        - Edison je vyobrazen jako objevitel nového světa
+        - smysl lidskému životu dává dílo, které člověk po sobě zanechává pro radost a štěstí druhých
+        - opěvuje lidskou genialitu
+        - půsooobí na lidské smysly
+- **Žena v množném čísle**
+    - básnická sbírka
+    - ve stylu surrealismu
+    - věnována Paulu Élaurdovi
+    - zachycuje Nezvalův vztah k ženám
+- **Absolutní hrobař**
+    - básnická sbírka
+    - ve stylu surrealismu
+    - ponuré a pesimistické vize, Freudovský erotismus
+- **Praha s prsty deště**
+    - básnická sbírka
+    - Nezval hledá cestu k hlavnímu městu
+    - zamýšlí se nad životem ve velkoměstě
+- **Matka naděje, Pět minut za městem**
+    - vlastenecké básnické sbírky
+    - varují před nacismem
+    - osud národa spojuje se svou matkuo, která umírala na těžkoou chorobu
+- **Manon Lescaut**
+    - drama
+    - rytíř des Grieux se zamiluje do krásné Manon a odmítne vstoupit do kněžského semináře, v lásce je zklamán a vstoupí nakonec do semináře, poozději jí oopět podlehne, Manon je odsouzena za protituci a na cestě k trestu umírá
+- **Dnes ještě zapadá slunce nad Atlantidou**
+    - básnické drama
+    - varuje před atomovou válkou
+# František Halas
+- 1901 - 1949
+- básník
+- nelze ho zařadit k určitému směru
+    - vliv na něho měla proletářská poezie, poetismus, intimní a existenciální lyrika
+- téměř celý život prožil v bídě, v 50. letech byly jeho knihy zakázány
+- častými motivy jsou smutek, prázdno, růže, had, anděl, zrcadlo, žena, sen, spánek a smrt
+- za války byl velmi nemocný a po ní se věnoval primárně přednášení a překladatelství
+## Dílo
+- **Sépie**
+    - první básnická sbírka
+    - ve stylu poetismu, motivy smrti, smutku a bolesti
+- **Kohout plaší smrt**
+    - básnická sbírka
+    - tématy jsou existenciální úzkost, blízkost smrti, marnost
+- **Tvář**
+    - básnická sbírka
+    - tématy jsou smutek, melancholie, stesk po kráse, láska, žal, lítost
+- **Staré ženy**
+    - rozsáhlá básnická skladba
+    - popisuje závěr života starých dělnických žen
+    - tématy jsou stáří, smutek, bezmoc
+- **Torzo naděje**
+    - básnická sbírka
+    - reakce na mnichovskou dohodu
+    - *Zpěv úzkosti, Mobilizace, Praze*
+- **Naše paní Božena Němcová**
+    - básnická sbírka
+    - poslia českého národa
+    - návrat k velké autorce a národní buditelce
+# Vladimír Holan
+- 1905 - 1980
+- básník, překladatel
+- byl v euforii z únorového převratu, ale později mu bylo členství v KSČ zrušeno
+- měl zákaz vydávat, který byl zrušen po roce 1963
+- jeho poezie je intelektuální, náročně reflexivní a meditativín
+- typická je spirituálnost a vědomí tragiky života
+- měl psychické problémy a uzavřel se do sebe
+## Dílo
+- **Blouznivý vějíř**
+    - básnická sbírka
+    - ovlivnění dobovým pesimismem
+- **Triumf smrti**
+    - básnická sbírka
+    - připomíná barokní poezii
+    - konflikt bytí a nebytí, pomíjivost
+- **Vanutí, Oblouk, Kameni, přicházíš...**
+    - básnické sbírky
+    - hledání nové poetiky
+    - hlavním tématem je prolínání vnitřního a vnějšího, dobra a zla, bytí a nicoty, plynutí času a věčnost
+    - básně jsou velmi melodické
+    - jsou blízké expresionismu
+- **Září 1938**
+    - básnická sbírka
+    - reaguje na události kolem mnichovské dohody a počínající nacistické okupace
+- **Dík Sovětskému svazu**
+    - básnická sbírka
+    - oslava hrdinství ruských vojáků při osvobozování československa
+    - patetické poděkování za osvobození
+- **Panychida**
+    - básnická sbírka
+    - básně reagující na poválečné události
+    - reporážní forma
+- **Rudoarmějci**
+    - básnické sbírky
+    - portréty řádových sovětských vojáků
+- **Bolest**
+    - básnická sbírka
+    - věnována mrtvým přátelům
+- **Mozartiana**
+    - básnická sbírka
+    - vyznává se ze své lásky a ibdivu k Mozartovi
+- **Noc s Hamletem**
+    - básnická skladba
+    - konfrontace názorů s Hamletem
+    - hlavní motivy jsou noc, láska a soucit
+    - volný verš
+- **Terezka Planetová**
+    - rozsáhlá epická básnická skladba
+    - o nenaplněné lásce k mladé dívce
+- **První testament**
+    - epická básnická skladba
+    -navazuje na Terezku Planetovou
+- **Hadry, kosti, kůže**
+    - deníková forma
+    - úvahy a citáty z jiných literárních děl
+# Jaroslav Seifert
+- 1901 - 1986
+- básník, prozaik, překladatel, novinář
+- psal ve stylu proletářské poezie, poetismu i surrealismu
+- jako jediný český autor získal Nobelovu cenu za literaturu
+## Dílo
+- **Město v slzách**
+    - básnická sbírka
+    - ve stylu proletářské poezie
+    - poetizace obyčejností, zintimnění výdobytků moderní civilizace a revoluce
+- **Samá láska**
+    - básnická sbírka
+    - intimní verše
+    - revoluce představuje symbol naděje básníka
+- **Na vlnách TSF**
+    - básnická sbírka
+    - ve stylu poetismu, hravá a optimistická
+    - inspirace pařížskými atrakcemi a bulváry
+- **Slavík zpívá špatně**
+    - básnický sbírka
+    - dozvuky první světové války
+    - znatelně méně hravá
+    - do kontrastu hrůz první světové války staví nově vznikající svět pod SSSR
+- **Jablko z klína, Ruce Venušiny, Jaro, sbohem**
+    - básnické sbírky
+    - vycházejí ve 30. letech
+    - absolutní lyrika
+    - nostalgie, stesk po minulosti, vzpomínky na dětství, vlastenecké motivy
+- **Zhasněte světla**
+    - básnická sbírka
+    - reaguje na události okamžitě po mnichovské dohodě
+- **Vějíř Boženy Němcové, Světlem oděná, Kamený most, Přilba hlíny**
+    - básnické sbírky
+    - sepicované během druhé světové války
+    - silně vlastenecké, protinacistické motivy
+- **Píseň o Viktorce**
+    - básnická sbírka
+    - inspirace Viktorkou od Boženy Němcové
+- **Maminka**
+    - básnická sbírka
+    - návrat do dětství, vzpomínky na dětství a na maminku, obyčejné věci
+    - jednoduché verše
+- **Chlapec a hvězdy**
+    - básnická sbírka o obrazech Josefa Lady
+- **Odlévání zvonů, Halleyova kometa, Morový sloup**
+    - básnické sbírky
+    - volný verš
+    - v kontrastu je téma domova, Prahy, rodného kraje a blížící se smrt
+- **Všecky krásy světa**
+    - vzpomínková próza
+- **Býti básníkem**
+    - poslední básnická sbírka
+    - rekapitulace života
+# Konstantin Biebl
+- 1898 - 1951
+- básník
+- psal ve stylu proletářské poezie, poetismu a surrealismu
+- bojoval v první světové válce
+- měl deprese a spáchal sebevraždu
+## Dílo
+- **Věrný hlas**
+    - básnická sbírka
+    - inspirace Jiřím Wolkerem
+    - proletářská poezie
+    - zobrazuje životy chudých a trpících
+- **Zloděj z Bagdádu**
+    - básnická sbírka
+    - ve stlyu poetismu
+    - podnětem byla smrt přítelkyně, kteoru potkal v Dalmácii na léčebném pobytu
+- **S lodí, jež dováží čaj a kávu**
+    - básnická sbírka
+    - vzniká jako ohlas na cestu do exotických zemí
+    - kombinace společenské kritičnosti a okouzlení exotickými zeměmi
+    - asociace na přetvrávající zoufalství člověka z války
+    - vzpomínky na mládí
+- **Nový Ikaros**
+    - poema
+    - metoda asociace
+    - vzpomínky na dětství
+    - čtyři zpěvy
+    - obraz soudobého světa, minulé války a manifest prudkého a intenzivního života
+- **Zrcadlo noci**
+    - básnická sbírka
+    - ve stylu surrealismu
+    - reakce na okupaci
+- **Bez obav**
+    - básnická sbírka
+    - vyzdvihuje rozdíl mezi budováním demokracie a úpadkem kapitalistického světa
+# Jiří Orten
+- 1919 - 1941
+- básník
+- pocházel z rodiny židovského obchodníka
+- působil v ochotnickém divadle
+- zemřel poté, co ho srazila německá vojenská sanitka
+- jeho básně jsou existenciální
+    - hlavními tématy jsou smutek, osamělost a úzkost mladého člověka v nepřátelském světě
+    - typické jsou pocity marnosti a absurdity existence a touhy po lásce
+- vydával pod několika pseudnymy
+## Dílo
+- **Čítanka jaro**
+    - básnická sbírka
+    - touha pr harmonickém domově
+- **Cesta k mrazu**
+    - básnická sbírka
+    - pocit osamělosti a ohrožení, životní absurdity
+- **Ohnice**
+    - básnická sbírka
+    - prolínání soukromí s válečnou dobou
+- **Modrá kniha, Žíhaná kniha, Červená kniha**
+    - Ortenovy deníky
+    - zachycují myšlenky a úvahy, dobrné prózy a verše
+# Vilém Závada
+- 1905 - 1982
+- básník a překladatel
+- psal lyrickou poezii se společenskými tématy
+- jeho básně jsou plné skepse a tragických životních pocitů
+## Dílo
+- **Panychida**
+    - básnická sbírka
+    - váže se na první světovou válku
+    - převažují pocity tragiky a bolesti
+    - verše se podobají Pásmu, jsou ovlivněny poetismem
+- **Siréna**
+    - básnická sbírka
+    - kritické obrazy společnosti během hospodářské krize
+- **Cesta pěšky**
+    - básnická sbírka
+    - hledání pozitivních hodnot, které vzdorují marnosti a osamělosti
+    - inspirována životem na Ostravsku
+- **Živote, díky**
+    - básnická sbírka
+    - hodnocení dosavadního života
+    - hledání optimističtějšío pohledu na svět
+# Jan Zahradníček
+- 1905 - 1960
+- katolický básník, novinář a překladatel
+- vystudoval bohemistiku
+- po únorovém převratu byl ve vykonstrovaném procesu odsouzen
+- krátce po propuštění zemřel
+## Dílo
+- **Jeřáby, Žíznivé léto, Pozdravení slunci**
+    - básnické sbírky
+    - přírodní, spirituální a filosofická lyrika
+    - obrazy Třebíčska, přírodní motivy, oslava života, obdiv k přírodě a řádu světa
+    - typická je abstrakce
+    - manifestace autorovy víry
+- **Svatý Václav**
+    - vlastenecká básnická skladba
+- **Znamení moci**
+    - emotivní básnická skladba
+    - v obrazech kritizuje totalitní režim
+    - zobrazuje zhroucení morálních hodnot společnosti
+# Bohuslav Reynek
+- 1892 - 1971
+- básník, překladatel a grafik
+- kromě psaní básní se věnoval kresbě, většinou technikou suché jehly
+- hlavními tématy jsou osamění, bolest, úzkost, víra a naděje, časté jsou spirituální a biblické motivy
+- inspiruje se rodnou Vysočinou
+- píše ve stylu expresionismu
+## Dílo
+- **Rty a zuby, Smutek země, Mráz v okně**
+    - básnické sbírky
+    - intenzivní prožitek smutku a zániku, niterní prožitek, pomíjivost lidského času a krásy, biblické a přírodní motivy
+    - vize rozkladu
+    - v Mrazu v okně jednodušší verš

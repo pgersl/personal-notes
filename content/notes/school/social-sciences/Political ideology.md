@@ -90,3 +90,45 @@ weight: 4
 - vznik v roce 1920
     - Mary Wollstonecraftová - *Obrana práv žen*
     - John Stuart Mill
+## Vvývoj feminismu
+- 1\. vlna
+    - 19\. století - začátek 20. století
+    - snaha o získání volebního práva
+        - první na Novém Zélandě (1899)
+    - *sufražetky* - bojovnice za získání hlasovacího práva
+- 2\. vlna
+    - druhá polovina 20. století
+    - boj proti rozdílům ve společenském a pracovním životě
+    - *radikální feminismus*
+- 3\. vlna
+    - konec 20. století a začátek 21. století
+    - boj proti nerovnosti v soukromém životě
+    - osvěta a pomoc ženám v zemích třetího světa
+    - *postfeminismus*
+## Zásady feminismu
+- zrovnoprávnění žen a mužů v oblasti politické, sociální a ekonomické
+- biologické rozdíly mezi pohlavími nezakládají nadřazenost mužů
+- čerpají z liberálních a racionálních úvah, ale i z myšlenek utopických a romantických
+- ženu na úrovni muže vnímají liberálové
+- ženu jako součást utlačované třídy vnímají marxisté
+- představitelé:
+    - Simone de Beauvoirová
+    - Betty Friedanová
+    - Jiřina Šiklová
+# Environmentalismus
+- usiluje o ochranu životního prostředí
+- zastřešuje mnoho ekologických organizací a hnutí
+- vzniká ve druhé polovině 20. století
+    - vznik jako společenská nadstavba přírodních věd
+    - nástup zelných politických stran
+- složité zařazení v politickém spektru
+    - společné s levicí: kolektivní odpovědnost, stát nadřazený zájmům jedince
+    - společné s pravicí: výchova jedince k zospovědnosti a ekologickému cítění
+- představitelé:
+    - Al Gore
+        - americký demokrat, Clintonův viceprezident
+        - dílo *Země na misce vah*
+        - zdůrazňuje roli politiků v ochraně životního prostředí
+    - Erazim Kohák
+        - český filosof, žije v USA
+        - dílo *Zelená svatozář*

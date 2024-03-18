@@ -1,5 +1,5 @@
 ---
-title: "Meziválečná literatura"
+title: "Světová meziválečná literatura"
 layout: single
 type: note
 section: "Literární historie"
