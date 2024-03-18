@@ -38,7 +38,7 @@ weight: 22
 - 1900 - 1924
 - básník, prozaik
 - hlavní představitel proletářské poezie
-- vyrůstal v kultivoovaném prstředí a byl podporován v uměleském rozvoji
+- vyrůstal v kultivovaném prstředí a byl podporován v uměleském rozvoji
 - literárně se rozvíjel už na gymnáziu, ale nejznámější jsou jeho díla, která psal při studiu práv
 - ve 21 letech mu byla zjištěna tuberkulóza a o tří roky později jí podlehl
 - byl členem Devětsilu
@@ -46,7 +46,7 @@ weight: 22
 - **Host do domu**
     - básnická sbírka
     - má tři části - *Chlapec, Ukřižované srdce, Host do domu*
-    - první část je optimistická, druhá je zaměřena na projevy bídy a třetí vyjadřuje lásku k věcem, které se autor snaží poolidštit
+    - první část je optimistická, druhá je zaměřena na projevy bídy a třetí vyjadřuje lásku k věcem, které se autor snaží polidštit
 - **Těžká hodina**
     - nejznámější básnická sbírka
     - proletářská poezie
@@ -110,7 +110,7 @@ weight: 22
     - vyzývá ke změnám v literatuře a společnosti
     - *Akrobat*
         - basnická skladba vyjadřující autorovo stylové rozpolcení
-        - vše se odehrává během jednohoo dne
+        - vše se odehrává během jednoho dne
         - akrobat balancuje na hraně
     - *Edison*
         - děj se odehrává v USA a v Praze
@@ -118,7 +118,7 @@ weight: 22
         - Edison je vyobrazen jako objevitel nového světa
         - smysl lidskému životu dává dílo, které člověk po sobě zanechává pro radost a štěstí druhých
         - opěvuje lidskou genialitu
-        - půsooobí na lidské smysly
+        - působí na lidské smysly
 - **Žena v množném čísle**
     - básnická sbírka
     - ve stylu surrealismu
@@ -135,10 +135,10 @@ weight: 22
 - **Matka naděje, Pět minut za městem**
     - vlastenecké básnické sbírky
     - varují před nacismem
-    - osud národa spojuje se svou matkuo, která umírala na těžkoou chorobu
+    - osud národa spojuje se svou matkuo, která umírala na těžkou chorobu
 - **Manon Lescaut**
     - drama
-    - rytíř des Grieux se zamiluje do krásné Manon a odmítne vstoupit do kněžského semináře, v lásce je zklamán a vstoupí nakonec do semináře, poozději jí oopět podlehne, Manon je odsouzena za protituci a na cestě k trestu umírá
+    - rytíř des Grieux se zamiluje do krásné Manon a odmítne vstoupit do kněžského semináře, v lásce je zklamán a vstoupí nakonec do semináře, později jí opět podlehne, Manon je odsouzena za protituci a na cestě k trestu umírá
 - **Dnes ještě zapadá slunce nad Atlantidou**
     - básnické drama
     - varuje před atomovou válkou
@@ -339,12 +339,12 @@ weight: 22
 - **Modrá kniha, Žíhaná kniha, Červená kniha**
     - Ortenovy deníky
     - zachycují myšlenky a úvahy, dobrné prózy a verše
-# Vilém Závada
+# Vilém Závada
 - 1905 - 1982
 - básník a překladatel
 - psal lyrickou poezii se společenskými tématy
 - jeho básně jsou plné skepse a tragických životních pocitů
-## Dílo
+## Dílo
 - **Panychida**
     - básnická sbírka
     - váže se na první světovou válku
