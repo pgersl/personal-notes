@@ -132,3 +132,99 @@ weight: 4
     - Erazim Kohák
         - český filosof, žije v USA
         - dílo *Zelená svatozář*
+# Fašismus
+- krajně pravicová ideologie
+- staví na nadřazení jednoty nad právy jedince
+- vzniká ve 20. letech v Itálii
+- slouží proti nebezpečí šíření komunismu
+- vzniká jako důsledek politické a ekonomické krize
+## Myšlenky a kořeny fašismu
+- absolutistická vláda (T. Hobbes)
+- organicismus (Arostoteles)
+- teorie elit (Pareto)
+- vůle k moci a myšlenka nadčlověka (F. Nietzsche)
+- vláda silného vůdce
+- hierarchický model společnosti
+- nadřazenost vrstvy, národa a rasy
+## Představitelé fašismu
+- Benito Mussoliny (1883 - 1945)
+    - Itálie
+    - podpora nejvyšší vrstvy
+- Francisco Franko (1892 - 1975)
+    - první ozbrojený konflikt fašismu - občanská válka
+- Juan Peron (1895 - 1974)
+- Augusto Pinochet (1915 - 2006)
+    - Chile
+# Nacismus
+- *nacionální socialismus*
+- ideologie vycházející z fašismu
+- vzniká v Německu ve 20. a 30. letech
+- ideologie NSDAP Adolfa Hitlera
+- snaha oslovit střední vrstvu
+- německý národ je nadřazen
+- ostatní národy jsou podřadné (Slované), jiné určené k likvidaci (Židé)
+- životní prostor pro německý národ (holokaust)
+# Nacionalismus
+- ideologie upřednostňující politické, ekonomické a kulturní zájmy jednoho národa
+- vzniká v 18. století
+- hledání historické role a poslání národa
+- vznik národnostních států po 1. svétové válce
+    - rozpad mnohonárodnostních monarchií
+- vede k sebeurčení a emancipaci národa a legitimizaci násilí a radikalizace a může vést k pocitu nadřazenosti
+- jednotlivec podřízen národu a jeho zájmům
+    - mobilizace nespokojených mas
+    - hledání vnitřního a vnějšího nepřítele
+# Rasismus
+- ideologie stojící na přesvědčení o nerovnosti lidských ras
+- snaha vědecky dokázat nerovnost lidských ras
+    - dnes považováno za pseudovědeckou
+- vzniká už ve starém Římě
+- jako vědecká teorie spojena s otrokářstvím v USA v 18. - 19. století
+    - snaha o opsravedlnění otroctví
+- sociální darwinismus
+- zneužití nacismem
+# Socialismus
+- ideologie stojící na myšlence sociální spravedlnosti a dosažení obecného dobra
+- sociální spravedlnost
+- obecný zájem nadřazen jedinci
+- východiskem je kritika kapitalismu a vykořisťování
+- rovnost výsledků
+- vznik socialistických stran na konci 19. století
+- radikalizací socialistických myšlenek vznikají strany komunistické
+- prostředkem změny je postupný vývoj
+- dnes jsou sociálně demokratické principy zapracovány do mnoha států
+# Komunismus
+- ideologie vycházející z odporu vůči kapitalismu
+- základní myšlenky jsou sepsané v Komunistickém manifestu Karla Marxe
+- prakticky aplikace bolševiky
+    - bolševická revoluce v roce 1917
+## Základní myšlenky a doktríny
+- filosofie dějin - logická linie dějin, předpověď a modelace budoucnosti
+- třídní a beztřídní společnost
+- teorie revoluce
+- rovnostářství
+- centralizace moci
+- totalitarianismus - snaha o komplexní ovládnutí společnost a každého jedince
+- společný majetek
+- plánovaná ekonomika
+## Představitelé komunismu
+- Karl Marx (1818 - 1883)
+- Bedřich Engels (1820 - 1895)
+- Vladimír Iljič Lenin (1870 - 1924)
+- Josif Vissarionovič Stalin (1878 - 1953)
+- Lev Davidovič Trockij (1879 - 1940)
+- Leonid Brežněv (1906 - 1982)
+- Michail Sergejevič Gorbačov (1931 - 2022)
+- Klement Gottwald (1896 - 1953)
+- Gustav Husák (1913 - 1991)
+# Anarchismus
+- ideologie popírající existenci jakéhokoliv systému
+- bezvládí
+- odpor vůči institucím jako prostředek násilí
+- odor vůči řádu a tradici
+- absolutní svoboda
+## Představitelé anarchismu
+- Pierre Proudhone (1809 - 1865)
+- Max Stirner
+- Michail Bakunin
+- Petr Kropotkin
