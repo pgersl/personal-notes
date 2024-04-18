@@ -103,10 +103,11 @@ h6 {
     border-radius: 400em;
     position: fixed;
     top: 3em;
-    left: 90%;
+    left: 90vw;
     background-color: var(--light2);
     box-shadow: 0 0 5px 5px #00000016;
     transition: var(--transition);
+    color: var(--dark1);
 }
 #go-up-button:hover {
     border-color: var(--accent3);
