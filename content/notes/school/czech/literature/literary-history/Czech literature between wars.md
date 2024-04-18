@@ -5,7 +5,8 @@ type: note
 section: "Literární historie"
 weight: 22
 ---
-# Úvod
+# Poezie
+## Úvod
 - po první světové válce vznik Československé republiky
 - v architektuře se objevují styly jako kubismus nebo funkcionalismus
 - v sochařství a malířství se objevují umělci inspirování kubismem, fauvismem a expresionismem
@@ -34,7 +35,7 @@ weight: 22
 - vzniká také poezie metafyzická
     - je spojována s pesimismem a dominantním motivem je smrt
     - mezi představitele patří František Halas, Vladimír Holan Vilém Závada
-# Jiří Wolker
+## Jiří Wolker
 - 1900 - 1924
 - básník, prozaik
 - hlavní představitel proletářské poezie
@@ -42,7 +43,7 @@ weight: 22
 - literárně se rozvíjel už na gymnáziu, ale nejznámější jsou jeho díla, která psal při studiu práv
 - ve 21 letech mu byla zjištěna tuberkulóza a o tří roky později jí podlehl
 - byl členem Devětsilu
-## Dílo
+### Dílo
 - **Host do domu**
     - básnická sbírka
     - má tři části - *Chlapec, Ukřižované srdce, Host do domu*
@@ -57,14 +58,14 @@ weight: 22
 - *sociální pohádky*
     - jsou to pohádky zabývající se sociální tématikou
     - původně Wolker zamýšlel napsat celou sbírku, ale nestihl ji dokončit
-# Josef Hora
+## Josef Hora
 - 1891 - 1945
 - básník, novinář, překladatel, literární kritik
 - přestavitel proletářské poezie
 - typická je sociální problematika a meditativní lyričnost
 - začal publikovat v průběhu studií práv
 - později řídil kulturní rubriku Rudého práva
-## Dílo
+### Dílo
 - **Pracující den**
     - básnická sbírka
     - osudy dělníků, kteří jsou portrétování jako nositelé nového humanismu
@@ -88,12 +89,12 @@ weight: 22
 - **Socialistické naděje**
     - román
     - nedosahuje kvalit jako jeho poezie
-# Vítězslav Nezval
+## Vítězslav Nezval
 - 1900 - 1958
 - básník, dramatik, překladatel
 - přispíval do několika novin a časopisů
 - je jedním ze zakladatelů poetismu, později se zapojil do činnosti komunistické strany a psal ve stylu socialistického realismu
-## Dílo
+### Dílo
 - **Pantomima**
     - básnická sbírka
     - ve stylu poetismu
@@ -142,7 +143,7 @@ weight: 22
 - **Dnes ještě zapadá slunce nad Atlantidou**
     - básnické drama
     - varuje před atomovou válkou
-# František Halas
+## František Halas
 - 1901 - 1949
 - básník
 - nelze ho zařadit k určitému směru
@@ -150,7 +151,7 @@ weight: 22
 - téměř celý život prožil v bídě, v 50. letech byly jeho knihy zakázány
 - častými motivy jsou smutek, prázdno, růže, had, anděl, zrcadlo, žena, sen, spánek a smrt
 - za války byl velmi nemocný a po ní se věnoval primárně přednášení a překladatelství
-## Dílo
+### Dílo
 - **Sépie**
     - první básnická sbírka
     - ve stylu poetismu, motivy smrti, smutku a bolesti
@@ -172,7 +173,7 @@ weight: 22
     - básnická sbírka
     - poslia českého národa
     - návrat k velké autorce a národní buditelce
-# Vladimír Holan
+## Vladimír Holan
 - 1905 - 1980
 - básník, překladatel
 - byl v euforii z únorového převratu, ale později mu bylo členství v KSČ zrušeno
@@ -180,7 +181,7 @@ weight: 22
 - jeho poezie je intelektuální, náročně reflexivní a meditativín
 - typická je spirituálnost a vědomí tragiky života
 - měl psychické problémy a uzavřel se do sebe
-## Dílo
+### Dílo
 - **Blouznivý vějíř**
     - básnická sbírka
     - ovlivnění dobovým pesimismem
@@ -228,12 +229,12 @@ weight: 22
 - **Hadry, kosti, kůže**
     - deníková forma
     - úvahy a citáty z jiných literárních děl
-# Jaroslav Seifert
+## Jaroslav Seifert
 - 1901 - 1986
 - básník, prozaik, překladatel, novinář
 - psal ve stylu proletářské poezie, poetismu i surrealismu
 - jako jediný český autor získal Nobelovu cenu za literaturu
-## Dílo
+### Dílo
 - **Město v slzách**
     - básnická sbírka
     - ve stylu proletářské poezie
@@ -281,13 +282,13 @@ weight: 22
 - **Býti básníkem**
     - poslední básnická sbírka
     - rekapitulace života
-# Konstantin Biebl
+## Konstantin Biebl
 - 1898 - 1951
 - básník
 - psal ve stylu proletářské poezie, poetismu a surrealismu
 - bojoval v první světové válce
 - měl deprese a spáchal sebevraždu
-## Dílo
+### Dílo
 - **Věrný hlas**
     - básnická sbírka
     - inspirace Jiřím Wolkerem
@@ -316,7 +317,7 @@ weight: 22
 - **Bez obav**
     - básnická sbírka
     - vyzdvihuje rozdíl mezi budováním demokracie a úpadkem kapitalistického světa
-# Jiří Orten
+## Jiří Orten
 - 1919 - 1941
 - básník
 - pocházel z rodiny židovského obchodníka
@@ -326,7 +327,7 @@ weight: 22
     - hlavními tématy jsou smutek, osamělost a úzkost mladého člověka v nepřátelském světě
     - typické jsou pocity marnosti a absurdity existence a touhy po lásce
 - vydával pod několika pseudnymy
-## Dílo
+### Dílo
 - **Čítanka jaro**
     - básnická sbírka
     - touha pr harmonickém domově
@@ -339,12 +340,12 @@ weight: 22
 - **Modrá kniha, Žíhaná kniha, Červená kniha**
     - Ortenovy deníky
     - zachycují myšlenky a úvahy, dobrné prózy a verše
-# Vilém Závada
+## Vilém Závada
 - 1905 - 1982
 - básník a překladatel
 - psal lyrickou poezii se společenskými tématy
 - jeho básně jsou plné skepse a tragických životních pocitů
-## Dílo
+### Dílo
 - **Panychida**
     - básnická sbírka
     - váže se na první světovou válku
@@ -361,13 +362,13 @@ weight: 22
     - básnická sbírka
     - hodnocení dosavadního života
     - hledání optimističtějšío pohledu na svět
-# Jan Zahradníček
+## Jan Zahradníček
 - 1905 - 1960
 - katolický básník, novinář a překladatel
 - vystudoval bohemistiku
 - po únorovém převratu byl ve vykonstrovaném procesu odsouzen
 - krátce po propuštění zemřel
-## Dílo
+### Dílo
 - **Jeřáby, Žíznivé léto, Pozdravení slunci**
     - básnické sbírky
     - přírodní, spirituální a filosofická lyrika
@@ -380,16 +381,170 @@ weight: 22
     - emotivní básnická skladba
     - v obrazech kritizuje totalitní režim
     - zobrazuje zhroucení morálních hodnot společnosti
-# Bohuslav Reynek
+## Bohuslav Reynek
 - 1892 - 1971
 - básník, překladatel a grafik
 - kromě psaní básní se věnoval kresbě, většinou technikou suché jehly
 - hlavními tématy jsou osamění, bolest, úzkost, víra a naděje, časté jsou spirituální a biblické motivy
 - inspiruje se rodnou Vysočinou
 - píše ve stylu expresionismu
-## Dílo
+### Dílo
 - **Rty a zuby, Smutek země, Mráz v okně**
     - básnické sbírky
     - intenzivní prožitek smutku a zániku, niterní prožitek, pomíjivost lidského času a krásy, biblické a přírodní motivy
     - vize rozkladu
     - v Mrazu v okně jednodušší verš
+# Próza a drama
+## Legionářská literatura
+- autoři byli sami legionáři
+- píší o svých zážitcích
+### Rudolf Medek
+- básník a prozaik
+- po válce se stal generálem a obdržel různá ocenění
+    - po mnichovské dohodě některá ocenění vrátil
+- byl označen za sympatizanta s nacistickým zřízením, neprávem
+    - jeho knihy byly označeny jako závadné
+- pravicové smýšlení
+#### Dílo
+- **Lví srdce**
+    - básnická sbírka
+    - oslavuje legionáře
+    - slavná báseň *Zborov*
+- **Velké dny**
+    - román
+    - o vzniku legií
+- **Anabáze**
+    - tetralogie románů
+    - *anabáze* = komplikovaná činnost
+    - o autorově legionářství, cestě přes Sibiř
+    - vlastenecké a hrdinské motivy
+### Josef Kopta
+- legionář, prozaik
+#### Dílo
+- **Třetí rota**
+    - trilogie románů
+    - o legionářích v Rusku, konci carismu, revoluci a sporech s legionáři
+    - oslava i kritika legionářů
+### František Langer
+- žid, vojenský lékař, prozaik a dramatik
+- působil na východní frontě, byl zajmut a přidal se k legiím, cestoval přes Čínu a Japonsko
+- utekl do anglie
+- psal komedie a povídky s legionářskou tématikou
+#### Dílo
+- **Velbloud uchem jehly**
+    - komedie
+### Jaroslav Hašek
+- prozaik
+- kontroverzní, nejpřekládanější dílo, tulák, bohemista
+- nikde dlouho nevydržel, vyhýbal se vojně
+- chtěl zaplatit dítětem, narukoval, stal se legionářem, získal vyšší postavení
+- psal hlavně humoresky, povídky
+#### Dílo
+- **Můj obchod se psy a jiné humoresky**
+- **Osudy dobrého vojáka Švejka**
+    - tetralogie humoristických románů
+    - zdramatizován a zfilmován
+## Katolická próza
+- publikace v časopisech *Řád a Akord*
+- výrazný motiv lásky, duchovní tématika
+- konzervativní
+### Jaroslav Durych
+- básník, dramatik, prozaik, vojenský lékař
+- navazuje na [české baroko](/notes/school/czech/literature/literary-history/literature-of-the-baroque-era#český-literární-barok), styl se podobá baroknímu naturalismu
+- psal o třicetileté válce
+- dochovní tématika, hyperboly, kontrasty, napětí
+- člověk předurčen determinanty
+- důraz na špatnosti, válku, nemoc, drastické detaily
+#### Dílo
+- **Bloudění**
+    - trilogie románů (*Velká valdštejnská trilogie*)
+    - Albrecht z Valdštejna, o třicetileté válce
+    - milostný příběh českého emigranta Jiříka a Andělky
+        - popsáno 13 let vztahů
+    - válečné hrůzy, kotrasty
+    - Jiřík umírá potom, co si Andělku vezme ze smrtelného lůžka
+    - hledání pravé víry, bloudění v jejich vztahu
+- **Rekviem**
+    - trilogie povídek - *triptych* (*Malá valdštejnská trilogie*)
+    - dokresluje osudy Albrechta z Valdštejna
+    - příběhy
+    - barokní kontrasty
+### Jakub Deml
+- stal se knězem, byl netradiční a byl zbaven celibáty a působil dál jako kněz
+- omezené příjmy, odkázána na milodary
+#### Dílo 
+- **Moji přátelé**  
+    - báseň v próze
+    - lyrický text, rytmizace
+    - apostrofy rostlin
+    - opěvuje drobné krásy v přírodě
+- **Zapomenuté světlo**
+    - prozaické dílo
+    - marnost, pocit beznaděje, zoufalost, osamělost
+    - naturalismus, platonický vztah
+    - zfilmováno
+## Psychologická próza
+### Egon Hostovský
+- žid, emigroval do USA a zpět
+- v USA pracoval pro Svobodnou Evropu a učil češtinu
+- osamělost, vyhoření, filosofické myšlenky, existenciální myšlenky
+- překládal z němčiny
+- v jeho díle jsou osobnosti, které se neustále pokouší o změnu, která ale nepřichází
+#### Dílo
+- **Žhář**
+    - román
+    - 15letý kluk, zamilovaný, má problémy ve škole, píše paličské výhružné dopisy, někdo začne podle těchto dopisů zapalovat, nakonec se k tomu ale přizná
+- **Případ profesora Körnera**
+    - román
+    - zakomplexovaný intelektuál nesmělý, snaží se to řešit
+    - chce být na blízku silným osobnostem
+### Jaroslav Havliček
+- bojoval na východní frontě, potom dostudoval vysokou školu a stal se bankovním úředníkem
+- píše romány o tragických lidských osudech, víře, trestu, osudovosti a extrémních životních situacích
+- příběhy se odehrávají v maloměstském prostředí na přelomu 19. a 20. století
+#### Dílo
+- **Petrolejové lampy**
+    - román
+    - o Štěpánce, ne příliš hezké, ale svérázné, každý ji má rád, ale nikdo si ji nechce vzít
+    - nakonec si vezme příbuzného, z rozumu, on je ale zadlužený a manželství je nešťastné a nikdy není naplněno
+    - nakonec její manžel zešílí a Štěpánka se o něj musí starat
+- **Neviditelný**
+    - román
+    - rodové šílenství
+    - Petr se přižení do bohaté rodiny z vypočítavosti a plánuje si tak svůj život
+    - strýc je blázen a myslí si, že je neviditelný a narušuje tak chod domácnosti
+    - Petrova manželka má psychické problémy, mají spolu syna, u kterého se psychické problémy také projeví
+- **Helimadoe**
+    - *Helena, Lidmila, Marie, Dora, Ema*
+    - román
+    - příběh pěti sester
+    - otec je lékař a přivádí své dcery k práci, ty se pak začnou bránit, jedna uteče a zase se vrátí
+    - celý příběh vypráví pacient, který byl dcerám na blízku v rámci svého pobytu a zamiloval se
+## Ruralismus
+- venkovksý literární styl
+- tématika venkova, vztah lidí k půdě, vývoj vztahu obyvatel venkova a města
+- oblíbený díky selské tradici 19. století
+- hlavními představiteli byli Josef Knap, Václac Renč, František Křelina
+    - jejich díla byla velmi populární, dnes už je ale téměř nikdo nečte, jsou příliš neaktuální
+## Demokratická próza
+- autoři podporovali nově vzniklou demokracii a politiku Masaryka a nové vlády
+- psali převážně do *Lidových novin*
+- vyjadřují se k aktuálnímu dění
+    - zvláště aktivní jsou ve 30. letech se vzrůstající hrozbou nacistického Německa
+- autoři se mezi sebou dobře znali
+- říkalo se jim *pátečníci*
+    - setkávali se o pátečních večerech
+    - kromě literárních autorů se setkávali i jiné osbnosti z pole umění a politiky
+### Karel Čapek
+- celý život pracoval jako novinář
+- pracoval v *Národních listech*, ale později přešel k Lidovým novinám
+- psal fejetony, reportáže a *sloupky* (podobá se fejetonu, krátké komentáře k nadčasovým tématům, nadsázka)
+    - fejetony se věnují každodenním věcem
+        - některé vyšly knižně
+        - *Měl jsem psa a kočku, Jak se co dělá?, Záhradníkův rok*
+- hodně cestoval
+    - své cestopisné publikace psal nejen do novin, ale také do vlastních knih
+    - *Italské listy, Anglické listy, Obrázky z Holandska, Výlet do Španěl, Cesta na Sever*
+        - všímá si v nich každodeních zvyků a života lidí
+        - do pozadí ustupuje popis a historie významných monumentů
+- zemřel na zápal plic

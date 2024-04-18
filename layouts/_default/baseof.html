@@ -32,6 +32,7 @@
         </script>
         <script type="text/javascript" src="/js/site-map.js" defer></script>
         <script type="text/javascript" src="/js/search.js" defer></script>
+        <script type="text/javascript" src="/js/go-up-button.js" defer></script>
         {{block "scripts" .}}{{end}}
 
     </head>
@@ -76,6 +77,7 @@
                 </div>
             </div>
         </nav>
+        <button id="go-up-button" onclick="window.scrollTo({top: 0})"><i class="fa-solid fa-arrow-up"></i></button>
         <div class="flex-container">
             <aside id="site-map">
                 <div class="aside-title">Poznámky</div>

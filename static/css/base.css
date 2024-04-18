@@ -32,6 +32,7 @@ body {
     width: 100%;
     scroll-behavior: smooth;
     min-height: 100vh;
+    overflow-x: hidden;
 }
 
 p {
@@ -88,6 +89,28 @@ h5 {
 
 h6 {
     font-size: var(--font-size);
+}
+
+#go-up-button {
+    display: flex;
+    opacity: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid var(--dark1);
+    width: 40px;
+    height: 40px;
+    border-radius: 400em;
+    position: fixed;
+    top: 3em;
+    left: 90%;
+    background-color: var(--light2);
+    box-shadow: 0 0 5px 5px #00000016;
+    transition: var(--transition);
+}
+#go-up-button:hover {
+    border-color: var(--accent3);
+    cursor: pointer;
 }
 
 /*SCROLLBAR*/

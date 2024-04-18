@@ -97,7 +97,7 @@ $$ H_2O+NADP^++P+ADP\overset{světlo}{\longrightarrow}\frac{1}{2}O_2+NADPH+H^++A
 
 # Sekundární fáze fotosyntézy (_temnostní_)
 - probíha ve stromatu chloroplastu
-- dochází k fixaci $CO_2$ na organický akceptor a redukci na sacharid](/notes/research/chemistry/biochemistry/descriptive-biochemistry/sugars), [hexosy
+- dochází k fixaci $CO_2$ na organický akceptor a redukci na sacharid, hexózu
 - jsou k tomu potřeba redukované molekuly $NADPH$ a energie ve formě ATP
 - v zelených rostlinách dochází k produkci základních sacharidů, ale i polysacharidů
 ## Calvinův cyklus (_pentosý cyklus_)
