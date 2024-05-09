@@ -548,3 +548,14 @@ weight: 22
         - všímá si v nich každodeních zvyků a života lidí
         - do pozadí ustupuje popis a historie významných monumentů
 - zemřel na zápal plic
+#### Dílo
+- **Hlavní motivy:
+    - *noetika* - snaha o poznání pravdy
+    - *pragamtismus* - teorie více pravd
+        - v jeho próze se často objevuje hledání pravdy
+        - *Hordubal, Povětroň, Obyčejný život*
+    - varování před technologickým pokrokem a zneužití technologií
+        - takový díla jsou často označována za dystopie
+        - *Továrna na absolutno, Krakatit*
+    - varování před válkou
+        - *Válka s mloky*

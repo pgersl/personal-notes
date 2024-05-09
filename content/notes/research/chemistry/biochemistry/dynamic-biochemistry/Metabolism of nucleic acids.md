@@ -31,7 +31,7 @@ weight: 6
 ### Mechanismus replikace DNA
 #### Rozvíjení molekuly DNA
 - zajišťují to rozvijející proteiny
-- dojde porušení vodíkových můstků](/notes/research/chemistry/general-chemistry/chemical-bonds/hydrogen-bonding) mezi [komplementárními bázemi
+- dojde porušení [vodíkových můstků](/notes/research/chemistry/general-chemistry/chemical-bonds/hydrogen-bonding) mezi komplementárními bázemi
 - obě vlákna dvojšroubovice se od sebe vzdalují
 #### Doplňování komplementárních bází
 - dochází k navázání komplementárních nukleotidů na rozpojená vlákna
@@ -59,9 +59,9 @@ weight: 6
 - _exon_
     - zbylá část RNA použitá pro další kroky
 - v eukaryotách se tvoří k jednotlivým typům transkripcí prekurzory
-    - _pre-_mRNA
-    - _pre-_tRNA
-    - _pre-_rRNA
+    - *pre*-mRNA
+    - *pre*-tRNA
+    - *pre*-rRNA
 - introny jsou z prekurzorů odštěpovány účinky specifických enzymů
     - introny potom zůstávají uvnitř jádra a degradují
     - celková délka intronů je mnohem delší než délka exonů
@@ -69,10 +69,10 @@ weight: 6
 - exony jsou potom spojeny v daném pořadí k sobě
     - vzniklé RNA se potom odpravuje pryč z jádra do cytoplazmy
 #### Další úpravy
-    - provádí se na konkrétních nukleotidech
-    - významnou úpravou je _methylace_
-        - vznikají třeba _minoritní báze tRNA_
-            - zabrání případným reakcím původních bází
+- provádí se na konkrétních nukleotidech
+- významnou úpravou je _methylace_
+    - vznikají třeba _minoritní báze tRNA_
+        - zabrání případným reakcím původních bází
 ### Regulace transkripce DNA
 - krom _strukturních genů_, které řídí syntézu bílkovin, existují také geny, které ji reagulují
 - _promotor_

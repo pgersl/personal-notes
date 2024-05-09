@@ -1,5 +1,5 @@
 ---
-title: "Politická ideologie"
+title: "Politické ideologie"
 layout: single
 type: note
 section: "Politologie"
