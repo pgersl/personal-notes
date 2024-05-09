@@ -139,7 +139,7 @@ weight: 5
 - různé složení podle tématu
 - rotující předsednictví mezi členskými státy
 ### Evorpská rada
-- sídlí ve štrasburku
+- sídlí ve Štrasburku
 - udává směr vývoje EU
 - podává zprávu o činnosti Evropskému parlamentu
 - schůze alespoň dvakrát ročně
