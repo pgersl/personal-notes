@@ -119,7 +119,7 @@ weight: 5
     - v referendu byla jednání zastavena
     - s EU nastaveny dvoj stranné dohody
 ## Orgány EU
-### Evropská parlament
+### Evropský parlament
 - plenární zasedání ve Štrasburku, zbytek v Bruselu
 - jediný volený orgán, zastupuje občany EU
     - 1979 - první přímé volby
