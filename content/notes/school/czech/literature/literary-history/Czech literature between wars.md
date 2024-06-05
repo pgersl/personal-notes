@@ -519,8 +519,9 @@ weight: 22
     - román
     - příběh pěti sester
     - otec je lékař a přivádí své dcery k práci, ty se pak začnou bránit, jedna uteče a zase se vrátí
-    - celý příběh vypráví pacient, který byl dcerám na blízku v rámci svého pobytu a zamiloval se
-## Ruralismus
+    - celý příběh vypráví pacient, který byl dcerám na blízku v rámci svého pobytu a zamiloval se  
+
+## Ruralismus
 - venkovksý literární styl
 - tématika venkova, vztah lidí k půdě, vývoj vztahu obyvatel venkova a města
 - oblíbený díky selské tradici 19. století
@@ -536,6 +537,7 @@ weight: 22
     - setkávali se o pátečních večerech
     - kromě literárních autorů se setkávali i jiné osbnosti z pole umění a politiky
 ### Karel Čapek
+- 1890 - 1938
 - celý život pracoval jako novinář
 - pracoval v *Národních listech*, ale později přešel k Lidovým novinám
 - psal fejetony, reportáže a *sloupky* (podobá se fejetonu, krátké komentáře k nadčasovým tématům, nadsázka)
@@ -549,7 +551,7 @@ weight: 22
         - do pozadí ustupuje popis a historie významných monumentů
 - zemřel na zápal plic
 #### Dílo
-- **Hlavní motivy:
+- **Hlavní motivy**:
     - *noetika* - snaha o poznání pravdy
     - *pragamtismus* - teorie více pravd
         - v jeho próze se často objevuje hledání pravdy
@@ -559,3 +561,137 @@ weight: 22
         - *Továrna na absolutno, Krakatit*
     - varování před válkou
         - *Válka s mloky*
+    - rozhovory, předávání vědění
+        - *Hovory s T.G.M.*
+    - dětské knihy
+        - *Devatero pohádek, Dášenka*
+- **Povídky z jedné kapsy**
+    - detektivní zápletka
+    - propojené postavy
+    - ne vždy se případy dořeší
+    - bohatá slovní zásoba, moderní jazyk
+- **Povětroň**
+    - o letci, který havaruje
+    - v nemocnici je udržován v bezvědomí
+    - tři lidé se snaží vysvětlit, co se vlastně stalo
+    - předávají osobní zkušenosti
+    - filosofické dílo
+    - letec nakonec zemře a co přesně se stalo se nedozvíme
+- **Továrna na absolutno**
+    - román
+    - inženýr vynalezne stroj (*karburátor*), který spálí jakoukoliv látku, ale vypouští se při tom *absolutno*
+    - absolutno působí na lidi a ti se jeho vlivem stávají bohy a konají zázraky
+    - karburátor se rozšíří, ale světový trh se zhroutí, kvůli nadbytku všeljakých výrobků
+    - nakonec svět upadá celý do války
+- **Krakatit**
+    - román
+    - inženýr vynalezne extrémně silnou výbušninu - *krakatit*
+    - vlády světa usilují o její složní
+    - chemické složení je ukradeno a inženýr se ho snaží získat zpět
+    - zpět ho získá a když umírá, zapomene ho
+- **Válka s mloky**
+    - román
+    - uplatňuje různé publicistické žánry
+    - odehrává se na různých místech světa
+    - kapitán lodi objeví pracovité inteligentní tvory - *mloky*
+    - mloci nakonec pracují sami na sebe a lidem vyhlásí válku
+    - mloci jsou úspěšní a zahánějí lidstvo hlouběji na pevninu
+    - lidstvo prohrává, vypadá to, že Československo přežije, ale ve Vltavě se na konec objevú hlava mloka
+- **Devatero pohádek**
+    - moderně laděné
+    - postavy soudobé
+    - *O princezně Solimánské, Loupežnická pohádka*
+### Josef Čapek
+- novinář, malíř, prozaik, dramatik
+- vyučil se v německu
+- stylově se blížil k avantgardě (kubismus)
+- působil ve výtvarném spolku *Tvrdošijní*
+- pracoval v Národních listech, později v Lidových novinách
+- v roce 1939 byl zatčen kvůli politickým názorům a poslán do koncentračního tábora, kde v roce 1945 zemřel
+    - jeho tělo se nenašlo
+- v táboře maloval rodokmeny
+- spolu s bratrem psal povídky a divadelní hry
+#### Dílo
+- **Zářivé hlubiny**
+    - soubor povídek
+- **Ze života hmyzu**
+    - divadelní hra
+    - satira
+- **Povídání o pejskovi a kočičce**
+    - soubor pohádek
+    - nejznámější dílo
+- **Kulhavý poutník**
+    - filosofické eseje
+- **Stín kapradiny**
+    - baladický příběh
+    - tragický příběh dvou pytláků
+    - dopustí se vraždy, skrývají se a páchají další vraždy
+    - jsou dopadeni, jeden je zastřelen, druhý spáchá sebevraždu
+### Ferdinand Peroutka
+- novinář
+- pracoval v časopise Přítomnost a Lidových novinách
+- podporoval Masarykovu politiku
+- některé jeho článka mají antisemický podtón, ale on to o sobě netvrdil
+- během války publikoval
+    - byl více shovívavý k nacistickému zřízení
+- po roce 1948 emigroval
+    - byl to odpůrce komunistického režimu
+- psal politická a úvahhová díla, ale také fejetony a divadelní hry
+
+#### Dílo
+- **Budování státu**
+    - rozsáhlé dílo o politice a historii Československa
+- **Jací jsme**
+    - kniha úvah o české národní povaze
+- **Oblak a valčík**
+    - divadelní hra
+    - z prostředí Třetí říše
+## Levicová próza
+- dává důraz na sociální smýšlení, zabývá se komunismem
+- vzhlíží k ruské literatuře
+- *budovatelský román*
+    - zobrazuje konflikt vykořisťovaného dělníka a zlého zbohatlíka
+    - umělecké zpracování není podstatné
+- hlavní představitelé jsou Ivan Olbracht, Marie Marejová nebo Marie Pujmanovuá
+### Ivan Olbracht
+- syn Antala Staška
+- vystudoval práva
+- pracoval jako novinář pro Rudé právo
+- byl vězněn za svoji politickou činnost
+- založil školu a lékařské středisko v zaostalé oblasti v Podkarpatské Rusi
+    - o té oblasti potom psal a nechal se jí inspirovat
+- zemřel až po válce
+#### Dílo
+- **Anna Proletářka**
+    - román
+    - není moc propracovaný
+    - dívka je služka v domě, zamiluje se do dělníka, který vstoupil do komunistické strany, ona ho potom následuje
+- **O zlých samotářích**
+    - psychologické povídky
+    - soucit s chudými
+    - zlo pramenící z chudoby a těžkosti života
+- **Žalář nejtemnější**
+    - psychologický román
+    - slepý muž žárlí na svoji ženu
+    - manželství se kvůli tomu rozpadá
+- **Hory a staletí**
+    - kniha reportáží
+    - o Podkarpatské Rusi
+    - fascinace prostředím, jakoby se zastavil čas
+- **Nikola Šohaj loupežník**
+    - román
+    - odehrává se v Pokarpatské Rusi (Koločava)
+    - zběh z vojny se stane loupežníkem
+    - když se vrací, musí se skrývat, je na něj vypsaná odměna
+    - milostný příběh s dívkou Erikou
+    - chudí ho u sebe schovávají a pomáhají mu
+    - nakonec ho zradí je přítelé a on je zabit sekerou
+    - bohatý jazyk, popis krajiny, folklóru
+    - námět pro muzikál Balada pro Banditu, později i filmu
+- **Golet v údolí**
+    - povídky
+    - životy chudých obyvatel
+    - *Golet* - označení židovské vesnice
+    - smutné příběhy
+    - pocta jeho matce, která byla židovka a musela se kvůli sňatku vzdát víry
+- přepracoval biblické příběhy pro děti a staré české i orientální pověsti

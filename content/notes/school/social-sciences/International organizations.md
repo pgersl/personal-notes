@@ -221,3 +221,76 @@ weight: 5
     - schází se dvakrát ročně
 - doporučení a návrhy pro Severoatlantickou radu a další orgány
 - má strategická velitelství (*Atlantic* a *Europe*)
+# Organizace spojených národů
+- nejuniverzálnější mezínárodní organizace
+- 50 zakládajících států
+    - v současnosti 193 států (všechny mezinárodně uznávané státy)
+        - posledním členem je Jižní Súdán (2011)
+    - mezi členy nejsou Vatikán, Taiwan, Kosovo
+- sídla v New Yorku, Vídni, Ženevě a Nairoby
+- jednací jazyky jsou angličtina, francouzština, španělština, ruština, čínština
+    - arabština pouze v některých orgánech OSN
+## Vznik OSN
+- založena 26. 6. 1945 v San Francisku
+- Charta OSN byla ratifikována 50 státy 24. 10. 1945
+- faktická činnost od ledna 1946
+- Československo jako zakládající člen
+- navazuje na SN
+    - Versaillesky mír
+    - neúčast USA a SSSR
+    - selhání SN běhen druhé světové války
+## Cíle a pravidla OSN
+1. udržování světového míru, zabránění válce
+2. rozvíjení přátelských vztahů mezi státy
+3. mezinárodní spolupráce
+4. zásada svrchované rovnosti států
+5. řešení sporů mírovými prostředky
+## ČR a OSN
+- ČSR ratifikovala Chartu OSN (1945)
+- pod tlakem SSSR se ČSR nepřipojili k Všeobecné deklaraci lidských práv (1948)
+- ČR a SR jako nástupnické státy ČSR (1993)
+- Jan Kavan předsedal Valnému shromáždění OSN
+## Orgány OSN
+### Rada bezpečnosti
+- nejvyšší výkonný orgán OSN
+- má 15 členů
+    - z toho 5 stálých a 10 nestálých
+    - stálí členové vzešli z jednání před koncem druhé světové války
+        - USA, Velká Británie, Francie, Rusko, Čína
+    - nestálí členové voleni Valným shromážděním na dva roky
+- základní odpovědností je udržení světového míru
+- rozhodnutí jsou závazná a vynutitelná silou
+- stálí členové disponují právem veta
+### Valné shromáždění
+- spolu s Radou bezpečnosti vrcholný orgán OSN
+- zastoupeny všechny země se stejnou hlasovací silou
+- rezoluce a doporučení Valného shromáždění nejsou závažné
+- nedisponuje vynucovacími prostředky
+- zjišťuje skutečnosti a navrhuje řešení
+- **Pomocné strany**
+    - UNICEF
+    - UNHCR
+    - UNEP
+    - OHCHR
+    - UNESCO
+    - WHO
+    - FAO
+### ESOSOC
+- hospodářská a sociální rada
+- monitoruje celkovou hospodářskou situaci v regionech
+- vytváří prognózy dalšího vývoje
+- vypracovává návrhy opatření pro vlády jednotlivých zemí
+- 54 členů volených na 3 roky
+### Sekretariát
+- je tvořen generálním tajemníkem a ostatními úředníky
+- generální tajemník je nejvyšší správní úředník OSN
+    - je jmenován na 5 let Valným shromážděním na doporučení Rady bezpečnosti
+- reprezentuje OSN
+- zprostředkovává možnosti jednání
+### Mezinárodní soudní dvůr
+- zřízen Chartou OSN už v roce 1945
+- sídlí v Haagu
+- skládá se z 15 soudců volených na 9 let Valným shromážděním a Radou bezpečnosti
+- jeho rozhodnutí jsou právně závazná pouze pokud s tím souhlasily obě strany před zahájením procesu a zároveň nejsou vynutitelná
+- rozsudky jsou konečné a neexistuje proti nim odvolání
+- řeší mezinárodněprávní spory
