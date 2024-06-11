@@ -773,3 +773,20 @@ weight: 22
     - smutné příběhy
     - pocta jeho matce, která byla židovka a musela se kvůli sňatku vzdát víry
 - přepracoval biblické příběhy pro děti a staré české i orientální pověsti
+### Marie Majerová
+- redaktorka, novinářka, komunistka
+- pracovala v Rudém právu
+#### Dílo
+- **Siréna**
+    - sociální román
+- **Kladno**
+    - o dělnících
+- **Robinsonka**
+    - dívčí kniha
+    - dívka příjde o maminku, musí se starat o domácnost
+    - bez ideologických prvků
+### Marie Pujmanová
+- zastánkyně vykonstruovaných procesů
+- **Lidé na křižovatce**
+    - konflikt velkopodnikatele a dělníků
+    - trilogie
