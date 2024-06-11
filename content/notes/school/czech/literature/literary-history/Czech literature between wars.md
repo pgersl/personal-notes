@@ -773,7 +773,7 @@ weight: 22
     - smutné příběhy
     - pocta jeho matce, která byla židovka a musela se kvůli sňatku vzdát víry
 - přepracoval biblické příběhy pro děti a staré české i orientální pověsti
-### Marie Majerová
+### Marie Majerová
 - redaktorka, novinářka, komunistka
 - pracovala v Rudém právu
 #### Dílo
