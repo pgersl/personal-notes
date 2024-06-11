@@ -627,6 +627,31 @@ weight: 22
     - tragický příběh dvou pytláků
     - dopustí se vraždy, skrývají se a páchají další vraždy
     - jsou dopadeni, jeden je zastřelen, druhý spáchá sebevraždu
+### Karel Poláček
+- spisovatel, humorista, novinář a scénárista
+- židovský původ
+- za první světové války bojoval na srbské frontě
+- poté pracoval jako úředník a začal psát
+- přispíval do satirických článků a několika novin
+    - v Českém slově psal sloupky a soudničky (humorný, satirický fejeton nebo krátká povídka)
+- v roce 1943 byl deportován do Terezína, později do Osvětimi
+    - není jisté, kde a jak přesně zemřel, ale údajně se účastnil pochodů smrti mezi tábory
+    - z koncentračních táborů se ale nikdy nedostal
+#### Dílo
+- **Bylo nás pět**
+    - román
+    - dětské zážitky z maloměsta
+    - groteskní jazyk
+- **Muži v offsidu**
+    - humoristický román
+    - o fotbalových fanoušcích
+- **Hostinec u kamenného stolu**
+    - humoristický román
+- **Okresní město, Hrdinové táhnou do boje, Podzemní město, Vyprodáno**
+    - románová pentalogie
+        - poslední díl se nedochoval
+    - vypráví o maloměstě během první světové války
+    - velké množství postav
 ### Ferdinand Peroutka
 - novinář
 - pracoval v časopise Přítomnost a Lidových novinách
@@ -637,7 +662,6 @@ weight: 22
 - po roce 1948 emigroval
     - byl to odpůrce komunistického režimu
 - psal politická a úvahhová díla, ale také fejetony a divadelní hry
-
 #### Dílo
 - **Budování státu**
     - rozsáhlé dílo o politice a historii Československa
@@ -646,6 +670,60 @@ weight: 22
 - **Oblak a valčík**
     - divadelní hra
     - z prostředí Třetí říše
+### Eduard Bass
+- spisovatel, novinář, zpěvák, herec
+- pracoval jako obchodní zástupce otcovi firmy
+- působil také jako herec, recitátor a zpěvák v kabaretu
+- pro kabarety také psal a upravoval různé texty
+- byl šéfredaktorem Lidových novin a časopisu Světozor, spolupracoval s několika satirickými časopisy
+#### Dílo
+- **Lidé z maringotek**
+    - 10 milostných příběhů
+- **Cirkus Humberto**
+    - rozsáhlý román
+    - milostný příběh v cirkusovém prostředí
+- **Klapzubova jedenáctka**
+    - humoristický román
+    - o otci s jedenácti syny, ze kterých vytvoří neporazitelný fotbalový tým
+## Imaginativní próza
+- dává důraz na představivost
+- je fantaskní, iracionální
+- využívá obrazotvorné prvky, metaforu a personifikaci
+### Vladislav Vančura
+- spisovatel, dramatik, režisér
+- kvůi odkladům kvůli protirakousému vyjadřování a střídání škol maturoval až ve 24
+- vystudoval lékařství
+- působil v Devětsilu a psal ve stylu poetismu a byl členem KSČ
+- podepsal *Manifest sedmi*
+    - protest proti novému vedení KSČ (Gottwald)
+    - byl vyloučen z KSČ
+- za druhé světové války se účastnil protinacistického odboje a v roce 1942 byl popraven
+#### Dílo
+- **Rozmarné léto**
+    - novela
+    - odehrává se v lázeňském městečku
+    - kouzelník přichází s krásnou asistentkou a muži jsou jí okouzleni
+- **Pekař Jan Marhou**
+    - román
+    - naivně hodný pekař rozdává chudým
+    - pak sám potřbuje pomoc, ale nikdo mu nepomůže a zemře sám
+- **Markéta Lazarová**
+    - román
+    - odehrává se ve 13. století
+    - Markétu unese jiný šlechtický rod
+    - po prvotním odporu se zamiluje a má dítě
+- **Konec starých časů**
+    - román
+    - ruský emigrant se vydává za knížete
+    - historkami okouzluje místní ženy
+    - mužům se to nelíbí
+- **Obrazy z dějin národa českého**
+    - stylizované příběhy slavných osobností
+    - z původních šesti dílů napsal jen dva
+        - během psaní byl zatčen
+- **Kubula a Kuba Kubikula**
+    - dětská próza
+    - o medvědáři, medvědovi a medvědím strašidle
 ## Levicová próza
 - dává důraz na sociální smýšlení, zabývá se komunismem
 - vzhlíží k ruské literatuře

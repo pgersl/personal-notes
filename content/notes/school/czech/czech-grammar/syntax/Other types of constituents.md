@@ -1,5 +1,5 @@
 ---
-title: "Další typy větných členů"
+title: "Zvláštnosti ve větné stavbě"
 layout: single
 type: note
 section: "Syntax"
@@ -33,3 +33,28 @@ weight: 13
 - odděluje se čárkou
 # [Citoslovce](/notes/school/czech/czech-grammar/morphology/interjections)
 - nebývá odděleno čárkou
+# Polovětné konstrukce
+- tvoří významově samostatný celek
+- oddělují se čárkou
+- mluvnicky se blíží [vedlejším větám](/notes/school/czech/czech-grammar/syntax/hypotaxis)
+- neobsahují přísudkové sloveso
+## Přívlastek (*apozice*)
+- je to rozvíjející větný člen
+- pojmenovává tutéž zkušenost jinými slovy jako větnný člen, ke kterému je volně připojen
+- základem je [podstatné jméno](/notes/school/czech/czech-grammar/morphology/nouns)
+- je z obou stran oddělen čárkami
+- př.: _Antonín Dvořák, **světově proslulý skladatel**, žil i v USA._
+## Volný přívlastek adjektivní
+- stojí za postatným jménem, které rozvíjí
+- jeho základem je [přídavné jméno](/notes/school/czech/czech-grammar/morphology/adjectives)
+- vyjadřuje samostatnou myšlenku, lze ho tedy vypustit
+- př.: _Mužstvo, **hrající v dobré kondici**, zvítězilo zcela přesvědčivě._
+## Přechodníková konstrukce
+- je to rozvitý typ [přechodníku](/notes/school/czech/czech-grammar/morphology/verbs#přechodníky)
+- přisuzuje podmětu nějakou činnost nebo vlastnost
+- používá se hlavně v psaných (knižních) projevech
+- př.: _Kozlík, **shromáždiv celou tlupu**, rozkázal, aby se měli k odchodu._
+## Infinitivní konstrukce
+- infinitiv zastupuje vedlejší větu
+- rozlišujeme typy podle vedlejších vět, které zastupují
+- př.: _Nevěděl, **kam dřív skočit**._
