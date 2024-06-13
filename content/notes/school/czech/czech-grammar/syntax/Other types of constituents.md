@@ -27,7 +27,7 @@ weight: 13
 - oddělujeme ji čárkami, pomlkami nebo závorkami
     - př. _To bych ti, **musím se přiznat**, medoporučoval._
 - někdy nemusíme čárky psát (_prosím, bohužel_)
-    - př. _Můžeš mi to**, prosím ,** vrátit?_ = _Můžeš mi to **prosím** vrátit._
+    - př. _Můžeš mi to, **prosím**, vrátit?_ = _Můžeš mi to **prosím** vrátit._
 # Oslovení
 - není větným členem, ale s větou významově souvisí
 - odděluje se čárkou
@@ -49,7 +49,7 @@ weight: 13
 - jeho základem je [přídavné jméno](/notes/school/czech/czech-grammar/morphology/adjectives)
 - vyjadřuje samostatnou myšlenku, lze ho tedy vypustit
 - př.: _Mužstvo, **hrající v dobré kondici**, zvítězilo zcela přesvědčivě._
-## Přechodníková konstrukce
+## Přechodníková konstrukce
 - je to rozvitý typ [přechodníku](/notes/school/czech/czech-grammar/morphology/verbs#přechodníky)
 - přisuzuje podmětu nějakou činnost nebo vlastnost
 - používá se hlavně v psaných (knižních) projevech
