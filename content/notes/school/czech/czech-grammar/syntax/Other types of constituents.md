@@ -58,3 +58,28 @@ weight: 13
 - infinitiv zastupuje vedlejší větu
 - rozlišujeme typy podle vedlejších vět, které zastupují
 - př.: _Nevěděl, **kam dřív skočit**._
+# Nemotivované odchylky od větné stavby
+- jsou to chyby ve větné stavbě
+- vznikají porušením větných vztahů
+- mohou znesnadnit porozumění textu
+## Kontaminace
+- smíšení dvou různých větných staveb
+- vzniká pod vlivem vazby u slova s podobným významem
+- př.: *Žádali ho k odstoupení*, správně: *Vyzvali ho k odstoupení*
+    - došlo k záměně *žádali* a *vyzvali*
+## Zeugma
+- zanedbání různosti vazeb
+- vzniká u dvou výrazů s různou vazbou, ke kterým se připojí jen jedna vazba
+- př.: *Chrání a pomáhá lidem.*, správně: *Pomáhá lidem a chrání je.*
+    - správné vazby jsou *pomáhá lidem* a *chrání lidi*, spojením dohromady vzniká zeugma
+## Atrakce
+- větná spodoba
+- ve větě se použije chybná koncovka pod vlivem jiného slova
+- př.: *Před sluncem východem...*, správně: *Před slunce východem...* nebo *Před východem slunce...*
+- často se vyskytuje ve frazémech
+    - př.: *Ber, kde ber.*, správně *Ber, kde bereš.*
+## Anakolut
+- vyšinutí z větné vazby
+- dochází k ní v průběhu výpovědi, obvykle v mluveném projevu
+- část věty se chybně připojí k začátku výpovědi
+- př.: *Eva, když onemocněla, byly jí tři roky.*, správně: *Když Eva onemocněla, byly jí tři roky.* nebo *Když Evě byly tři roky, onemocněla.*
