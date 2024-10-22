@@ -165,6 +165,10 @@ weight: 23
     - satira
     - Jim je učitel historie a kolegové z vyšší vrstvy jím opovrhují
     - nakonec si vezme dveru jednoho ze svých kolegů
+## John Wain
+- **Pospíchej dolů**
+## John Braine
+- **Místo nahoře**
 # Absurdní literatura
 - v literatuře chybí souvislý děj a logická návaznost
 - u postav neexistuje psychologická motivace, jednají zcela nelogicky
