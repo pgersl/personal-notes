@@ -277,4 +277,4 @@ weight: 23
     - román
     - zabývá se plánem židů na převzetí světa
 - **Dějiny krásy a Dějiny ošklivosti**
-    - teoretická prása
+    - teoretická práce
