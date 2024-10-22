@@ -152,6 +152,19 @@ weight: 23
 - **Feťák**
 - **Teplouš**
 - **Nahý oběd**
+# Rozhněvaní mladí muži
+- rozvoj v británii v 50. letech
+- protestují proti tradiční konzervativní společnosti
+    - apleují hlavně na nůžky ve společnosti
+- *univerzitní román*
+    - román z prostředí univerzity
+    - hlavní hrdinové jsou často ze střední vrstvy nebo se jejich názory jim blíží
+## Kingsley Amis
+- **Šťastný Jim**
+    - univerzitní román
+    - satira
+    - Jim je učitel historie a kolegové z vyšší vrstvy jím opovrhují
+    - nakonec si vezme dveru jednoho ze svých kolegů
 # Absurdní literatura
 - v literatuře chybí souvislý děj a logická návaznost
 - u postav neexistuje psychologická motivace, jednají zcela nelogicky
@@ -177,7 +190,7 @@ weight: 23
     - na konci prvního dějství přichází chlapec, který oznámí, že Godot nepřijde
     - ve druhém dějství pokračuje rozhovor Vladimíra a Estragona, objeví se taky Pozzo a Lucky, tentokrát opačně
     - na konci druhého dějství opět přiběhne chlapec, který oznámí, že Godot už nepřijde, to je konec díla
-## Eugene Ionesco
+## Eugène Ionesco
 - rumunský spisovatel
 - psal francouzsky
 - jeho absurdita je dovedena dál než u Becketta
@@ -185,3 +198,83 @@ weight: 23
 ### Dílo
 - **Nosorožec**
 - **Plešatá zpěvačka**
+## Edward Albee
+- 1928 - 2016
+- americký dramatik, držutel Pulitzerovi ceny
+- prošel mnoha zaměstnáními (novinářství, divadelnictví)
+- v jeho dramatech je často lež a přetvářka, hlavním motivem je nepochopení
+### Dílo
+- **Kdo se bojí Virginie Woolfové**
+- **Stalo se v ZOO**
+# Magický realismus
+- začíná se objevovat v 50. letech
+- dochází k prolínání realistických zobrazení skutečných událostí a magických, snových, fantaskních prvků
+- nereálné věci jsou vnímany jako něco zcela normálního
+    - někdy jsou standardní běžné věci vnímány naopak jako něco zvláštního
+- projevuje se v oblastech s bohatou mytologií (Latinská Amerika, Rusko)
+- po tematické stránce se neobjevují nutně převratná nová témata, častější je násilí
+## Gabriel Garcia Marquez
+- kolumbijský spisovatel
+- psal španělsky
+- jako novinář působil v Evropě, cestoval různě po světě
+- od dětství ho zajímala mytologie a tradiční místní příběhy z jeho domova
+- sympatizoval s revolučním hnutím v Kolumbii, přátelil se s Castrem
+- literárně prorazil až v 60. letech
+### Dílo
+- **Sto roků samoty**
+    - románová sága
+    - zachycuje skutečné události zhruba od poloviny 19. století do současnosti
+    - přicházející kapitalismus je vnímán jako zlo, které rozděluje společnost
+    - Buendiové jsou rozvětvenou rodinou s mnoha členy, všichni se ale cítí osaměle, protože si sobecky jdou za svými sny
+    - někteří členové mají magické vlastnosti 
+- **Láska v čase cholery**
+- **Kronika ohlášené smrti**
+    - román
+    - lidé označují ostatní a následně je ohlášena jejich smrt
+    - autor se zabývá odpovědností za smrt, násilím
+## Čingiz Ajtmatov
+- kyrgyzský spisovatel
+- do osudů svých postav často mísí legendy a mýty kyrgyzské oblasti, ale také biblické motivy
+### Dílo
+- **Stanice Bouřná**
+    - román
+    - o osudech železničáře
+- **Popraviště**
+    - román
+    - prolínají se různé příběhy
+    - motivy jsou touha o spravedlnosti, příroda
+    - v závěru se jednotlivé příběhy propojí
+# Postmodernismus
+- styl rozvíjející se zhruba v 60. letech
+- zavrhuje avantgardní postupy, vrací se k tradičnějším kořenům, zároveň ale přivádí nové prvky
+    - **Milan Kundera: _Umění románu_**
+        - román má mít složku příběhovou a meditativní
+        - román má být poučením pro člověka, který se zajímá o dějiny, filosofii, připadně jiné
+            - *dvojí estetické pojetí díla*
+        - ne všechny pasáže mají být epické
+        - román má být napínavým a zábavným příběhem, filosofickým traktátem a poučným referátem
+- kompozice postmodernistických děl je mimořádně promyšlená
+- využívají se mnohé literární postupy (odborné, krasné, bulvární a jiné)
+- časté jsou historické (často středověk), detektivní a jiné společenské motivy
+- autoři používají mnohé aluze na již existující díla
+- v dílech je bohatá symbolika nebo mystifikace
+- jednotlivá díla mají různé interpretace
+- *sémiotika*
+    - význam pojmenování
+## Umberto Eco
+- italský spisovatel, umělecký teoretik
+### Dílo
+- **Jméno růže**
+    - román
+    - o nalezení středověkého rukopisu, ve kterém si mnich vzpomíná na svůj život
+    - Vílem z Baskervilu dokáže všechno logicky vysvětlit, je v podstatě detektivem, je povolán na jedno opactví, kde se snaží jednat mezi církevními představiteli různých názorů
+    - doprovází ho mnich Adso (autor rukopisu)
+    - na opactví se dějí vraždy, Vílém se je snaží objasnit
+    - vraždy se dějí kvůli údajnému druhému dílu Aristotelovi Poetiky, který pojednává o komedii
+- **Foucaltovo kyvadlo**
+    - román
+- **Pražský hřbitov**
+    - román
+    - zabývá se plánem židů na převzetí světa
+- **Dějiny krásy a Dějiny ošklivosti**
+    - teoretická prása
