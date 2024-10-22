@@ -282,3 +282,54 @@ weight: 23
     - zabývá se plánem židů na převzetí světa
 - **Dějiny krásy a Dějiny ošklivosti**
     - teoretická práce
+# Neidentifikovatelní
+- autoři nezapadající k žádnému směru
+## William Golding
+- britský spisovatel
+- vystudoval historii
+- laureát Nobelovy ceny za literaturu
+- sloužil pro královské loďstvo
+    - účastnil se potopení Bismarcku
+- literatuře se věnoval od dětství
+- po 2. světové válce se živí literaturou
+### Dílo
+- **Pán much**
+    - alegorický román
+    - *robinsonáda*
+        - odehrává se na pustém ostrově
+    - děj se odehrává v budoucnosti
+        - je částečně dystopický
+    - skupina žáků britských soukromých škol se ocitají na pustém ostrově
+        - potřebují přežít a azčnou se organizovat
+        - vůdcem se stane Ralph, vzniká frakce – Lovci – postupně mezi nimi vznikají rozepře
+        - vyústí to ve smrt jednoho z chlapců u ohně
+        - Ralph prchá před Lovci a narazí přitom na dustojníka lodi, která byla dýmem ohně přivolána a všichni jsou zachráněni
+## Graham Green
+- bristský autor
+- studoval na škole, kdy byl ředitelem jeho otec
+- působil jako tajný agent britské tajné služby
+    - cestoval po světě
+    - byl také v Československu
+- píše romány detektivního charakteru, špionáže
+- jeho romány mají také meditativní složku, nevěnuje se tolik filosofickým pasážím
+- své hrdiny ukazuje ve vyhrocených situacích
+    - cítí se pod tlakem
+    - zažívají pocit viny
+    - řeší svá vnitřní dilemata
+    - snaží se neselhávat
+### Dílo
+- **Tichý Američan**
+    - román
+    - odehrává se v 50. letech ve Vietnamu, zachycuje skutečné politicé a historické události
+    - o novináři, který se snaží vyhnout všem konfliktům, snaží se přežít
+    - jeho mladý kolega je ve svém jednání naivní a mnohem akčnější
+    - oba usilují o stejnou ženou
+    - novinář nepřímo zpsůobí smrt svého kolegy
+- **Moc a sláva**
+    - román
+    - odehrává se v Mexiku ve 30. letech, zachycuje hon na křesťany
+        - všichni kněží se museli oženit
+    - ustřední postavou je kněz, který se skrývá, vykonává svoji službu tam kde je potřeba, vnímá to jako své povolání
+        - je ale zároveň hříšný, má dítě, které vyrůstá bez něj, je to alkoholik
+    - začínají o něm vznikat legendy, ve kterých je líčen jako dokonalý
+    - končí to tragicky, jeden z těch kdo si požádá o jeho službu ho udá a on je popraven
