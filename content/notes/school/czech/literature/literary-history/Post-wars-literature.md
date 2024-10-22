@@ -261,7 +261,7 @@ weight: 23
 - jednotlivá díla mají různé interpretace
 - *sémiotika*
     - význam pojmenování
-## Umberto Eco
+## Umberto Eco
 - italský spisovatel, umělecký teoretik
 ### Dílo
 - **Jméno růže**
