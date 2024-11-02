@@ -333,3 +333,97 @@ weight: 23
         - je ale zároveň hříšný, má dítě, které vyrůstá bez něj, je to alkoholik
     - začínají o něm vznikat legendy, ve kterých je líčen jako dokonalý
     - končí to tragicky, jeden z těch kdo si požádá o jeho službu ho udá a on je popraven
+## Norman Mailer
+- amrický spisovatel, novinář a filmař
+- získal Pulitzerovu cenu
+- za války působil v tichomoří
+- byl známí jako alkoholik a rváč 
+### Dílo
+- **Nazí a mrtví**
+    - protiválečný román
+    - spousta prostoru pro psychologii postav
+    - každá kapitola se věnuje jinému vojákovi, není jedna hlavní postava, vojáci mají různé hodnosti
+    - končí vzpomínkami důstojníka, který vyučuje vojenství a jeho úvahami o jeho vyučování v kontextu jeho zkušeností
+    - nedostatečně vybavený průzkumný tým se vydává na cestu, aby našli způsob jak se dostat do japonského tábora, během cesty jsou ostřelováni, dochází jim zásoby
+    - dorazí ale do prázdného tábora
+- **Americký sen**
+    - román
+    - muž zavraždí svoji manželku, udělá to tak, aby to vypadalo jako sebevražda, není tak stíhán
+## William Styron
+- americký spisovatel
+- pocházel z amerického jihu
+- typickými tématy je rasová nerovnost a nerovnost ve společnosti obecně
+- hodně se věnuje psychologii postav, vyskytují se autobiografické prvky
+- působil v armádě, ale nikdy nebyl nasazen do boje
+- po válce dostudoval univerzitu a začal psát povídky a romány
+- později upadl do depresí v důsledku nadměrné konzumace alkoholu, pokusil se i o sebevraždu
+### Dílo
+- **Sophiina volba**
+    - román
+    - vypravečem je vedlejší postava, spisovatel Stingo
+    - Stingo přijíždí do New Yorku, chce se stát slavným spisovatelem, v ubytovně se seznámí se sousedy včetně Sophie a jejího milence Nathana
+    - Stingo zjišťuje, že vztah Sophie a Nathana je komplikovaná
+    - Sophie přišla v Evropě za války o rodinu, přežila koncentrační tábor, Nathan je židovského původu, ale zá války už byl v americe
+    - Sophie o sobě vypráví Stingovi, během života musela udělat několik těžkých rozhodnutí
+        - první volbou bylo zapojení do odboje v Polsku, za což byla chycena a poslána do koncentračního tábora
+        - v koncentračním táboře si musela vybrat jedno z jejích dětí, které ma přežít
+            - vybere svou dceru, její syn ale zemře později tak
+        - další volba bylo opuštění Evropy a odjezd do Ameriky
+        - závěrečná volba je ukončení jejího života, společně s Nathanem
+## Jerome David Salinger
+- americký spisovatel
+- od roku 1965 nevydal nové dílo a od roku 1980 neposkytl žádné interview
+- již jako žák střední školy psal kratší povídky
+- nejslavnější román napsal svůj nejúspěšnější román
+- bojoval s nevyžádanou pozorností
+### Dílo
+- **Kdo chytá v žitě**
+    - nejslavnější román
+    - kniha byla od začátku kontroverzní a získala smýšené reakce (velmi dobré i velmi kritické)
+    - od vydání se prodalo přes 10 miliónů výtisků
+    - děj se odehrává během tří dnů
+        - hlavní postavou je dospívající student, syn úspěšného advokáta
+        - je svérázný a pohrdá snobstvím, ale uvnitř je nejistý a zoufale hledá, co dává v životě smysl
+        - je vyhozen ze soukromé školy pro neustálé konflikty s učiteli a nezájem o vzdělání
+        - vrhne se do newyorského nočního života, poznává se s barmany, taxikáři a prostitutkami
+        - poznává pokrytectví dospělého světa a je na pokraji zhroucení, chce odejít na venkov na ranč za svým přítelem
+        - končí v léčebně, kde svůj příběh vypráví
+- **Devět povídek**
+- **Fanny a Zooey**
+## Joseph Heller
+- americký spisovatel
+- psal primárně satirické novely a dramata
+- jeho rodiče byli ruští židé, přistěhovalci
+- sloužil u amerického letectva za války
+- pracoval v reklamního agenturách a věnoval se psaní
+- stal se profesorem literatury na univerzitě v New Yorku
+### Dílo
+- **Hlava XXII**
+    - jeden z nejbýznamějších protiválečných románů
+    - bývá přirovnáván k Osudům dobrého vojáka Švejka
+    - pojednává o osudech fiktivní americké letecké základny ve středomoří
+    - obsahuje spoustu černého humoru a absurdních situací
+    - kritizuje krutost a nesmyslnost války
+    - *Hlava XXII* je část vojenského řádu, která umožňuje letci zbavit se povinnosti v případě psychického narušení
+    - hlavní postavou je kapitán, který se právě letecké povinnosti snaží uniknout
+- **Gold za všechny peníze** (**Good as Gold**)
+    - román
+    - hlavní postavou je Bruce Gold, židovský profesor nespokkojený snad se vším v životě
+        - pro lepší pozici udělá cokoliv, chce se rozvést, odejít od rodiny a opustit dosavadní životní prostředí
+        - tragiká událost jeho priority přehodnotí
+    - má i politickou rovinu, Gold se často vyjadřuje proti Kissingerovi
+- **Bombardovali jsem New Haven**
+    - drama
+## John Irving
+- americký spisovatel
+- je držitelem Oscara za scénář k filmu podle jeho knihy
+- v 11 letech byl zneužit starší ženou, což poznamenalo jeho dílo
+### Dílo
+- **Svět podle Garpa**
+    - román
+    - je to groteskní metafora přítomnosti zla a strachu v americké společnosti
+    - hlavní postavou je spisovatel T. S. Garp, román je jeho biografií
+- **Hotel New Hamoshire**
+    - román
+- **Pravidla moštárny**
+    - zfilmovaný román
