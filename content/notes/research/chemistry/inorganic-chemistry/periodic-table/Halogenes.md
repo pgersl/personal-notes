@@ -2,8 +2,8 @@
 title: "Halogeny"
 layout: single
 type: note
-section: "unlisted"
-weight: 
+section: Periodická tabulka
+weight: 9
 ---
 - skupina VII.A (17)
 - fluor, chlor, brom, jod, astat, (tennessin)

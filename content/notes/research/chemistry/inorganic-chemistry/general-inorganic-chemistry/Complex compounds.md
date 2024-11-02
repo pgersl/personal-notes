@@ -57,7 +57,7 @@ weight: 8
         - jednotlivé ligandy se oddělují pomlčkou
     2. název centrálního atomu se suffixem podle oxidačního čísla
     3. někdy se na závěr do závorky přidává náboj (není nutné)
-- např.: $[Cr(H_{2}O)_{4}Cl_{2}]^{+}$ -- _kation tetraaqua-dichloridochromitý(1+)_
+- např.: $[Cr(H_2O)_4Cl_2]^+$ -- _kation tetraaqua-dichloridochromitý(1+)_
 ### Název komplexního aniontu
 - název obsahuje:
     1. názvy ligandů v abecedním pořadí (jako ve vzorci) s numerickými prefixy[*](Numerické prefixy)
