@@ -502,7 +502,7 @@ vycházejí v Rusku až posmrtně (od 80. let)
 ### Dílo
 - **Doktor Živago**
     - strhující freska zachycující Rusko od počátku století přes první světovou válku a občanskou válku až po nástup stalinismu, okrajově i později. Na pohnutých osudech doktora Jurije Živaga a jeho blízkých jsou zobrazeny významné dějinné události
-## Alexandr Složenicyn
+## Alexandr Solženicyn
 - studoval matematiku, filozofii, historii a literaturu
 - během 2. sv. války zatčen a uvězněn (i kvůli nevhodným výrokům o Stalinovi
 v korespondenci) – byl odsouzen k 8 letům nucených prací, poté ještě ve vyhnanství
