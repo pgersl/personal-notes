@@ -333,6 +333,19 @@ weight: 23
         - je ale zároveň hříšný, má dítě, které vyrůstá bez něj, je to alkoholik
     - začínají o něm vznikat legendy, ve kterých je líčen jako dokonalý
     - končí to tragicky, jeden z těch kdo si požádá o jeho službu ho udá a on je popraven
+## George Orwell
+- bristský autor a filosof
+- pracoval v několika oblastech
+- psal filosofické eseje a novely
+### Dílo
+- **Farma zvířat**
+    - novela
+    - alegorie na totalitní režim
+    - postupně dochází k překrucování základních pravidel
+- **1984**
+    - nejvýznamnější novela
+    - romantický příběh na pozadí distopických událostí
+    - popis absolutní totality, ničení jazyka, neustálé sledování, nemožnost věřit nikomu
 ## Norman Mailer
 - amrický spisovatel, novinář a filmař
 - získal Pulitzerovu cenu
@@ -370,6 +383,16 @@ weight: 23
             - vybere svou dceru, její syn ale zemře později tak
         - další volba bylo opuštění Evropy a odjezd do Ameriky
         - závěrečná volba je ukončení jejího života, společně s Nathanem
+## Ken Kesey
+### Dílo
+- **Vyhoďme ho z kola ven**
+    - román
+        - film pod názvem *Přelet nad kukaččím hnízdem**
+    - ukazuje střet jedince se společností
+    - McMurphy je umístěn do psychiatrické léčebny na základě soudního příkazu
+        - narušuje její chod, ostatní podněcuje k neprosazovali
+    - vypravěčem je hospitalizovaný indián, který si McMurphyho oblíbí
+    - McMurphymu je ordinována lobotomie a stane se z něj ležák, indián ho zabije, aby se netrápil a uteče
 ## Jerome David Salinger
 - americký spisovatel
 - od roku 1965 nevydal nové dílo a od roku 1980 neposkytl žádné interview
@@ -427,3 +450,140 @@ weight: 23
     - román
 - **Pravidla moštárny**
     - zfilmovaný román
+## Jacques Prévert
+- francouzský autor poezie
+- měl blízko k avantgardě
+- miloval paříž, byl to částečně bohém
+- protestoval proti všemu
+- píše o každodeních věcech
+- psal scénáře a písně
+### Dílo
+- **Slova**
+- **Pohádky pro nehodné děti**
+- **Haraburdí**
+## Romain Gary
+- francouszský autor
+- rusko-litavsko-židovský původ
+- přestěhoval se z Ruska a stal se diplomatem
+- bojoval ve druhé světové válce
+- psal pod pseudonymy a díky tomu získal 2 francouzské literární ceny, ačkoliv dle pravidel lze získat jen 1
+### Dílo
+- **Příslib úsvitu**
+## Heinrich Böll
+- německý autor
+- patřil do Skupiny 47
+    - chtěli povznést literaturu
+    - vyrovnávají se s nacismem
+- morální a etické otázky
+- psal romány a divadelní a rozhlasové hrdiny
+### Dílo
+- **Biliár o půl desaté**
+    - román
+    - odehrává se během jednoho den
+    - osudy tří generací
+    - architekt staví celý život chrám, jeho syn je člen SS a jeho vnuk se zasazuje o znovubudování
+## Günter Grass
+- německý autor
+- pochází z Gdaňsku
+- psal všechny žánry
+- patřil do Skupiny 47
+- jeho romány mají surrealistické, magické i absurdní prvky
+### Dílo
+- **Plechový bubínek**
+    - historický román
+    - chlapec si úmyslně přivodí zranění a přestance růst
+    - nemluví, komunikuje skrz plechový bubínek
+## Boris Pasternak
+- básník, prozaik, překladatel
+- zejména reflexivní, filozofická lyrika
+- od 30. let v ústraní (politické důvody), v této době se věnuje především próze, jeho díla
+vycházejí v Rusku až posmrtně (od 80. let)
+- Nobelova cena (1958) – kvůli štvavé kampani ji byl nucen odmítnout
+### Dílo
+- **Doktor Živago**
+    - strhující freska zachycující Rusko od počátku století přes první světovou válku a občanskou válku až po nástup stalinismu, okrajově i později. Na pohnutých osudech doktora Jurije Živaga a jeho blízkých jsou zobrazeny významné dějinné události
+## Alexandr Složenicyn
+- studoval matematiku, filozofii, historii a literaturu
+- během 2. sv. války zatčen a uvězněn (i kvůli nevhodným výrokům o Stalinovi
+v korespondenci) – byl odsouzen k 8 letům nucených prací, poté ještě ve vyhnanství
+v Kazachstánu, zjištěna rakovina – směl se léčit, 1956 rehabilitován
+- 60. léta – opět zákaz publikace, poté, co v zahraničí začal vycházet román Souostroví Gulag,
+byl obviněn z velezrady a násilím vyvezen do Německa, později žil v USA
+- návrat do Ruska v roce 1994 – dále kritizoval nedemokratické poměry
+- 1970 – NC
+- píše romány i kratší prózy, které mají dokumentární charakter, zachycují zrůdnost komunistického režimu, jsou varováním před diktaturou a autentický svědectvím spisovatelových vlastních zážitků
+### Dílo
+- **Rakovina**
+    - román
+- **Jeden den Ivana Děnisoviče**
+    - novela
+    - dokumentárně přesně popisuje jeden den v životě I. D. Šuchova, který byl odsouzen k nuceným pracím v nelidských podmínkách v komunistickém
+pracovním táboře (těžká dřina v mrazech na Sibiři)
+- **Souostroví Gulag**
+    - román
+    - rozsáhlé dílo dokumentárně popisující a všestranně rozebírající historii a existenci gulagů v Sovětském Svaze. (Gulag = zkratka ze slov glavnoje upravlenije lagerej, tedy hlavní správa pracovních táborů, začal je budovat Lenin od roku 1919 převážně na Sibiři a na celém severním území SSSR, oficiálně byly zrušeny v roce 1960, v té době jich bylo evidováno 476 velkých komplexů, ve skutečnosti existovaly pod jiným označením dále až do konce kom. režimu; prošlo jimi nejméně 8 mil. lidí, podle některých odhadů zde však v roce Stalinovy smrti bylo internováno až 13 mil. lidí…)
+## Vladimír Nabokov
+- pocházel z Petrohradu, 1919 exil (VB, Německo – žena židovského původu – USA, později
+Švýcarsko)
+- psal rusky i anglicky
+- mnoho zájmů (literatura, šachy, hmyz…)
+- zobrazuje intimní zážitky, paroduje, mystifikuje (postmoderna)
+### Dílo
+- **Lolita**
+    - román
+    - studie muže Humbert Humbert, okouzlení dospívající dvanáctiletou dívkou Lolitou, zobrazení vášně, lásky, citu, něhy…
+## Michail Alexandrovič Šolochov
+- jeho knihy nekriticky ceněny a vydávány i v době komunist. režimu (postupně úpadek)
+- NC – 1965
+- novely a romány
+### Dílo
+- **Tichý Don**
+    - tetralogie z historie kozáctva na poč. 20. stol.
+- **Osud člověka**
+    - zážitky Andreje Sokolova během 2. sv. v. – zajetí v Německu, útěk, boje, ujímá se malého chlapce – sirotka = rehabilitace válčených zajatců (nedramatické, poklidné vyprávění, zamyšlení , podobenství – charakter prostého ruského člověka) – působivý intimní příběh.
+## Mika Waltari
+- finský spisovatel
+- patří k hlavním představitelům severské literatury 2. pol. 20. století
+- nejvíce se proslavil svými historickými romány, el psal všechny žánry
+- jeho romány jsou mimořádně propracované, vystupují v nich skutečné osobnosti a smyšlené postavy
+    - vypráví o své době v historii
+    - v historických postavách je propracovaná psychologie, zabývá se morálními etickými otázkami na pozadí historických událostí
+### Dílo
+- **Egypťan Sinuhet**
+    - příběhy ze života lékaře Sinuheta
+    - ústřední postavou je Sinuhet, který zapříčiní smrt svých rodičů
+    - nemá peníze a nechá ze zaměstnat v domě smrti
+    - knihu vypráví sám Sinuhet a jedná se o kolekci vzpomínek z exilu
+## Sofi Oksanen
+- finská spisovatelka
+- píše výhradně romány a povídky, jen málo dramat
+- ve svých románech má autobiograficé prvky
+- věnovala se hledání národní identity, vykořeněním
+### Dílo
+- **Stalinovy krávy**
+    - román
+    - komplikované rodinné vztahy
+    - rodina rozdělená ve Finsku a Estonsku
+- **Baby Jane**
+    - román
+    - provokativní
+    - o lesbické lásce
+- **Očista**
+    - román
+    - hlavními postavami jsou dvě ženy
+    - na jejich drsném příběhu se zobrazuje historie Estonska od 30. let 20. stol. do současnosti
+## Khaled Hosseini
+- afghánský spisovatel
+    - většinu života žil ve Spojených státech
+- autor několika bestsellerů
+- vyrovnává se s hsitorií své země
+    - autobiografické prvky
+- jeho příběhy jsou mimořádně drsné
+### Dílo
+- **Lovec draků**
+    - hlavní hrdina se vrací zpátky na Afghánistánu
+    - chce odčinit dlouholetou zradu
+- **Tisíce planoucích sluncí**
+    - dvě ženské hrdinky
+- **A hory odpověděli**
+    - příběh dvou sourozenců
