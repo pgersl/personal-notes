@@ -15,7 +15,7 @@ weight: 16
     - píší se encyklopedie a slovníky
 - po vzniku Rakousko-Uherska se začínají objevovat myšlenky samostatnosti a rovnoprávnosti
     - dochází k velkému ekonomickému rozvoji
-- české země funguje pod absolutistickým řízením
+- české země fungují pod absolutistickým řízením
 - neexistuje funkční ústava
 - nejvýznamnější politické strany jsou Staročeši a Mladočeši
 - vyskytují se mnohé spory
