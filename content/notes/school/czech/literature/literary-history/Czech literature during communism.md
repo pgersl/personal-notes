@@ -21,7 +21,7 @@ weight: 24
     - *samizdatová literatura* neprochází cenzurou a vydává se tajně a nízkonákladově
        - *Edice Petlice*
     - *exilová literatura* v Československu nevychází a vychází v zaraničí
-        - *68 publishers, Poezie mimo domov, Rozhledy*
+        - *68 publishers* (Toronto), *Index* (Kolín nad Rýnem), *Svědectví* (Paříž)
 # Poezie
 ## Skupina 42
 - 1942 – 1948
@@ -149,3 +149,133 @@ weight: 24
     - kontrassty, nepřirozená mluva postav, bez vývoje
 - *Občan Brych*
     - román
+### Ladislav Fuks
+- 1923 – 1994
+- prozaik
+- studoval psychologii
+- pocit osamělosti, strachu, úzkosti
+    - byl to homosexuál
+- zobrazuje postavy s narušenou psychikou, slabí hrdinové
+- tajemnost, absurdita, židovství
+- *Pan Theodor Mundstock*
+    - románová groteska, novela
+    - 2\. světová válka
+    - osamělý žid, narušená psychika (schizofrenie)
+        - rozmllouvá s dvojnáíkem, Mon
+    - absurdita
+- *Spalovač mrtvol*
+    - román
+    - 2\. světová válka
+    - Karl Kopfrkingl   
+        - nadřazenost, zabije manželku (židovka) a syna
+    - krematorium
+### Ota Pavel
+- 1930 – 1973
+- židovský původ
+    - rodina v koncetračnínm táboře
+- sportovní redaktor v rozhlase
+- těžká duševní choroba
+- autobiografické prvky
+    - příroda, bratři, maminka, tatínek, Berounka
+- *Smrt krásných srnců*
+- *Jak jsem potkal ryby*
+### Bohumil Hrabal
+- 1914 – 1997
+- prozaik
+- vystudoval práva a měl různá povolání (písař, skaldník, vypravěč)
+- od roku 1963 psal
+- v 70. leteh byl cenzurován
+- zemřel při pádu z okna psychiatrické léčebny
+- autobiografické prvky, zvláštní poetika
+- bezsyžetovost
+## Samizdatová próza
+### Ludvík Vaculík
+- 1926 – 2015
+- novinář, člen KSČ (1967 vyloučen), vychovatel
+- píše o Slovácku
+- v roce 1968 vydal pamflet *2000 slov*
+- vedl Edici Petlici
+- *Sekyra*
+    - román
+    - vzpomínky na otce, tehdejší společnost, ideál komunisty
+    - prvky folklóru a nářečí
+- *Morčata*
+    - hororový román
+    - manipulace, nesvoboda, kontrola
+    - úředník
+- *Český snář*
+    - deníkový záznam
+    - leden 1979 – únor 1980
+    - různorodost, reportáž, literárněvědné poznámky
+- *Jak se dělá chlapec*
+    - provokující, autobiografický román
+    - vztah staršího muže a mladší partenrky
+### Ivan Klíma
+- *1931
+- prozaik, dramatik, literární kritik, publicista
+- 3 roky v Terezíně
+- člen KSČ (1967 vyloučen)
+### Karel Pecka
+- 1928 – 1997
+- v roce 1949 odsouzen za velezradu (odsouzen na 11 let)
+- v 60. letech mohl publikovat, v 70. letech byl zakázán
+- leitmotiv prózy, autobiografické prvky
+- *Motáky nezvěstnému*
+    - epizody z dolů (vězení)
+    - dokumentární charakter
+    - duchovní a etická rovina
+    - mladík Vilém Svoboda je na začátku 50. let zatčen za vydávání ilegálního časopisu
+- *Malostranské humoresky*
+    - realné zobrazení postav Malé strany
+    - inspirováno Nerudou
+## Exilová literatura
+### Josef Škvorecký
+- 1924 – 2012
+- učitel, spisovatel, redaktor (SNKLU, Odeon)
+- věnoval se jazzu a angličtině
+- v roce 1969 emigroval do Toronta
+- založil *68 publishers*
+- autobiografické prvky, živý jazyk, hovorovost, humor
+- zájem o tajemství, záhadu
+- *Zbabělci*
+    - 8 květnových dnů
+    - Danny Smiřický, studetn gymnázia (hlavní postava)
+    - demytizace hrdinství
+    - pocity mladé generace
+- *Mirákl*
+    - román o zázraku a víře
+    - motivy číhošťského zázraku
+    - mnohovrstevnost jazyka, práce se symboly
+- *Prima sezóna*
+    - *Text o nejdůležitějších věcech života*
+    - 6 povídek
+    - Kostelec v době protektorátu
+    - hravé příběhy, humor, komika
+- *Příběh inženýra lidských duší*
+    - Danny od 40 let až po jeho život v exilu v Kanadě
+    - navazuje na *Mirákl*
+- *Nápady čtenáře detektivek*
+    - poutavý výklad o vzniku detektivky
+- *Hříchy pátera Knoxe*
+    - detektivka
+    - páter Knox určí zásady detektivek, které v 10 příbězích porušuje
+### Arnošt Lustig
+- 1926 – 2011
+- prošel koncentračními tábory (Terezín, utekl z transportu do Osvětimi)
+- zpravodaj v Izraeli, Československý rozhlas, scénárista
+- emigroval v roce 1968
+- od roku 1970 žil v USA a pracoval jako pedagog
+- ustředním tématem je holocaust
+- psychika postav
+    - osudy žen, mladých dívek nebo starých lidí
+- *Démanty noci*
+    - soubor povídek
+- *Dita Saxová*
+    - román o židovské dívce, která přežila kontrační tábor a odjela do Švýcarska, není schopna žít
+- *Modlitba pro Kateřinu Horovitzovou*
+    - novela, skloubení dvou skutečných událostí
+- *Nemolovaná*
+    - z deníku 17 leté dívky z Terezína
+- *Případ Marie Navarové*
+    - příběh české ošetřovatelky, svědkyně atentátu na Heydricha
+    
