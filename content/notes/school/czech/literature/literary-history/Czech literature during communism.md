@@ -188,6 +188,17 @@ weight: 24
 - zemřel při pádu z okna psychiatrické léčebny
 - autobiografické prvky, zvláštní poetika
 - bezsyžetovost
+- *Perličky na dně*
+    - povídky
+- *Taneční hodiny pro starší a pokročilé*
+    - povídky
+- *Ostře sledované vlaky*
+    - novela
+- *Obsluhoval jsem anglického krále*
+    - román
+- *Slavnosti sněženek*
+- *Příliš hlučná samota*
+- *Postřižiny*
 ## Samizdatová próza
 ### Ludvík Vaculík
 - 1926 – 2015
@@ -215,6 +226,12 @@ weight: 24
 - prozaik, dramatik, literární kritik, publicista
 - 3 roky v Terezíně
 - člen KSČ (1967 vyloučen)
+- typická je osamělost, ztráta lidství, autobiografické prvky, absurdita a nadhled na tragické události
+- *Moje první lásky, Moje veselá jitra*
+    - povídky
+- *Moje šílené století*
+    - dějiny 20. století
+    - fakta spojená s autorovým komentářem
 ### Karel Pecka
 - 1928 – 1997
 - v roce 1949 odsouzen za velezradu (odsouzen na 11 let)
@@ -278,4 +295,68 @@ weight: 24
     - z deníku 17 leté dívky z Terezína
 - *Případ Marie Navarové*
     - příběh české ošetřovatelky, svědkyně atentátu na Heydricha
-    
+### Milan Kundera
+- 1929 – 2023
+- v roce 1948 vstoupil do KSČ
+    - byl vyloučen a jeho členství pak znovu bylo obnoveno
+    - naposledy byl vyloučen v roce 1970 a emigroval
+- od roku 1975 působil na univerzitě v Rennes a v roce 1981 získal francouzské občansví, ztratil české
+- ze začátku píše frézistickou literaturu, která nemá vysokou uměleckou hodnotu
+- později se u něj projevuje postmodernismus
+    - teorie románu: příběh – mýtus – úvaha
+    - příběhy dokládají autorovu myšlenku
+    - mnohovrstevnatost života, dobrý román nutí k zamyšlení
+- *Směšné lásky*
+    - tři sešity povídek
+    - odlišnosti milostných vztahů
+- *Žert*
+    - série žertů
+    - 1 skutečnost vnímána čtyřmi postavami
+        - různorodost pohledů
+    - prolínání kompozic, retrospekce a chronologie
+- *Nesnesytelná lehkost bytí*
+    - román
+    - obraz společnosti
+    - filosofický podtext – čas, jazyk
+    - tíha života
+        - život je jen jeden, hned načisto
+        - není možné jej jen zkusit nebo opakovat
+        - příliš velká lehkost bytí by vedla k prázdnotě
+- *Kniha smíchu a zapomění*
+    - román
+    - osudy několika postav, iracionalita společenských a dějinných mechanismů
+- *Nesmrtelnost*
+    - poslední český román
+    - tématem je pozůstatek obrazu zemřelého v mysli živých
+- *Slavnost bezvýznamnosti*
+    - francouzský román
+- *Nevědění*
+    - francouzskýc román
+- *Majitelé klíčů*
+    - divadelní hra
+    - tématem je zrada na pozadí druhé světové války
+- *Ptákovina*
+    - divadelní hra, komedie
+- *Jakub a jeho pán*
+    - divadelní hra
+### Viktor Fischl
+- žid
+- vystudoval UK, sociologii a právo
+- v roce 1939 emigroval do Anglie a zapojil se do odboje
+- v roce 1949 odešel do Izraele
+    - pracoval jako diplomat
+- potom působil jako velvyslanec různě po světě
+- židovská tématika, osobní zkušenosti, poezijní styl, kratší rozsah
+- *Hebrejské melodie, Mrtvá ves*
+    - básnické sbírky
+- *Hovory s Janem Masarykem*
+    - dokumentární próza
+- *Píseň o lítosti, Jeruzalémské povídky, Loučení s Jeruzalémem*
+    - povídky
+- *Dvorní šašci*
+    - novela
+    - příběh 4 přátel, kteří v koncentráku baví nacisty, po válce se setkávají v Izraeli
+        - jsou tělesně zvláštní a mají různé schopnosti
+        - jeden z nich zemře při odjezdu z koncentráku
+    - střídání retrospekce a chronologického vypravování
+    - hledání smyslu života, pochybnosti o Bohu, pomsta a odpouštění
