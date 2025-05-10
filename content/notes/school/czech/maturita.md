@@ -18,26 +18,26 @@ weight: 4
     1. Sofoklés: Král Oidipus
     2. Shakespeare: Romeo a Julie
     3. Molière: Lakomec
-    4. Gogol: Revizor
-    5. Mácha: Máj
-    6. Erben: Kytice
-    7. Havlíček: Křest sv. Vladimíra
-    8. Mrštíkové: Maryša
+    4. Erben: Kytice
+    5. Havlíček: Křest sv. Vladimíra
+    6. Mrštíkové: Maryša
+    7. Mácha: Máj
+    8. Neruda: Balady a romance
     9. Rolland: Petr a Lucie
     10. Shaw: Pygmalion
-    11. Čapek: R.U.R.
-    12. Čapek: Bílá nemoc
-    13. Wolker: Těžká hodin
-    14. Camus: Cizinec
-    15. Orwell: 1984
-    16. Beckett: Čekání na Godota
-    17. Seifert: Maminka
-    18. Kryl: Kníška
-    19. Fischl: Dvorní šašci
-    20. Smoljak, Svěrák: Dobytí severního pólu
+    11. Camus: Cizinec
+    12. Beckett: Čekání na Godota
+    13. Orwell: 1984
+    14. Čapek, K: Bílá nemoc
+    15. Čapek, K: R. U. R.
+    16. Wolker: Těžká hodina
+    17. Fischl: Dvorní šašci
+    18. Fuks: Spalovač mrtvol
+    19. Dyk: Krysař
+    20. Skácel: Smuténka
 
 # Sofoklés: Král Oidipus
-## Literárněhistorický kontext
+## Literárně-historický kontext
 - 2\. pol. 5. století ACN
 - filosofie:
     - *Herodotos*
@@ -148,11 +148,11 @@ weight: 4
 - časoprostor: soudobý thébský trůnní sál (5. stol. ACN)
 - postavy: Oidipus, Láios (jeho otec), Iokasté (jeho matka a manželka), Polybos (korintský král), Teirésias (věštec), Kreón (Oidipův švagr a strýc), sbor   
 ## Děj
-- prolog: věštba Láiovi určí, že ho zabije vlastní syn a poté se ožení s vlastní matkou, když se syn narodí přikáže, aby ho otrok pohodil na pastviny, pastýř ho najde a předá králi Polybovi, který nemá vlastní děti, Oidipa vychová, když se dozví o věštbě, Oidipus uteče, protože si myslí, že by mohl Polybovi ublížit, na cestě nedopatřením zabije svého otce a pokryčuje do Théb, rozluští záhadu Sfingy a osvobodí tak město, vezme si ovdovělou Iokasté a má s ní čtyři děti
+- prolog: věštba thébskému králi Láiovi určí, že ho zabije vlastní syn a poté se ožení s vlastní matkou, když se syn narodí, přikáže, aby ho otrok pohodil na pastviny, pastýř ho najde a předá králi Polybovi, který nemá vlastní děti, Oidipa vychová, když se dozví o věštbě, Oidipus uteče, protože si myslí, že by mohl Polybovi ublížit, na cestě nedopatřením zabije svého otce a pokryčuje do Théb, rozluští záhadu Sfingy a osvobodí tak město, vezme si ovdovělou Iokasté a má s ní čtyři děti
 - děj: Théby jsou sužované morem a špatnou úrodou, dle věštby pomůže vyhoštění Láiova vraha, začne po něm pátrat, skrze výpovědi se postupně dozvídá, že vrahem je on sám a celou pravdu mu vysvětlí pastevec, který ho zachránil, věštba se tak naplnila, Iokasté se oběsí a Oidipus se oslepí, aby neviděl co spáchal a žadoní o vyhoštění
 
 # Shakespare: Romeo a Julie
-## Literárněhistorický kontext
+## Literárně-historický kontext
 - 14\. – 16. století
 - rozvoj měšťanské vrstvy
 - pokračování reformace
@@ -262,10 +262,14 @@ weight: 4
 - časoprostor: soudobá Verona (16. stol.)
 - postavy: Montek, Romeo (jeho syn), Kapulet, Julie (jeho dcera), otec Vavřinec, Merkucio (přítel Romeův), Benvolio (přítel Romeův), Tybalt (synovec Kapuletův), Lékárník, Paris (nápadník Juliin)
 ## Děj
-- 
-
+- Romeo a Julie jsou děti hlav dvou znepřátelených rodů – Kapuleti a Montekové, Kapuletové pořádají velký maškarní ples a Romeo se rozhodne na něj s přáteli jít, zde se setkává s Julií a zamiluje se do ní
+- Po skončení plesu se Romeo vydává do zahrad pod Juliinými komnatami a vyslechne její vyznání (balkónová scéna), Romeo pak vyzná city jí, druhý den jsou tajně oddání otcem Vavřincem
+- Tybalt Romea nenávidí a nedlouho po svatbě ho vyzve k boji, místo něj se nabídne Merkucio, který je zabit a Romeo smrt přítele pomstí, za což je vyhoštěn
+- Kapulet dá Julii ultimátum, buď si vezme Parise nebo potáhne z domu, Julie spolu s chůvou a otcem Vavřincem vymyslí plán, kdy Julie vypije nápoj, po kterém bude nějakou dobu vypadat jako mrtvá
+- O pohřbu Julie se dozví Romeo, ke kterému shodou náhod nedorazila zpráva a tomto plánu, dorazí zpět do Verony, na hřbitově zabije Parise a poté u Juliina těla pozře jed od lékárníka z Mantovy, jakmile zemře, Julie se probouzí a jeho dýkou si také bere svůj život
+- [Podrobněji zde](https://cs.wikipedia.org/wiki/Romeo_a_Julie#D%C4%9Bj)
 # Molière: Lakomec
-## Literárněhistorický kontext
+## Literárně-historický kontext
 - 2\. pol. 17. – 18. století
     - začátek: konec třicetileté války (1648)
     - konec: konec velké francouzské revoluce (1794)
@@ -349,104 +353,468 @@ weight: 4
 - Anselm, doposud pouze Harpagonův přítel a bohatýr, se nakonec představí jako otec milenců obou Harpagonových dětí, vše končí dobře
 - [Podrobněji zde](https://cs.wikipedia.org/wiki/Lakomec#Obsah)
 
-# Gogol: Revizor
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Mácha: Máj
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
 # Erben: Kytice
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
+## Literárně-historický kontext
+- 30\. léta 19. století až konec 19. století
+- český jazyk pevně lingvisticky definován
+    - začátkem 19. století češtinu studuje a kodifikuje mnoho vědců (Jungmann, Dobrovský)
+- v českých zemích dochází k revoluci (1848) a dochází k definitivnímu zrušení feudalismu a poddanství a roboty
+    - zásadní změny do svobod Čechů to ale nepřineslo, revoluce byla potlačena a přišla silná vlna germanizace
+- rozmach české kultury přichází až v 60. a 70. letech 19. století, kdy po vydání únorové ústavu z roku 1861 byl absolutismus oslaben a byla zajištěna svoboda slova
+    - mohli vznikat spolky, almanachy a časopisy, česká literatura se mohla snadněji šířit
+- dochází také ke zvýšené politické angažovanosti čechů
+> [Literatura národního obrození](/notes/school/czech/literature/literary-history/national-awakening/)
 
+> [Postobrozenecká literatura](/notes/school/czech/literature/literary-history/post-national-awakening/)
+
+- periodizace:
+    1. obranná fáze (konec 18. stol a začátek 19. stol.)
+        - zkoumání a kodifikace češtiny a české historie
+    2. ofenzivní fáze (začátek 19. stol. – 30. léta 19. stol.)
+        - první rozmach nové české tvorby, hlubší zájem o dějiny
+    3. vrcholná fáze (30. léta 19. stol – 1848)
+        - největší rozmach nové české literatury
+    4. revoluční fáze (50. léta 19. stol.)
+        - česká tvorba potlačena
+    5. postobrozenecká literatura (60. léta 19. stol – konec 19. stol.)
+        - největší rozmach české literatury v 19. stol., svoboda slova
+- umělecký směr: romantismus, realismus
+    - **romantismus** klade důraz na emoce a nitro postav, zobrazuje konflikt mezi společností a hrdinou, děje se odehrávají na veknově, velký zájem o gotické prostředí a venkov
+    - **realismus** zobrazuje realitu tak jak je, nepřikrášluje, převládá střední nižší společenská vrstva, vypravěč je často nepřítomný
+- obrozenci:
+    - *Josef Kajetán Tyl*: Fidlovačka
+        - fraška se zpěvy na téma ševcovské cechovní slavnosti
+        - poprvé v ní zazněla píseň *Kde domov můj*
+    - *Božena Němcová*: Babička
+        - venkovská próza s autobiografickými prvky
+        - ukázka harmonického života prostých lidí
+    - *Karel Jaromír Erben, Karel Hynek Mácha, Karel Havlíček Borovský*
+- májovci:
+    - *Karolína Světlá*: Vesnický román
+    - *Jan Neruda*
+- ruchovci, lumírovci:
+    - *Svatopluk Čech*: Pravý výlet pana Broučka do Měsíce
+    - *Eliška Krásnohorská*: Hubička
+- *Alois Jirásek*: Temno
+- *Karel Václav Rais*: Zapadlí vlastenci
+- *Gabriela Preissová*: Její pastorkyňa
+- *Alois a Vilém Mrštíkové*
+## Kontext autorovy tvorby
+- 1811 – 1870
+- vystudoval práva a filosofii a zabýval se českou historií
+    - vydal několik historických písemností, včetně spisů mistra Jana Husa
+- sbíral českou lidovou slovesnost, kterou vydával
+- **Prostonárodní písně a říkadla**
+- **Sto prostonárodních pohádek a pověstí slovanských v nářečích původních**
+## Rozbor díla
+- druh: epika
+- žánr: balady
+- téma: provinění a trest
+- motivy: les, chalupa, hřbitov, smrt, tradice
+- kompozice: 13 balad, zrcadlová kompozice
+    - *Kytice – Věštkyně*: vlastenecké balady
+    - *Poklad – Dceřina kletba*: narušení vztahu matky a dítěte
+    - *Svatební košile – Vrba*: návrat mrtvého
+    - *Polednice – Vodník*: zásah nadpřirozené bytosti (tradiční)
+    - *Zlatý kolovrat – Záhořovo lože*: princip viny, vykoupení a pokání
+    - *Štědrý den*: o lásce a smrti
+    - *Holoubek*: odlišná, o sebevraždě
+- básnické prostředky: bohaté, přirovnání, střídavý rým, pravidelný rytmus, zvukomalba, personifikace, epizeuxis
+- jazyk: spisovný, místy citoslovce, s archaickými nebo knižními výrazy
+- časoprostor: různý, zhruba soudobí, jen místy rozdílný (Věštkyně)
+## Básně
+- *Kytice*
+    - o zemřelé matce na jejímž hrobě vyrostou mateřídoušky
+- *Poklad*
+    - o matce, která v touze po bohatství uvězní vlastní dítě ve skále, po roce spytování svědomí se jí skála otevře a dítě v ní
+- *Svatební košile*
+    - o dívce, která přikázala panně Marii, aby jí vrátila z bojů milého, vrátí se jí umrlec, který ji v márici na hřbitově málem zabije, ale pod modlitbě je zachráněna
+- *Polednice*
+    - o matce, která hrozí svému dítěti Polednicí, nakonec jej sama ze strachu zardousí
+- *Zlatý kolovrat*
+    - o dívce, která je zabita nevlastní matkou a sestrou, která se přestrojená za dívku provdá za krále, který odejde do bojů, dostane zlatý kolovrat za části dívčina těla a po návratu krále kolovrat prozradí pravdu, nevlastní matka se setrou jsou stejným trestem postiženy
+- *Štědrý den*
+    - o dvou dívkách, které si přepověděli budoucnost, kterou pak naplnili (jedna se provdala, druhá zemřela)
+- *Holoubek*
+    - o vdově, který zabila svého manžela a rychle se provdala, ale z provinění spáchala sebevraždu
+- *Záhořovo lože*
+- *Vodník*
+    - o dceři, která neuposlechla matku a vzala si vodníka, porodí dítě, vrátí se k matce a vodník dítě zabije
+- *Vrba*
+    - o matce, která má část duše ve vrbě, která je pokácena, zemře, ale z vrby je vyrobena kolébka a zasazeny proutky
+- *Lilie*
+- *Dceřina kletba*
+    - o dceři, která zabije své dítě a prokleje svého mílého a matku
+- *Veštkyně*
+    - o českém národu
 # Havlíček: Křest sv. Vladimíra
-## Literárněhistorický kontext
+## Literárně-historický kontext
+- viz [Erben: Kytice](#literárně-historický-kontext-3)
 ## Kontext autorovy tvorby
+- 1821 – 1856
+- studoval na několik povolání, ale nic nedokončil a stal se spisovatelem a novinářem
+- nebyl oblíbený ani vládou ani lidem
+    - pro vládu byl příliš antisystémový, pro lid málo nacionalistický
+    - idealizoval si východní země, ale později je kritizoval (Rusko)
+- byl odsouzen k nucenému pobytu v Brixenu, kde strávil 4 roky
+    - krátce po návratu do Čech zemřel na tuberkulózu
+- **Epigramy**
+    - krátké parodické, satirické a kritické básně
+- **Obrazy z Rus**
+    - cestopisné črty
+- **Tyrolské elegie**
+    - satirické báseň o cestě do Brixenu
+- **Král Lávra**
+    - satirická báseň o králi s oslýma ušima
 ## Rozbor díla
+- druh: epika
+- žánr: satirická básnická skladba
+- téma: odsouzení absolutistické vlády, satira na lidskou představu o náboženství
+- motivy: car, bůh, byrokracie, korupce, vláda, prostota a sprostota
+- kompozice: 10 zpěvů (9 epických a jeden bezdějový)
+- básnické prostředky: jednoduché pravidelné rýmové schéma, relativně pravidelný jednoduchý rytmus, bez zásadních koloratur
+- jazyk: spisovný s lidovými a vulgárními výrazy, občasná *makaronština* (němčina, hlavně latina)
 ## Děj
-
+- Car Vladimír si přeje místo kanonády božské hřmění, bůh Perun to odmítne, je předveden před civilní soud (neodsouzen) a následně před vojenský soud a je odsouzen ke smrti utopením v Dněpru
+- Všechno funguje i bez Peruna, církev chudne a žádá Vladimíra o nového boha, po rozpravě se ministři rozhodnou pro vyhlášení konkursu na nového boha v novinách, doslechznou se o tom všechny církve a posílají dopisy, ve kterých se předhánějí
 # Mrštíkové: Maryša
-## Literárněhistorický kontext
+## Literárně-historický kontext
+- viz [Erben: Kytice](#literárně-historický-kontext-3)
 ## Kontext autorovy tvorby
+- 1861 – 1925
+- bratři jsou oba významnými dramatiky
+- **Rok na vsi**
+    - románová kronika
+- **Pohádka máje**
+    - milostný příběh Helenky a pražana Rýši
+- **Santa Lucia**
+    - o studentovi umírajícím v Praze
 ## Rozbor díla
+- druh: drama
+- žánr: tragédie
+- téma: honba za bohatstvím skrze nucené sňatky
+- motivy: venkov, statek, smrt, otrava, svatba, láska, válka, oddanost
+- kompozice: pět aktů
+- jazyk: nařečí (scénické poznámky spisovné)
+- časoprostor: soudobé Těšany
+- postavy: Lízal, Lízalka (jeho žena), Maryša (jejich dcera), Francek (její milý), Vávra (její budoucí manžel), sousedé, rekruti, nádeníci, hosdposký
 ## Děj
+1. akt: Lízal a Vávra domlouvají sňatek s Maryšou, oba mají velké statky a Vávra splácí dluhy (potřebuje věno), Maryša se loučí s Franckem
+2. akt: ženy domlouvají Maryši, který si nejprve Vávru vzít neche (proslíchá se, že svou ženu ubil), ale nakonec souhlasí
+3. akt: o 2 roky později, Francek se vrací z vojny, Maryša je sňatkem zničená, proslýchá se, že je bita, Francek se popere s Vávrou a vyhrožuje mu, Vávra žaluje Lízala a pohádají se
+4. akt: Maryša se setká s Franckem, chce s ní utéct, ale ona nesouhlasí, Vávra se pak pokusí Francka zabít
+5. akt: Maryša otráví Vávru a přizná se
+# Mácha: Máj
+## Literárně-historický kontext
+- viz [Erben: Kytice](#literárně-historický-kontext-3)
+## Kontext autorovy tvorby
+- 1810 – 1836
+- vystudoval filosofii a práva
+- zemřel ještě než se stihl oženit na zápal plic nebo choleru
+- **Kat**
+    - původné čtyřdílná próza
+    - dokončen byl jen první díl *Křivoklad*
+- **Cikání**
+    - lyricko-epická báseň tematicky podobná Máji
+- **Pouť krkonošská**
+    - básnická próza o mrtvých mniších, kteří na jeden den v roce v klášteře na vrcholu Sněžky ožívají
+## Rozbor díla
+- druh: lyrizovaná epika
+- žánr: tragická básnická skladba
+- téma: trest za pomstu a zamyšlení nad životem po smrti
+- motivy: jezero, skála, hřbitov, les, smrt, sebevražda
+- kompozice: 4 zpěvy, 2 intermezza
+- básnické prostředky: pravidelné rýmové schéma, propracované metrum (místy jamb), mnoho trop a figur (zejména oxamoróny, inverze)
+- jazyk: spisovný s archaickými a knižními výrazy
+- postavy: Vilém, Jarmila, Hynek (básník)
+## Děj
+- Vilém (loupežník) zjistí, že jeho dívka Jarmila byla svedena jeho otcem, kterého zabije a je za to zatčen a odsouzen k smrti, Jarmila následkem toho páchá sebevraždu a Vilém je popraven
+
+# Neruda: Balady a romance
+## Literárně-historický kontext
+- viz [Erben: Kytice](#literárně-historický-kontext-3)
+## Kontext autorovy tvorby
+- 1834 – 1891
+- studoval práva a filosofii, ale nedokončil je a působil jako redaktor v několika publikacích
+- psal poezii, prózu i drama
+- **Hřbitovní kvítí**
+    - básnická prvotina
+    - nastiňuje nespravedlivé majetkové rozvrstvení společnosti
+- **Knihy veršů**
+    - tři díly basníckých skladeb
+    - tématicky i žánrově různé
+- **Písně kosmické**
+    - básně o kladné perspektivě člověka a lidstva
+    - východiskem je moderní věda a dění ve vesmíru
+- **Arabesky**
+    - krátké prozaické texty o různých lidech z okraje pražské společnosti
+- **Povídky malostranské**
+    - soubor povídek s autobiografickými prvky
+    - různé nálady – humor, tragédie, smír
+## Rozbor díla
+- druh: lyricko-epický
+- žánr: balady, romance
+- téma: reflexe legend, národních a křesťanských příběhů
+- motivy: náboženské, historické, národní, biblické, přírodní, politické
+- kompozice: 12 balad, 6 romancí
+- básnické prostředky: relativně pravidelné rýmové schéma, relativně pravidelný rytmus, častá přirovnání 
+- jazyk: spisovný s archaickými a knižními výrazy, místy zkráceniny
+## Básně
+- *Balada pašijová*
+- *Balada horská*
+- *Romance o Karlu IV.*
+- *Romance helgolandská*
+- *Balada májová*
+- *Balada o duši Karla Borovského*
 
 # Rolland: Petr a Lucie
-## Literárněhistorický kontext
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Shaw: Pygmalion
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Čapek: R.U.R.
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Čapek: Bílá nemoc
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Wolker: Těžká hodina
-## Literárněhistorický kontext
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Camus: Cizinec
-## Literárněhistorický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Orwell: 1984
-## Literárněhistorický kontext
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Beckett: Čekání na Godota
-## Literárněhistorický kontext
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
-# Seifert: Maminka
-## Literárněhistorický kontext
+# Orwell: 1984
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
-# Kryl: Kníška
-## Literárněhistorický kontext
+# Čapek: Bílá nemoc
+## Literárně-historický kontext
+- 1918 – 1945
+- dochází k zásadním změnám ve světovém řádu
+    - v Evropě upadají monarchie a vznikají menší republiky
+        - v Rusku je svržen a zavražděn car a zavádí se bolševická vláda
+    - svět ekonomicky prosperuje
+        - ekonomicky nejaktivnější jsou definitivně Spojené státy
+    - ve 30. letech je svět zasažen velkou ekonomickou krizí, která akceleruje v Německu tvorbu nacistického zřízení
+    - v roce 1939 začíná 2. světová válka
+- umělecký směr: avantgarda
+    - z francouzského *l'avanat-garde* (předvoj)
+    - typické je experimentování a hledání nových výrazových možností
+    - hudba se štěpí podobně jako literatura
+        - skladatelé: M. Ravel, J. Suk, L. Janáček, B. Martinů, V. Kaprálová, I. Stravinskij, Les Six, Varèse, Schoenberg
+> [Česká meziválečná próza a drama](/notes/school/czech/literature/literary-history/czech-literature-between-wars#próza-a-drama)
+
+- literatura reaguje na 1. světovou válku a později varuje před 2.
+- ***Legionářská próza***
+    - *František Langer*: Velbloud uchem jehly
+    - *Jaroslav Hašek*: Osudy dobrého vojáka Švejka
+- ***Socialistický realismus***
+    - *Ivan Olbracht*: Nikola Šohaj loupečník
+    - *Marie Majerová*: Robinskonka
+- ***Psychologická próza***
+    - *Egon Hostovský*: Žhář
+    - *Jaroslav Havliček*: Helimadoe
+- ***Demokratická próza***
+    - *Josef Čapek*: Ze života hmyzu
+    - *Karel Poláček*: Bylo nás pět
+    - *Ferdinand Peroutka*: Budování státu
+    - *Eduard Bass*: Cirkus Humberto
 ## Kontext autorovy tvorby
+- 1890 – 1938
+- studoval filosofii
+- pracoval jako překladatel a žurnalista
+    - psal fejetony, reportáža a sloupky
+- hodně cestoval
+- v jeho díle mezi hlavní motivy patří *noetika* (snaha o poznání pravdy), *pragmatismus* (teorie více pravd, které nelze potvrdit nebo vyvrátit), varování před technologiemi, varování před válkou, rozhovory, dětské knihy
+- **Věc Makropulos**
+    - morálně etické drama o dlouhověkosti
+- **Matka**
+    - drama o matce, která chrání své poslední dítě před válkou
+- **Povětroň**
+    - noetická povídka
+- **Továrna na absolutno**
+    - román o inženýrovi, který vynalezne stroj, který spálí jakoukoliv látku a uvolní absolutno, které působí na lidi a dává jim božské schopnosti, svět se zhroutí
+- **Krakatit**
+    - inženýr vynalezne výbušninu a vlády světa usilují o její složení, které je ukradeno a on se ho snaží získat zpátky
+- **Válka s mloky**
+    - román o válce s novou inteligentní formou života, která pak na lidstvo zaútočí a vyhubí ho
 ## Rozbor díla
+- druh: drama
+- žánr: tragédie
+- téma: morální rozpor hippokratovy přísahy s léčbou zlých lidí
+- motivy: morální spor, odkaz na nacistické Německo
+- kompozice: 3 dějství
+- jazyk: spisovný a bohatý, místy cizí výrazy
+- časoprostor: blíže neurčeno, soudobé
+- postavy: Dr. Galén, Maršál, baron Krüg, Sigelius (dvorní rada)
 ## Děj
+- v zemi se šíří epidemie bílé nemoci, která se projevuje jako malomocenství a charakteristickými bílými skvrnami, zatímco se země chystá do války, a jedinou formu léčby administruje Dr. Galén
+- baron Krüg, velký dodavatel zbraní také onemocní, žádá Galéna o vylečení, ten ho přislíbí pouze pokud baron zastaví výrobu zbraní, ten se pokusí tlačit na Maršála pro mír
+- Krüg je neúspěšný a páchá sebevraždu, maršál na sobě také pozoruje bílou skvrnu, Galén ho bude léčit pouze pokud uzavře mír, po nátlaku rodiny souhlasí
+- Galén se vydá k maršálovi, ale je spolku s lékem ušlapán skandujícím davem  
+
+# Čapek: R.U.R.
+## Literárně-historický kontext
+- viz [Čapek: Bílá nemoc](#literárně-historický-kontext-13) 
+## Kontext autorovy tvorby
+- viz [Čapek: Bílá nemoc](#kontext-autorovy-tvorby-13) 
+## Rozbor díla
+- druh: drama
+- žánr: sci-fi, antiutopie
+- téma: varování před automatizací světa
+- motivy: odkaz na zrychlený technologický pokrok, lenost
+- kompozice: předehra a 3 dějství 10 let po předehře
+- jazyk: spisovný (kromě služebné), krátké a rychlé dialogy, odborné výrazy
+- časoprostor: neurčeno, budoucnost
+- postavy: Alquist (stavitel robotů), Harry Domin (centrální ředitel R.U.R.) Helena Gloryová (jeho žena), Dr. Gall (ředitel fyziologického výzkumu), Nána (služebná) 
+## Děj
+- Helena přijde za Dominem, aby se dozvěděla více o továrně R.U.R., nevnímá rozdíl mezi lidmi a roboty a učí se o nich, nakonec se s Dominem vezmou
+- po deseti letech se roboti začnou využívat jako vojáci do válek, roboti si uvědomí, že nepotřebují lidi pro svou existenci a začnou vyvražďovat lidstvo
+- než se dostanou do továrny R.U.R., stihne Helena spálit plány na výrobu, roboti všechny zavraždí kromě Alquista, který jako jediný pracuje i když nemusí
+- roboti ho prosí o plány, ale on je nezná, na konec najde dva roboty, kteží projevují city a možná, že jsou to oni, kteží započnou novou civilizaci
+
+# Wolker: Těžká hodina
+## Literárně-historický kontext
+- viz [Čapek: Bílá nemoc](#literárně-historický-kontext-13)
+
+> [Česká meziválečná poezie](/notes/school/czech/literature/literary-history/czech-literature-between-wars#poezie)
+
+- autoři zakládají spolky
+    - *Devětsil* (J. Seifert, V. Nezval, J. Wolker, F. Halas etc.)
+- ***proletářská poezie***
+    - vzniká v reakci na revoluci v Rusku
+    - zobrazovala třídní protiklady
+    - klade důraz na dělnictvo, sociální spravedlnost
+    - *sociální balada*
+        - balada zobrazující společenskou problematiku a její tragédii
+    - *Josef Hora*: Struny větru
+        - postupný přechod od proletářské poezie k poetismu
+        - lyrizované zážitky ze SSSR
+    - *Jindřich Hořejší*: Den a noc
+        - proletářská sbírka o sociální chudobě ve velkoměstě
+    - *Stanislav Kostak Neumann*: Rudé zpěvy
+        - oslava proletářské revoluce, SSSR jako zdroj naděje
+- ***poetismus***
+    - volná obrazotvornost, fantazie, spontánnost, apolitičnost, radost
+    - volné asocicace, metafory, pravidelný i volný verš
+    - později úpadek ve prospěch surrealismu a socialistickému realismu
+    - *Vítězslav Nezval*: Básně noci
+        - *Podivuhodný kouzelník, Akrobat, Edison*
+        - poetistické básně
+    - *Jaroslav Seifert*: Na vlnách TSF
+        - poetistický sbírka
+- ***katolická poezie***
+    - *Jan Zahradníček*: Svatý Václav
+        - sbírka o češství a důležitosti národních světců
+        - vyšla po válce
+- ***spirituální poezie***
+    - *František Halas*: Torzo naděje
+        - básně odkazující se na události roku 1938
+        - užívá se litanie
+## Kontext autorovy tvorby
+- 1900 – 1924
+- studoval práva
+- zemřel mladý na tuberkulózu
+- psal výhradně proletářské básně
+- **Proletářské umění**
+    - 1922
+    - stať o teorii a programu proletářské poezie
+- **Host do domu**
+    - básnická sbírka o 3 částech
+    - kontrasty optimismu a bídy, touha po harmonii a láska ke světu
+    - *Svatý kopeček*
+        - pásmo o bídě a místu, kam často jezdíval
+- básně z pozůstalosti
+    - několik básní Wolker nestihl vydat
+- kromě toho psal také krátká dramata (*Tři hry*) a pokoušel se o román (*Polární záře*)
+## Rozbor díla
+- druh: lyrika
+- žánr: sociální balady
+- téma: celkový pohled na tragický dělnický svět, chudobu
+- motivy: smrt, těžkost bytí, láska, dělník, topič, oči, srdce
+- básnické prostředky: nepravidelný rytmus, metrum a rýmové schéma, častá inverze, místy absolutní rým, přirovnání, personifikace
+- jazyk: spisovný, místy knižní a archaický, naivní
+## Básně
+- *Balada o nenarozeném dítěti*
+- *Balada o snu*
+- *Balada o očích topičových*
 
 # Fischl: Dvorní Šašci
-## Literárněhistorický kontext
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
-# Smoljak, Svěrák: Dobytí severního pólu
-## Literárněhistorický kontext
+# Fuks: Spalovač mrtvol
+## Literárně-historický kontext
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
+
+# Dyk: Krysař
+## Literárně-historický kontext
+## Kontext autorovy tvorby
+## Rozbor díla
+## Děj
+
+# Skácel: Smuténka
+## Literárně-historický kontext
+- 2\. světová válka učinila ze Spojených států a SSSR definitivní supervelmoci
+    - svět se dělí na spojence USA a SSSR
+- v roce 1948 dochází ke komunistickému převratu
+- v 50. letech je cenzura nejtvrdší, vykonstruované procesy vedli ke smrti mnoha nevinných lidí
+- v 60. letech postupně dochátzí k mírnému uvolnění a svoboda slova je větší
+- po pražském jaru v roce 1968 dochází k tvrdé cenzuře (normalizace)
+> [Česká literatura v době komunismu](/notes/school/czech/literature/literary-history/czech-literature-during-communism#poezie)
+- literatura se dělí na oficiální, samizdatovou a exilovou
+    - oficiální literatura prochází tvrdou cenzurou a může být vydávána státními nakladatelstvími
+    - samizdatová literatura neprochází cenzurou a vydává se tajně a nízkonákladově
+        - Edice Petlice
+    - exilová literatura v Československu nevychází a vychází v zaraničí
+        - 68 publishers (Toronto), Index (Kolín nad Rýnem), Svědectví (Paříž)
+- ***Skupina 42***
+    - psali mezi lety 1942 – 1948
+    - odmítali surrealismus
+    - *Jiří Kolář*: Prométheova játra
+    - *Ivan Blatný*: Hledání přítomného času
+    - *Josef Kainar*: Moje blues
+- ***Skupina Ra***
+    - 1942 – 1948
+    - surrealistická skupina
+    - vydali almanach *A zatímco válka*
+    - *Ludvík Kundera*: Roztrhané panenky
+- ***Frézismus***
+    - po roce 1948
+    - politicky motivovaná poezie
+    - *Jiří Taufer*: Strana, lidé, pokolení
+    - *Pavel Kohout*: Čas lásky a boje
+- ***Host do domu***
+    - *Oldřich Mikulášek*: Žebro Adamovo
+## Kontext autorovy tvorby
+- 1922 – 1989
+- publikoval v rámci časopisu Host do domu
+- zaujal svou opravdovostí
+- po roce 1969 mu bylo zuakázáno publikovat a jeho tvorba vycházela v exilu
+- **Kolik příležitostí má růže**
+    - básnická prvotina, vliv lidové písně, každodenní život
+- **Co zbylo z anděla**
+    - motivy lidskosti a souznění, klidu, pravých hodnot
+- **Metličky**
+    - pokorý vztah k životu
+## Rozbor díla
+- druh: lyrika
+- žánr: sociální balady
+- téma: celkový pohled na tragický dělnický svět, chudobu
+- motivy: smrt, těžkost bytí, láska, dělník, topič, oči, srdce
+- básnické prostředky: nepravidelný rytmus, volný verš (málo vyjímek), místy absolutní rým, strohé krátké texty
+- jazyk: spisovný
