@@ -523,12 +523,13 @@ weight: 4
 - žánr: tragická básnická skladba
 - téma: trest za pomstu a zamyšlení nad životem po smrti
 - motivy: jezero, skála, hřbitov, les, smrt, sebevražda
-- kompozice: 4 zpěvy, 2 intermezza
+- kompozice: 4 zpěvy, 2 intermezza, věnování
 - básnické prostředky: pravidelné rýmové schéma, propracované metrum (místy jamb), mnoho trop a figur (zejména oxamoróny, inverze)
 - jazyk: spisovný s archaickými a knižními výrazy
 - postavy: Vilém, Jarmila, Hynek (básník)
 ## Děj
 - Vilém (loupežník) zjistí, že jeho dívka Jarmila byla svedena jeho otcem, kterého zabije a je za to zatčen a odsouzen k smrti, Jarmila následkem toho páchá sebevraždu a Vilém je popraven
+- básník Hynek se 10 let po těchto událostech vrací na místo, aby o nich vyprávěl
 
 # Neruda: Balady a romance
 ## Literárně-historický kontext
@@ -575,27 +576,127 @@ weight: 4
 
 # Shaw: Pygmalion
 ## Literárně-historický kontext
+- od roku 1945 po současnost
+- po druhé světové válce je nataven nový světový řád a začíná studená válka mezi USA a SSSR
+> [Poválečná literatura](/notes/school/czech/literature/literary-history/post-wars-literature/)
+- v literatuře se rozvijí v 50. a 60. letech mnoho nových směrů a žánrů
+    - vytrácí se dějovost nebo hlavní postavy
+- v 70. letech se vracejí klasické žánry
+- ***existencialismus***
+    - filosofie má počátky ve 20. letech v německu
+    - v popředí je jedinec, který osamocen a svobodu vnímá jako přítěž, celá jeho existence směřuje ke smrti
+    - *Jean-Paul Sartre*: Zeď
+        - soubor novel, kde zeď je pokaždé jinou metaforou
+    - *Boris Vian*: Pěna dní
+- ***neorealismus***
+    - navazuje na realismus
+    - zobrazuje každodenní události prostých lidí
+    - důležitá je popisnost a dokumentárnost
+    - *Alberto Moravia*: Horalka
+        - román z válečného prostředí
+- ***Beatníci, Rozhněvaní mladí muži***
+    - skupiny vzdorující proti konzervativní společnosti
+    - důležitá je pro ně svoboda
+    - *Jack Kerouac*: Na cestě
+        - reportážní próza s autobiografickými prvky
+        - popisuje cestu po Spojených státech
+- ***absurdní literatura***
+    - bez děje, souvislostí a logiky
+    - jazyk je prázdný 
+    - *Eugène Ionesco*: Plešatá zpěvačka
+    - *Edward Albee*: Kdo se bojí Viginie Woolfové
+- ***magický realismus***
+    - realné věci jsou zvláštní a nereálné věci jsou zcela běžné
+    - *Gabriel Garcia Marquez*: Sto roků samoty
+- ***postmodernismus***
+    - zavrhuje avantgardní principy
+    - *Umberto Eco*: Jméno růže
+        - román o nalezení středověkého rukopisu, ve kterém si mnich vzpomíná na svůj život, kde vyšetřuje vraždy v souvislosti s údajným nalezením druhého dílu Aristotelovi Poetiky
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Camus: Cizinec
 ## Literárně-historický kontext
+- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
 ## Kontext autorovy tvorby
+- 1913 – 1960
+- pracoval jako spisovatel, novinář a filosof
+- ve svém díle se zabývá ateistickým existencialismem
+    - jediné řešení otázky smyslu života nachází ve vzdorování osudu
+- jeho postavy jsou opuštěné uprostřed lidí a dějů, kterým nerozumí, a které je nezajímají
+- **Mýtus o Sisyfovi**
+    - filosofický manifest
+    - zabývá se otázkami smyslu bytí v kontextu jeho myšlení nad světem
+    - *filosofická sebevražda* - přijetí Boha jako východisko absurdity a nesmislnosti bytí
+- **Caligula**
+    - drama
+    - Caligula dojde po úvahách o absurditě bytí k páchání hrůzných činů
+- **Mor**
+    - román, ve kterém je město postiženo morem a ačkoliv s tím nemůžou obyvatelé nic dělat, bojují proti zlu, které je mimo ně
 ## Rozbor díla
+- druh: epika
+- žánr: novela (krátky román)
+- téma: obraz společniosit, která raději jiného člověka odstraní než jej příjme
+- motivy: osamocenost, lhostejnost, vina, trest, absurdita, ego
+- kompozice: chronoilogická, 1. část příběhová, 2. část primárně úvahová, přímý vypravěč
+- jazyk: spisovný, zhuštěný děj, suché, přímá a nepřímá řeč
+- časoprostor: Alžírsko, 1. polovina 20. století
+- postavy: Mersault, Marie, Raymond
 ## Děj
+- Mersault je na pohřbu svojí matky, ale nepláče, je mu to lhostejné, odmítne práci v Paříži a zůstává v Alžíru, seznámí se s Marií, se kterou naváže milostný vztah, který je mu ale lhostejný, spřátelí se s Raymondem (skldníkem), je pozván na chatu k Raymondova přítele a střetne se se dvěma Araby, kteří poraní Raymonda, Mersault pak jednoho z nich zastřelí a je mu to lhostejné
+- Mersault se dostává k soudu, právník ho ujišťuje, že nejhorším trestem je nízké odnětí svobody, ale u soudu se neřeší jeho činy, jako spíš jeho charakter a nakonec je odsouzen k smrti, kterou příjmá s klidem
 
 # Beckett: Čekání na Godota
 ## Literárně-historický kontext
+- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Orwell: 1984
 ## Literárně-historický kontext
+- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
 ## Kontext autorovy tvorby
+- 1903 – 1950
+- pracoval v několika oblastech a stal se rázným antikomunistou
+- kromě beletrie jsou významné také jeho eseje
+- ve svých novelách se zabývá antiutopií
+- **Na dně v Paříži a Londýně**
+    - zážitky z doby, kdy se pohyboval jako tulák
+- **Hold Katalánsku**
+    - zážitky ze Španělské občanské války
+- **Farma zvířat**
+    - novela (krátký román) o pokrytectví totalitních režimů, které postup času překrucují původní revoluční ideály tak, že se nakonec sami stanou tím proti čemu bojovali
+    - alegorie na farmě (farmáři zlí, zvířata dobrá)
 ## Rozbor díla
+- druh: epika
+- žánr: román
+- téma: zachycení zcela zmanipulované a kontrolované společnosti, varování před komunismem
+- motivy: manipulace, pravda, lež, ztráta významu slov, jazyk
+- kompozice: chronologická, gradace ke konci, přímý vypravěč, kapitoly
+- jazyk: spisovný, hovorové výrazy výjimečně, neologismy a cizí slova (*newspeak, doublethink*)
+- časoprostor: Londýn v budoucnosti
+- postavy: Winston Smith, Julie (jeho milenka), O'Brian (člen strany), Charrington (vlastník obchodu), Syme (přepracovatel newspeaku), Parsons (soused), Velký bratr
 ## Děj
+- příběh:
+    - Winston je pracovník na ministerstvu pravdy a jednou v rámci dvou minut nenávisti spatří Julii a zamilují se do sebe
+    - oba zápasí s myšlenkami strany, vysoký představený O'Brian je pozve k sobě na sklenku, vypne obrazovku Velkého bratra a předá jim knihu Emanuela Goldstiena, celou zemí nenáviděného zrádce
+    - Winston si pronajme malý byt nad obchůdkem pana Charringtona, který je později udá
+    - Winston se dostává na ministerstvo lásky, kde je mučen k poslušnosti O'Brianem, jeho mučení skončí potom co si přeje, aby to, co dělají jemu, dělali Julii, vyjde ven a na lístek v restauraci napíše 2 + 2 = 5
+- myšlenky:
+    - důraz na jazyk jako prostředek k přemýšlení
+        - vláda se snaží jej přetvořit tak, aby nebylo možné mít antisystémové myšlenky
+        - ministerstvo pravdy lže, ministerstvo lásky mučí, ministerstvo hojnosti je neschopné postarat se o populaci a ministerstvo míru válčí
+        - *Válka je mír, Svoboda je otroctví, Nevědomost je síla*
+    - důraz na minulost
+        - vláda předělává minulost tak, aby měla vždycky pravdu
+        - nepohodlní lidé jsou *vaporizování*, po jejich smrti zmizí veškeré jejich záznami
+        - vláda přejmenovává věci
+    - důraz na kontrolu fyzična i psychična
+        - vláda neustále monitoruje každý pohyb lidí
+        - zavádí se ideopolicie a ideozločiny, které jsou tvrdě postihovány
+        - rodina udává vlastní členy
 
 # Čapek: Bílá nemoc
 ## Literárně-historický kontext
@@ -676,7 +777,7 @@ weight: 4
 - kompozice: předehra a 3 dějství 10 let po předehře
 - jazyk: spisovný (kromě služebné), krátké a rychlé dialogy, odborné výrazy
 - časoprostor: neurčeno, budoucnost
-- postavy: Alquist (stavitel robotů), Harry Domin (centrální ředitel R.U.R.) Helena Gloryová (jeho žena), Dr. Gall (ředitel fyziologického výzkumu), Nána (služebná) 
+- postavy: Alquist (stavitel robotů), Harry Domin (centrální ředitel R.U.R.) Helena Gloryová (jeho žena), Dr. Gall (ředitel fyziologického výzkumu), Nána (služebná)
 ## Děj
 - Helena přijde za Dominem, aby se dozvěděla více o továrně R.U.R., nevnímá rozdíl mezi lidmi a roboty a učí se o nich, nakonec se s Dominem vezmou
 - po deseti letech se roboti začnou využívat jako vojáci do válek, roboti si uvědomí, že nepotřebují lidi pro svou existenci a začnou vyvražďovat lidstvo
@@ -751,37 +852,163 @@ weight: 4
 
 # Fischl: Dvorní Šašci
 ## Literárně-historický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Fuks: Spalovač mrtvol
-## Literárně-historický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Dyk: Krysař
-## Literárně-historický kontext
-## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Skácel: Smuténka
-## Literárně-historický kontext
 - 2\. světová válka učinila ze Spojených států a SSSR definitivní supervelmoci
     - svět se dělí na spojence USA a SSSR
 - v roce 1948 dochází ke komunistickému převratu
 - v 50. letech je cenzura nejtvrdší, vykonstruované procesy vedli ke smrti mnoha nevinných lidí
 - v 60. letech postupně dochátzí k mírnému uvolnění a svoboda slova je větší
 - po pražském jaru v roce 1968 dochází k tvrdé cenzuře (normalizace)
-> [Česká literatura v době komunismu](/notes/school/czech/literature/literary-history/czech-literature-during-communism#poezie)
 - literatura se dělí na oficiální, samizdatovou a exilovou
     - oficiální literatura prochází tvrdou cenzurou a může být vydávána státními nakladatelstvími
     - samizdatová literatura neprochází cenzurou a vydává se tajně a nízkonákladově
         - Edice Petlice
     - exilová literatura v Československu nevychází a vychází v zaraničí
         - 68 publishers (Toronto), Index (Kolín nad Rýnem), Svědectví (Paříž)
+> [Česká próza v době komunismu](/notes/school/czech/literature/literary-history/czech-literature-during-communism#próza)
+- ***oficiální próza***
+    - *Julius Fučík*: Reportáž psaná na oprátce
+    - *Jan Drda*: Městečko na Dlani
+    - *Jan Otčenášek*: Romeo, Julie a tma
+    - *Ota Pavel*: Smrt krásných srnců
+    - *Bohumil Hrabal*: Postřižiny
+- ***Samizdatová literatura***
+    - *Ludvík Vaculík*: Český snář
+    - *Ivan Klíma*: Moje šílené století
+    - *Karel Pecka*: Malostranské humoresky
+- ***Exilová literatura***
+    - *Josef Škvorecký*: Hříchy pátera Knoxe
+    - *Arnošt Lustig*: Modlitba pro Kateřinu Horovitzovou
+    - *Milan Kundera*: Nesmrtelnost
+## Kontext autorovy tvorby
+- 1912 – 2006
+- vystudoval sociologii a právo
+- pracoval jako diplomat a později jako velvyslanec
+- je to žid a svou víru často promítá do svých děl
+- jeho díla jsou obvykle kratší a obsahují mnoho autobiografických prvků a osobních zkušeností
+- **Hebrejské melodie, Mrtvá ves**
+    - básnické sbírky
+- **Jeruzalémské povídky, Loučení s Jeruzalémem, Píseň o lítosti**
+    - povídky
+- **Hovory s Janem Masarykem**
+    - dokumentární próza
+## Rozbor díla
+- druh: epika
+- žánr: filosofický román (novela)
+- téma: síla charakteru, který trpěl, mstil se a nakonec odpustil
+- motivy: koncentrační tábor, nadpřirozeno, osud, pomsta, odpuštění, utrpení, víra, trauma
+- kompozice: chronologická a retrospektivní, časové skoky dopředu, přímý vypravěč
+- jazyk: spisovný, místy nespisovné výrazy a archaismy
+- časoprostor: blíže neurčeno, konec 2. světové války a doba po ní
+- postavy: David Kahan (soudce, vypravěč), Leo Reisenberg (lilipután), Max Himmelfarb (hvězdopravec), Adam Wahn (iluzionista), Hejtman Kohl, Heinrich Walz (vrah Wahnovi ženy)
+## Děj
+- čtyři přátelé jsou na dvoře Hejtmana Kohla v koncentračním táboře a pracují jako dvorní šašci, zažívají různé nepříjemnosti, ale tábr přežijí do osvobození
+- při osvobozování nešťastnou náhodou zemře Leo, ostatní se rozdělují
+- po nějaké době se Kahan vydává do Jeruzaléma, kde se setká s Max Himmelfarbem, vyprávějí, co zažili po táboře a dozvědí se, že v Jeruzálemě je i Adam Wahn, a že je po teroristickém útoku v nemocnici, navštíví ho a on jim vypráví svůj příběh
+- Adam se po válce chtěl pomstít muži, který zabil jeho manželku, pronásledoval jeho stopy až do Argentiny, kde jej unesl a chystal se ho zastřelit, ale neudělal a on nakonec sám spáchal sebevraždu
+- potom, co Max svůj příběh dovypráví, umírá
+
+# Fuks: Spalovač mrtvol
+## Literárně-historický kontext
+- viz [Fischl: Dvorní šašci](#literárně-historický-kontext-16)
+## Kontext autorovy tvorby
+- 1923 – 1994
+- zabýval se dějinami umění
+    - publikoval naučné články
+- zobrazuje úzkost, strach, bezpráví a izolaci
+- hrdinové jsou křehcí, bezbranní
+- má bohatou symboliku a imaginativnost
+- **Pan Theodor Mundstock**
+    - román
+    - pan Mundstock se absurními způsoby ze strachu připravuje na odjezd do koncentračního tábora
+- **Mí černovlasí bratři**
+    - povídky zz doby války
+- **Vévodkyně a kuchařka**
+    - rozsáhlý román o životě ve Vídni na konci 19. století
+## Rozbor díla
+- druh: epika
+- žánr: román (novela)
+- téma: radikalizace slabého charakeru do extrémní míry
+- motivy: pohřeb, rakev, krematorium, smrt, slabost, Hitler, nacismus, antisemitismus
+- kompozice: chronologická, časové skoky
+- jazyk: spisovný, místy archaismy a knižní jazyk (i v promluvách), často přímá řeč
+- časoprostor: Praha, Československo kolem roku 1938 – 39
+- postavy: Karl Kopfrkingl (Roman), Marie Kopfrkinglová (Lakmé, jeho žena), Milivoj (jejich syn), Zina (jejich dcera), Willi Reinke, zaměstnanci krematoria, Strauss, Dvořák 
+## Děj
+- Karl nejprve s rodinou jdou do zoo a panoptika
+    - příběhy na úvodu nejsou obsahově tolik podstatné, nastiňují jen situaci a přemýšlení, většina důležitého příběhu se odehrává až ke konci díla
+- Karl je postupně schůzkami a úkoly radikalizován přítelem Willim Reinkem, zapřísáhlým nacistou, zjistí, že jeho žena je židovka a děti dle Norymberských zákonů také, aby se mohl účastnit schůzek dále, navrhne, že se s manželkou rozvede
+- později začne mít halucinace a tibetském mnichovi, zabije ze soucitu manželku (jako rozvedené židovka by se jí nevedlo nijak dobře) a syna (kvůli původu ho nepřijmou na gymnázium a jako slabý a citlivý hoch by neměl v říši šanci), pokusí se zabít i dceru, ale těsně před tím se zblázní
+
+# Dyk: Krysař
+## Literárně-historický kontext
+- 1890 – 1918
+- ke konci 19. století se české země staly nejprosperující částí Rakouska-Uherska
+    - nejhustší dopravní síť, největší zastoupení průmyslu, eliminace negramotnosti, vyspělé technické vysoké školství
+- po Evropě se šíří antisemitismus
+    - v českých zemích kauza *hilsneriáda* (neprávem odsouzený žid)
+- v roce 1914 se rozpoutá 1. světová válka
+    - do popředí československé zahraniční i domácí politiky se dostává T. G. M.
+> [Česká literatura přelomu 19. a 20. stol.](/notes/school/czech/literature/literary-history/czech-modern-literature/)
+- v české literatuře se literatura rozděluje na tři významnější skupiny
+    - ***Manifest české moderny***
+        - podepsalo ho několik autorů v 90. letech 19. stol.
+        - vyjadřuje odpor k akademismu a přetvářce, zdůrazňuje individualitu
+        - *Josef Svatopluk Machar*: Confiteor, Tristium Vindobona
+            - básnické sbírky
+        - *Otokar Březina*: Svítání na západě, Stavitelé chrámu
+            - básnické sbírky
+        - *Antonín Sova*: Květy intimních nálad, Soucit a vzdor
+            - básnické sbírky
+        - *František Xaver Šalda*
+            - první skutečně významný literární vědec a kritik
+    - ***Dekadence***
+        - nepodepsali manifest české moderny
+        - psali do časopisu *Moderní revue*
+        - *Karel Hlaváček*: Mstivá kantiléna*
+            - básnická sbírka s realistickými až naturalistickými pasážemi
+        - *Jiří Karásek ze Lvovic*: Sexus necans
+            - basnická sbírka o homosexualitě
+    - ***Anarchističtí buřiči***
+        - nehlásili se k žádné skupině
+        - shromažďovali se kolem časopisu *Omladina*
+        - vedli bohémský život
+        - *Stanislav Kostka Neumann*: Rudé zpěvy
+            - první proletářský básník
+        - *Fráňa Šrámek*: Stříbrný vítr
+        - *František Gellner*: Po nás ať přijde potopa
+        - *Petr Bezruč*: Slezské písně
+## Kontext autorovy tvorby
+- 1877 – 1931
+- studoval práva
+- pracoval jako novinář
+- často hovořil o nutnosti pokračování v díle předků (znovu probouzel vlastenectví)
+- jeho tvorba je tragikomickým pojetím života, plná sebeironie a subjektivismu
+- **Okno, Lehké a těžké kroky, Poslední rok, Anebo**
+    - básnická tetralogie vznikající za války a po ní
+    - vlastenecké motivy, pesimismus
+- **A porta inferi**
+    - básnická sbírka s motivy vzdoru, síly, rozčarování z nemožností uskutečňovat ideály
+- **Milá sedmi loupežníků**
+    - poema o zradě, pomstě, smrti a vzdoru
+- **Marnosti**
+    - básně s vlasteneckou tématikou
+## Rozbor díla
+- druh: epika
+- žánr: novela
+- téma: láska a pomsta
+- motivy: 
+- kompozice: chronologická, gradace ke konci, dělené na kapitoly, nepřímý vypravěč
+- jazyk: spisovný s archaickými a knižními výrazy, německá jména postav
+- časoprostor: Hammeln (Sasko), pověst ze 13. století
+- postavy: Krysař, Agnes (jeho milenka), Kristián (její svůdce), Sepp Jörgen (chudý rybář), Strumm a Frosch (konšelé)
+## Děj
+- Krysař přichází do Hammeln, aby vyhnal z města krysy, za práci mu konšelé odmítnou zaplatit, brzy potká krásnou Agnes, oba se do sebe zamilují, ale místní hoch Kristián ji svede a zplodí s ní dítě
+- těhotná Agnes ze žalu páchá sebevraždu skokem do propasti a v reakci na to Krysař vábí celé město, všichni skáčou do propasti až na rybáře Seppa Jörgena, který na vábení reaguje až následující den, ale vytrhne ho plačící dítě
+
+# Skácel: Smuténka
+## Literárně-historický kontext
+- viz [Fischl: Dvorní šašci](#literárně-historický-kontext-16)
+> [Česká poezie v době komunismu](/notes/school/czech/literature/literary-history/czech-literature-during-communism#poezie)
 - ***Skupina 42***
     - psali mezi lety 1942 – 1948
     - odmítali surrealismus
@@ -813,8 +1040,8 @@ weight: 4
     - pokorý vztah k životu
 ## Rozbor díla
 - druh: lyrika
-- žánr: sociální balady
-- téma: celkový pohled na tragický dělnický svět, chudobu
-- motivy: smrt, těžkost bytí, láska, dělník, topič, oči, srdce
-- básnické prostředky: nepravidelný rytmus, volný verš (málo vyjímek), místy absolutní rým, strohé krátké texty
+- žánr: krátké verše
+- téma: přímý odraz autorových pocitů
+- motivy: jaro, čas, křidlo, smrt, sníh, náboženství, příroda, úzkost
+- básnické prostředky: nepravidelný rytmus, volný verš (málo vyjímek), místy absolutní rým, strohé surové krátké texty, přirovnání, neologismy (*smuténka*)
 - jazyk: spisovný
