@@ -570,11 +570,99 @@ weight: 4
 
 # Rolland: Petr a Lucie
 ## Literárně-historický kontext
+- koncem první světové války končí věk monarchií a v Evropě vzniká cel řada republik
+- Rusko prochází socialistickou revolucí
+- v Itálii a Německu se dostává do popředí nacismus
+> [Světová meziválečná literatura](/notes/school/czech/literature/literary-history/literature-between-wars/)
+- literatura rozvijí psychologii postav a není tak zdlouhavá
+- ***Ztracená generace***
+    - spisovatelé píšící po první světové válce
+    - jsou to relativně mladí autoři, kteří se účastnili bojů a po válce hledají svoje místo ve spolenosti
+    - častými tématy je zklamání a skepse
+    - *Ernest Hemingway*: Stařec a moře
+        - novela o starci, který loví ryby
+        - metoda ledovce (zapsáno pouze to nejnutnější, zbytek je buď evidentní nebo na interpretaci)
+    - *Francis Scott Fitzherald*: Velký Gatsby
+        - novela o nešťastném boháči, který touží po lásce
+        - kritika aristokracie
+- ***Pražští němci***
+    - německy píšící spisovatelé žijící v Praze
+    - *Franz Kafka*: Proces
+        - absurdní povídka o Josefu K., který je obžalován a odsouzen k smrti za neznámý zločin
+- ***Francie***
+    - *Antoine de Saint-Exupéry*: Malý princ
+        - filosofická pohádka o hledání smyslu života
+- ***Německo***
+    - *Erich Maria Remarque*: Na západní frontě klid
+        - román o kontrastu mezi chápáním války otce a syna, propagandě
+- ***Anglie***
+    - *James Joyce*: Odysseus
+        - román, který se odehrává během jediného dne na začátku 20. století
+        - hlavní hrdina prožívá totéž, co Odysseus během deseti let
+- ***Rusko***
+    - *Bors Pasternak*: Doktor Živago
+        - dlouhý román o doktorovi, který prožívá bolševickou revoluci
+        - neideologické stvárnění doby, velký objem postav
 ## Kontext autorovy tvorby
+- 1866 – 1944
+- kromě literatury se věnoval hudebním dějinám a později v životě psal hudebně historické knihy
+- získal Nobelovu cenu za literaturu
+- byl to socialista, ateista, pacifista a idealista
+- **Jan Kryštof**
+    - románová epopej o slavném německém hudebníkovi
+- **Dobrý člověk ještě žije**
+    - humorný román o venkovanovi z doby francouzské renesance
+- napsal několik životopisů
 ## Rozbor díla
+- druh: epika
+- žánr: novela (krátky román)
+- téma: naivní láska dvou mladých lidí na pozadí světové války
+- motivy: náboženství, ateismus, válka, utrpení, smrt, láska, citovost, ptáci, chudoba
+- kompozice: chronoilogická, kapitoly, přímý vševidoucí vypravěč, málo děje a více prostoru pro úvahy
+- jazyk: spisovný, mimořáně bohatý (archaismy, knížní výrazy, přechodníky), častá přirovnání, děj se posouvá také formou dialogu (delší pasáže kratších výpovědí), vypravěč interaguje se čtenářem (rečnické otázky)
+- časoprostor: Paříž, ke konci světové války (leden až Velikonoce)
+- postavy: Petr Aubier, jeho rodiče, Filip (jeho Bratr), jeho přátelé, Lucie
 ## Děj
+- Petr a Lucie se několikrát setkávají než se konečně osloví, poté se častěji scházejí a zamilují se do sebe, jejich láska se silněji manifestuje na dalších schůzkách a začnou snít o společné nereálné budoucnosti, rozhodnou se sobě zaslíbit před Velkým přítelem (Kristem) v kostele na Velký pátek, kde je při bombardování zabije padající kostelní sloup
+- děj se posouvá vcelku pomalu a značná část prostoru je věnována projektování autorova pacifismu nejen do promluv postav, ale taky do projevu vypravěče
 
 # Shaw: Pygmalion
+## Literárně-historický kontext
+- viz [Rolland: Petr a Lucie](#literárně-historický-kontext-8)
+## Kontext autorovy tvorby
+- 1856 – 1950
+- působil jako esejista a kritik, je laureátem Nobelovy ceny
+- byl jedním ze zekladatelů fabiánské společnosti, která později stála u zrodu labouristické strany v Británii
+- je zakladatelem diskusní komedie
+    - ve hře nastiňuje sociální problematiku, kterou pak hrou řeší a nahlíží na ni z různých úhlů pohledu
+    - v tištěných vydáních přidává předmluvy nebo doslovy, které jsou vlastně esejemi
+- napsal pět neúspěšných románů a pak přešel na dramata
+- **Caesar a Kleopatra**
+    - dramatická parodie tragédie Antonius a Kelopatra Williama Shakespeara
+    - Caesar je učitelem naivní a nerozvážné Kleopatry a vychovává z ní dobrou královnu, po svém odjezdu se ale Kleopatra bláznivě zamiluje do Marca Antonia
+- **Živnost paní Warrenové**
+    - satirická hra o kuplířství
+    - dcera majitelky luxusních veřejných domů zpřetrhá pouta s matkou a živý se vlastní prací
+- **Svatá Jana**
+    - historická hra o Johance z Arku, která zemře na hranici, ale přežívá dál v srdcích občanů a nakonec se před ní sklání i moc, zjevuje se potom králi Karlu VII. ve snu
+    - vrchol tvorby
+## Rozbor díla
+- druh: drama
+- žánr: komedie
+- téma: vliv vystavení do jiné společenské vrstvy na celkové chování člověka, změna lidského charakteru
+- motivy: 
+- kompozice: 5 dějství, chronologická, předmluva a doslov, podrobné scénické poznámky
+- jazyk: spisovný i zcela hovorový a jemně vulgární jazyk, jazyková komika
+- časoprostor: Londýn na počátku 20. století
+- postavy: Líza Doolittleová (květinářka), Alfred Doolittle (její otec), Henry Higgins (profesor fonetiky), paní Higginsová (jeho matka), paní Pearceová (jeho komorná), Pickering (plukovník), paní Ensford-Hillová, Klára (její dcera), Freddy (její syn)
+## Děj
+1. akt: Líza se potkává s Higginsem a Pickeringem, v řeči zmíní, že by z ní mohl udělat vévodkyni, Pickering se vsadí, že to za půl roku nezvládne, všichni se potkají v Covent Garden
+2. akt: Líza jde k Higginsovi a Pickeringovi domluvit si vyučování, Higgins ji příjme a začne s výukou, Lízin otec si od Higginse vezme peníze, Líza začne dělat asistentku
+3. akt: Líza se poprvé dostává do společnosti na koktejlu u paní Higginsové, relativně jí to jde, paní Higginsové se nelíbí, jak se k Líze její syn chová
+4. akt: Líza jde spolu s Higginsem a Pickeringem na velkou recepci po půl roce výuky a ukáže, jestli se umí chovat jao dáma, všichni ji tam považují za skrytou maďarskou princeznu, Pickering s Higginsem se radují, ale Líze to ndají nijak najevo, ta se naštve a přes noc uteče k paní Higginsové a potoulává se po Londýně s Freddymß
+5. akt: Pickering a Higgins se schánějí po Líze, oslovují i policii, setkají se u paní Higginsové a kromě toho tam dorazí také Lízin otec, který se bude ženit a prosí přítomné o jejich přítomnost na svatbě, Líza a Higgins se mezi sebou pohádají a vše si vyjasní 
+
+# Camus: Cizinec
 ## Literárně-historický kontext
 - od roku 1945 po současnost
 - po druhé světové válce je nataven nový světový řád a začíná studená válka mezi USA a SSSR
@@ -613,13 +701,6 @@ weight: 4
     - *Umberto Eco*: Jméno růže
         - román o nalezení středověkého rukopisu, ve kterém si mnich vzpomíná na svůj život, kde vyšetřuje vraždy v souvislosti s údajným nalezením druhého dílu Aristotelovi Poetiky
 ## Kontext autorovy tvorby
-## Rozbor díla
-## Děj
-
-# Camus: Cizinec
-## Literárně-historický kontext
-- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
-## Kontext autorovy tvorby
 - 1913 – 1960
 - pracoval jako spisovatel, novinář a filosof
 - ve svém díle se zabývá ateistickým existencialismem
@@ -649,14 +730,14 @@ weight: 4
 
 # Beckett: Čekání na Godota
 ## Literárně-historický kontext
-- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
+- viz [Camus: Cizinec](#literárně-historický-kontext-10)
 ## Kontext autorovy tvorby
 ## Rozbor díla
 ## Děj
 
 # Orwell: 1984
 ## Literárně-historický kontext
-- viz [Shaw: Pygmalion](#literárně-historický-kontext-9)
+- viz [Camus: Cizinec](#literárně-historický-kontext-10)
 ## Kontext autorovy tvorby
 - 1903 – 1950
 - pracoval v několika oblastech a stal se rázným antikomunistou
