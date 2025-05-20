@@ -732,8 +732,25 @@ weight: 4
 ## Literárně-historický kontext
 - viz [Camus: Cizinec](#literárně-historický-kontext-10)
 ## Kontext autorovy tvorby
+- 1906 – 1989
+- živil se jako spisovatel
+    - byl dobře finančně zajištěn po otci
+    - kvůli zdravotním důvodu se nemohl věnovat jinému zaměstnání
+- získal Nobelovu cenu
+- psal primárně dramata, ale napsal i několik novel, kratších próz, esejí a básní
+- jeho dramata jsou absurdní a je třeba je za to považovat a nesnažit se v nich hledat hlubší význam
 ## Rozbor díla
+- druh: absurdní drama (existenciální)
+- žánr: tragikomedie
+- téma: neexistuje
+- motivy: víra, smrt, myšlení, nadčasovost, strom, repetice
+- kompozice: 2 dějství, nejasná návaznost (v každém zachována trojí jednota)
+- jazyk: spisovný i zcela hovorový a místy vulgární
+- časoprostor: polní cesta se stromem, jinak neurčeno
+- postavy: Vladimír, Estragon, Pozzo, Lucky, jinoch
 ## Děj
+1. akt: Vladimír a Estragon společně čekají na Godota a hledají způsoby jak trávit čas, nejprve si jen povídají, následně přemýšlí nad sebevraždou, pak přemýšlejí a zpívají, přijde z nimi Pozzo a Lucky, jeho *de facto* otrok, vedou spolu rozhovor a Pozzo s Luckym nakonec odcházejí, Vladimír s Estragonem dál čekají, přijde za nimi jinoch, který jim oznámí, že Godot dne nepřijde, ale že zítra už určitě ano a Vladimír s Estragonem odcházejí (nepohnou se)
+2. akt: Vladimír s Estragonem opět čekají, v jiném pořadí zkouší trávit čas, opět k nim přijde Pozzo a Lucky, jenže Pozzo oslepl a Lucky oněmněl, jen chvíli se společně baví než Pozzo s Luckym znovu odejdou, přichází jinoch, aby jim oznámil, že Godot dnes opět nepřijde, ale zítra už určitě, Vladimír s Estragonem zkouší spáchat sebevraždu, ale provaz se jim přetrhne, domluví se, že jestli následující den Godot opět nepřijde, spáchají sebevraždu
 
 # Orwell: 1984
 ## Literárně-historický kontext
